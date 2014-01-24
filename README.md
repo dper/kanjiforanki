@@ -14,10 +14,23 @@ Using this script, or rather, by modifying this script, you can customize flash 
 
 Dependencies
 ============
-The code here is under the MIT License but to make the script work, some more restrictive dependencies are needed.  Download the following files and put them in the same directory as this script.
+The code here is under the MIT License but to make the script work, some more restrictive dependencies are needed.  Download the following two files and put them in the same directory as this script.  They are both Creative Commons Attribution-Share Alike 3.0 licensed.
 
-* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.  CC-BY 3.0.
-* <http://ftp.monash.edu.au/pub/nihongo/edict.gz>  CC-BY 3.0
+The kanji dictionary is Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
+
+* <http://www.csse.monash.edu.au/~jwb/kanjidic2/>.
+* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.
+
+The Japanese word dictionary is also Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
+
+* <http://www.csse.monash.edu.au/~jwb/edict.html>.
+* <http://ftp.monash.edu.au/pub/nihongo/edict.gz>.
+
+The word frequency list is public domain and is included with the source.
+
+* <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>.
+* <http://www.bcit-broadcast.com/monash/wordfreq.README>.
+* <http://ftp.monash.edu.au/pub/nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
 
 Sources
 =======
@@ -26,4 +39,3 @@ The kanji lists themselves are published by the Ministry of Education (MEXT) in 
 
 * <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm>.  Elementary school kanji.
 * <http://www.imabi.net/joyokanjilist.htm>.  Elementary and junior high school kanji.
-* <http://www.bcit-broadcast.com/monash/wordfreq.README>.  This is a public domain word frequency list.
