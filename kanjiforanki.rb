@@ -584,31 +584,6 @@ class Kanjidic2
 		end
 		return kanjilist
 	end
-
-	# Returns the nodes of all kanji at the specified JLPT level.
-	def get_jlpt (level)
-		verbose 'Filtering kanjidic2 for JLPT level ' + level + ' ...'
-		kanjilist = []
-
-		# The JLPT was renumbered in 2010.  The old kanjidic2 file doesn't
-		# have updates, so we manually adjust.
-		case level
-		when '3'
-			raise 'The N3 kanji list is not yet specified.  Cannot make cards.'
-		when '4'
-			level = '3'
-		when '5'
-			level = '4'
-		end
-
-		@doc.xpath('kanjidic2/character').each do |node|
-			# If it's the right grade keep it.
-			if node.css('misc jlpt').text == level
-				kanjilist << Kanji.new(node)
-			end
-		end
-		return kanjilist
-	end
 end
 
 # For each Kanji, find several examples and add them to it.
@@ -650,13 +625,9 @@ def find_example_frequencies (kanjilist)
 	verbose ' -      Total = ' + total.to_s
 end
 
-def make_cards (card_options)
-	case card_options['card_type']
-	when 'grade'
-		kanjilist = $kanjidic2.get_grade card_options['grade']
-	when 'jlpt'
-		kanjilist = $kanjidic2.get_jlpt card_options['level']
-	end
+def make_deck	
+	#TODO Load the kanji list.
+	kanjilist = ''
 	
 	lookup_examples kanjilist
 	odg_maker = Odg_maker.new(kanjilist, card_options)
