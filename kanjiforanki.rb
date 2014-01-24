@@ -1,5 +1,4 @@
-# encoding: utf-8
-#
+# coding: utf-8
 #!/usr/bin/ruby
 #
 # == NAME
@@ -32,9 +31,7 @@
 # == AUTHOR
 #   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
 
-require 'optparse'
-require 'ostruct'
-require 'rdoc/usage'
+require 'benchmark'
 require 'nokogiri'
 require 'singleton'
 
