@@ -12,6 +12,13 @@ Kanji are Japanese characters.  There are several thousand in existence.  Of tho
 
 Using this script, or rather, by modifying this script, you can customize flash card generation and produce cards you feel are particularly efficient for your studying needs.  The default settings are ones the author finds useful, so presumably you can use the script as-is, should you so desire.
 
+Dependencies
+============
+The code here is under the MIT License but to make the script work, some more restrictive dependencies are needed.  Download the following files and put them in the same directory as this script.
+
+* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.  CC-BY 3.0.
+* <http://ftp.monash.edu.au/pub/nihongo/edict.gz>  CC-BY 3.0
+
 Sources
 =======
 
@@ -19,3 +26,4 @@ The kanji lists themselves are published by the Ministry of Education (MEXT) in 
 
 * <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm>.  Elementary school kanji.
 * <http://www.imabi.net/joyokanjilist.htm>.  Elementary and junior high school kanji.
+* <http://www.bcit-broadcast.com/monash/wordfreq.README>.  This is a public domain word frequency list.

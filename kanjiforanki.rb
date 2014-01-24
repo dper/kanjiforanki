@@ -12,43 +12,23 @@
 #                    [ -a | --all ]
 #
 # == DESCRIPTION
-# Makes a pdf of the kanji for the specified grade level (1 through 9).
-# Or, makes a pdf of the kanji for the specified JLPT level (N1, N2, N4, or
-# N5).
-#
-# The JLPT was revised in 2010, and the new N3 level was added between what
-# is now N2 and N4.  No kanji list was released.  This is unfortunate, but in
-# any case, the best we can do is to keep the old lists as they are.  This
-# script simply uses the old lists -- that means you can't make flashcards for
-# N3, and about half of the flashcards generated for N2 are actually part of
-# the N3 test.  If this is a problem for you, consider using the elementary
-# school grade level flashcards.  Roughly speaking, the N3 tests 1st-4th grade.
-#
+# Takes a list of kanji as input and outputs a file that can be imported into
+# Anki and used to study the given kanji.
+# 
 # This script depends on several files having proper formatting located
 # in the same directory.  See COPYING for file source information.
 #
-# To make flashcards, use one of --grade, --jlpt, and --all.
-#
 # == OPTIONS
-#  -h,--help::			Show help.
-#  -v,--verbose::		Show verbose output.
-#  -l,--letter::		Use letter paper (default: A4).
-#  -g,--grade=GRADE::	Desired grade level.
-#  -j,--jlpt=JLPT::		Desired JLPT level (1, 2, 4, or 5).
-#  -a,--all::			Make all possible flashcards (time consuming).
+#  -h,--help::		Show help.
+#  -l,--letter::	Use letter paper (default: A4).
+#  -i,--input::	The input kanji file.
 #
 # == EXAMPLES
-#   This is how to generate flashcards for elementary school 3rd grade.
-#     cardmaker.rb --grade 3
-#
-#	This is how to generate flashcards for JLPT N4 on size letter paper.
-#	  cardmaker.rb --letter --jlpt 4
-#
-#	This is how to generate all possible flashcards.  Possibly time consuming.
-#	  cardmaker.rb --all
+#   This is how to generate flashcards for the contents of "kanji.txt".
+#     cardmaker.rb --input kanji.txt
 #
 # == AUTHOR
-#   Douglas P Perkins - https://dperkins.org - https://identi.ca/dper
+#   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
 
 require 'optparse'
 require 'ostruct'
@@ -56,7 +36,7 @@ require 'rdoc/usage'
 require 'nokogiri'
 require 'singleton'
 
-$verbose = false
+$verbose = true
 
 # Displays an error message if the verbose tag is specified.
 def verbose (message)
