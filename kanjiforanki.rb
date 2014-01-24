@@ -669,64 +669,17 @@ end
 options = OpenStruct.new()
 opts = OptionParser.new()
 opts.on('-h', '--help', 'Display the usage information') {RDoc::usage}
-opts.on('-v', '--verbose', 'Verbose output') { options.verbose = true }
-opts.on('-a', '--all', 'Make all') { options.all = true }
-opts.on('-l,' '--letter', 'Letter size paper') { options.letter = true }
-opts.on('-g', '--grade', "=GRADE",
-        'Grade level') {|argument| options.grade = argument}
-opts.on('-j', '--jlpt', "=JLPT",
-		'JLPT level') {|argument| options.jlpt = argument}
+opts.on('-i', '--input', '=INPUT", "Input') { |argument| options.input = argument }
 opts.parse! rescue RDoc::usage('usage')
 
-if options.verbose then $verbose = true end
-
-actions = 0
-if options.grade then actions += 1 end
-if options.jlpt then actions += 1 end
-if options.all then actions += 1 end
-
-if actions == 1
+if options.input
 	$edict = Edict.new
 	$wordfreq = Wordfreq.new
 	$styler = Styler.new
 	$kanjidic2 = Kanjidic2.new
 
-	card_options = {}
-	if options.letter
-		card_options['paper'] = 'letter'
-	else
-		card_options['paper'] = 'a4'
-	end
+	# Do stuff here.
 
-	if options.grade
-		card_options['card_type'] = 'grade'
-		card_options['grade'] = options.grade
-		make_cards card_options
-	elsif options.jlpt
-		card_options['card_type'] = 'jlpt'
-		card_options['level'] = options.jlpt
-		make_cards card_options
-	elsif options.all
-		make_cards ({'card_type' => 'grade', 'grade' => '1', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'grade', 'grade' => '1', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'grade', 'grade' => '2', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'grade', 'grade' => '2', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'grade', 'grade' => '3', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'grade', 'grade' => '3', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'grade', 'grade' => '4', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'grade', 'grade' => '4', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'grade', 'grade' => '5', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'grade', 'grade' => '5', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'grade', 'grade' => '6', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'grade', 'grade' => '6', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '1', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '1', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '2', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '2', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '4', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '4', 'paper' => 'letter'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '5', 'paper' => 'a4'})
-		make_cards ({'card_type' => 'jlpt', 'level' => '5', 'paper' => 'letter'})
 	end
 else
 	RDoc::usage()

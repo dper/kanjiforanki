@@ -26,12 +26,6 @@ The Japanese word dictionary is also Creative Commons Attribution-Share Alike 3.
 * <http://www.csse.monash.edu.au/~jwb/edict.html>.
 * <http://ftp.monash.edu.au/pub/nihongo/edict.gz>.
 
-The word frequency list is public domain and is included with the source.
-
-* <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>.
-* <http://www.bcit-broadcast.com/monash/wordfreq.README>.
-* <http://ftp.monash.edu.au/pub/nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
-
 Sources
 =======
 
@@ -39,3 +33,9 @@ The kanji lists themselves are published by the Ministry of Education (MEXT) in 
 
 * <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm>.  Elementary school kanji.
 * <http://www.imabi.net/joyokanjilist.htm>.  Elementary and junior high school kanji.
+
+The word frequency list is public domain and is included with the source.
+
+* <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>.
+* <http://www.bcit-broadcast.com/monash/wordfreq.README>.
+* <http://ftp.monash.edu.au/pub/nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
