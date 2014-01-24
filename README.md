@@ -39,3 +39,5 @@ The word frequency list is public domain and is included with the source.
 * <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>.
 * <http://www.bcit-broadcast.com/monash/wordfreq.README>.
 * <http://ftp.monash.edu.au/pub/nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
+
+The source code here is a modification of some code I wrote in 2011 to make paper flash cards for elementary school kanji.  Back then I didn't have a smart phone with SRS, and regardless, paper flash cards have their own advantages. <https://dperkins.org/arc/2011-03-22.kanji%20flashcards.html>

@@ -5,12 +5,7 @@
 # kanjiforanki.rb
 #
 # == USAGE
-#  ./kanjiforanki.rb [ -h | --help ]
-#                    [ -v | --verbose ]
-#                    [ -l | --letter ]
-#                    [ -g | --grade ] grade level
-#                    [ -j | --jlpt ] jlpt level
-#                    [ -a | --all ]
+# ./kanjiforanki.rb
 #
 # == DESCRIPTION
 # Takes a list of kanji as input and outputs a file that can be imported into
@@ -19,21 +14,10 @@
 # This script depends on several files having proper formatting located
 # in the same directory.  See COPYING for file source information.
 #
-# == OPTIONS
-#  -h,--help::		Show help.
-#  -l,--letter::	Use letter paper (default: A4).
-#  -i,--input::	The input kanji file.
-#
-# == EXAMPLES
-#   This is how to generate flashcards for the contents of "kanji.txt".
-#     cardmaker.rb --input kanji.txt
-#
 # == AUTHOR
 #   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
 
-require 'benchmark'
 require 'nokogiri'
-require 'singleton'
 
 $verbose = true
 
@@ -300,272 +284,8 @@ class Kanji
 	end
 end
 
-# Given a bunch of kanji, produces an odg flashcard file.
-class Odg_maker
-	Cards_per_page = 12   # This must match blankcard.fodg.
-	Max_reading_size = 55 # Max character width for onyomi and kunyomi lines.
-	Max_meaning_size = 50 # Max character width for the meaning line.
-
-	# Creates an odg maker for this kanjiset.  The options should be a hash
-	# with entries for:
-	# 'type' => 'jlpt' or 'grade'
-	# --- If 'type' => 'jlpt', then 'level' => '1', '2', '4', or '5'
-	# --- If 'type' => 'grade', then 'grade' => '1' ... '9'
-	# 'paper' => 'a4' or 'letter'
-	def initialize (kanjilist, card_options)
-		@kanjilist = kanjilist
-		@card_type = card_options['card_type']
-		@paper = card_options['paper']
-
-		case @paper
-		when 'a4' then blankcard = 'blankcard.a4.fodg' 
-		when 'letter' then blankcard = 'blankcard.letter.fodg'
-		else raise 'Invalid paper.'
-		end
-			
-		@doc = Nokogiri::XML(open(Script_dir + '/' + blankcard), nil, 'UTF-8')
-		drawing = @doc.at_xpath '//office:body/office:drawing'
-
-		# The template pages.
-		@front = drawing.at_xpath './draw:page[@draw:name = "Front"]'
-		@back = drawing.at_xpath './draw:page[@draw:name = "Back"]'
-		@license = drawing.at_xpath './draw:page[@draw:name = "License"]'
-
-		case @card_type
-		when 'jlpt'
-			@level = card_options['level']
-			if @level.to_i > 5 then raise 'Invalid level: ' + @level + '.' end
-			if @level.to_i < 1 then raise 'Invalid level: ' + @level + '.' end
-		when 'grade'
-			@grade = card_options['grade']
-			if @grade.to_i > 9 then raise 'Invalid grade: ' + @grade + '.' end
-			if @grade.to_i < 1 then raise 'Invalid grade: ' + @grade + '.' end
-		else
-			raise "Error: Type must be 'jlpt' or 'school'."
-		end
-	end
-
-	# Writes the file.	
-	def write_file
-		verbose 'Writing the fodg file ...'
-
-		ending = '.' + @paper + '.fodg'
-		case @card_type
-		when 'grade'
-			dir = Script_dir + '/grade/'
-			path = dir + 'flashcards.grade_' + @grade.to_s + ending
-		when 'jlpt'
-			dir = Script_dir + '/jlpt/'
-			path = dir + 'flashcards.jlpt_' + @level.to_s + ending
-		end
-
-		File.open(path, 'w') do |file|
-			@doc.write_xml_to file
-		end
-	end
-
-	# Writes the actual literal where L is.
-	def write_literal (card, literal)
-		query = "./draw:frame/svg:title[text()='literal']"
-		title = card.at_xpath query
-		node = title.parent.at_xpath './draw:text-box/text:p'
-		new_node = node.clone()
-		new_node.content = literal
-		node.replace new_node
-	end
-
-	# Writes the (JLPT or grade) level where L is.
-	def write_level (card, literal)
-		if literal != ' '
-			case @card_type
-			when 'grade'
-				if Integer(@grade) <= 6
-					level = '小' + @grade
-				else
-					level = 'G' + @grade
-				end
-			when 'jlpt'
-				level = 'N' + @level
-			end
-		end
-
-		query = "./draw:frame/svg:title[text()='level']"
-		title = card.at_xpath query
-		node = title.parent.at_xpath './draw:text-box/text:p'
-		new_node = node.clone()
-		new_node.content = level
-		node.replace new_node
-	end
-
-	# Writes the actual stroke count where S is.
-	def write_stroke_count (card, stroke_count)
-		query = "./draw:frame/svg:title[text()='stroke_count']"
-		title = card.at_xpath query
-		node = title.parent.at_xpath './draw:text-box/text:p'
-		new_node = node.clone()
-		new_node.content = stroke_count
-		node.replace(new_node)
-	end
-
-	# Makes the front of the page.
-	def make_front (page_kanji)
-		page_front = @front.dup
-		
-		page_kanji.each_with_index {|kanji, i|
-			card_query = "./draw:g/svg:title[text()='front" + (i + 1).to_s + "']"
-			card = page_front.at_xpath(card_query).parent
-			write_literal(card, kanji.literal)
-			write_level(card, kanji.literal)
-			write_stroke_count(card, kanji.stroke_count)		
-		}
-
-		return page_front
-	end
-
-	# Writes the actual English word where ENGLISH is.
-	def write_english (card, english)
-		if not english then english = ' ' end
-		query = "./draw:frame/svg:title[text()='english']"
-		title = card.at_xpath(query)
-		node = title.parent.at_xpath('./draw:text-box/text:p')
-		new_node = node.clone()
-		new_node.content = english.upcase
-		node.replace(new_node)
-	end
-
-	# Writes the actual meanings where MEANING is.
-	def write_meaning (card, meanings)
-		s = ''
-
-		meanings.each do |meaning|
-			if s.size + meaning.size > Max_meaning_size
-				s += '…'
-				break
-			end
-			s += meaning + ' - '
-		end
-		s.chomp!(' - ')
-		if s.size == 0 then s = ' ' end
-
-		query = "./draw:frame/svg:title[text()='meaning']"
-		title = card.at_xpath(query)
-		node = title.parent.at_xpath('./draw:text-box/text:p')
-		new_node = node.clone()
-		new_node.content = s
-		node.replace(new_node)
-	end
-
-	# Writes the actual onyomi readings where ONYOMI is.
-	def write_onyomi (card, onyomis)
-		s = ''
-		
-		onyomis.each do |onyomi|
-			if s.size + onyomi.size > Max_reading_size
-				s += '…'
-				break
-			end
-			s += onyomi + '　'
-		end
-		if s.size == 0 then s = ' ' else s.chomp!('　') end
-
-		query = "./draw:frame/svg:title[text()='onyomi']"
-		title = card.at_xpath query
-		node = title.parent.at_xpath './draw:text-box/text:p'
-		new_node = node.clone
-		new_node.content = s
-		node.replace new_node
-	end
-
-	# Writes the actual kunyomi readings where KUNYOMI is.
-	def write_kunyomi (card, kunyomis)
-		s = ''
-		
-		for kunyomi in kunyomis
-			if s.size + kunyomi.size > Max_reading_size
-				s += '…'
-				break
-			end
-			s += kunyomi + '　'
-		end
-		if s.size == 0 then s = ' ' else s.chomp!('　') end
-
-		query = "./draw:frame/svg:title[text()='kunyomi']"
-		title = card.at_xpath query
-		node = title.parent.at_xpath './draw:text-box/text:p'
-		new_node = node.clone
-		new_node.content = s
-		node.replace new_node
-
-	end
-
-	# Writes the actual examples where EXAMPLES is.
-	def write_examples (card, examples)
-		lines = []
-
-		examples.each do |ex|
-			lines << ex.word + ' (' + ex.kana + ') - ' + ex.meaning
-		end
-		
-		query = "./draw:frame/svg:title[text()='examples']"
-		title = card.at_xpath(query)
-		node = title.parent.at_xpath('./draw:text-box/text:p')
-		
-		lines.reverse.each do |line|
-			new_node = node.clone()
-			new_node.content = line
-			node.add_next_sibling new_node
-		end
-
-		node.remove
-	end
-
-	def make_back (page_kanji)
-		page_back = @back.dup
-		
-		page_kanji.each_with_index do |kanji, i|
-			card_query = "./draw:g/svg:title[text()='back" + (i + 1).to_s + "']"
-			card = page_back.at_xpath(card_query).parent
-			english = kanji.meanings.first
-			write_english(card, english)
-			write_meaning(card, kanji.meanings.rest)
-			write_onyomi(card, kanji.onyomis)		
-			write_kunyomi(card, kanji.kunyomis)		
-			write_examples(card, kanji.examples)		
-		end
-
-		return page_back
-	end
-
-	# Makes pages for the fodg file.
-	def make_pages
-		verbose 'Making fodg pages ...'
-
-		# Pad the list to make it a multiple of Cards_per_page.
-		while (@kanjilist.size % Cards_per_page) > 0
-			@kanjilist << Kanji.new
-		end
-
-		# Split into pages and make each page separately.
-		for page_kanji in @kanjilist.chunk(Cards_per_page)
-			@license.add_previous_sibling(make_front(page_kanji))
-			@license.add_previous_sibling(make_back(page_kanji))	
-		end
-
-		# Remove the template pages.
-		@front.remove
-		@back.remove
-	end
-	
-	# Makes an fodg file with flashcards.
-	def make_flashcards
-		verbose 'Making fodg file ...'
-		make_pages
-		write_file
-	end
-end
-
 # Reader for kanjidic2.
-class Kanjidic2
+class Kanjidic
 	def initialize
 		verbose 'Parsing kanjidic2.xml ...'
 		path = Script_dir + '/kanjidic2.xml'
@@ -573,6 +293,7 @@ class Kanjidic2
 	end
 
 	# Returns the nodes of all kanji at the specified grade level.
+	#TODO Replace this function with a better one.
 	def get_grade (grade)
 		verbose 'Filtering kanjidic2 for grade ' + grade + ' ...'
 		kanjilist = []
@@ -625,31 +346,16 @@ def find_example_frequencies (kanjilist)
 	verbose ' -      Total = ' + total.to_s
 end
 
-def make_deck	
+def make_deck
+	$edict = Edict.new
+	$wordfreq = Wordfreq.new
+	$styler = Styler.new
+	$kanjidic = Kanjidic.new
+
 	#TODO Load the kanji list.
 	kanjilist = ''
 	
 	lookup_examples kanjilist
-	odg_maker = Odg_maker.new(kanjilist, card_options)
-	odg_maker.make_flashcards
-	if $verbose then find_example_frequencies kanjilist end
 end
 
-# Parse the input and do something with it.
-options = OpenStruct.new()
-opts = OptionParser.new()
-opts.on('-h', '--help', 'Display the usage information') {RDoc::usage}
-opts.on('-i', '--input', '=INPUT", "Input') { |argument| options.input = argument }
-opts.parse! rescue RDoc::usage('usage')
-
-if options.input
-	$edict = Edict.new
-	$wordfreq = Wordfreq.new
-	$styler = Styler.new
-	$kanjidic2 = Kanjidic2.new
-
-	#TODO Do stuff here.
-
-else
-	RDoc::usage()
-end
+make_deck
