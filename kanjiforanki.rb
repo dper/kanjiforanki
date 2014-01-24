@@ -1,3 +1,5 @@
+# encoding: utf-8
+#
 #!/usr/bin/ruby
 #
 # == NAME
@@ -678,9 +680,8 @@ if options.input
 	$styler = Styler.new
 	$kanjidic2 = Kanjidic2.new
 
-	# Do stuff here.
+	#TODO Do stuff here.
 
-	end
 else
 	RDoc::usage()
 end
