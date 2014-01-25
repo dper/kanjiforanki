@@ -202,19 +202,25 @@ class Kanji
 	Max_example_count = 3 # The maximum number of examples to store.
 	Max_example_size = 50 # Max example width.
 
-	# Create a blank Kanji.
-	def initialize_blank
-		@literal = ' '
-		@grade = ' '
-		@stroke_count = ' '
-		@meanings = []
-		@onyomis = []
-		@kunyomis = []
+	# Look up examples of word use and record them.
+	def lookup_examples
 		@examples = []
+		return unless $wordfreq.include? @literal
+		$wordfreq.lookup(@literal).each do |line|
+			word,frequency = line.split
+			ex = Example.new(word, frequency.strip)
+		
+			# Only keep examples that are in the dictionary.
+			next unless ex.lookup_definition
+			ex_size = (ex.word + ex.kana + ex.meaning).size
+			next if ex_size > Max_example_size
+			@examples << ex
+			break if @examples.size == Max_example_count
+		end
 	end
 
 	# Given a character node from nokogiri XML, creates a Kanji.
-	def initialize_kanji (node)
+	def initialize (node)
 		@literal = node.css('literal').text
 		@grade = node.css('misc grade').text
 		@stroke_count = node.css('misc stroke_count')[0].text
@@ -239,32 +245,8 @@ class Kanji
 				kunyomis << reading.text
 			end
 		end
-	end
-
-	# Creates a kanji.  If no arguments are given, creates a blank kanji.
-	def initialize *args
-		case args.size
-			when 0 then initialize_blank
-			when 1 then initialize_kanji(args[0])
-			else error
-		end
-	end
-
-	# Look up examples of word use and record them.
-	def lookup_examples
-		@examples = []
-		return unless $wordfreq.include? @literal
-		$wordfreq.lookup(@literal).each do |line|
-			word,frequency = line.split
-			ex = Example.new(word, frequency.strip)
 		
-			# Only keep examples that are in the dictionary.
-			next unless ex.lookup_definition
-			ex_size = (ex.word + ex.kana + ex.meaning).size
-			next if ex_size > Max_example_size
-			@examples << ex
-			break if @examples.size == Max_example_count
-		end
+		lookup_examples
 	end
 end
 
@@ -353,14 +335,6 @@ class Targetkanji
 		verbose 'Target characters: ' + characters + '.'
 		verbose 'Looking up kanji ...'
 		lookup_characters(characters)	
-	end
-end
-
-# For each Kanji, find several examples and add them to it.
-def lookup_examples (kanjilist)
-	verbose 'Looking up example words ...'
-	for kanji in kanjilist
-		kanji.lookup_examples
 	end
 end
 
