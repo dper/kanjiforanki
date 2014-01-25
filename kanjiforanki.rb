@@ -334,7 +334,10 @@ class Targetkanji
 	def initialize
 		verbose 'Parsing targetkanji.txt ...'
 		path = Script_dir + '/targetkanji.txt'
+		characters = IO.readlines path
+
 		#TODO Read the file.
+		
 
 
 		verbose 'Looking up kanji ...'
