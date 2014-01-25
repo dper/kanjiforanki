@@ -335,10 +335,11 @@ class Targetkanji
 		verbose 'Parsing targetkanji.txt ...'
 		path = Script_dir + '/targetkanji.txt'
 		characters = IO.read path
-		verbose 'Target characters: ' + characters
 
 		#TODO Remove unwanted characters.
 
+		verbose 'Target kanji count: ' + characters.size.to_s + '.'
+		verbose 'Target characters: ' + characters
 		verbose 'Looking up kanji ...'
 		@kanjilist = lookup_characters(characters)	
 	end
