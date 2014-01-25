@@ -12,22 +12,29 @@ Kanji are Japanese characters.  There are several thousand in existence.  Of tho
 
 Using this script, or rather, by modifying this script, you can customize flash card generation and produce cards you feel are particularly efficient for your studying needs.  The default settings are ones the author finds useful, so presumably you can use the script as-is, should you so desire.
 
-Dependencies
+Installation
 ============
-The code here is under the MIT License but to make the script work, some more restrictive dependencies are needed.  Download the following two files and put them in the same directory as this script.  They are both Creative Commons Attribution-Share Alike 3.0 licensed.
 
-The kanji dictionary is Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
+This code is under the MIT License.  However, to make the script work, some more restrictive dependencies are needed.  Download the following files and put them in the same directory as this script.
 
-* <http://www.csse.monash.edu.au/~jwb/kanjidic2/>.
-* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.
+The kanji dictionary and Japanese word dictionary are Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
 
-The Japanese word dictionary is also Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
+* <https://dperkins.org/2014/2014-01-24.kanjidic2.zip>
+* <https://dperkins.org/2014/2014-01-24.edict.zip>
 
-* <http://www.csse.monash.edu.au/~jwb/edict.html>.
-* <http://ftp.monash.edu.au/pub/nihongo/edict.gz>.
+Or do this from the command line.
+
+    wget https://dperkins.org/2014/2014-01-24.kanjidic2.zip
+    unzip 2014-01-24.kanjidic2.zip
+    wget https://dperkins.org/2014/2014-01-24.edict.zip
+    unzip 2014-01-24.edict.zip
+
+Next, modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file should consist of entirely kanji with no other characters whatsoever.
 
 Sources
 =======
+
+The source code here is a modification of some code I wrote in 2011 to make paper flash cards for elementary school kanji.  Back then I didn't have a smart phone with SRS, and regardless, paper flash cards have their own strengths and weaknesses. <https://dperkins.org/arc/2011-03-22.kanji%20flashcards.html>
 
 The kanji lists themselves are published by the Ministry of Education (MEXT) in Japan.  Other websites copy and paste the data from official MEXT documents.
 
@@ -40,4 +47,9 @@ The word frequency list is public domain and is included with the source.
 * <http://www.bcit-broadcast.com/monash/wordfreq.README>.
 * <http://ftp.monash.edu.au/pub/nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
 
-The source code here is a modification of some code I wrote in 2011 to make paper flash cards for elementary school kanji.  Back then I didn't have a smart phone with SRS, and regardless, paper flash cards have their own advantages. <https://dperkins.org/arc/2011-03-22.kanji%20flashcards.html>
+The kanji dictionary and Japanese word dictionary are available from their original sources.  The original sources aren't in Unicode, but you can and should check there for updates and make the conversions yourself using a web browser and some copy and pasting.
+
+* <http://www.csse.monash.edu.au/~jwb/kanjidic2/>.
+* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.
+* <http://www.csse.monash.edu.au/~jwb/edict.html>.
+* <http://ftp.monash.edu.au/pub/nihongo/edict.gz>.

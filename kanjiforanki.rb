@@ -322,7 +322,7 @@ class Targetkanji
 	def lookup_characters (characters)
 		kanjilist = []
 
-		characterlist.each do |character|
+		characters.each do |character|
 			#TODO Find the kanji in kanjidic.
 			kanji = Kanji.new(node)
 			kanjilist << kanji
@@ -334,11 +334,10 @@ class Targetkanji
 	def initialize
 		verbose 'Parsing targetkanji.txt ...'
 		path = Script_dir + '/targetkanji.txt'
-		characters = IO.readlines path
+		characters = IO.read path
+		verbose 'Target characters: ' + characters
 
-		#TODO Read the file.
-		
-
+		#TODO Remove unwanted characters.
 
 		verbose 'Looking up kanji ...'
 		@kanjilist = lookup_characters(characters)	
