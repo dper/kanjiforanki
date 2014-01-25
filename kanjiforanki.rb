@@ -332,10 +332,12 @@ class Targetkanji
 	end
 
 	# Removes unwanted characters from the list.
-	# If possible, only kanji characters should be retained.
-	# In practice, this could be difficult to do.
+	# This is a rather weak filter, but it catches the most obvious problems.
 	def remove_unwanted_characters(characters)
-		characters = characters.strip()
+		characters = characters.gsub(/[[:ascii:]]/, '')
+		characters = characters.gsub(/[[:blank:]]/, '')
+		characters = characters.gsub(/[[:cntrl:]]/, '')
+		characters = characters.gsub(/[[:punct:]]/, '')
 		return characters	
 	end
 
