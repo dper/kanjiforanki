@@ -30,22 +30,6 @@ end
 
 Script_dir = File.dirname(__FILE__)
 
-# A few extra functions for Arrays.
-class Array
-	# Splits an Array into smaller Arrays of size n.
-	def chunk n
-		each_slice(n).reduce([]) {|x,y| x += [y] }
-	end
-
-	# Returns the array minus the lead element, or [] if not possible.
-	def rest
-		case self.size
-			when 0..1 then []
-			else self[1..-1]
-		end
-	end
-end
-
 # Fixes style quirks in Edict.
 class Styler
 	def initialize
@@ -307,6 +291,57 @@ class Kanjidic
 	end
 end
 
+# Reader for kanjidic2.
+class Kanjidic
+	def initialize
+		verbose 'Parsing kanjidic2.xml ...'
+		path = Script_dir + '/kanjidic2.xml'
+		@doc = Nokogiri::XML(open(path), nil, 'UTF-8')
+	end
+
+	# Returns the nodes of all kanji at the specified grade level.
+	def get_grade (grade)
+		verbose 'Filtering kanjidic2 for grade ' + grade + ' ...'
+		kanjilist = []
+		@doc.xpath('kanjidic2/character').each do |node|
+			# If it's the right grade keep it.
+			if node.css('misc grade').text == grade
+				kanjilist << Kanji.new(node)
+			end
+		end
+		return kanjilist
+	end
+
+	#TODO Write a function that looks up just one kanji.
+end
+
+# Reader for target kanji file.
+class Targetkanji
+	attr_accessor :kanjilist	# The target kanji.
+
+	def lookup_characters (characters)
+		kanjilist = []
+
+		characterlist.each do |character|
+			#TODO Find the kanji in kanjidic.
+			kanji = Kanji.new(node)
+			kanjilist << kanji
+		end
+
+		return kanjilist
+	end
+
+	def initialize
+		verbose 'Parsing targetkanji.txt ...'
+		path = Script_dir + '/targetkanji.txt'
+		#TODO Read the file.
+
+
+		verbose 'Looking up kanji ...'
+		@kanjilist = lookup_characters(characters)	
+	end
+end
+
 # For each Kanji, find several examples and add them to it.
 def lookup_examples (kanjilist)
 	verbose 'Looking up example words ...'
@@ -351,9 +386,7 @@ def make_deck
 	$wordfreq = Wordfreq.new
 	$styler = Styler.new
 	$kanjidic = Kanjidic.new
-
-	#TODO Load the kanji list.
-	kanjilist = ''
+	$targetkanji = Targetkanji.new
 	
 	lookup_examples kanjilist
 end
