@@ -331,12 +331,20 @@ class Targetkanji
 		return kanjilist
 	end
 
+	# Removes unwanted characters from the list.
+	# If possible, only kanji characters should be retained.
+	# In practice, this could be difficult to do.
+	def remove_unwanted_characters(characters)
+		characters = characters.strip()
+		return characters	
+	end
+
 	def initialize
 		verbose 'Parsing targetkanji.txt ...'
 		path = Script_dir + '/targetkanji.txt'
 		characters = IO.read path
 
-		#TODO Remove unwanted characters.
+		characters = remove_unwanted_characters(characters)
 
 		verbose 'Target kanji count: ' + characters.size.to_s + '.'
 		verbose 'Target characters: ' + characters + '.'
