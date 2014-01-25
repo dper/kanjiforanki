@@ -306,27 +306,21 @@ class Kanjidic
 		verbose "Characters in kanjidic2: " + @characters.size.to_s + "."
 	end
 
-	# Returns a node for the specified character.
-	def get_kanji (character)
-		#TODO Finish this.
-
-		
-	end
-
-	# Returns the nodes of all kanji at the specified grade level.
-	def get_grade (grade)
-		verbose 'Filtering kanjidic2 for grade ' + grade + ' ...'
+	# Returns a node for the specified characters.
+	# If any characters are not in the dictionary, they are skipped.
+	def get_kanji (characters)
 		kanjilist = []
-		@doc.xpath('kanjidic2/character').each do |node|
-			# If it's the right grade keep it.
-			if node.css('misc grade').text == grade
-				kanjilist << Kanji.new(node)
-			end
+		
+		characters.split("").each do |c|
+			if @characters[c]
+				kanjilist << Kanji.new(@characters[c])
+			else
+				verbose "Character not found in kanjidic: " + c + "."
+			end	
 		end
-		return kanjilist
+		
+		return kanjilist		
 	end
-
-	#TODO Write a function that looks up just one kanji.
 end
 
 # Reader for target kanji file.
@@ -334,15 +328,8 @@ class Targetkanji
 	attr_accessor :kanjilist	# The target kanji.
 
 	def lookup_characters (characters)
-		kanjilist = []
-
-		characters.split("").each do |character|
-			#TODO Find the kanji in kanjidic.
-			kanji = Kanji.new(node)
-			kanjilist << kanji
-		end
-
-		return kanjilist
+		@kanjilist = $kanjidic.get_kanji(characters)
+		verbose 'Found ' + @kanjilist.size.to_s + ' kanji in kanjidic.'
 	end
 
 	# Removes unwanted characters from the list.
@@ -365,7 +352,7 @@ class Targetkanji
 		verbose 'Target kanji count: ' + characters.size.to_s + '.'
 		verbose 'Target characters: ' + characters + '.'
 		verbose 'Looking up kanji ...'
-		@kanjilist = lookup_characters(characters)	
+		lookup_characters(characters)	
 	end
 end
 
@@ -378,13 +365,14 @@ def lookup_examples (kanjilist)
 end
 
 def make_deck
+	# Read all of the files and data.
 	$edict = Edict.new
 	$wordfreq = Wordfreq.new
 	$styler = Styler.new
 	$kanjidic = Kanjidic.new
 	$targetkanji = Targetkanji.new
 	
-	lookup_examples kanjilist
+	#TODO Do something here.
 end
 
 make_deck
