@@ -322,7 +322,7 @@ class Targetkanji
 	def lookup_characters (characters)
 		kanjilist = []
 
-		characters.each do |character|
+		characters.split("").each do |character|
 			#TODO Find the kanji in kanjidic.
 			kanji = Kanji.new(node)
 			kanjilist << kanji
@@ -339,7 +339,7 @@ class Targetkanji
 		#TODO Remove unwanted characters.
 
 		verbose 'Target kanji count: ' + characters.size.to_s + '.'
-		verbose 'Target characters: ' + characters
+		verbose 'Target characters: ' + characters + '.'
 		verbose 'Looking up kanji ...'
 		@kanjilist = lookup_characters(characters)	
 	end
