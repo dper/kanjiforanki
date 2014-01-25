@@ -316,7 +316,7 @@ class Targetkanji
 
 	# Removes unwanted characters from the list.
 	# This is a rather weak filter, but it catches the most obvious problems.
-	def remove_unwanted_characters(characters)
+	def remove_unwanted_characters (characters)
 		characters = characters.gsub(/[[:ascii:]]/, '')
 		characters = characters.gsub(/[[:blank:]]/, '')
 		characters = characters.gsub(/[[:cntrl:]]/, '')
@@ -338,6 +338,15 @@ class Targetkanji
 	end
 end
 
+# Makes the Anki deck for a given list of Kanji.
+class Cardmaker
+
+	def initialize(kanjilist)
+		#TODO Write the class.
+	end
+
+end
+
 def make_deck
 	# Read all of the files and data.
 	$edict = Edict.new
@@ -345,8 +354,9 @@ def make_deck
 	$styler = Styler.new
 	$kanjidic = Kanjidic.new
 	$targetkanji = Targetkanji.new
-	
-	#TODO Do something here.
+	$cardmaker = Cardmaker.new($targetkanji.kanjilist)
+
+	#TODO Write the Anki deck somewhere.
 end
 
 make_deck
