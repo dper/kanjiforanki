@@ -296,7 +296,21 @@ class Kanjidic
 	def initialize
 		verbose 'Parsing kanjidic2.xml ...'
 		path = Script_dir + '/kanjidic2.xml'
-		@doc = Nokogiri::XML(open(path), nil, 'UTF-8')
+		doc = Nokogiri::XML(open(path), nil, 'UTF-8')
+		@characters = {}
+		doc.xpath('kanjidic2/character').each do |node|
+			character = node.css('literal').text
+			@characters.store(character, node)
+		end
+		
+		verbose "Characters in kanjidic2: " + @characters.size.to_s + "."
+	end
+
+	# Returns a node for the specified character.
+	def get_kanji (character)
+		#TODO Finish this.
+
+		
 	end
 
 	# Returns the nodes of all kanji at the specified grade level.
@@ -361,37 +375,6 @@ def lookup_examples (kanjilist)
 	for kanji in kanjilist
 		kanji.lookup_examples
 	end
-end
-
-# Find the frequencies of word use in the given list.
-def find_example_frequencies (kanjilist)
-	verbose 'Looking up example frequencies ...'
-	millions, hundred_thousands, ten_thousands, thousands, hundreds, tens, ones = 0, 0, 0, 0, 0, 0, 0
-
-	for kanji in kanjilist
-		for example in kanji.examples
-			case example.frequency
-				when 1..9 then ones += 1
-				when 10..99 then tens += 1
-				when 100..999 then hundreds += 1
-				when 1000..9999 then thousands += 1
-				when 10000..99999 then ten_thousands += 1
-				when 100000..999999 then hundred_thousands += 1
-				else millions += 1
-			end
-		end
-	end	
-
-	total = millions + hundred_thousands + ten_thousands + thousands + hundreds + tens + ones
-
-	verbose ' - 1,000,000+ = ' + millions.to_s
-	verbose ' -   100,000+ = ' + hundred_thousands.to_s
-	verbose ' -    10,000+ = ' + ten_thousands.to_s
-	verbose ' -     1,000+ = ' + thousands.to_s
-	verbose ' -       100+ = ' + hundreds.to_s
-	verbose ' -        10+ = ' + tens.to_s
-	verbose ' -         1+ = ' + ones.to_s
-	verbose ' -      Total = ' + total.to_s
 end
 
 def make_deck
