@@ -21,7 +21,7 @@ require 'nokogiri'
 
 $verbose = true
 
-# Displays an error message if the verbose tag is specified.
+# Displays an error message if verbose operation is enabled.
 def verbose (message)
 	if $verbose
 		puts message
@@ -255,29 +255,6 @@ class Kanjidic
 	def initialize
 		verbose 'Parsing kanjidic2.xml ...'
 		path = Script_dir + '/kanjidic2.xml'
-		@doc = Nokogiri::XML(open(path), nil, 'UTF-8')
-	end
-
-	# Returns the nodes of all kanji at the specified grade level.
-	#TODO Replace this function with a better one.
-	def get_grade (grade)
-		verbose 'Filtering kanjidic2 for grade ' + grade + ' ...'
-		kanjilist = []
-		@doc.xpath('kanjidic2/character').each do |node|
-			# If it's the right grade keep it.
-			if node.css('misc grade').text == grade
-				kanjilist << Kanji.new(node)
-			end
-		end
-		return kanjilist
-	end
-end
-
-# Reader for kanjidic2.
-class Kanjidic
-	def initialize
-		verbose 'Parsing kanjidic2.xml ...'
-		path = Script_dir + '/kanjidic2.xml'
 		doc = Nokogiri::XML(open(path), nil, 'UTF-8')
 		@characters = {}
 		doc.xpath('kanjidic2/character').each do |node|
@@ -289,8 +266,8 @@ class Kanjidic
 	end
 
 	# Returns a node for the specified characters.
-	# If any characters are not in the dictionary, they are skipped.
-	def get_kanji (characters)
+	# If a character is not in the dictionary, it is skipped.
+	def get_kanji characters
 		kanjilist = []
 		
 		characters.split("").each do |c|
@@ -309,14 +286,14 @@ end
 class Targetkanji
 	attr_accessor :kanjilist	# The target kanji.
 
-	def lookup_characters (characters)
-		@kanjilist = $kanjidic.get_kanji(characters)
+	def lookup_characters characters
+		@kanjilist = $kanjidic.get_kanji characters
 		verbose 'Found ' + @kanjilist.size.to_s + ' kanji in kanjidic.'
 	end
 
 	# Removes unwanted characters from the list.
-	# This is a rather weak filter, but it catches the most obvious problems.
-	def remove_unwanted_characters (characters)
+	# This is a weak filter, but it catches the most obvious problems.
+	def remove_unwanted_characters characters
 		characters = characters.gsub(/[[:ascii:]]/, '')
 		characters = characters.gsub(/[[:blank:]]/, '')
 		characters = characters.gsub(/[[:cntrl:]]/, '')
@@ -329,22 +306,41 @@ class Targetkanji
 		path = Script_dir + '/targetkanji.txt'
 		characters = IO.read path
 
-		characters = remove_unwanted_characters(characters)
+		characters = remove_unwanted_characters characters
 
 		verbose 'Target kanji count: ' + characters.size.to_s + '.'
 		verbose 'Target characters: ' + characters + '.'
 		verbose 'Looking up kanji ...'
-		lookup_characters(characters)	
+		lookup_characters characters	
 	end
 end
 
 # Makes the Anki deck for a given list of Kanji.
 class Cardmaker
 
-	def initialize(kanjilist)
-		#TODO Write the class.
+	# Makes the Anki deck and stores it as @deck.
+	def make_deck kanjilist
+		deck = ""
+
+		kanjilist.each do |kanji|
+			#TODO Stuff.
+		end
+
+		@deck = deck
 	end
 
+	def initialize kanjilist
+		verbose "Making the deck ..."
+		make_deck kanjilist
+	end
+
+	# Writes the contents of @deck to a text file.
+	def write_deck
+		file = 'anki.txt'
+		path = Script_dir + '/' + file
+		verbose 'Writing the deck to ' + file + '...'
+		#TODO Write the deck to a file.
+	end
 end
 
 def make_deck
@@ -354,9 +350,10 @@ def make_deck
 	$styler = Styler.new
 	$kanjidic = Kanjidic.new
 	$targetkanji = Targetkanji.new
-	$cardmaker = Cardmaker.new($targetkanji.kanjilist)
 
-	#TODO Write the Anki deck somewhere.
+	# Make the deck.
+	$cardmaker = Cardmaker.new($targetkanji.kanjilist)
+	$cardmaker.write_deck
 end
 
 make_deck
