@@ -206,7 +206,8 @@ class Kanji
 	attr_accessor :grade        # School grade level.
 	attr_accessor :stroke_count # Stroke count.
 	attr_accessor :meanings     # One or more meanings.
-	attr_accessor :kunyomis     # Zero or more onyomi readings.
+	attr_accessor :kunyomis     # Zero or more kunyomi readings.
+	attr_accessor :onyomis	    # Zero or more onyomi readings.
 	attr_accessor :examples     # Example list.
 
 	Max_example_count = 3 # The maximum number of examples to store.
