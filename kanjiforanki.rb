@@ -355,7 +355,7 @@ class Cardmaker
 
 		if grade >= 1 and grade <= 6
 			s += "小" + grade
-		else if grade == 8
+		elsif grade == 8
 			s += "中学"
 		end
 
@@ -373,7 +373,9 @@ class Cardmaker
 
 	# Makes the extra meaning string.
 	def make_extra_meanings meanings
-		if meanings.size == 0 then return "" end
+		if meanings.size == 0
+			return ""
+		end
 
 		s = "<div class=\"extra_meanings\">"
 		
@@ -388,7 +390,9 @@ class Cardmaker
 
 	# Makes the onyomi readings string.
 	def make_onyomis readings
-		if readings.size == 0 then return "" end
+		if readings.size == 0
+			return ""
+		end
 
 		s = "<div class=\"onyomis\">"
 
@@ -403,7 +407,9 @@ class Cardmaker
 
 	# Makes the kunyomi readings string.
 	def make_kunyomis readings
-		if readings.size == 0 then return "" end
+		if readings.size == 0
+			return ""
+		end
 
 		s = "<div class=\"kunyomis\">"
 
@@ -482,11 +488,11 @@ class Cardmaker
 		file = 'anki.txt'
 		path = Script_dir + '/' + file
 		verbose 'Writing the deck to ' + file + '...'
-		
+
 		open(path, 'w') do |f|
 			f.puts @deck
 		end		
-		
+
 		verbose 'Done writing.'
 	end
 end
