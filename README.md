@@ -12,8 +12,8 @@ Kanji are Japanese characters.  There are several thousand in existence.  Of tho
 
 Using this script, or rather, by modifying this script, you can customize flash card generation and produce cards you feel are particularly efficient for your studying needs.  The default settings are ones the author finds useful, so presumably you can use the script as-is, should you so desire.
 
-Installation
-============
+Making the Anki deck
+====================
 
 This code is under the MIT License.  However, to make the script work, some more restrictive dependencies are needed.  Download the following files and put them in the same directory as this script.
 
@@ -30,6 +30,30 @@ Or do this from the command line.
     unzip 2014-01-24.edict.zip
 
 Next, modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file should consist of entirely kanji with no other characters whatsoever.
+
+
+Importing the deck into Anki
+============================
+
+Once you have a deck you need to import it.
+
+1. Open up Anki, go to `File / Import ...`  A dialog opens.
+2. Select the text file you generated above.
+3. Choose whatever options you like.  I prefer to create a separate deck for just these cards.
+4. Make sure `Allow HTML in fields` is checked.
+5. Make sure `Fields separated by: Tab` is displayed.
+6. Click `Import`.  A dialog should open telling you everything worked.
+
+To make the deck visually appealing, we need to modify the styling of it.
+
+1. Browse to the deck.
+2. Select a card from it.
+3. Click on `Cards...`.  A style editing window opens.
+4. We need to enter new styling information in the `Styling` box on the left side.  Some styling information is already specified.  Copy the contents of `style.css` below anything that's already there.
+5. If you want to change the styling yourself, you can do it here at any time.
+
+You are ready to go.  Have fun studying!
+
 
 Sources
 =======
