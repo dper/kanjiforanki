@@ -33,7 +33,7 @@ Or do this from the command line.
 Running the Script
 ==================
 
-Modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file `Joyo Kanji.txt` has lists for all the elementary and junior high school kanji.  The file should consist of entirely kanji with no other characters whatsoever.
+Modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file should consist of entirely kanji with no other characters whatsoever.  If you're looking for kanji lists, see `Joyo Kanji.txt`, which contains lists for all the elementary and junior high school kanji.
 
 To run the script, simply call `kanjiforanki.rb`.  Here's an example of generating cards for first grade elementary school level kanji.
 
