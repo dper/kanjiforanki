@@ -232,7 +232,7 @@ class Kanji
 	# Given a character node from nokogiri XML, creates a Kanji.
 	def initialize (node)
 		@literal = node.css('literal').text
-		@grade = node.css('misc grade').text
+		@grade = node.css('misc grade').text.to_i
 		@stroke_count = node.css('misc stroke_count')[0].text
 
 		rmgroup = node.css('reading_meaning rmgroup')
@@ -354,7 +354,7 @@ class Cardmaker
 		s = "<div class=\"grade\">"
 
 		if grade >= 1 and grade <= 6
-			s += "小" + grade
+			s += "小" + grade.to_s
 		elsif grade == 8
 			s += "中学"
 		end
