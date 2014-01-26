@@ -318,12 +318,32 @@ end
 # Makes the Anki deck for a given list of Kanji.
 class Cardmaker
 
+	# Makes the text for a card.
+	def make_card kanji
+		# Separates the front and back of the card.
+		splitter = "|"
+
+		# The front.
+		card = kanji.literal
+
+		# The middle.
+		card += splitter
+
+		# The back.
+		meanings = kanji.meanings
+		card += meanings[0].upcase
+
+		card += "\n"
+
+		return card
+	end
+
 	# Makes the Anki deck and stores it as @deck.
 	def make_deck kanjilist
 		deck = ""
 
 		kanjilist.each do |kanji|
-			#TODO Stuff.
+			deck += make_card kanji
 		end
 
 		@deck = deck
@@ -340,6 +360,7 @@ class Cardmaker
 		path = Script_dir + '/' + file
 		verbose 'Writing the deck to ' + file + '...'
 		#TODO Write the deck to a file.
+		verbose @deck
 	end
 end
 
