@@ -12,7 +12,7 @@ Kanji are Japanese characters.  There are several thousand in existence.  Of tho
 
 Using this script, or rather, by modifying this script, you can customize flash card generation and produce cards you feel are particularly efficient for your studying needs.  The default settings are ones the author finds useful, so presumably you can use the script as-is, should you so desire.
 
-Making the Anki deck
+Getting Dependencies
 ====================
 
 This code is under the MIT License.  However, to make the script work, some more restrictive dependencies are needed.  Download the following files and put them in the same directory as this script.
@@ -29,7 +29,27 @@ Or do this from the command line.
     wget https://dperkins.org/2014/2014-01-24.edict.zip
     unzip 2014-01-24.edict.zip
 
-Next, modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file should consist of entirely kanji with no other characters whatsoever.
+
+Running the Script
+==================
+
+Modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file `Joyo Kanji.txt` has lists for all the elementary and junior high school kanji.  The file should consist of entirely kanji with no other characters whatsoever.
+
+To run the script, simply call `kanjiforanki.rb`.  Here's an example of generating cards for first grade elementary school level kanji.
+
+    $ ./kanjiforanki.rb 
+    Parsing edict.txt ...
+    Parsing wordfreq_ck.txt ...
+    Parsing kanjidic2.xml ...
+    Characters in kanjidic2: 13108.
+    Parsing targetkanji.txt ...
+    Target kanji count: 80.
+    Target characters: 一右雨円王音下火花貝学気九休玉金空月犬見五口校左三山子四糸字耳七車手十出女小上森人水正生青夕石赤千川先早草足村大男竹中虫町天田土二日入年白八百文木本名目立力林六.
+    Looking up kanji ...
+    Found 80 kanji in kanjidic.
+    Making the deck ...
+    Writing the deck to anki.txt...
+    Done writing.
 
 
 Importing the deck into Anki
@@ -53,6 +73,12 @@ To make the deck visually appealing, we need to modify the styling of it.
 5. If you want to change the styling yourself, you can do it here at any time.
 
 You are ready to go.  Have fun studying!
+
+
+Issues
+======
+
+If you see any issues, obvious but missing features, or problems with the documentation, feel free to open an issue at <https://github.com/dper/KanjiForAnki/issues> or contact the author at <https://microca.st/dper>.
 
 
 Sources
