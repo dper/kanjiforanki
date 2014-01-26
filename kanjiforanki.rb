@@ -1,5 +1,5 @@
-# coding: utf-8
 #!/usr/bin/ruby
+# coding: utf-8
 #
 # == NAME
 # kanjiforanki.rb
