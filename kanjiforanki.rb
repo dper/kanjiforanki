@@ -414,7 +414,19 @@ class Cardmaker
 
 	# Makes the examples string.
 	def make_examples examples
-		#TODO
+		s = ""
+
+		examples.each do |example|
+			word = example.word
+			kana = example.kana
+			meaning = example.meaning
+
+			s += "<div>"
+			s += word + " (" + kana + ") &mdash; " + meaning
+			s += "</div>"
+		end
+
+		return s
 	end
 
 	# Makes the text for a card.
@@ -436,7 +448,7 @@ class Cardmaker
 		card += make_extra_meanings kanji.meanings.rest
 		card += make_onyomis kanji.onyomis
 		card += make_kunyomis kanji.kunyomis
-		#card += make_examples kanji.examples
+		card += make_examples kanji.examples
 
 		card += "\n"
 
