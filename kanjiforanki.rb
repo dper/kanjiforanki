@@ -433,7 +433,7 @@ class Cardmaker
 			kana = example.kana
 			meaning = example.meaning
 
-			s += "<div class \"example\">"
+			s += "<div class=\"example\">"
 			s += word + " (" + kana + ") &mdash; " + meaning
 			s += "</div>"
 		end
