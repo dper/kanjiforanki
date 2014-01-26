@@ -1,9 +1,30 @@
 .literal {
+color: blue;
+font-size: larger;
 }
 
-.stroke_count, .grade {
+.stroke_count {
+font-size: smaller;
+color: #ff66ff;
+}
+
+.grade {
 font-size: smaller;
 color: gray;
 }
 
+.meaning {
+color: green;
+}
 
+.extra_meanings {
+color: #6699cc;
+}
+
+.onyomis {
+color: orange;
+}
+
+.kunyomis {
+color: red;
+}

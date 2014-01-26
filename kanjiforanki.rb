@@ -206,7 +206,6 @@ class Kanji
 	attr_accessor :grade        # School grade level.
 	attr_accessor :stroke_count # Stroke count.
 	attr_accessor :meanings     # One or more meanings.
-	attr_accessor :onyomis      # Zero or more kunyomi readings.
 	attr_accessor :kunyomis     # Zero or more onyomi readings.
 	attr_accessor :examples     # Example list.
 
@@ -345,7 +344,7 @@ class Cardmaker
 	# Makes the stroke count string.
 	def make_stroke_count stroke_count
 		s = "<div class=\"stroke_count\">"
-		s += "Strokes: " + stroke_count
+		s += "✍" + stroke_count
 		s += "</div>"
 		return s
 	end
@@ -353,7 +352,13 @@ class Cardmaker
 	# Makes the grade string.
 	def make_grade grade
 		s = "<div class=\"grade\">"
-		s += "Grade: " + grade
+
+		if grade >= 1 and grade <= 6
+			s += "小" + grade
+		else if grade == 8
+			s += "中学"
+		end
+
 		s += "</div>"
 		return s
 	end
