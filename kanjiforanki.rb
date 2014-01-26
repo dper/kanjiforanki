@@ -335,44 +335,40 @@ class Cardmaker
 	end
 
 	# Makes the literal string.
-	def make_literal kanji
+	def make_literal literal
 		s = "<div style=\"font-size: larger;\">"
-		s += kanji.literal
+		s += literal
 		s += "</div>"
 		return s
 	end
 
 	# Makes the stroke count string.
-	def make_stroke_count kanji
+	def make_stroke_count stroke_count
 		s = "<div style=\"color: gray; \">"
-		s += "Strokes: " + kanji.stroke_count
+		s += "Strokes: " + stroke_count
 		s += "</div>"
 		return s
 	end
 
 	# Makes the grade string.
-	def make_grade kanji
+	def make_grade grade
 		s = "<div style=\"color: gray; \">"
-		s += "Grade: " + kanji.grade
+		s += "Grade: " + grade
 		s += "</div>"
 		return s
 	end
 
 	# Makes the base meaning string.
-	def make_base_meaning kanji
+	def make_base_meaning meaning
 		s = "<div>"
-		s += kanji.meanings[0].upcase
+		s += meaning.upcase
 		s += "</div>"
 		return s
 	end
 
 	# Makes the extra meaning string.
-	def make_extra_meanings kanji
-		meanings = kanji.meanings.rest
-
-		if meanings.size == 0
-			return ""
-		end
+	def make_extra_meanings meanings
+		if meanings.size == 0 then return "" end
 
 		s = "<div>"
 		
@@ -382,22 +378,42 @@ class Cardmaker
 
 		s = rstrip(s, ", ")
 		s += "</div>"
-
 		return s
 	end
 
 	# Makes the onyomi readings string.
-	def make_onoymis kanji
-		#TODO
+	def make_onyomis readings
+		if readings.size == 0 then return "" end
+
+		s = "<div>"
+
+		readings.each do |reading|
+			s += reading + "　"
+		end
+
+		s = rstrip(s, "　")
+		s += "</div>"
+		return s
 	end
 
 	# Makes the kunyomi readings string.
-	def make_kunyomis kanji
-		#TODO
+	def make_kunyomis readings
+		if readings.size == 0 then return "" end
+
+		s = "<div>"
+
+		readings.each do |reading|
+			s += reading + "　"
+		end
+
+		s = rstrip(s, "　")
+		s += "</div>"
+		return s
+
 	end
 
 	# Makes the examples string.
-	def make_examples kanji
+	def make_examples examples
 		#TODO
 	end
 
@@ -407,20 +423,20 @@ class Cardmaker
 		splitter = "\t"
 
 		# The front.
-		card = make_literal kanji
+		card = make_literal kanji.literal
 		card += "<br>"
-		card += make_stroke_count kanji
-		card += make_grade kanji
+		card += make_stroke_count kanji.stroke_count
+		card += make_grade kanji.grade
 
 		# The middle.
 		card += splitter
 
 		# The back.
-		card += make_base_meaning kanji
-		card += make_extra_meanings kanji
-		#card += make_onyomis kanji
-		#card += make_kunyomis kanji
-		#card += make_examples kanji
+		card += make_base_meaning kanji.meanings[0]
+		card += make_extra_meanings kanji.meanings.rest
+		card += make_onyomis kanji.onyomis
+		card += make_kunyomis kanji.kunyomis
+		#card += make_examples kanji.examples
 
 		card += "\n"
 
