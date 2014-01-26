@@ -1,15 +1,15 @@
 .literal {
 color: blue;
-font-size: larger;
+font-size: 150%;
 }
 
 .stroke_count {
-font-size: smaller;
+font-size: 50%;
 color: #ff66ff;
 }
 
 .grade {
-font-size: smaller;
+font-size: 50%;
 color: gray;
 }
 
@@ -23,8 +23,14 @@ color: #6699cc;
 
 .onyomis {
 color: orange;
+font-size: 75%;
 }
 
 .kunyomis {
 color: red;
+font-size: 75%;
+}
+
+.example {
+font-size: 75%;
 }
