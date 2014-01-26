@@ -482,8 +482,12 @@ class Cardmaker
 		file = 'anki.txt'
 		path = Script_dir + '/' + file
 		verbose 'Writing the deck to ' + file + '...'
-		#TODO Write the deck to a file.
-		verbose @deck
+		
+		open(path, 'w') do |f|
+			f.puts @deck
+		end		
+		
+		verbose 'Done writing.'
 	end
 end
 
