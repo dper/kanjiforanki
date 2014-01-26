@@ -434,7 +434,7 @@ class Cardmaker
 			meaning = example.meaning
 
 			s += "<div class=\"example\">"
-			s += word + " (" + kana + ") &mdash; " + meaning
+			s += word + " (" + kana + ") - " + meaning
 			s += "</div>"
 		end
 
