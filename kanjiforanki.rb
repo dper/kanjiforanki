@@ -250,9 +250,9 @@ class Kanji
 		@kunyomis = []
 		rmgroup.css('reading').each do |reading|
 			if reading['r_type'] == 'ja_on'
-				onyomis << reading.text
+				@onyomis << reading.text
 			elsif reading['r_type'] == 'ja_kun'
-				kunyomis << reading.text
+				@kunyomis << reading.text
 			end
 		end
 		
