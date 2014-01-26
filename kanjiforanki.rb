@@ -445,6 +445,7 @@ class Cardmaker
 
 		# The back.
 		card += make_base_meaning kanji.meanings[0]
+		card += "<br>"
 		card += make_extra_meanings kanji.meanings.rest
 		card += make_onyomis kanji.onyomis
 		card += make_kunyomis kanji.kunyomis
