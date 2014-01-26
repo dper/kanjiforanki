@@ -318,20 +318,69 @@ end
 # Makes the Anki deck for a given list of Kanji.
 class Cardmaker
 
+	# Makes the stroke count string.
+	def make_stroke_count kanji
+		s = "<div>"
+		s += "Strokes: " + kanji.stroke_count
+		s += "</div>"
+		return s
+	end
+
+	# Makes the grade string.
+	def make_grade kanji
+		s = "<div>"
+		s += "Grade: " + kanji.grade
+		s += "</div>"
+		return s
+	end
+
+	# Makes the base meaning string.
+	def make_base_meaning kanji
+		s = "<div>"
+		s += kanji.meanings[0].upcase
+		s += "</div>"
+		return s
+	end
+
+	# Makes the extra meaning string.
+	def make_extra_meanings kanji
+		#TODO
+	end
+
+	# Makes the onyomi readings string.
+	def make_onoymis kanji
+		#TODO
+	end
+
+	# Makes the kunyomi readings string.
+	def make_kunyomis kanji
+		#TODO
+	end
+
+	# Makes the examples string.
+	def make_examples kanji
+		#TODO
+	end
+
 	# Makes the text for a card.
 	def make_card kanji
 		# Separates the front and back of the card.
 		splitter = "|"
 
 		# The front.
-		card = kanji.literal
+		card = "<div>" + kanji.literal + "</div>"
+		card += make_stroke_count kanji
+		card += make_grade kanji
 
 		# The middle.
 		card += splitter
 
 		# The back.
-		meanings = kanji.meanings
-		card += meanings[0].upcase
+		card += make_base_meaning kanji
+		#card += make_extra_meanings kanji
+		#card += make_onyomis kanji
+		#card += make_kunyomis kanji
+		#card += make_examples kanji
 
 		card += "\n"
 
