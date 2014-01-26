@@ -57,7 +57,7 @@ Importing the deck into Anki
 
 Once you have a deck you need to import it.
 
-1. Open up Anki, go to `File / Import ...`  A dialog opens.
+1. Open up Anki.  Go to `File / Import ...`  A dialog opens.
 2. Select the text file you generated above.
 3. Choose whatever options you like.  I prefer to create a separate deck for just these cards.
 4. Make sure `Allow HTML in fields` is checked.
