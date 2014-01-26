@@ -22,9 +22,20 @@ require 'nokogiri'
 $verbose = true
 
 # Displays an error message if verbose operation is enabled.
-def verbose (message)
+def verbose message
 	if $verbose
 		puts message
+	end
+end
+
+# Extra functions for Arrays.
+class Array
+	# Returns the array minus the lead element, or [] if not possible.
+	def rest
+		case self.size
+			when 0..1 then []
+			else self[1..-1]
+		end
 	end
 end
 
@@ -318,9 +329,22 @@ end
 # Makes the Anki deck for a given list of Kanji.
 class Cardmaker
 
+	# Returns a new string of s where matching trailing characters are removed.
+	def rstrip s, remove
+		return s.gsub(/[#{remove}]+$/, "")
+	end
+
+	# Makes the literal string.
+	def make_literal kanji
+		s = "<div style=\"font-size: larger;\">"
+		s += kanji.literal
+		s += "</div>"
+		return s
+	end
+
 	# Makes the stroke count string.
 	def make_stroke_count kanji
-		s = "<div>"
+		s = "<div style=\"color: gray; \">"
 		s += "Strokes: " + kanji.stroke_count
 		s += "</div>"
 		return s
@@ -328,7 +352,7 @@ class Cardmaker
 
 	# Makes the grade string.
 	def make_grade kanji
-		s = "<div>"
+		s = "<div style=\"color: gray; \">"
 		s += "Grade: " + kanji.grade
 		s += "</div>"
 		return s
@@ -344,7 +368,22 @@ class Cardmaker
 
 	# Makes the extra meaning string.
 	def make_extra_meanings kanji
-		#TODO
+		meanings = kanji.meanings.rest
+
+		if meanings.size == 0
+			return ""
+		end
+
+		s = "<div>"
+		
+		meanings.each do |meaning|
+			s += meaning + ", "
+		end
+
+		s = rstrip(s, ", ")
+		s += "</div>"
+
+		return s
 	end
 
 	# Makes the onyomi readings string.
@@ -365,10 +404,11 @@ class Cardmaker
 	# Makes the text for a card.
 	def make_card kanji
 		# Separates the front and back of the card.
-		splitter = "|"
+		splitter = "\t"
 
 		# The front.
-		card = "<div>" + kanji.literal + "</div>"
+		card = make_literal kanji
+		card += "<br>"
 		card += make_stroke_count kanji
 		card += make_grade kanji
 
@@ -377,7 +417,7 @@ class Cardmaker
 
 		# The back.
 		card += make_base_meaning kanji
-		#card += make_extra_meanings kanji
+		card += make_extra_meanings kanji
 		#card += make_onyomis kanji
 		#card += make_kunyomis kanji
 		#card += make_examples kanji
