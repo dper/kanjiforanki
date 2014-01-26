@@ -336,7 +336,7 @@ class Cardmaker
 
 	# Makes the literal string.
 	def make_literal literal
-		s = "<div style=\"font-size: larger;\">"
+		s = "<div class=\"literal\">"
 		s += literal
 		s += "</div>"
 		return s
@@ -344,7 +344,7 @@ class Cardmaker
 
 	# Makes the stroke count string.
 	def make_stroke_count stroke_count
-		s = "<div style=\"color: gray; \">"
+		s = "<div class=\"stroke_count\">"
 		s += "Strokes: " + stroke_count
 		s += "</div>"
 		return s
@@ -352,7 +352,7 @@ class Cardmaker
 
 	# Makes the grade string.
 	def make_grade grade
-		s = "<div style=\"color: gray; \">"
+		s = "<div class=\"grade\">"
 		s += "Grade: " + grade
 		s += "</div>"
 		return s
@@ -360,7 +360,7 @@ class Cardmaker
 
 	# Makes the base meaning string.
 	def make_base_meaning meaning
-		s = "<div>"
+		s = "<div class=\"meaning\">"
 		s += meaning.upcase
 		s += "</div>"
 		return s
@@ -370,7 +370,7 @@ class Cardmaker
 	def make_extra_meanings meanings
 		if meanings.size == 0 then return "" end
 
-		s = "<div>"
+		s = "<div class=\"extra_meanings\">"
 		
 		meanings.each do |meaning|
 			s += meaning + ", "
@@ -385,7 +385,7 @@ class Cardmaker
 	def make_onyomis readings
 		if readings.size == 0 then return "" end
 
-		s = "<div>"
+		s = "<div class=\"onyomis\">"
 
 		readings.each do |reading|
 			s += reading + "　"
@@ -400,7 +400,7 @@ class Cardmaker
 	def make_kunyomis readings
 		if readings.size == 0 then return "" end
 
-		s = "<div>"
+		s = "<div class=\"kunyomis\">"
 
 		readings.each do |reading|
 			s += reading + "　"
@@ -421,7 +421,7 @@ class Cardmaker
 			kana = example.kana
 			meaning = example.meaning
 
-			s += "<div>"
+			s += "<div class \"example\">"
 			s += word + " (" + kana + ") &mdash; " + meaning
 			s += "</div>"
 		end
