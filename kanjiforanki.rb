@@ -281,7 +281,7 @@ class Kanjidic
 	def get_kanji characters
 		kanjilist = []
 		
-		characters.split("").each do |c|
+		characters.each_char do |c|
 			if @characters[c]
 				kanjilist << Kanji.new(@characters[c])
 			else
