@@ -57,9 +57,9 @@ Creating the note type
 
 Before importing the deck into Anki, it may be necessary to tell Anki what information it should be looking for during the import.  This is a little technical, but nothing tricky is going on, so have no fear.
 
-1. Click on `Tools / Manage Note Types...`/
-2. Create a new note type and call it "Kanji".  This can be done using `Add` followed by `Rename`.
-3. Click on `Fields` and create the following fields in the following order.
+* Click on `Tools / Manage Note Types...`/
+* Create a new note type and call it "Kanji".  This can be done using `Add` followed by `Rename`.
+* Click on `Fields` and create the following fields in the following order.
 	* Radical
 	* Strokes
 	* Grade
@@ -68,7 +68,7 @@ Before importing the deck into Anki, it may be necessary to tell Anki what infor
 	* Onyomis
 	* Kunyomis
 	* Examples
-4. That's all.  You now have a note type with eight fields: one for each piece of information that shows up on a kanji flash card.
+* That's all.  You now have a note type with eight fields: one for each piece of information that shows up on a kanji flash card.
 
 
 Importing the deck into Anki
@@ -76,12 +76,12 @@ Importing the deck into Anki
 
 Once you have a deck you need to import it.
 
-1. Open up Anki.  Go to `File / Import ...`  A dialog opens.
-2. Select the text file you generated above.
-3. Choose whatever options you like.  I prefer to create a separate deck for just these cards.
-4. Make sure `Allow HTML in fields` is checked.
-5. Make sure `Fields separated by: Tab` is displayed.
-6. There should be eight fields, and each should be mapped to one of the fields created above.  You should see the following.
+* Open up Anki.  Go to `File / Import ...`  A dialog opens.
+* Select the text file you generated above.
+*, Choose whatever options you like.  I prefer to create a separate deck for just these cards.
+* Make sure `Allow HTML in fields` is checked.
+* Make sure `Fields separated by: Tab` is displayed.
+* There should be eight fields, and each should be mapped to one of the fields created above.  You should see the following.
 ````
 Field 1 of file is: mapped to Radical
 Field 2 of file is: mapped to Strokes
@@ -92,7 +92,7 @@ Field 6 of file is: mapped to Onyomis
 Field 7 of file is: mapped to Kunyomis
 Field 8 of file is: mapped to Examples
 ````
-7. Click `Import`.  A dialog should open telling you everything worked.
+* Click `Import`.  A dialog should open telling you everything worked.
 
 
 
@@ -100,18 +100,18 @@ Styling the deck
 ================
 To make the deck visually appealing, we need to modify the styling of it.
 
-1. Browse to the deck.
-2. Select a card from it.
-3. Click on `Cards...`.  A style editing window opens.
-4. We need to enter new styling information in the `Styling` box on the left side.  Some styling information is already specified.  Copy the contents of `style.css` below anything that's already there.
-5. By default, only two of the eight information fields are displayed.  We need to enable the other six....
-6. In `Front Template`, enter the following.
+* Browse to the deck.
+* Select a card from it.
+* Click on `Cards...`.  A style editing window opens.
+* We need to enter new styling information in the `Styling` box on the left side.  Some styling information is already specified.  Copy the contents of `style.css` below anything that's already there.
+* By default, only two of the eight information fields are displayed.  We need to enable the other six....
+* In `Front Template`, enter the following.
 ````HTML
 <span class="literal">{{Literal}}</span>
 <span class="strokes">{{Strokes}}</span>
 <span class="grade">{{Grade}}</span>
 ````
-7. In `Styling`, enter the following.
+* In `Styling`, enter the following.
 ````CSS
 .card { font-family: arial; font-size: 30px; text-align: center; color: black; background-color: white; }
 .literal { color: blue; font-size: 200%; }
@@ -123,7 +123,7 @@ To make the deck visually appealing, we need to modify the styling of it.
 .kunyomis { color: red; font-size: 75%; }
 .examples { font-size: 75%; }
 ````
-8. In `Back Template`, enter the following.
+* In `Back Template`, enter the following.
 ````HTML
 {{FrontSide}}
 
