@@ -336,108 +336,97 @@ class Cardmaker
 
 	# Makes the literal string.
 	def make_literal literal
-		s = "<div class=\"literal\">"
-		s += literal
-		s += "</div>"
+		s = literal
 		return s
 	end
 
 	# Makes the stroke count string.
 	def make_stroke_count stroke_count
-		s = "<div class=\"stroke_count\">"
-		s += "✍" + stroke_count
-		s += "</div>"
+		s = "✍" + stroke_count
 		return s
 	end
 
 	# Makes the grade string.
 	def make_grade grade
-		s = "<div class=\"grade\">"
-
 		if grade >= 1 and grade <= 6
-			s += "小" + grade.to_s
+			s = '小' + grade.to_s
 		elsif grade == 8
-			s += "中学"
+			s = '中学'
+		else
+			s = ''
 		end
 
-		s += "</div>"
 		return s
 	end
 
 	# Makes the base meaning string.
 	def make_base_meaning meaning
-		s = "<div class=\"meaning\">"
-		s += meaning.upcase
-		s += "</div>"
+		s = meaning.upcase
 		return s
 	end
 
 	# Makes the extra meaning string.
 	def make_extra_meanings meanings
 		if meanings.size == 0
-			return ""
+			return ''
 		end
 
-		s = "<div class=\"extra_meanings\">"
+		s = ''
 		
 		meanings.each do |meaning|
-			s += meaning + ", "
+			s += meaning + ', '
 		end
 
 		s = rstrip(s, ", ")
-		s += "</div>"
 		return s
 	end
 
 	# Makes the onyomi readings string.
 	def make_onyomis readings
 		if readings.size == 0
-			return ""
+			return ''
 		end
 
-		s = "<div class=\"onyomis\">"
+		s = ''
 
 		readings.each do |reading|
-			s += reading + "　"
+			s += reading + '　'
 		end
 
-		s = rstrip(s, "　")
-		s += "</div>"
+		s = rstrip(s, '　')
 		return s
 	end
 
 	# Makes the kunyomi readings string.
 	def make_kunyomis readings
 		if readings.size == 0
-			return ""
+			return ''
 		end
 
-		s = "<div class=\"kunyomis\">"
+		s = ''
 
 		readings.each do |reading|
-			s += reading + "　"
+			s += reading + '　'
 		end
 
-		s = rstrip(s, "　")
-		s += "</div>"
+		s = rstrip(s, '　')
 		return s
-
 	end
 
 	# Makes the examples string.
 	def make_examples examples
-		s = ""
+		s = ''
 
 		examples.each do |example|
 			word = example.word
 			kana = example.kana
 			meaning = example.meaning
 
-			s += "<div class=\"example\">"
-			s += word + " (" + kana + ") - " + meaning
-			s += "</div>"
+			s += word + ' (' + kana + ') - ' + meaning
+			s += '<br>'
 		end
 
+		s = rstrip(s, '<br>')
 		return s
 	end
 
@@ -446,20 +435,23 @@ class Cardmaker
 		# Separates the front and back of the card.
 		splitter = "\t"
 
-		# The front.
+		# The order of these lines is important.
+		# If they are changed, care must be taken upon import.
+
 		card = make_literal kanji.literal
-		card += "<br>"
-		card += make_stroke_count kanji.stroke_count
-		card += make_grade kanji.grade
-
-		# The middle.
 		card += splitter
-
-		# The back.
+		card += make_stroke_count kanji.stroke_count
+		card += splitter
+		card += make_grade kanji.grade
+		card += splitter
 		card += make_base_meaning kanji.meanings[0]
+		card += splitter
 		card += make_extra_meanings kanji.meanings.rest
+		card += splitter
 		card += make_onyomis kanji.onyomis
+		card += splitter
 		card += make_kunyomis kanji.kunyomis
+		card += splitter
 		card += make_examples kanji.examples
 
 		card += "\n"
