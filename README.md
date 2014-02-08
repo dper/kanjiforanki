@@ -76,20 +76,35 @@ Styling the deck
 4. We need to enter new styling information in the `Styling` box on the left side.  Some styling information is already specified.  Copy the contents of `style.css` below anything that's already there.
 5. By default, only two of the eight information fields are displayed.  We need to enable the other six....
 6. In `Front Template`, enter the following.
-    <span class="literal">{{Literal}}</span>
-    <span class="strokes">{{Strokes}}</span>
-    <span class="grade">{{Grade}}</span>
-7. In `Back Template`, enter the following.
-    {{FrontSide}}
-    
-    <hr id=answer>
-    
-    <div class="meaning">{{Meaning}}</div>
-    <div class="meanings">{{Meanings}}</div>
-    <div class="onyomis">{{Onyomis}}</div>
-    <div class="kunyomis">{{Kunyomis}}</div>
-    <div class="examples">{{Examples}}</div>
+````HTML
+<span class="literal">{{Literal}}</span>
+<span class="strokes">{{Strokes}}</span>
+<span class="grade">{{Grade}}</span>
+````
+7. In `Styling`, enter the following.
+````CSS
+.card { font-family: arial; font-size: 20px; text-align: center; color: black; background-color: white; }
+.literal { color: blue; font-size: 150%; }
+.strokes { float: left; font-size: 50%; color: #ff66ff; }
+.grade { float: right; font-size: 50%; color: gray; }
+.meaning { color: green; }
+.meanings { color: #6699cc; }
+.onyomis { color: orange; font-size: 75%; }
+.kunyomis { color: red; font-size: 75%; }
+.examples { font-size: 75%; }
+````
+8. In `Back Template`, enter the following.
+````HTML
+{{FrontSide}}
 
+<hr id=answer>
+
+<div class="meaning">{{Meaning}}</div>
+<div class="meanings">{{Meanings}}</div>
+<div class="onyomis">{{Onyomis}}</div>
+<div class="kunyomis">{{Kunyomis}}</div>
+<div class="examples">{{Examples}}</div>
+````
 You are ready to go.  Have fun studying!
 
 
