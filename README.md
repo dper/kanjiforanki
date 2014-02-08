@@ -81,13 +81,24 @@ Once you have a deck you need to import it.
 3. Choose whatever options you like.  I prefer to create a separate deck for just these cards.
 4. Make sure `Allow HTML in fields` is checked.
 5. Make sure `Fields separated by: Tab` is displayed.
-6. Click `Import`.  A dialog should open telling you everything worked.
+6. There should be eight fields, and each should be mapped to one of the fields created above.  You should see the following.
+````
+Field 1 of file is: mapped to Radical
+Field 2 of file is: mapped to Strokes
+Field 3 of file is: mapped to Grade
+Field 4 of file is: mapped to Meaning 
+Field 5 of file is: mapped to Meanings
+Field 6 of file is: mapped to Onyomis
+Field 7 of file is: mapped to Kunyomis
+Field 8 of file is: mapped to Examples
+````
+7. Click `Import`.  A dialog should open telling you everything worked.
 
-To make the deck visually appealing, we need to modify the styling of it.
 
 
 Styling the deck
 ================
+To make the deck visually appealing, we need to modify the styling of it.
 
 1. Browse to the deck.
 2. Select a card from it.
