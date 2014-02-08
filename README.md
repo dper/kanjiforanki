@@ -52,6 +52,25 @@ To run the script, simply call `kanjiforanki.rb`.  Here's an example of generati
     Done writing.
 
 
+Creating the note type
+======================
+
+Before importing the deck into Anki, it may be necessary to tell Anki what information it should be looking for during the import.  This is a little technical, but nothing tricky is going on, so have no fear.
+
+1. Click on `Tools / Manage Note Types...`/
+2. Create a new note type and call it "Kanji".  This can be done using `Add` followed by `Rename`.
+3. Click on `Fields` and create the following fields in the following order.
+	* Radical
+	* Strokes
+	* Grade
+	* Meaning
+	* Meanings
+	* Onyomis
+	* Kunyomis
+	* Examples
+4. That's all.  You now have a note type with eight fields: one for each piece of information that shows up on a kanji flash card.
+
+
 Importing the deck into Anki
 ============================
 
