@@ -83,10 +83,10 @@ Styling the deck
 ````
 7. In `Styling`, enter the following.
 ````CSS
-.card { font-family: arial; font-size: 20px; text-align: center; color: black; background-color: white; }
-.literal { color: blue; font-size: 150%; }
-.strokes { float: left; font-size: 50%; color: #ff66ff; }
-.grade { float: right; font-size: 50%; color: gray; }
+.card { font-family: arial; font-size: 30px; text-align: center; color: black; background-color: white; }
+.literal { color: blue; font-size: 200%; }
+.strokes { float: left; font-size: 75%; color: #ff66ff; }
+.grade { float: right; font-size: 75%; color: gray; }
 .meaning { color: green; }
 .meanings { color: #6699cc; }
 .onyomis { color: orange; font-size: 75%; }
