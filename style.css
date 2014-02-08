@@ -1,14 +1,24 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
 .literal {
 color: blue;
 font-size: 150%;
 }
 
-.stroke_count {
+.strokes {
+float: left;
 font-size: 50%;
 color: #ff66ff;
 }
 
 .grade {
+float: right;
 font-size: 50%;
 color: gray;
 }
@@ -17,7 +27,7 @@ color: gray;
 color: green;
 }
 
-.extra_meanings {
+.meanings {
 color: #6699cc;
 }
 
@@ -31,6 +41,6 @@ color: red;
 font-size: 75%;
 }
 
-.example {
+.examples {
 font-size: 75%;
 }

@@ -66,11 +66,29 @@ Once you have a deck you need to import it.
 
 To make the deck visually appealing, we need to modify the styling of it.
 
+
+Styling the deck
+================
+
 1. Browse to the deck.
 2. Select a card from it.
 3. Click on `Cards...`.  A style editing window opens.
 4. We need to enter new styling information in the `Styling` box on the left side.  Some styling information is already specified.  Copy the contents of `style.css` below anything that's already there.
-5. If you want to change the styling yourself, you can do it here at any time.
+5. By default, only two of the eight information fields are displayed.  We need to enable the other six....
+6. In `Front Template`, enter the following.
+    <span class="literal">{{Literal}}</span>
+    <span class="strokes">{{Strokes}}</span>
+    <span class="grade">{{Grade}}</span>
+7. In `Back Template`, enter the following.
+    {{FrontSide}}
+    
+    <hr id=answer>
+    
+    <div class="meaning">{{Meaning}}</div>
+    <div class="meanings">{{Meanings}}</div>
+    <div class="onyomis">{{Onyomis}}</div>
+    <div class="kunyomis">{{Kunyomis}}</div>
+    <div class="examples">{{Examples}}</div>
 
 You are ready to go.  Have fun studying!
 
