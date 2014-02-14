@@ -94,7 +94,7 @@ class Wordfreq
 	# The maximum kanji count for a sample word.
 	Max_example_word_width = 3
 
-	# Creates an Edict.
+	# Creates a Wordfreq.
 	def initialize
 		verbose 'Parsing wordfreq_ck.txt ...'
 		path = Script_dir + '/wordfreq_ck.txt'
