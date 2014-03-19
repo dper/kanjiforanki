@@ -60,7 +60,7 @@ Before importing the deck into Anki, it may be necessary to tell Anki what infor
 * Click on `Tools / Manage Note Types...`.
 * Create a new note type and call it "Kanji".  This can be done using `Add` followed by `Rename`.
 * Click on `Fields` and create the following fields in the following order.  No other fields are desired.  Rename or remove them as necessary.
-	* Radical
+	* Literal
 	* Strokes
 	* Grade
 	* Meaning
@@ -83,7 +83,7 @@ Once you have a deck you need to import it.
 * Make sure `Fields separated by: Tab` is displayed.
 * There should be eight fields, and each should be mapped to one of the fields created above.  You should see the following.
 ````
-Field 1 of file is: mapped to Radical
+Field 1 of file is: mapped to Literal
 Field 2 of file is: mapped to Strokes
 Field 3 of file is: mapped to Grade
 Field 4 of file is: mapped to Meaning 
@@ -105,7 +105,7 @@ To make the deck visually appealing, we need to modify the styling of it.
 * Browse to the deck.
 * Select a card from it.
 * Click on `Cards...`.  A style editing window opens.
-* We need to enter new styling information in the `Styling` box on the left side.  Some styling information is already specified.  Copy the contents of `style.css` below anything that's already there.
+* We need to enter new styling information in the `Styling` box on the left side.
 * By default, only two of the eight information fields are displayed.  We need to enable the other six....
 * In `Front Template`, enter the following.
 ````HTML
@@ -115,15 +115,52 @@ To make the deck visually appealing, we need to modify the styling of it.
 ````
 * In `Styling`, enter the following.
 ````CSS
-.card { font-family: arial; font-size: 30px; text-align: center; color: black; background-color: white; }
-.literal { color: blue; font-size: 200%; }
-.strokes { float: left; font-size: 75%; color: #ff66ff; }
-.grade { float: right; font-size: 75%; color: gray; }
-.meaning { color: green; }
-.meanings { color: #6699cc; }
-.onyomis { color: orange; font-size: 75%; }
-.kunyomis { color: red; font-size: 75%; }
-.examples { font-size: 75%; }
+.card {
+font-family: arial;
+font-size: 30px;
+text-align: center;
+color: black;
+background-color: white;
+}
+
+.literal {
+color: blue;
+font-size: 200%;
+}
+
+.strokes {
+float: left;
+font-size: 75%;
+color: #ff66ff;
+}
+
+.grade {
+float: right;
+font-size: 75%;
+color: gray;
+}
+
+.meaning {
+color: green;
+}
+
+.meanings {
+color: #6699cc;
+}
+
+.onyomis {
+color: orange;
+font-size: 75%;
+}
+
+.kunyomis {
+color: red;
+font-size: 75%;
+}
+
+.examples {
+font-size: 75%;
+}
 ````
 * In `Back Template`, enter the following.
 ````HTML
