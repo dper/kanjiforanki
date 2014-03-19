@@ -52,7 +52,7 @@ To run the script, simply call `kanjiforanki.rb`.  Here's an example of generati
     Done writing.
 
 
-Creating the note type
+Creating the Note Type
 ======================
 
 Before importing the deck into Anki, it may be necessary to tell Anki what information it should be looking for during the import.  This is a little technical, but nothing tricky is going on, so have no fear.
@@ -71,7 +71,7 @@ Before importing the deck into Anki, it may be necessary to tell Anki what infor
 * That's all.  You now have a note type with eight fields: one for each piece of information that shows up on a kanji flash card.
 
 
-Importing the deck into Anki
+Importing the Deck into Anki
 ============================
 
 Once you have a deck you need to import it.
@@ -98,7 +98,7 @@ That's all it takes to import the cards.
 
 
 
-Styling the deck
+Styling the Deck
 ================
 To make the deck visually appealing, we need to modify the styling of it.
 
