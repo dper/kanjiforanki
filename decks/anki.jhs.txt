@@ -1,7 +1,7 @@
 乙	✍1	中学	THE LATTER	duplicate, strange, witty, fishhook radical (no. 5)	オツ　イツ	おと-　きのと	早乙女 (さおとめ) - young female rice planter<br>乙女 (おとめ) - little girl<br>甲乙 (こうおつ) - A and B
 了	✍2	中学	COMPLETE	finish	リョウ		終了 (しゅうりょう) - end<br>了承 (りょうしょう) - acknowledgment<br>終了後 (しゅうりょうご) - after the end (of something)
 又	✍2	中学	OR AGAIN	furthermore, on the other hand	ユウ	また　また-　また.の-	又は (または) - or<br>又も (またも) - again
-与	✍3	中学	BESTOW	participate in, give, award, impart, provide, cause, gift, godsend	ヨ	あた.える　あずか.る　くみ.する　ともに	与党 (よとう) - ruling party<br>与える (あたえる) - to give (esp. to someone of lower status)<br>与野党 (よやとう) - parties in and out of powe
+与	✍3	中学	BESTOW	participate in, give, award, impart, provide, cause, gift, godsend	ヨ	あた.える　あずか.る　くみ.する　ともに	与党 (よとう) - ruling party<br>与える (あたえる) - to give (esp. to someone of lower status)<br>与野党 (よやとう) - parties in and out of power
 及	✍3	中学	REACH OUT	exert, exercise, cause	キュウ	およ.ぶ　およ.び　および　およ.ぼす	及び (および) - and<br>及ぶ (およぶ) - to reach<br>追及 (ついきゅう) - investigation (e.g., into someone's guilt)
 丈	✍3	中学	LENGTH	10feet, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely	ジョウ	たけ　だけ	大丈夫 (だいじょうぶ) - safe<br>丈夫 (じょうふ) - hero<br>背丈 (せたけ) - stature
 刃	✍3	中学	BLADE	sword, edge	ジン　ニン	は　やいば　き.る	刃物 (はもの) - edged tool<br>刃渡り (はわたり) - length of a blade (sword, knife, etc.)<br>もろ刃 (もろは) - double-edged
@@ -15,7 +15,7 @@
 屯	✍4	中学	BARRACKS	police station, camp, ton	トン	たむろ	駐屯 (ちゅうとん) - stationing (troops)<br>屯田 (とんでん) - colonization<br>分屯地 (ぶんとんち) - vice-camp (military)
 介	✍4	中学	JAMMED IN	shellfish, mediate, concern oneself with	カイ		紹介 (しょうかい) - introduction<br>介入 (かいにゅう) - intervention<br>仲介 (ちゅうかい) - agency
 冗	✍4	中学	SUPERFLUOUS	uselessness	ジョウ		冗談 (じょうだん) - jest<br>冗舌 (じょうぜつ) - garrulity<br>冗長 (じょうちょう) - tedious
-凶	✍4	中学	VILLAIN	evil, bad luck, disaster	キョウ		凶作 (きょうさく) - bad harvest<br>凶悪 (きょうあく) - atrocious<br>元凶 (がんきょう) - ringleade
+凶	✍4	中学	VILLAIN	evil, bad luck, disaster	キョウ		凶作 (きょうさく) - bad harvest<br>凶悪 (きょうあく) - atrocious<br>元凶 (がんきょう) - ringleader
 刈	✍4	中学	REAP	cut, clip, trim, prune	ガイ　カイ	か.る	丸刈り (まるがり) - close clipping<br>刈る (かる) - to cut (hair)<br>草刈り (くさかり) - mowing
 匹	✍4	中学	EQUAL	head, counter for small animals, roll of cloth	ヒツ	ひき	匹敵 (ひってき) - comparing with<br>匹夫 (ひっぷ) - man<br>男一匹 (おとこいっぴき) - shining example of a man
 厄	✍4	中学	UNLUCKY	misfortune, bad luck, disaster	ヤク		厄介 (やっかい) - trouble<br>厄年 (やくどし) - unlucky year<br>災厄 (さいやく) - calamity
@@ -43,11 +43,11 @@
 汁	✍5	中学	SOUP	juice, broth, sap, gravy, pus	ジュウ	しる　-しる　つゆ	みそ汁 (みそしる) - miso soup<br>果汁 (かじゅう) - fruit juice<br>胆汁 (たんじゅう) - bile
 玄	✍5	中学	MYSTERIOUS	occultness	ゲン		玄関 (げんかん) - entranceway<br>玄米 (くろごめ) - unpolished rice<br>玄人 (くろうと) - expert
 甘	✍5	中学	SWEET	coax, pamper, be content, sugary	カン	あま.い　あま.える　あま.やかす　うま.い	甘い (あまい) - sweet-tasting<br>甘える (あまえる) - to behave like a spoiled child<br>甘え (あまえ) - lack of self-reliance
-矛	✍5	中学	HALBERD	arms, festival float	ム　ボウ	ほこ	矛盾 (むじゅん) - contradiction<br>矛先 (ほこさき) - point of spea
+矛	✍5	中学	HALBERD	arms, festival float	ム　ボウ	ほこ	矛盾 (むじゅん) - contradiction<br>矛先 (ほこさき) - point of spear
 込	✍5	中学	CROWDED	mixture, in bulk, included, kokuji		-こ.む　こ.む　こ.み　-こ.み　こ.める	込む (こむ) - to be crowded<br>見込み (みこみ) - hope<br>見込む (みこむ) - to anticipate
 弐	✍6	中学	II	two, second	ニ　ジ	ふた.つ　そえ	
 朱	✍6	中学	VERMILION	cinnabar, scarlet, red, bloody	シュ	あけ	朱印 (しゅいん) - red seal<br>朱塗り (しゅぬり) - painting something vermillion<br>朱書 (しゅしょ) - writing in red
-吏	✍6	中学	OFFICER	an official	リ		官吏 (かんり) - government official<br>能吏 (のうり) - able official<br>税関吏 (ぜいかんり) - customs office
+吏	✍6	中学	OFFICER	an official	リ		官吏 (かんり) - government official<br>能吏 (のうり) - able official<br>税関吏 (ぜいかんり) - customs officer
 劣	✍6	中学	INFERIORITY	be inferior to, be worse	レツ	おと.る	劣る (おとる) - to be inferior to<br>劣勢 (れっせい) - inferiority (e.g., numerical)<br>劣化 (れっか) - deterioration
 充	✍6	中学	ALLOT	fill	ジュウ	あ.てる　み.たす	充実 (じゅうじつ) - fullness<br>充てる (あてる) - to assign<br>拡充 (かくじゅう) - expansion
 妄	✍6	中学	DELUSION	unnecessarily, without authority, reckless	モウ　ボウ	みだ.りに	妄想 (ぼうそう) - wild idea<br>妄言 (ぼうげん) - reckless remark<br>虚妄 (きょもう) - falsehood
@@ -75,7 +75,7 @@
 江	✍6	中学	CREEK	inlet, bay	コウ	え	江戸 (えど) - old name of Tokyo<br>江戸川 (えどがわ) - Edo River<br>堀江 (ほりえ) - canal
 壮	✍6	中学	ROBUST	manhood, prosperity	ソウ	さかん	壮大 (そうだい) - magnificent<br>悲壮 (ひそう) - heroic<br>壮行 (そうこう) - rousing
 缶	✍6	中学	TIN CAN	container, jar radical (no. 121)	カン	かま	空き缶 (あきかん) - empty can<br>缶詰 (かんづめ) - packing (in cans)<br>缶詰め (かんづめ) - packing (in cans)
-肌	✍6	中学	TEXTURE	skin, body, grain	キ	はだ	肌寒い (はださむい) - chilly<br>山肌 (やまはだ) - mountain's surface<br>肌着 (はだぎ) - underwea
+肌	✍6	中学	TEXTURE	skin, body, grain	キ	はだ	肌寒い (はださむい) - chilly<br>山肌 (やまはだ) - mountain's surface<br>肌着 (はだぎ) - underwear
 舟	✍6	中学	BOAT	ship	シュウ	ふね　ふな-　-ぶね	小舟 (こぶね) - boat<br>助け舟 (たすけぶね) - lifeboat<br>舟橋 (ふなはし) - pontoon
 芋	✍6	中学	POTATO		ウ	いも	里芋 (さといも) - taro (Colocasia esculenta)<br>焼き芋 (やきいも) - roasted sweet potato<br>芋虫 (いもむし) - hornworm (caterpillar of a hawk moth)
 芝	✍6	中学	TURF	lawn	シ	しば	東芝 (とうしば) - Toshiba (company)<br>芝居 (しばい) - play<br>芝生 (しばふ) - lawn
@@ -86,11 +86,11 @@
 寿	✍7	中学	LONGEVITY	congratulations, one's natural life	ジュ　ス　シュウ	ことぶき　ことぶ.く　ことほ.ぐ	長寿 (ちょうじゅ) - longevity<br>寿命 (じゅみょう) - life span<br>恵比寿 (えびす) - Ebisu
 励	✍7	中学	ENCOURAGE	be diligent, inspire	レイ	はげ.む　はげ.ます	励ます (はげます) - to encourage<br>奨励 (しょうれい) - encouragement<br>激励 (げきれい) - encouragement
 含	✍7	中学	CONTAIN	include, hold in the mouth, bear in mind, understand, cherish	ガン	ふく.む　ふく.める	含める (ふくめる) - to include (in a group or scope)<br>含む (くくむ) - to contain<br>含み (ふくみ) - implication
-佐	✍7	中学	ASSISTANT	help	サ		補佐 (ほさ) - aid<br>大佐 (たいさ) - colonel<br>少佐 (しょうさ) - majo
+佐	✍7	中学	ASSISTANT	help	サ		補佐 (ほさ) - aid<br>大佐 (たいさ) - colonel<br>少佐 (しょうさ) - major
 伺	✍7	中学	PAY RESPECTS	visit, ask, inquire, question, implore	シ	うかが.う	伺う (うかがう) - to ask<br>伺い (うかがい) - call<br>進退伺 (しんたいうかがい) - informal resignation
 伸	✍7	中学	EXPAND	stretch, extend, lengthen, increase	シン	の.びる　の.ばす　の.べる　の.す	伸び (のび) - growth<br>伸びる (のびる) - to stretch<br>伸ばす (のばす) - to grow long (e.g., hair, nails)
 但	✍7	中学	HOWEVER	but	タン	ただ.し	但し (ただし) - but
-伯	✍7	中学	CHIEF	count, earl, uncle, Brazil	ハク		伯父 (えおじ) - uncle (one's father's older brother)<br>伯爵 (はくしゃく) - count<br>画伯 (がはく) - master painte
+伯	✍7	中学	CHIEF	count, earl, uncle, Brazil	ハク		伯父 (えおじ) - uncle (one's father's older brother)<br>伯爵 (はくしゃく) - count<br>画伯 (がはく) - master painter
 伴	✍7	中学	CONSORT	accompany, bring with, companion	ハン　バン	ともな.う	伴う (ともなう) - to accompany<br>伴奏 (ばんそう) - accompaniment<br>同伴 (どうはん) - to accompany
 呉	✍7	中学	GIVE	do something for, kingdom of Wu	ゴ	く.れる　くれ	呉服 (ごふく) - draperies<br>呉服屋 (ごふくや) - draper<br>呉れる (くれる) - to give
 克	✍7	中学	OVERCOME	kindly, skillfully	コク	か.つ	克明 (こくめい) - detailed<br>克己 (こっき) - self denial<br>相克 (そうこく) - rivalry
@@ -122,7 +122,7 @@
 抜	✍7	中学	SLIP OUT	extract, pull out, pilfer, quote, remove, omit	バツ　ハツ　ハイ	ぬ.く　-ぬ.く　ぬ.き　ぬ.ける　ぬ.かす　ぬ.かる	抜く (ぬく) - to extract<br>抜ける (ぬける) - to come out<br>抜き (ぬき) - without
 扶	✍7	中学	AID	help, assist	フ	たす.ける	扶助 (ふじょ) - aid<br>扶桑 (ふそう) - land east of China<br>扶持 (ふち) - ration
 抑	✍7	中学	REPRESS	well, now, in the first place, push, shove, press, seal, do in spite of	ヨク	おさ.える	抑える (おさえる) - to pin something down<br>抑制 (よくせい) - control<br>抑留 (よくりゅう) - internment
-杉	✍7	中学	CEDAR	cryptomeria	サン	すぎ	小杉 (こすぎ) - small cedar<br>杉林 (すぎばやし) - cryptomeria forest<br>杉戸 (すぎど) - door made of ceda
+杉	✍7	中学	CEDAR	cryptomeria	サン	すぎ	小杉 (こすぎ) - small cedar<br>杉林 (すぎばやし) - cryptomeria forest<br>杉戸 (すぎど) - door made of cedar
 沖	✍7	中学	OPEN SEA	offing, rise high into sky	チュウ	おき　おきつ　ちゅう.する　わく	沖縄 (おきなわ) - Okinawa (prefecture)<br>沖合 (おきあい) - coast<br>沖積 (ちゅうせき) - alluvial
 沢	✍7	中学	SWAMP	marsh, brilliance, grace	タク	さわ　うるお.い　うるお.す　つや	光沢 (こうたく) - brilliance<br>沢辺 (さわべ) - edge of a swamp<br>贅沢 (ぜいたく) - luxury
 沈	✍7	中学	SINK	be submerged, subside, be depressed, aloes	チン　ジン	しず.む　しず.める	沈黙 (ちんもく) - silence<br>沈む (しずむ) - to sink<br>沈静化 (ちんせいか) - calming down
@@ -159,9 +159,9 @@
 屈	✍8	中学	YIELD	bend, flinch, submit	クツ	かが.む　かが.める	理屈 (りくつ) - theory<br>屈辱 (くつじょく) - disgrace<br>屈指 (くっし) - leading
 岬	✍8	中学	HEADLAND	cape, spit, promontory	コウ	みさき	
 弦	✍8	中学	BOWSTRING	chord, hypotenuse	ゲン	つる	弦楽 (げんがく) - music for strings<br>管弦楽 (かんげんがく) - orchestral music<br>弦楽器 (げんがっき) - stringed instruments
-征	✍8	中学	SUBJUGATE	attack the rebellious, collect taxes	セイ		遠征 (えんせい) - expedition<br>征服 (せいふく) - conquest<br>出征 (しゅっせい) - going to wa
+征	✍8	中学	SUBJUGATE	attack the rebellious, collect taxes	セイ		遠征 (えんせい) - expedition<br>征服 (せいふく) - conquest<br>出征 (しゅっせい) - going to war
 彼	✍8	中学	HE	that, the	ヒ	かれ　かの　か.の	彼女 (かのじょ) - she<br>彼氏 (かれし) - boyfriend<br>彼岸花 (ひがんばな) - red spider lily (Lycoris radiata)
-怪	✍8	中学	SUSPICIOUS	mystery, apparition	カイ　ケ	あや.しい　あや.しむ	怪獣 (かいじゅう) - monster<br>妖怪 (ようかい) - ghost<br>怪物 (かいぶつ) - monste
+怪	✍8	中学	SUSPICIOUS	mystery, apparition	カイ　ケ	あや.しい　あや.しむ	怪獣 (かいじゅう) - monster<br>妖怪 (ようかい) - ghost<br>怪物 (かいぶつ) - monster
 怖	✍8	中学	DREADFUL	be frightened, fearful	フ　ホ	こわ.い　こわ.がる　お.じる　おそ.れる	怖い (こわい) - scary<br>恐怖 (きょうふ) - fear<br>怖がる (こわがる) - to be afraid of
 肩	✍8	中学	SHOULDER		ケン	かた	肩書 (かたがき) - title<br>肩入れ (かたいれ) - support<br>肩身 (かたみ) - shoulders
 房	✍8	中学	TASSEL	tuft, fringe, bunch, lock (hair), segment (orange), house, room	ボウ	ふさ	官房 (かんぼう) - government secretariat<br>書房 (しょぼう) - library<br>女房 (にゅうぼう) - wife (esp. one's own wife)
@@ -198,13 +198,13 @@
 炊	✍8	中学	COOK	boil	スイ	た.く　-だ.き	炊く (たく) - to cook (grains, e.g., rice)<br>炊飯器 (すいはんき) - rice cooker<br>炊事 (すいじ) - cooking
 炉	✍8	中学	HEARTH	furnace, kiln, reactor	ロ	いろり	原子炉 (げんしろ) - atomic reactor<br>炉心 (ろしん) - nuclear reactor core<br>高炉 (こうろ) - blast furnace
 邪	✍8	中学	WICKED	injustice, wrong	ジャ	よこし.ま	風邪 (かぜ) - common cold<br>邪魔 (じゃま) - hindrance<br>無邪気 (むじゃき) - innocence
-祈	✍8	中学	PRAY	wish	キ	いの.る	祈る (いのる) - to pray<br>祈り (いのり) - prayer<br>祈念 (きねん) - praye
+祈	✍8	中学	PRAY	wish	キ	いの.る	祈る (いのる) - to pray<br>祈り (いのり) - prayer<br>祈念 (きねん) - prayer
 祉	✍8	中学	WELFARE	happiness	シ		福祉 (ふくし) - welfare
 突	✍8	中学	STAB	protruding, thrust, pierce, prick, collision, sudden	トツ　カ	つ.く	突然 (とつぜん) - abrupt<br>衝突 (しょうとつ) - collision<br>突破 (とっぱ) - breaking through
 肢	✍8	中学	LIMB	arms & legs	シ		選択肢 (せんたくし) - choices<br>肢体 (したい) - limbs<br>四肢 (しし) - limbs
 肪	✍8	中学	OBESE	fat	ボウ		脂肪 (しぼう) - fat<br>脂肪酸 (しぼうさん) - fatty acid
 到	✍8	中学	ARRIVAL	proceed, reach, attain, result in	トウ	いた.る	到着 (とうちゃく) - arrival<br>殺到 (さっとう) - rush<br>到達 (とうたつ) - reaching
-茎	✍8	中学	STALK	stem	ケイ　キョウ	くき	歯茎 (はぐき) - gums<br>地下茎 (ちかけい) - rhizome<br>塊茎 (かいけい) - tube
+茎	✍8	中学	STALK	stem	ケイ　キョウ	くき	歯茎 (はぐき) - gums<br>地下茎 (ちかけい) - rhizome<br>塊茎 (かいけい) - tuber
 苗	✍8	中学	SEEDLING	sapling, shoot	ビョウ　ミョウ	なえ　なわ-	早苗 (さなえ) - rice seedlings<br>苗木 (なえぎ) - seedling<br>種苗 (しゅびょう) - seeds and seedlings
 茂	✍8	中学	OVERGROWN	grow thick, be luxuriant	モ	しげ.る	茂る (しげる) - to grow thickly<br>茂み (しげみ) - thicket<br>繁茂 (はんも) - luxuriant growth
 迭	✍8	中学	TRANSFER	alternation	テツ		更迭 (こうてつ) - change
@@ -222,7 +222,7 @@
 卑	✍9	中学	LOWLY	base, vile, vulgar	ヒ	いや.しい　いや.しむ　いや.しめる	卑劣 (ひれつ) - mean<br>卑屈 (ひくつ) - menial<br>卑下 (ひげ) - self-abasement
 哀	✍9	中学	PATHETIC	grief, sorrow, pathos, pity, sympathize	アイ	あわ.れ　あわ.れむ　かな.しい	哀悼 (あいとう) - condolence<br>悲哀 (ひあい) - sorrow<br>哀れ (あわれ) - pity
 亭	✍9	中学	PAVILION	restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name	テイ　チン		料亭 (りょうてい) - ryotei<br>亭主 (ていしゅ) - household head<br>旅亭 (りょてい) - hotel
-帝	✍9	中学	SOVEREIGN	the emperor, god, creator	テイ	みかど	帝国 (ていこく) - empire<br>帝京 (ていきょう) - the capital<br>皇帝 (おうだい) - empero
+帝	✍9	中学	SOVEREIGN	the emperor, god, creator	テイ	みかど	帝国 (ていこく) - empire<br>帝京 (ていきょう) - the capital<br>皇帝 (おうだい) - emperor
 侯	✍9	中学	MARQUIS	lord, daimyo	コウ		侯爵 (こうしゃく) - marquis<br>王侯 (おうこう) - king and princes<br>諸侯 (しょこう) - princes
 俊	✍9	中学	SAGACIOUS	genius, excellence	シュン		俊彦 (しゅんげん) - gifted man<br>俊足 (しゅんそく) - fast runner<br>英俊 (えいしゅん) - a genius
 侵	✍9	中学	ENCROACH	invade, raid, trespass, violate	シン	おか.す	侵略 (しんりゃく) - aggression<br>侵害 (しんがい) - infringement<br>侵攻 (しんこう) - invasion
@@ -250,8 +250,8 @@
 恒	✍9	中学	CONSTANCY	always	コウ	つね　つねに	恒例 (こうれい) - established practice<br>恒久 (こうきゅう) - permanent<br>恒常 (こうじょう) - constancy
 恨	✍9	中学	REGRET	bear a grudge, resentment, malice, hatred	コン	うら.む　うら.めしい	恨み (うらみ) - resentment<br>恨む (うらむ) - to resent<br>痛恨 (つうこん) - regretful
 怒	✍9	中学	ANGRY	be offended	ド　ヌ	いか.る　おこ.る	怒り (いかり) - anger<br>怒る (いかる) - to get angry<br>怒鳴る (どなる) - to shout
-威	✍9	中学	INTIMIDATE	dignity, majesty, menace, threaten	イ	おど.す　おど.し　おど.かす	脅威 (きょうい) - threat<br>権威 (けんい) - authority<br>威力 (いりょく) - powe
-括	✍9	中学	FASTEN	tie up, arrest, constrict	カツ	くく.る	包括 (ほうかつ) - inclusion<br>総括 (そうかつ) - synthesis<br>一括 (いっかつ) - all togethe
+威	✍9	中学	INTIMIDATE	dignity, majesty, menace, threaten	イ	おど.す　おど.し　おど.かす	脅威 (きょうい) - threat<br>権威 (けんい) - authority<br>威力 (いりょく) - power
+括	✍9	中学	FASTEN	tie up, arrest, constrict	カツ	くく.る	包括 (ほうかつ) - inclusion<br>総括 (そうかつ) - synthesis<br>一括 (いっかつ) - all together
 挟	✍9	中学	PINCH	between	キョウ　ショウ	はさ.む　はさ.まる　わきばさ.む　さしはさ.む	挟む (さしはさむ) - to insert<br>挟まる (はさまる) - to get between<br>挟殺 (きょうさつ) - rundown
 拷	✍9	中学	TORTURE	beat	ゴウ		拷問 (ごうもん) - torture
 挑	✍9	中学	CHALLENGE	contend for, make love to	チョウ	いど.む	挑戦 (ちょうせん) - challenge<br>挑む (いどむ) - to challenge<br>挑発 (ちょうはつ) - provocation
@@ -264,12 +264,12 @@
 柳	✍9	中学	WILLOW		リュウ	やなぎ	川柳 (かわやぎ) - riverside willow<br>青柳 (あおやぎ) - green willow (i.e., one that has budded)<br>花柳 (かりゅう) - red-light district
 皆	✍9	中学	ALL	everything	カイ	みな　みんな	皆さん (みなさん) - all<br>皆様 (みなさま) - everyone<br>皆無 (かいむ) - nonexistent
 洪	✍9	中学	DELUGE	flood, vast	コウ		洪水 (こうずい) - flood<br>洪積世 (こうせきせい) - diluvial epoch<br>洪積 (こうせき) - diluvial epoch (geol.)
-浄	✍9	中学	CLEAN	purify, cleanse, exorcise, Manchu Dynasty	ジョウ　セイ	きよ.める　きよ.い	浄化 (じょうか) - purification<br>洗浄 (せんじょう) - washing<br>浄水 (じょうすい) - clean wate
+浄	✍9	中学	CLEAN	purify, cleanse, exorcise, Manchu Dynasty	ジョウ　セイ	きよ.める　きよ.い	浄化 (じょうか) - purification<br>洗浄 (せんじょう) - washing<br>浄水 (じょうすい) - clean water
 津	✍9	中学	HAVEN	port, harbor, ferry	シン	つ	津波 (つなみ) - tsunami<br>天津 (あまつ) - heavenly<br>山津波 (やまつなみ) - landslide
 洞	✍9	中学	DEN	cave, excavation	ドウ	ほら	空洞 (くうどう) - cave<br>曹洞宗 (そうとうしゅう) - Soto school (of Zen Buddhism)<br>洞察 (どうさつ) - discernment
 牲	✍9	中学	ANIMAL SACRIFICE	offering	セイ		犠牲者 (ぎせいしゃ) - victim<br>犠牲 (ぎせい) - victim<br>犠牲的 (ぎせいてき) - self-sacrificing
 狭	✍9	中学	CRAMPED	narrow, contract, tight	キョウ　コウ	せま.い　せば.める　せば.まる　さ	狭い (せまい) - narrow<br>狭める (せばめる) - to narrow<br>狭心症 (きょうしんしょう) - heart attack
-狩	✍9	中学	HUNT	raid, gather	シュ	か.る　か.り　-が.り	狩猟 (しゅりょう) - hunting<br>狩り (かり) - hunting<br>狩人 (かりうど) - hunte
+狩	✍9	中学	HUNT	raid, gather	シュ	か.る　か.り　-が.り	狩猟 (しゅりょう) - hunting<br>狩り (かり) - hunting<br>狩人 (かりうど) - hunter
 珍	✍9	中学	RARE	curious, strange	チン	めずら.しい　たから	珍しい (めずらしい) - unusual<br>珍重 (ちんちょう) - prizing<br>珍味 (ちんみ) - delicacy
 某	✍9	中学	SO-AND-SO	one, a certain, that person	ボウ	それがし　なにがし	某氏 (ぼうし) - certain person<br>何某 (なにがし) - certain person
 疫	✍9	中学	EPIDEMIC		エキ　ヤク		免疫 (めんえき) - immunity<br>検疫 (けんえき) - quarantine<br>検疫所 (けんえきしょ) - quarantine station
@@ -292,10 +292,10 @@
 郊	✍9	中学	OUTSKIRTS	suburbs, rural area	コウ		郊外 (こうがい) - suburb<br>近郊 (きんこう) - suburbs<br>北郊 (ほっこう) - northern suburbs
 郎	✍9	中学	SON	counter for sons	ロウ　リョウ	おとこ	三郎 (さぶろう) - third son<br>新郎 (しんろう) - bridegroom<br>野郎 (やろう) - guy
 香	✍9	中学	INCENSE	smell, perfume	コウ　キョウ	か　かお.り　かお.る	香港 (ほんこん) - Hong Kong (China)<br>香り (かおり) - aroma<br>香水 (こうすい) - perfume
-剛	✍10	中学	STURDY	strength	ゴウ		金剛 (こんごう) - vajra (indestructible substance)<br>剛毅 (ごうき) - fortitude<br>剛健 (ごうけん) - vigou
+剛	✍10	中学	STURDY	strength	ゴウ		金剛 (こんごう) - vajra (indestructible substance)<br>剛毅 (ごうき) - fortitude<br>剛健 (ごうけん) - vigour
 衰	✍10	中学	DECLINE	wane, weaken	スイ	おとろ.える	衰える (おとろえる) - to become weak<br>老衰 (ろうすい) - senility<br>衰退 (すいたい) - decline
 畝	✍10	中学	FURROW	30 tsubo, ridge, rib	ボウ　ホ　モ　ム	せ　うね	
-恋	✍10	中学	ROMANCE	in love, yearn for, miss, darling	レン	こ.う　こい　こい.しい	恋人 (こいびと) - lover<br>恋愛 (れんあい) - love<br>恋しい (こいしい) - yearned fo
+恋	✍10	中学	ROMANCE	in love, yearn for, miss, darling	レン	こ.う　こい　こい.しい	恋人 (こいびと) - lover<br>恋愛 (れんあい) - love<br>恋しい (こいしい) - yearned for
 倹	✍10	中学	FRUGAL	economy, thrifty	ケン	つま.しい　つづまやか	倹約 (けんやく) - thrift<br>倹約家 (けんやくか) - thrifty person<br>勤倹 (きんけん) - industry
 倒	✍10	中学	OVERTHROW	fall, collapse, drop, break down	トウ	たお.れる　-だお.れ　たお.す　さかさま　さかさ　さかしま	倒れる (たおれる) - to fall<br>倒産 (とうさん) - bankruptcy<br>圧倒的 (あっとうてき) - overwhelming
 倣	✍10	中学	EMULATE	imitate	ホウ	なら.う	模倣 (もほう) - imitation<br>倣う (ならう) - to imitate<br>摸倣 (もほう) - imitation
@@ -303,7 +303,7 @@
 倫	✍10	中学	ETHICS	companion	リン		倫理 (りんり) - ethics<br>不倫 (ふりん) - adultery<br>倫理的 (りんりてき) - ethical
 翁	✍10	中学	VENERABLE OLD MAN		オウ	おきな	
 兼	✍10	中学	CONCURRENTLY	and, beforehand, in advance	ケン	か.ねる　-か.ねる	兼ねる (かねる) - to be unable to<br>兼務 (けんむ) - holding two posts concurrently<br>兼任 (けんにん) - concurrent post
-准	✍10	中学	QUASI-	semi-, associate	ジュン		批准 (ひじゅん) - ratification<br>准将 (じゅんしょう) - commodore<br>准尉 (じゅんい) - warrant office
+准	✍10	中学	QUASI-	semi-, associate	ジュン		批准 (ひじゅん) - ratification<br>准将 (じゅんしょう) - commodore<br>准尉 (じゅんい) - warrant officer
 凍	✍10	中学	FROZEN	congeal, refrigerate	トウ	こお.る　こご.える　こご.る　い.てる　し.みる	凍結 (とうけつ) - freeze (e.g., program, food, etc.)<br>冷凍 (れいとう) - freezing<br>凍る (こおる) - to freeze
 剣	✍10	中学	SABRE	sword, blade, clock hand	ケン	つるぎ	真剣 (しんけん) - seriousness<br>剣道 (けんどう) - kendo<br>剣士 (けんし) - swordsman
 剖	✍10	中学	DIVIDE		ボウ		解剖 (かいぼう) - dissection<br>解剖学 (かいぼうがく) - anatomy<br>剖検 (ぼうけん) - autopsy
@@ -318,16 +318,16 @@
 娯	✍10	中学	RECREATION	pleasure	ゴ		娯楽 (ごらく) - pleasure
 娠	✍10	中学	WITH CHILD	pregnancy	シン		妊娠 (にんしん) - conception
 姫	✍10	中学	PRINCESS		キ	ひめ　ひめ-	舞姫 (ぶき) - female dancer<br>歌姫 (うたひめ) - songstress<br>乙姫 (おとひめ) - youngest princess
-娘	✍10	中学	DAUGHTER	girl	ジョウ	むすめ　こ	一人娘 (ひとりむすめ) - only daughter<br>娘婿 (むすめむこ) - son-in-law<br>孫娘 (まごむすめ) - granddaughte
+娘	✍10	中学	DAUGHTER	girl	ジョウ	むすめ　こ	一人娘 (ひとりむすめ) - only daughter<br>娘婿 (むすめむこ) - son-in-law<br>孫娘 (まごむすめ) - granddaughter
 宴	✍10	中学	BANQUET	feast, party	エン	うたげ	宴会 (えんかい) - party<br>宴席 (えんせき) - banquet<br>饗宴 (きょうえん) - feast
-宰	✍10	中学	SUPERINTEND	manager, rule	サイ		主宰 (しゅさい) - supervision<br>宰相 (さいしょう) - prime ministe
+宰	✍10	中学	SUPERINTEND	manager, rule	サイ		主宰 (しゅさい) - supervision<br>宰相 (さいしょう) - prime minister
 宵	✍10	中学	WEE HOURS	evening, early night	ショウ	よい	今宵 (こよい) - this evening<br>宵待草 (よいまちぐさ) - evening primrose<br>宵越し (よいごし) - overnight
 峰	✍10	中学	SUMMIT	peak	ホウ	みね　ね	最高峰 (さいこうほう) - highest peak<br>連峰 (れんぽう) - mountain range<br>高峰 (こうほう) - high mountain
 貢	✍10	中学	TRIBUTE	support, finance	コウ　ク	みつ.ぐ	貢献 (こうけん) - contribution (furthering a goal or cause)<br>朝貢 (ちょうこう) - bringing tribute<br>貢ぐ (みつぐ) - to support
 唐	✍10	中学	T'ANG	China, foreign	トウ	から	唐突 (とうとつ) - abrupt<br>遣唐使 (けんとうし) - envoy (to T'ang China)<br>唐人 (からびと) - Chinese person
 徐	✍10	中学	GRADUALLY	slowly, deliberately, gently	ジョ	おもむ.ろに	徐行 (じょこう) - going slowly<br>徐々 (じょじょ) - gradually
 悦	✍10	中学	ECSTASY	joy, rapture	エツ	よろこ.ぶ　よろこ.ばす	満悦 (まんえつ) - great delight<br>悦楽 (えつらく) - enjoyment<br>愉悦 (ゆえつ) - joy
-恐	✍10	中学	FEAR	dread, awe	キョウ	おそ.れる　おそ.る　おそ.ろしい　こわ.い　こわ.がる	恐れ (おそれ) - fear<br>恐れる (おそれる) - to fear<br>恐怖 (きょうふ) - fea
+恐	✍10	中学	FEAR	dread, awe	キョウ	おそ.れる　おそ.る　おそ.ろしい　こわ.い　こわ.がる	恐れ (おそれ) - fear<br>恐れる (おそれる) - to fear<br>恐怖 (きょうふ) - fear
 恭	✍10	中学	RESPECT	reverent	キョウ	うやうや.しい	恭順 (きょうじゅん) - allegiance<br>恭しい (うやうやしい) - respectful
 恵	✍10	中学	FAVOR	blessing, grace, kindness	ケイ　エ	めぐ.む　めぐ.み	知恵 (ちえ) - wisdom<br>恩恵 (おんけい) - grace<br>最恵国 (さいけいこく) - most favored nation
 悟	✍10	中学	ENLIGHTENMENT	perceive, discern, realize, understand	ゴ	さと.る	覚悟 (かくご) - resolution<br>悟る (さとる) - to perceive<br>悟り (さとり) - comprehension
@@ -337,7 +337,7 @@
 捜	✍10	中学	SEARCH	look for, locate	ソウ　シュ　シュウ	さが.す	捜査 (そうさ) - search (esp. in criminal investigations)<br>特捜 (とくそう) - special investigation<br>捜す (さがす) - to search (for something desired, needed)
 挿	✍10	中学	INSERT	put in, graft, wear (sword)	ソウ	さ.す　はさ.む	挿入 (そうにゅう) - insertion<br>挿絵 (さしえ) - illustration (book, etc.)<br>挿話 (そうわ) - episode
 捕	✍10	中学	CATCH	capture	ホ	と.らえる　と.らわれる　と.る　とら.える　とら.われる　つか.まえる　つか.まる	逮捕 (たいほ) - arrest<br>捕鯨 (ほげい) - whaling<br>捕虜 (ほりょ) - prisoner (of war)
-敏	✍10	中学	CLEVERNESS	agile, alert	ビン	さとい	敏感 (びんかん) - sensibility<br>過敏 (かびん) - nervousness<br>機敏 (きびん) - cleve
+敏	✍10	中学	CLEVERNESS	agile, alert	ビン	さとい	敏感 (びんかん) - sensibility<br>過敏 (かびん) - nervousness<br>機敏 (きびん) - clever
 核	✍10	中学	NUCLEUS	core, kernel	カク		核兵器 (かくへいき) - nuclear weapons<br>中核 (ちゅうかく) - kernel<br>核実験 (かくじっけん) - nuclear (bomb) test
 桟	✍10	中学	SCAFFOLD	cleat, frame, jetty, bolt (door)	サン　セン	かけはし	桟橋 (さんきょう) - wharf<br>桟敷 (さじき) - reviewing stand
 栓	✍10	中学	PLUG	bolt, cork, bung, stopper	セン		血栓 (けっせん) - thrombus<br>脳血栓 (のうけっせん) - cerebral thrombosis<br>消火栓 (しょうかせん) - fire hydrant
@@ -363,12 +363,12 @@
 祥	✍10	中学	AUSPICIOUS	happiness, blessedness, good omen, good fortune	ショウ	さいわ.い　きざ.し　よ.い　つまび.らか	不祥事 (ふしょうじ) - scandal<br>発祥 (はっしょう) - origin<br>不祥 (ふしょう) - disgraceful
 称	✍10	中学	APPELLATION	praise, admire, name, title, fame	ショウ	たた.える　とな.える　あ.げる　かな.う　はか.り　はか.る　ほめ.る	名称 (めいしょう) - name<br>敬称 (けいしょう) - title of honor<br>仮称 (かしょう) - temporary name
 租	✍10	中学	TARIFF	crop tax, borrowing	ソ		租税 (そぜい) - taxes<br>租界 (そかい) - concession<br>地租 (ちそ) - land tax
-秩	✍10	中学	REGULARITY	salary, order	チツ		秩序 (ちつじょ) - order<br>無秩序 (むちつじょ) - disorde
+秩	✍10	中学	REGULARITY	salary, order	チツ		秩序 (ちつじょ) - order<br>無秩序 (むちつじょ) - disorder
 粋	✍10	中学	CHIC	style, purity, essence, pith, cream, elite, choice	スイ	いき	純粋 (じゅんすい) - pure<br>抜粋 (ばっすい) - extract<br>生粋 (きっすい) - pure
 紛	✍10	中学	DISTRACT	be mistaken for, go astray, divert	フン	まぎ.れる　-まぎ.れ　まぎ.らす　まぎ.らわす　まぎ.らわしい	紛争 (ふんそう) - dispute<br>紛糾 (ふんきゅう) - complication<br>紛失 (ふんしつ) - losing something
 紡	✍10	中学	SPINNING		ボウ	つむ.ぐ	紡績 (ぼうせき) - spinning<br>紡ぐ (つむぐ) - to spin<br>紡織 (ぼうしょく) - spinning and weaving
 紋	✍10	中学	FAMILY CREST	figures	モン		波紋 (はもん) - ripple<br>指紋 (しもん) - fingerprint<br>紋章 (もんしょう) - crest
-耗	✍10	中学	DECREASE		モウ　コウ　カウ		消耗 (しょうこう) - exhaustion<br>消耗品 (しょうもうひん) - consumable goods<br>摩耗 (まもう) - wea
+耗	✍10	中学	DECREASE		モウ　コウ　カウ		消耗 (しょうこう) - exhaustion<br>消耗品 (しょうもうひん) - consumable goods<br>摩耗 (まもう) - wear
 恥	✍10	中学	SHAME	dishonor	チ	は.じる　はじ　は.じらう　は.ずかしい	恥じる (はじる) - to feel ashamed<br>羞恥 (しゅうち) - shyness<br>恥辱 (ちじょく) - disgrace
 脂	✍10	中学	FAT	grease, tallow, lard, rosin, gum, tar	シ	あぶら	脂肪 (しぼう) - fat<br>樹脂 (じゅし) - resin<br>脂質 (ししつ) - lipid
 朕	✍10	中学	MAJESTIC PLURAL	imperial we	チン		
@@ -418,13 +418,13 @@
 崎	✍11	中学	PROMONTORY	cape, spit	キ	さき　さい　みさき	川崎 (かわさき) - Kawasaki (city)<br>長崎 (ながさき) - Nagasaki (city)<br>川崎病 (かわさきびょう) - Kawasaki disease
 崇	✍11	中学	ADORE	respect, revere, worship	スウ	あが.める	崇拝 (すうはい) - worship<br>崇高 (しゅうこう) - loftiness<br>尊崇 (そんすう) - reverence
 崩	✍11	中学	CRUMBLE	die, demolish, level	ホウ	くず.れる　-くず.れ　くず.す	崩壊 (ほうかい) - collapse<br>崩れる (くずれる) - to collapse<br>崩す (くずす) - to destroy
-庶	✍11	中学	COMMONER	all, bastard	ショ		庶民 (しょみん) - masses<br>庶務 (しょむ) - general affairs<br>庶民的 (しょみんてき) - popula
+庶	✍11	中学	COMMONER	all, bastard	ショ		庶民 (しょみん) - masses<br>庶務 (しょむ) - general affairs<br>庶民的 (しょみんてき) - popular
 庸	✍11	中学	COMMONPLACE	ordinary, employment	ヨウ		凡庸 (ぼんよう) - mediocre<br>中庸 (ちゅうよう) - middle way
-彩	✍11	中学	COLORING	paint, makeup	サイ	いろど.る	色彩 (しきさい) - color<br>多彩 (たさい) - variegated<br>彩る (いろどる) - to colo
+彩	✍11	中学	COLORING	paint, makeup	サイ	いろど.る	色彩 (しきさい) - color<br>多彩 (たさい) - variegated<br>彩る (いろどる) - to color
 患	✍11	中学	AFFLICTED	disease, suffer from, be ill	カン	わずら.う	患者 (かんじゃ) - patient<br>疾患 (しっかん) - disease<br>患う (わずらう) - to be ill
-惨	✍11	中学	WRETCHED	disaster, cruelty, harsh	サン　ザン	みじ.め　いた.む　むご.い	惨敗 (さんぱい) - ignominious defeat<br>悲惨 (ひさん) - disastrous<br>惨事 (さんじ) - disaste
+惨	✍11	中学	WRETCHED	disaster, cruelty, harsh	サン　ザン	みじ.め　いた.む　むご.い	惨敗 (さんぱい) - ignominious defeat<br>悲惨 (ひさん) - disastrous<br>惨事 (さんじ) - disaster
 惜	✍11	中学	PITY	be sparing of, frugal, stingy, regret	セキ	お.しい　お.しむ	惜しむ (おしむ) - to be frugal<br>惜しい (おしい) - regrettable<br>惜敗 (せきはい) - regrettable defeat
-悼	✍11	中学	LAMENT	grieve over	トウ	いた.む	追悼 (ついとう) - mourning (dead persons)<br>哀悼 (あいとう) - condolence<br>悼む (いたむ) - to grieve ove
+悼	✍11	中学	LAMENT	grieve over	トウ	いた.む	追悼 (ついとう) - mourning (dead persons)<br>哀悼 (あいとう) - condolence<br>悼む (いたむ) - to grieve over
 悠	✍11	中学	PERMANENCE	distant, long time, leisure	ユウ		悠々 (ゆうゆう) - quiet<br>悠久 (ゆうきゅう) - eternity<br>悠長 (ゆうちょう) - leisurely
 掛	✍11	中学	HANG	suspend, depend, arrive at, tax, pour	カイ　ケイ	か.ける　-か.ける　か.け　-か.け　-が.け　か.かる　-か.かる　-が.かる　か.かり　-が.かり　かかり　-がかり	掛ける (かける) - to hang (e.g., picture)<br>仕掛け (しかけ) - device<br>掛かる (かかる) - to take (a resource, e.g., time or money)
 掘	✍11	中学	DIG	delve, excavate	クツ	ほ.る	発掘 (はっくつ) - excavation<br>掘る (ほる) - to dig<br>掘削 (くっさく) - digging out
@@ -484,11 +484,11 @@
 郭	✍11	中学	ENCLOSURE	quarters, fortification, red-light district	カク	くるわ	輪郭 (りんかく) - contour<br>遊郭 (ゆうかく) - red light district<br>外郭 (がいかく) - outer wall (e.g., castle)
 酔	✍11	中学	DRUNK	feel sick, poisoned, elated, spellbound	スイ	よ.う　よ.い　よ	酔う (よう) - to get drunk<br>麻酔 (ますい) - anaesthesia<br>酔い (よい) - drunkenness
 釈	✍11	中学	EXPLANATION		シャク　セキ	とく　す.てる　ゆる.す	解釈 (かいしゃく) - explanation<br>釈放 (しゃくほう) - release<br>釈明 (しゃくめい) - explanation
-釣	✍11	中学	ANGLING	fish, catch, allure, ensnare	チョウ	つ.る　つ.り　つ.り-	釣り (つり) - fishing<br>釣る (つる) - to fish<br>釣り人 (つりびと) - angle
+釣	✍11	中学	ANGLING	fish, catch, allure, ensnare	チョウ	つ.る　つ.り　つ.り-	釣り (つり) - fishing<br>釣る (つる) - to fish<br>釣り人 (つりびと) - angler
 陰	✍11	中学	SHADE	yin, negative, sex organs, secret, shadow	イン	かげ　かげ.る	陰謀 (いんぼう) - plot<br>日陰 (ひかげ) - shade<br>陰口 (かげぐち) - malicious gossip
 陳	✍11	中学	EXHIBIT	state, relate, explain	チン	ひ.ねる	陳述 (ちんじゅつ) - statement<br>陳情 (ちんじょう) - petition<br>陳謝 (ちんしゃ) - apology
 陶	✍11	中学	POTTERY	porcelain	トウ		陶芸 (とうげい) - ceramic art<br>陶磁器 (とうじき) - porcelain<br>陶酔 (とうすい) - intoxication
-陪	✍11	中学	OBEISANCE	follow, accompany, attend on	バイ		陪審 (ばいしん) - jury<br>陪席 (ばいせき) - sitting with one's superio
+陪	✍11	中学	OBEISANCE	follow, accompany, attend on	バイ		陪審 (ばいしん) - jury<br>陪席 (ばいせき) - sitting with one's superior
 隆	✍11	中学	HUMP	high, noble, prosperity	リュウ		隆盛 (りゅうせい) - prosperity<br>隆起 (りゅうき) - protuberance<br>興隆 (こうりゅう) - rise
 陵	✍11	中学	MAUSOLEUM	imperial tomb, mound, hill	リョウ	みささぎ	丘陵 (きゅうりょう) - hill<br>陵虐 (りょうぎゃく) - humiliation<br>陵墓 (りょうぼ) - imperial tomb or mausoleum
 麻	✍11	中学	HEMP	flax	マ　マア	あさ	麻薬 (まやく) - narcotic drugs<br>麻布 (あさぬの) - hemp cloth<br>大麻 (おおあさ) - hemp
@@ -507,18 +507,18 @@
 堅	✍12	中学	STRICT	hard, solid, tough, tight, reliable	ケン	かた.い　-がた.い	中堅 (ちゅうけん) - main body (of troops)<br>堅持 (けんじ) - holding on to<br>堅調 (けんちょう) - bullish
 堕	✍12	中学	DEGENERATE	descend to, lapse into	ダ	お.ちる　くず.す　くず.れる	堕落 (だらく) - depravity<br>堕胎 (だたい) - abortion<br>堕す (だす) - to degenerate
 塚	✍12	中学	HILLOCK	mound	チョウ	つか　-づか	貝塚 (かいずか) - shell heap<br>一里塚 (いちりづか) - milestone (1 ri apart)<br>狐塚 (きつねづか) - foxhole
-堤	✍12	中学	DIKE	bank, embankment	テイ	つつみ	堤防 (ていぼう) - bank<br>防波堤 (ぼうはてい) - breakwater<br>突堤 (とってい) - breakwate
+堤	✍12	中学	DIKE	bank, embankment	テイ	つつみ	堤防 (ていぼう) - bank<br>防波堤 (ぼうはてい) - breakwater<br>突堤 (とってい) - breakwater
 塔	✍12	中学	PAGODA	tower, steeple	トウ		管制塔 (かんせいとう) - control tower<br>鉄塔 (てっとう) - pylon<br>仏塔 (ぶっとう) - pagoda
 塀	✍12	中学	FENCE	wall, kokuji	ヘイ　ベイ		土塀 (どべい) - mud wall<br>板塀 (いたべい) - wooden fence
 媒	✍12	中学	MEDIATOR	go-between	バイ	なこうど	媒体 (ばいたい) - media<br>触媒 (しょくばい) - catalyst<br>媒介 (ばいかい) - intermediary
 婿	✍12	中学	BRIDEGROOM	son-in-law	セイ	むこ	娘婿 (むすめむこ) - son-in-law<br>女婿 (じょせい) - one's son-in-law<br>花婿 (はなむこ) - bridegroom
-掌	✍12	中学	MANIPULATE	rule, administer, conduct, palm of hand	ショウ	てのひら　たなごころ	掌握 (しょうあく) - grasping<br>車掌 (しゃしょう) - conductor<br>合掌 (がっしょう) - pressing one's hands together in praye
-項	✍12	中学	PARAGRAPH	nape of neck, clause, item, term (expression)	コウ	うなじ	項目 (こうもく) - item<br>条項 (じょうこう) - clause<br>事項 (じこう) - matte
+掌	✍12	中学	MANIPULATE	rule, administer, conduct, palm of hand	ショウ	てのひら　たなごころ	掌握 (しょうあく) - grasping<br>車掌 (しゃしょう) - conductor<br>合掌 (がっしょう) - pressing one's hands together in prayer
+項	✍12	中学	PARAGRAPH	nape of neck, clause, item, term (expression)	コウ	うなじ	項目 (こうもく) - item<br>条項 (じょうこう) - clause<br>事項 (じこう) - matter
 幅	✍12	中学	HANGING SCROLL	width	フク	はば	大幅 (おおはば) - big<br>幅広い (はばひろい) - extensive<br>増幅 (ぞうふく) - amplification (elec.)
 帽	✍12	中学	CAP	headgear	ボウ　モウ	ずきん　おお.う	帽子 (ぼうし) - hat<br>脱帽 (だつぼう) - removing one's hat<br>山高帽 (やまたかぼう) - bowler hat
 幾	✍12	中学	HOW MANY	how much, how far, how long, some, several	キ	いく-　いく.つ　いく.ら	幾つ (いくつ) - how many?<br>幾何学 (きかがく) - geometry<br>幾重 (いくえ) - multiple layers
 廃	✍12	中学	ABOLISH	obsolete, cessation, discarding, abandon	ハイ	すた.れる　すた.る	廃止 (はいし) - abolition<br>廃棄 (はいき) - disposal<br>撤廃 (てっぱい) - annulment
-廊	✍12	中学	CORRIDOR	hall, tower	ロウ		画廊 (がろう) - art gallery (esp. artworks for sale)<br>廊下 (ろうか) - corridor<br>回廊 (かいろう) - corrido
+廊	✍12	中学	CORRIDOR	hall, tower	ロウ		画廊 (がろう) - art gallery (esp. artworks for sale)<br>廊下 (ろうか) - corridor<br>回廊 (かいろう) - corridor
 弾	✍12	中学	BULLET	twang, flip, snap	ダン　タン	ひ.く　-ひ.き　はず.む　たま　はじ.く　はじ.ける　ただ.す　はじ.きゆみ	爆弾 (ばくだん) - bomb<br>弾圧 (だんあつ) - oppression<br>弾く (はじく) - to flip
 尋	✍12	中学	INQUIRE	fathom, look for	ジン	たず.ねる　ひろ	尋ねる (たずねる) - to ask<br>尋問 (じんもん) - cross-examination<br>尋常 (じんじょう) - common
 御	✍12	中学	HONORABLE	manipulate, govern	ギョ　ゴ	おん-　お-　み-	防御 (ぼうぎょ) - defense<br>制御 (せいぎょ) - control<br>御所 (ごしょ) - old imperial palace
@@ -540,18 +540,18 @@
 晶	✍12	中学	SPARKLE	clear, crystal	ショウ		液晶 (えきしょう) - liquid crystal<br>結晶 (けっしょう) - crystal<br>水晶 (すいしょう) - crystal
 替	✍12	中学	EXCHANGE	spare, substitute, per-	タイ	か.える　か.え-　か.わる	為替 (かわし) - money order<br>代替 (だいがえ) - substitution<br>替える (かえる) - to replace
 棺	✍12	中学	COFFIN	casket	カン		石棺 (せきかん) - sarcophagus<br>甕棺 (かめかん) - burial urn (often two-storey)<br>納棺 (のうかん) - placing of body in coffin
-棋	✍12	中学	CHESS PIECE	Japanese chess, shogi	キ	ご	将棋 (しょうぎ) - shogi<br>棋聖 (きせい) - great master of go (shogi)<br>棋士 (きし) - shogi playe
+棋	✍12	中学	CHESS PIECE	Japanese chess, shogi	キ	ご	将棋 (しょうぎ) - shogi<br>棋聖 (きせい) - great master of go (shogi)<br>棋士 (きし) - shogi player
 棚	✍12	中学	SHELF	ledge, rack, mount, mantle, trellis	ホウ	たな　-だな	棚上げ (たなあげ) - shelving<br>本棚 (ほんだな) - bookshelves<br>書棚 (しょだな) - bookshelf
 棟	✍12	中学	RIDGEPOLE	ridge	トウ	むね　むな-	病棟 (びょうとう) - ward<br>別棟 (べっとう) - separate building<br>棟梁 (とうりょう) - chief support
 款	✍12	中学	GOODWILL	article, section, friendship, collusion	カン		借款 (しゃっかん) - loan<br>定款 (ていかん) - articles of incorporation<br>約款 (やっかん) - agreement
-欺	✍12	中学	DECEIT	cheat, delude	ギ	あざむ.く	詐欺 (さぎ) - fraud<br>欺く (あざむく) - to deceive<br>詐欺師 (さぎし) - swindle
+欺	✍12	中学	DECEIT	cheat, delude	ギ	あざむ.く	詐欺 (さぎ) - fraud<br>欺く (あざむく) - to deceive<br>詐欺師 (さぎし) - swindler
 殖	✍12	中学	AUGMENT	increase, multiply, raise	ショク	ふ.える　ふ.やす	増殖 (ぞうしょく) - increase<br>繁殖 (はんしょく) - breed<br>生殖 (せいしょく) - reproduction
 渦	✍12	中学	WHIRLPOOL	eddy, vortex	カ	うず	渦巻く (うずまく) - to whirl<br>渦中 (かちゅう) - vortex<br>渦巻き (うずまき) - whirlpool
 滋	✍12	中学	NOURISHING	more & more, be luxuriant, planting, turbidity	ジ		滋養 (じよう) - nourishment<br>滋味 (じみ) - nutriment
 湿	✍12	中学	DAMP	wet, moist	シツ　シュウ	しめ.る　しめ.す　うるお.う　うるお.す	湿地 (しっち) - wetland<br>湿原 (しつげん) - marshy grassland<br>湿度 (しつど) - level of humidity
-渡	✍12	中学	TRANSIT	ford, ferry, cross, import, deliver, diameter, migrate	ト	わた.る　-わた.る　わた.す	渡す (わたす) - to ferry across (a river, etc.)<br>渡る (わたる) - to cross over<br>譲渡 (じょうと) - transfe
+渡	✍12	中学	TRANSIT	ford, ferry, cross, import, deliver, diameter, migrate	ト	わた.る　-わた.る　わた.す	渡す (わたす) - to ferry across (a river, etc.)<br>渡る (わたる) - to cross over<br>譲渡 (じょうと) - transfer
 湾	✍12	中学	GULF	bay, inlet	ワン	いりえ	湾岸 (わんがん) - gulf coast<br>台湾 (たいわん) - Taiwan<br>港湾 (こうわん) - harbours
-煮	✍12	中学	BOIL	cook	シャ	に.る　-に　に.える　に.やす	煮る (にる) - to boil<br>煮物 (にもの) - food cooked by boiling or stewing<br>煮込む (にこむ) - to cook togethe
+煮	✍12	中学	BOIL	cook	シャ	に.る　-に　に.える　に.やす	煮る (にる) - to boil<br>煮物 (にもの) - food cooked by boiling or stewing<br>煮込む (にこむ) - to cook together
 猶	✍12	中学	FURTHERMORE	still, yet	ユウ　ユ	なお	猶予 (ゆうよ) - postponement
 琴	✍12	中学	HARP	koto	キン	こと	竪琴 (たてごと) - harp<br>木琴 (もっきん) - xylophone<br>大正琴 (たいしょうごと) - Nagoya harp
 畳	✍12	中学	TATAMI MAT	counter for tatami mats, fold, shut up, do away with	ジョウ　チョウ	たた.む　たたみ　かさ.なる	四畳半 (よじょうはん) - 4.5 tatami mats<br>石畳 (いしだたみ) - stone paving<br>畳敷き (たたみじき) - tatami-matted
@@ -562,7 +562,7 @@
 硬	✍12	中学	STIFF	hard	コウ	かた.い	強硬 (きょうこう) - firm<br>硬い (かたい) - hard<br>硬派 (こうは) - tough elements
 硝	✍12	中学	NITRATE	saltpeter	ショウ		硝酸 (しょうさん) - nitric acid<br>硝煙 (しょうえん) - gunpowder smoke<br>硝子体 (しょうしたい) - vitreous body (of the eye)
 硫	✍12	中学	SULPHUR		リュウ		硫黄 (いおう) - sulfur (S)<br>脱硫 (だつりゅう) - desulfurization<br>硫酸 (りゅうさん) - sulfuric acid
-筒	✍12	中学	CYLINDER	pipe, tube, gun barrel, sleeve	トウ	つつ	封筒 (ふうとう) - envelope<br>筒井 (つつい) - round well<br>円筒 (えんとう) - cylinde
+筒	✍12	中学	CYLINDER	pipe, tube, gun barrel, sleeve	トウ	つつ	封筒 (ふうとう) - envelope<br>筒井 (つつい) - round well<br>円筒 (えんとう) - cylinder
 粧	✍12	中学	COSMETICS	adorn (one's person)	ショウ		化粧 (けしょう) - make-up<br>化粧水 (けしょうすい) - face lotion<br>厚化粧 (あつげしょう) - thick or heavy make-up
 絞	✍12	中学	STRANGLE	constrict, wring	コウ	しぼ.る　し.める　し.まる	絞る (しぼる) - to wring (towel, rag)<br>絞める (しめる) - to strangle<br>絞り (しぼり) - tye-dye
 紫	✍12	中学	PURPLE	violet	シ	むらさき	紫外線 (しがいせん) - ultra-violet rays<br>紫色 (むらさきいろ) - violet<br>紫苑 (しおん) - Tartarian aster (Aster tataricus)
@@ -585,13 +585,13 @@
 遂	✍12	中学	CONSUMMATE	accomplish, attain, commit (suicide)	スイ	と.げる　つい.に	未遂 (みすい) - attempt (e.g., at crime)<br>遂げる (とげる) - to accomplish<br>遂行 (すいこう) - accomplishment
 遅	✍12	中学	SLOW	late, back, later	チ	おく.れる　おく.らす　おそ.い	遅れる (おくれる) - to be late<br>遅い (おそい) - slow<br>遅れ (おくれ) - delay
 遍	✍12	中学	EVERYWHERE	times, widely, generally	ヘン	あまね.く	普遍 (ふへん) - universal<br>普遍的 (ふへんてき) - universal<br>遍歴 (へんれき) - travels
-酢	✍12	中学	VINEGAR	sour, acid, tart	サク	す	酢酸 (さくさん) - acetic acid<br>酢の物 (すのもの) - vinegared dish<br>甘酢 (あまず) - sweet vinega
+酢	✍12	中学	VINEGAR	sour, acid, tart	サク	す	酢酸 (さくさん) - acetic acid<br>酢の物 (すのもの) - vinegared dish<br>甘酢 (あまず) - sweet vinegar
 鈍	✍12	中学	DULL	slow, foolish, blunt	ドン	にぶ.い　にぶ.る　にぶ-　なま.る　なまく.ら	鈍化 (どんか) - becoming dull<br>鈍い (おそい) - slow<br>鈍る (なまる) - to become less capable
 閑	✍12	中学	LEISURE		カン		閑散 (かんさん) - deserted (esp. store, market, town, streets)<br>閑静 (かんせい) - quiet (e.g., neighborhood, neighborhood)<br>閑古鳥 (かんこどり) - cuckoo
-隅	✍12	中学	CORNER	nook	グウ	すみ	片隅 (かたすみ) - corner<br>隅々 (くまぐま) - nooks<br>一隅 (いちぐう) - corne
+隅	✍12	中学	CORNER	nook	グウ	すみ	片隅 (かたすみ) - corner<br>隅々 (くまぐま) - nooks<br>一隅 (いちぐう) - corner
 随	✍12	中学	FOLLOW	though, notwithstanding, while, during, both, all, obey, submit to, comply, at the mercy of (the waves)	ズイ	まにま.に　したが.う	追随 (ついずい) - follow<br>随分 (ずいぶん) - very<br>随時 (ずいじ) - at any time
 焦	✍12	中学	CHAR	hurry, impatient, irritate, burn, scorch, singe	ショウ	こ.げる　こ.がす　こ.がれる　あせ.る	焦点 (しょうてん) - focus (e.g., photographic)<br>焦る (あせる) - to be in a hurry<br>焦り (あせり) - impatience
-雄	✍12	中学	MASCULINE	male, hero, leader, superiority, excellence	ユウ	お-　おす　おん	英雄 (えいゆう) - hero<br>雄弁 (ゆうべん) - oratory<br>雄大 (ゆうだい) - grandeu
+雄	✍12	中学	MASCULINE	male, hero, leader, superiority, excellence	ユウ	お-　おす　おん	英雄 (えいゆう) - hero<br>雄弁 (ゆうべん) - oratory<br>雄大 (ゆうだい) - grandeur
 雰	✍12	中学	ATMOSPHERE	fog	フン		雰囲気 (ふいんき) - atmosphere (e.g., musical)
 殿	✍13	中学	MR.	hall, mansion, palace, temple, lord	デン　テン	との　-どの	殿下 (てんが) - your Highness<br>宮殿 (きゅうでん) - palace<br>殿堂 (でんどう) - palace
 棄	✍13	中学	ABANDON	throw away, discard, resign, reject, sacrifice	キ	す.てる	廃棄 (はいき) - disposal<br>放棄 (ほうき) - abandonment<br>棄却 (ききゃく) - rejection
@@ -603,7 +603,7 @@
 慈	✍13	中学	MERCY		ジ	いつく.しむ	慈善 (じぜん) - charity<br>慈悲 (じひ) - compassion (e.g., of Buddha)<br>慈しむ (いつくしむ) - to love
 勧	✍13	中学	PERSUADE	recommend, advise, encourage, offer	カン　ケン	すす.める	勧告 (かんこく) - advice<br>勧める (すすめる) - to recommend<br>勧誘 (かんゆう) - invitation
 載	✍13	中学	RIDE	board, get on, place, spread, 10**44	サイ	の.せる　の.る	掲載 (けいさい) - publication (e.g., article in paper)<br>記載 (きさい) - record<br>連載 (れんさい) - serialization
-嗣	✍13	中学	HEIR	succeed	シ		嗣子 (しし) - heir<br>養嗣子 (ようしし) - adoptive heir<br>継嗣 (けいし) - successo
+嗣	✍13	中学	HEIR	succeed	シ		嗣子 (しし) - heir<br>養嗣子 (ようしし) - adoptive heir<br>継嗣 (けいし) - successor
 嘆	✍13	中学	SIGH	lament, moan, grieve, sigh of admiration	タン	なげ.く　なげ.かわしい	嘆く (なげく) - to sigh<br>嘆き (なげき) - grief<br>感嘆 (かんたん) - admiration
 塊	✍13	中学	CLOD	lump, chunk, clot, mass	カイ　ケ	かたまり　つちくれ	団塊 (だんかい) - mass<br>金塊 (きんかい) - gold nugget<br>山塊 (さんかい) - mountain mass
 塑	✍13	中学	MODEL	molding	ソ	でく	彫塑 (ちょうそ) - carving<br>塑像 (そぞう) - earthen image<br>可塑性 (かそせい) - plasticity
@@ -624,7 +624,7 @@
 摂	✍13	中学	VICARIOUS	surrogate, act in addition to, take in, absorb	セツ　ショウ	おさ.める　かね.る　と.る	摂取 (せっしゅ) - intake<br>摂理 (せつり) - providence<br>包摂 (ほうせつ) - subsumption
 搬	✍13	中学	CONVEYOR	carry, transport	ハン		運搬 (うんぱん) - transport<br>搬入 (はんにゅう) - taking in<br>搬送 (はんそう) - transportation
 暇	✍13	中学	SPARE TIME	rest, leisure, time, leave of absence	カ	ひま　いとま	休暇 (きゅうか) - holiday<br>余暇 (よか) - leisure<br>寸暇 (すんか) - moment's leisure
-楼	✍13	中学	WATCHTOWER	lookout, high building	ロウ	たかどの	楼閣 (ろうかく) - multistoried building<br>蜃気楼 (しんきろう) - mirage<br>摩天楼 (まてんろう) - skyscrape
+楼	✍13	中学	WATCHTOWER	lookout, high building	ロウ	たかどの	楼閣 (ろうかく) - multistoried building<br>蜃気楼 (しんきろう) - mirage<br>摩天楼 (まてんろう) - skyscraper
 歳	✍13	中学	YEAR-END	age, occasion, opportunity	サイ　セイ	とし　とせ　よわい	歳出 (さいしゅつ) - annual expenditure<br>二十歳 (はたち) - 20 years old<br>歳入 (さいにゅう) - annual revenue (government)
 滑	✍13	中学	SLIPPERY	slide, slip, flunk	カツ　コツ	すべ.る　なめ.らか	滑走 (かっそう) - gliding<br>滑る (すべる) - to glide<br>円滑 (えんかつ) - smooth
 溝	✍13	中学	GUTTER	ditch, sewer, drain, 10**32	コウ	みぞ	側溝 (そっこう) - gutter<br>海溝 (かいこう) - ocean trench<br>排水溝 (はいすいこう) - drainage
@@ -658,7 +658,7 @@
 詰	✍13	中学	PACKED	close, pressed, reprove, rebuke, blame	キツ　キチ	つ.める　つ.め　-づ.め　つ.まる　つ.む	詰める (つめる) - to stuff into<br>詰め (つめ) - stuffing<br>大詰め (おおづめ) - final scene
 誇	✍13	中学	BOAST	be proud, pride, triumphantly	コ	ほこ.る	誇る (ほこる) - to boast of<br>誇り (ほこり) - pride<br>誇示 (こじ) - ostentation
 詳	✍13	中学	DETAILED	full, minute, accurate, well-informed	ショウ	くわ.しい　つまび.らか	詳しい (くわしい) - detailed<br>詳細 (しょうさい) - detail<br>詳報 (しょうほう) - full report
-誉	✍13	中学	REPUTATION	praise, honor, glory	ヨ	ほま.れ　ほ.める	名誉 (めいよ) - honor<br>栄誉 (えいよ) - honor<br>不名誉 (ふめいよ) - dishono
+誉	✍13	中学	REPUTATION	praise, honor, glory	ヨ	ほま.れ　ほ.める	名誉 (めいよ) - honor<br>栄誉 (えいよ) - honor<br>不名誉 (ふめいよ) - dishonor
 賊	✍13	中学	BURGLAR	rebel, traitor, robber	ゾク		海賊 (かいぞく) - pirate<br>盗賊 (とうぞく) - thief<br>海賊版 (かいぞくばん) - pirated edition
 賄	✍13	中学	BRIBE	board, supply, finance	ワイ	まかな.う	収賄 (しゅうわい) - accepting bribes<br>贈賄 (ぞうわい) - bribery<br>賄う (まかなう) - to give board to
 跡	✍13	中学	TRACKS	mark, print, impression	セキ	あと	遺跡 (いせき) - historic ruins (remains, relics)<br>追跡 (ついせき) - pursuit<br>足跡 (あしあと) - footprints
@@ -668,7 +668,7 @@
 違	✍13	中学	DIFFERENCE	differ	イ	ちが.う　ちが.い　ちが.える　-ちが.える　たが.う　たが.える	違う (たがう) - to differ<br>違反 (いはん) - violation (of law)<br>違い (ちがい) - difference
 遣	✍13	中学	DISPATCH	despatch, send, give, donate, do, undertake	ケン	つか.う　-つか.い　-づか.い　つか.わす　や.る	派遣 (はけん) - dispatch<br>小遣い (こずかい) - pocket money<br>気遣う (きづかう) - to worry about
 酬	✍13	中学	REPAY	reward, retribution	シュウ　シュ　トウ	むく.いる	報酬 (ほうしゅう) - remuneration<br>応酬 (おうしゅう) - exchange<br>無報酬 (むほうしゅう) - free of charge
-酪	✍13	中学	DAIRY PRODUCTS	whey, broth, fruit juice	ラク		酪農 (らくのう) - dairy (farm)<br>酪酸 (らくさん) - butyric acid<br>牛酪 (ぎゅうらく) - butte
+酪	✍13	中学	DAIRY PRODUCTS	whey, broth, fruit juice	ラク		酪農 (らくのう) - dairy (farm)<br>酪酸 (らくさん) - butyric acid<br>牛酪 (ぎゅうらく) - butter
 鉛	✍13	中学	LEAD		エン	なまり	鉛筆 (えんぴつ) - pencil<br>黒鉛 (こくえん) - graphite<br>亜鉛 (あえん) - zinc (Zn)
 鉢	✍13	中学	BOWL	rice tub, pot, crown	ハチ　ハツ		鉢植え (はちうえ) - potted plant<br>鉢巻き (はちまき) - headband<br>小鉢 (こばち) - small bowl
 鈴	✍13	中学	SMALL BELL	buzzer	レイ　リン	すず	風鈴 (ふうりん) - wind chime<br>呼び鈴 (よびりん) - bell (used for summoning or signalling)<br>鈴虫 (すずむし) - bell cricket (Homoeogryllus japonicus)
@@ -683,11 +683,11 @@
 鼓	✍13	中学	DRUM	beat, rouse, muster	コ	つづみ	太鼓 (たいこ) - drum<br>鼓舞 (こぶ) - inspiration<br>太鼓判 (たいこばん) - large seal
 豪	✍14	中学	OVERPOWERING	great, powerful, excelling, Australia	ゴウ	えら.い	豪華 (ごうか) - wonderful<br>強豪 (きょうごう) - veteran<br>豪快 (ごうかい) - hearty
 僕	✍14	中学	ME	I (male)	ボク	しもべ	公僕 (こうぼく) - public servant<br>下僕 (げぼく) - manservant<br>従僕 (じゅうぼく) - attendant male servant
-僚	✍14	中学	COLLEAGUE	official, companion	リョウ		閣僚 (かくりょう) - cabinet ministers<br>官僚 (かんりょう) - bureaucrat<br>同僚 (どうりょう) - coworke
-暦	✍14	中学	CALENDAR	almanac	レキ	こよみ　りゃく	西暦 (せいれき) - Christian Era<br>還暦 (かんれき) - 60th birthday<br>旧暦 (きゅうれき) - Japan's old (lunisolar) calenda
+僚	✍14	中学	COLLEAGUE	official, companion	リョウ		閣僚 (かくりょう) - cabinet ministers<br>官僚 (かんりょう) - bureaucrat<br>同僚 (どうりょう) - coworker
+暦	✍14	中学	CALENDAR	almanac	レキ	こよみ　りゃく	西暦 (せいれき) - Christian Era<br>還暦 (かんれき) - 60th birthday<br>旧暦 (きゅうれき) - Japan's old (lunisolar) calendar
 塾	✍14	中学	CRAM SCHOOL	private school	ジュク		塾長 (じゅくちょう) - principal of a private school<br>義塾 (ぎじゅく) - private school<br>塾生 (じゅくせい) - private-school student
 奪	✍14	中学	ROB	take by force, snatch away, dispossess, plunder, usurp	ダツ	うば.う	奪う (うばう) - to snatch away<br>奪取 (だっしゅ) - usurpation<br>奪三振 (だつさんしん) - striking a batter out
-嫡	✍14	中学	LEGITIMATE WIFE	direct descent (non-bastard)	チャク　テキ		嫡出 (ちゃくしゅつ) - legitimate birth<br>嫡子 (ちゃくし) - legitimate child<br>嫡男 (ちゃくなん) - hei
+嫡	✍14	中学	LEGITIMATE WIFE	direct descent (non-bastard)	チャク　テキ		嫡出 (ちゃくしゅつ) - legitimate birth<br>嫡子 (ちゃくし) - legitimate child<br>嫡男 (ちゃくなん) - heir
 寡	✍14	中学	WIDOW	minority, few	カ		寡占 (かせん) - oligopoly<br>寡黙 (かもく) - silent (person)<br>寡婦 (かふ) - widow
 寧	✍14	中学	RATHER	preferably, peaceful, quiet, tranquility	ネイ	むし.ろ	丁寧 (ていねい) - polite<br>安寧 (あんねい) - peace (esp. public peace)<br>丁寧語 (ていねいご) - polite language (i.e., masu, desu, etc.)
 腐	✍14	中学	ROT	decay, sour	フ	くさ.る　-くさ.る　くさ.れる　くさ.れ　くさ.らす　くさ.す	腐敗 (ふはい) - decomposition<br>豆腐 (とうふ) - tofu<br>腐る (くさる) - to rot
@@ -697,11 +697,11 @@
 慢	✍14	中学	RIDICULE	laziness	マン		我慢 (がまん) - patience<br>自慢 (じまん) - pride<br>慢性 (まんせい) - chronicity
 摘	✍14	中学	PINCH	pick, pluck, trim, clip, summarize	テキ	つ.む	指摘 (してき) - pointing out<br>摘発 (てきはつ) - exposing<br>摘出 (てきしゅつ) - picking out
 概	✍14	中学	OUTLINE	condition, approximation, generally	ガイ	おおむ.ね	概念 (がいねん) - general idea<br>概算 (がいさん) - approximation<br>概要 (がいよう) - outline
-雌	✍14	中学	FEMININE	female	シ	め-　めす　めん	雌雄 (しゆう) - male and female (animal)<br>雌しべ (めしべ) - pistil<br>雌花 (めばな) - female flowe
+雌	✍14	中学	FEMININE	female	シ	め-　めす　めん	雌雄 (しゆう) - male and female (animal)<br>雌しべ (めしべ) - pistil<br>雌花 (めばな) - female flower
 漆	✍14	中学	LACQUER	varnish, seven	シツ	うるし	漆器 (しっき) - lacquer ware<br>漆塗り (うるしぬり) - lacquering<br>漆黒 (しっこく) - jet black
 漸	✍14	中学	STEADILY	gradually advancing, finally, barely	ゼン	やや	漸進 (ぜんしん) - gradual progress<br>漸次 (ぜんじ) - gradually<br>漸増 (ぜんぞう) - gradual increase
 漬	✍14	中学	PICKLING	soak, moisten, steep	シ	つ.ける　つ.かる　-づ.け　-づけ	漬け (づけ) - pickled (something)<br>漬物 (つけもの) - tsukemono<br>漬ける (つける) - to soak
-滴	✍14	中学	DRIP	drop	テキ	しずく　したた.る	点滴 (てんてき) - raindrops<br>一滴 (いってき) - drop (of fluid)<br>水滴 (すいてき) - drop of wate
+滴	✍14	中学	DRIP	drop	テキ	しずく　したた.る	点滴 (てんてき) - raindrops<br>一滴 (いってき) - drop (of fluid)<br>水滴 (すいてき) - drop of water
 漂	✍14	中学	DRIFT	float (on liquid)	ヒョウ	ただよ.う	漂う (ただよう) - to drift<br>漂流 (ひょうりゅう) - drifting<br>漂着 (ひょうちゃく) - drifting ashore
 漫	✍14	中学	CARTOON	involuntarily, unrestrained, in spite of oneself, corrupt	マン	みだり.に　そぞ.ろ	漫画 (まんが) - cartoon<br>漫画家 (まんがか) - cartoonist<br>放漫 (ほうまん) - whimsy
 漏	✍14	中学	LEAK	escape, time	ロウ	も.る　も.れる　も.らす	漏らす (もらす) - to let leak<br>漏れる (もれる) - to leak out<br>漏れ (もれ) - leakage
@@ -721,7 +721,7 @@
 誘	✍14	中学	ENTICE	lead, tempt, invite, ask, call for, seduce, allure	ユウ　イウ	さそ.う　いざな.う	誘拐 (ゆうかい) - abduction<br>誘う (いざなう) - to invite<br>誘導 (ゆうどう) - guidance
 踊	✍14	中学	JUMP	dance, leap, skip	ヨウ	おど.る	舞踊 (ぶよう) - dancing<br>踊る (おどる) - to dance (orig. a hopping dance)<br>踊り (おどり) - dance
 遮	✍14	中学	INTERCEPT	interrupt, obstruct	シャ	さえぎ.る	遮断 (しゃだん) - isolation<br>遮断機 (しゃだんき) - railway crossing gate<br>遮る (さえぎる) - to interrupt
-遭	✍14	中学	ENCOUNTER	meet, party, association, interview, join	ソウ	あ.う　あ.わせる	遭う (あう) - to meet<br>遭難 (そうなん) - disaster<br>遭遇 (そうぐう) - encounte
+遭	✍14	中学	ENCOUNTER	meet, party, association, interview, join	ソウ	あ.う　あ.わせる	遭う (あう) - to meet<br>遭難 (そうなん) - disaster<br>遭遇 (そうぐう) - encounter
 酵	✍14	中学	FERMENTATION		コウ		酵素 (こうそ) - enzyme<br>発酵 (はっこう) - fermentation<br>酵母 (こうぼ) - yeast
 酷	✍14	中学	CRUEL	severe, atrocious, unjust	コク	ひど.い	過酷 (かこく) - rigour<br>残酷 (ざんこく) - cruelty<br>酷似 (こくじ) - resemblance
 銃	✍14	中学	GUN	arms	ジュウ	つつ	銃撃 (じゅうげき) - shooting<br>銃弾 (じゅうだん) - bullet (from a rifle)<br>小銃 (しょうじゅう) - rifle
@@ -729,7 +729,7 @@
 閥	✍14	中学	CLIQUE	lineage, pedigree, faction, clan	バツ		派閥 (はばつ) - clique<br>財閥 (ざいばつ) - zaibatsu<br>学閥 (がくばつ) - alma mater clique
 隠	✍14	中学	CONCEAL	hide, cover	イン　オン	かく.す　かく.し　かく.れる　かか.す　よ.る	隠す (かくす) - to hide<br>隠れる (かくれる) - to hide<br>隠し (かくし) - hiding
 需	✍14	中学	DEMAND	request, need	ジュ		需要 (じゅよう) - demand<br>内需 (ないじゅ) - domestic demand<br>需給 (じゅきゅう) - supply and demand
-駆	✍14	中学	DRIVE	run, gallop, advance, inspire, impel	ク	か.ける　か.る	駆使 (くし) - free use<br>駆動 (くどう) - driving force<br>先駆 (せんく) - forerunne
+駆	✍14	中学	DRIVE	run, gallop, advance, inspire, impel	ク	か.ける　か.る	駆使 (くし) - free use<br>駆動 (くどう) - driving force<br>先駆 (せんく) - forerunner
 駄	✍14	中学	BURDENSOME	pack horse, horse load, send by horse	ダ　タ		無駄 (むだ) - futility<br>駄目 (だめ) - no good<br>駄菓子 (だがし) - cheap sweets
 髪	✍14	中学	HAIR OF THE HEAD		ハツ	かみ	白髪 (しらかみ) - white hair<br>髪の毛 (かみのけ) - hair (head)<br>理髪 (りはつ) - haircut
 魂	✍14	中学	SOUL	spirit	コン	たましい　たま	鎮魂 (ちんこん) - repose of souls<br>忠魂 (ちゅうこん) - loyalty<br>商魂 (しょうこん) - commercial spirit
@@ -746,7 +746,7 @@
 稼	✍15	中学	EARNINGS	work, earn money	カ	かせ.ぐ	稼ぐ (かせぐ) - to earn income<br>出稼ぎ (でかせぎ) - working away from home<br>稼働 (かどう) - operation (of machine)
 餓	✍15	中学	STARVE	hungry, thirst	ガ	う.える	飢餓 (きが) - starvation<br>餓死 (がし) - starvation<br>餓鬼 (がき) - brat
 壊	✍16	中学	DEMOLITION	break, destroy	カイ　エ	こわ.す　こわ.れる　やぶ.る	崩壊 (ほうかい) - collapse<br>破壊 (はかい) - destruction<br>壊す (こわす) - to break
-懐	✍16	中学	POCKET	feelings, heart, yearn, miss someone, become attached to, bosom, breast	カイ　エ	ふところ　なつ.かしい　なつ.かしむ　なつ.く　なつ.ける　なず.ける　いだ.く　おも.う	懐疑 (かいぎ) - doubt<br>述懐 (じゅっかい) - recollection<br>懐柔 (かいじゅう) - winning ove
+懐	✍16	中学	POCKET	feelings, heart, yearn, miss someone, become attached to, bosom, breast	カイ　エ	ふところ　なつ.かしい　なつ.かしむ　なつ.く　なつ.ける　なず.ける　いだ.く　おも.う	懐疑 (かいぎ) - doubt<br>述懐 (じゅっかい) - recollection<br>懐柔 (かいじゅう) - winning over
 嚇	✍17	中学	MENACING	dignity, majesty, threaten	カク	おど.す	威嚇 (いかく) - menace
 獲	✍16	中学	SEIZE	get, find, earn, acquire, can, may, able to	カク	え.る	獲得 (かくとく) - acquisition<br>捕獲 (ほかく) - capture<br>漁獲 (ぎょかく) - fishing
 穫	✍18	中学	HARVEST	reap	カク		収穫 (しゅうかく) - harvest
@@ -769,10 +769,10 @@
 窮	✍15	中学	HARD UP	destitute, suffer, perplexed, cornered	キュウ　キョウ	きわ.める　きわ.まる　きわ.まり　きわ.み	窮地 (きゅうち) - dilemma<br>窮状 (きゅうじょう) - distress<br>窮屈 (きゅうくつ) - narrow
 矯	✍17	中学	RECTIFY	straighten, correct, reform, cure, control, pretend, falsify	キョウ	た.める	矯正 (きょうせい) - correction<br>矯める (ためる) - to straighten
 響	✍20	中学	ECHO	sound, resound, ring, vibrate	キョウ	ひび.く	影響 (えいきょう) - influence<br>響く (どよめく) - to resound<br>反響 (はんきょう) - echo
-驚	✍22	中学	WONDER	be surprised, frightened, amazed	キョウ	おどろ.く　おどろ.かす	驚く (おどろく) - to be surprised<br>驚き (おどろき) - surprise<br>驚異 (きょうい) - wonde
+驚	✍22	中学	WONDER	be surprised, frightened, amazed	キョウ	おどろ.く　おどろ.かす	驚く (おどろく) - to be surprised<br>驚き (おどろき) - surprise<br>驚異 (きょうい) - wonder
 凝	✍16	中学	CONGEAL	freeze, stiff, be absorbed in	ギョウ	こ.る　こ.らす　こご.らす　こご.らせる　こご.る	凝る (こごる) - to congeal<br>凝らす (こごらす) - to freeze<br>凝縮 (ぎょうしゅく) - condensation
 緊	✍15	中学	TENSE	solid, hard, reliable, tight	キン	し.める　し.まる	緊急 (きんきゅう) - urgent<br>緊張 (きんちょう) - tension<br>緊迫 (きんぱく) - tension
-襟	✍18	中学	COLLAR	neck, lapel	キン	えり	襟元 (えりもと) - front of neck<br>胸襟 (きょうきん) - one's heart<br>詰め襟 (つめえり) - stand-up colla
+襟	✍18	中学	COLLAR	neck, lapel	キン	えり	襟元 (えりもと) - front of neck<br>胸襟 (きょうきん) - one's heart<br>詰め襟 (つめえり) - stand-up collar
 謹	✍17	中学	DISCREET	reverently, humbly	キン	つつし.む	謹慎 (きんしん) - penitence<br>謹んで (つつしんで) - respectfully<br>不謹慎 (ふきんしん) - indiscretion
 繰	✍19	中学	WINDING	reel, spin, turn (pages), look up, refer to	ソウ	く.る	繰る (くる) - to reel<br>勘繰る (かんぐる) - to be suspicious of (someone's motives)<br>繰越金 (くりこしきん) - balance carried forward
 勲	✍15	中学	MERITORIOUS DEED	merit	クン	いさお	勲章 (くんしょう) - decoration<br>殊勲 (しゅくん) - meritorious deeds<br>叙勲 (じょくん) - conferring of decorations
@@ -814,8 +814,8 @@
 衝	✍15	中学	COLLIDE	brunt, highway, opposition (astronomy), thrust, pierce, stab, prick	ショウ	つ.く	衝突 (しょうとつ) - collision<br>折衝 (せっしょう) - negotiation<br>衝撃 (しょうげき) - shock
 鐘	✍20	中学	BELL	gong, chimes	ショウ	かね	警鐘 (けいしょう) - alarm bell<br>釣り鐘 (つりがね) - temple bell (for striking)<br>鐘楼 (しゅろう) - belfry
 壌	✍16	中学	LOT	earth, soil	ジョウ	つち	平壌 (へいじょう) - Pyongyang<br>土壌 (どじょう) - soil
-嬢	✍16	中学	LASS	girl, Miss, daughter	ジョウ	むすめ	令嬢 (れいじょう) - daughter<br>老嬢 (ろうじょう) - elderly spinste
-譲	✍20	中学	DEFER	turnover, transfer, convey	ジョウ	ゆず.る	譲歩 (じょうほ) - concession<br>譲渡 (じょうと) - transfer<br>譲る (ゆずる) - to turn ove
+嬢	✍16	中学	LASS	girl, Miss, daughter	ジョウ	むすめ	令嬢 (れいじょう) - daughter<br>老嬢 (ろうじょう) - elderly spinster
+譲	✍20	中学	DEFER	turnover, transfer, convey	ジョウ	ゆず.る	譲歩 (じょうほ) - concession<br>譲渡 (じょうと) - transfer<br>譲る (ゆずる) - to turn over
 醸	✍20	中学	BREW	cause	ジョウ	かも.す	醸成 (じょうせい) - brew<br>醸造 (じょうぞう) - brewing<br>醸す (かもす) - to brew (sake, etc.)
 錠	✍16	中学	LOCK	fetters, shackles	ジョウ		手錠 (てじょう) - handcuffs<br>錠剤 (じょうざい) - pill<br>施錠 (せじょう) - locking
 嘱	✍15	中学	ENTRUST	request, send a message	ショク	しょく.する　たの.む	委嘱 (いしょく) - entrusting (with)<br>嘱託 (しょくたく) - commission<br>嘱望 (しょくぼう) - expectation
@@ -823,12 +823,12 @@
 薪	✍16	中学	FUEL	firewood, kindling	シン	たきぎ　まき	薪炭 (しんたん) - wood and charcoal<br>薪能 (たきぎのう) - noh theater performed at night by a fire
 震	✍15	中学	QUAKE	shake, tremble, quiver, shiver	シン	ふる.う　ふる.える	地震 (じしん) - earthquake<br>震源 (しんげん) - hypocenter (of an earthquake)<br>震度 (しんど) - seismic intensity
 髄	✍19	中学	MARROW	pith, essence	ズイ		骨髄 (こつずい) - bone marrow<br>神髄 (しんずい) - true meaning<br>髄膜炎 (ずいまくえん) - meningitis
-澄	✍15	中学	LUCIDITY	be clear, clear, clarify, settle, strain, look grave	チョウ	す.む　す.ます　-す.ます	澄む (すむ) - to clear (e.g., weather)<br>澄ます (すます) - to clear<br>清澄 (せいちょう) - clea
-瀬	✍19	中学	RAPIDS	current, torrent, shallows, shoal	ライ	せ	瀬戸 (せと) - strait<br>瀬戸際 (せとぎわ) - brink<br>高瀬 (たかせ) - shallow rive
+澄	✍15	中学	LUCIDITY	be clear, clear, clarify, settle, strain, look grave	チョウ	す.む　す.ます　-す.ます	澄む (すむ) - to clear (e.g., weather)<br>澄ます (すます) - to clear<br>清澄 (せいちょう) - clear
+瀬	✍19	中学	RAPIDS	current, torrent, shallows, shoal	ライ	せ	瀬戸 (せと) - strait<br>瀬戸際 (せとぎわ) - brink<br>高瀬 (たかせ) - shallow river
 請	✍15	中学	SOLICIT	invite, ask	セイ　シン　ショウ	こ.う　う.ける	要請 (ようせい) - appeal<br>申請 (しんせい) - application<br>請求 (せいきゅう) - claim
 籍	✍20	中学	ENROLL	domiciliary register, membership	セキ		国籍 (こくせき) - nationality<br>移籍 (いせき) - changing household registry<br>書籍 (しょせき) - book
 潜	✍15	中学	SUBMERGE	conceal, hide, lower (voice), hush	セン	ひそ.む　もぐ.る　かく.れる　くぐ.る　ひそ.める	潜在 (せんざい) - potentiality<br>潜水艦 (せんすいかん) - submarine<br>潜む (ひそむ) - to lurk
-繊	✍17	中学	SLENDER	fine, thin kimono	セン		繊維 (せんい) - fibre<br>繊細 (せんさい) - dainty<br>合繊 (ごうせん) - synthetic fibe
+繊	✍17	中学	SLENDER	fine, thin kimono	セン		繊維 (せんい) - fibre<br>繊細 (せんさい) - dainty<br>合繊 (ごうせん) - synthetic fiber
 薦	✍16	中学	RECOMMEND	mat, advise, encourage, offer	セン	すす.める	推薦 (すいせん) - recommendation<br>自薦 (じせん) - self-recommendation<br>薦める (すすめる) - to recommend
 遷	✍15	中学	TRANSITION	move, change	セン	うつ.る　うつ.す　みやこがえ	変遷 (へんせん) - change<br>遷都 (せんと) - relocation of the capital<br>遷宮 (せんぐう) - installation of a deity in a new shrine
 鮮	✍17	中学	FRESH	vivid, clear, brilliant, Korea	セン	あざ.やか	北朝鮮 (きたちょうせん) - North Korea<br>朝鮮 (ちょうせん) - Korea<br>鮮明 (せんめい) - vivid
@@ -837,7 +837,7 @@
 槽	✍15	中学	VAT	tub, tank	ソウ	ふね	水槽 (すいそう) - water tank<br>浴槽 (よくそう) - bathtub<br>浄化槽 (じょうかそう) - septic tank
 燥	✍17	中学	PARCH	dry up	ソウ	はしゃ.ぐ	乾燥 (かんそう) - dryness<br>乾燥機 (かんそうき) - drying machine<br>焦燥 (しょうそう) - impatience
 藻	✍19	中学	SEAWEED	duckweed	ソウ	も	海藻 (かいそう) - seaweed<br>藻類 (そうるい) - seaweed<br>珪藻土 (けいそうど) - diatomaceous soil
-霜	✍17	中学	FROST		ソウ	しも	霜降り (しもふり) - speckled with white<br>霜柱 (しもばしら) - frost columns<br>初霜 (はつしも) - first frost of the yea
+霜	✍17	中学	FROST		ソウ	しも	霜降り (しもふり) - speckled with white<br>霜柱 (しもばしら) - frost columns<br>初霜 (はつしも) - first frost of the year
 騒	✍18	中学	BOISTEROUS	make noise, clamor, disturb, excite	ソウ	さわ.ぐ　うれい　さわ.がしい	騒ぎ (さわぎ) - uproar<br>騒音 (そうおん) - noise<br>騒動 (そうどう) - strife
 贈	✍18	中学	PRESENTS	send, give to, award to, confer on, presenting something	ゾウ　ソウ	おく.る	贈る (おくる) - to give (as a gift)<br>贈賄 (ぞうわい) - bribery<br>贈呈 (ぞうてい) - presentation (e.g., of a gift, etc.)
 濯	✍17	中学	LAUNDRY	wash, pour on, rinse	タク	すす.ぐ　ゆす.ぐ	洗濯 (せんたく) - washing<br>洗濯機 (せんたくき) - washing machine (laundry)
@@ -849,7 +849,7 @@
 駐	✍15	中学	STOP-OVER	reside in, resident	チュウ		駐車場 (ちゅうしゃじょう) - parking lot<br>駐留 (ちゅうりゅう) - stationing (e.g., of troops)<br>駐在 (ちゅうざい) - residence
 懲	✍18	中学	PENAL	chastise, punish, discipline	チョウ	こ.りる　こ.らす　こ.らしめる	懲役 (ちょうえき) - penal servitude<br>懲戒 (ちょうかい) - discipline<br>懲罰 (ちょうばつ) - discipline
 聴	✍17	中学	LISTEN	headstrong, naughty, careful inquiry	チョウ　テイ	き.く　ゆる.す	聴く (きく) - to hear<br>聴取 (ちょうしゅ) - listening<br>公聴会 (こうちょうかい) - public hearing
-鎮	✍18	中学	TRANQUILIZE	ancient peace-preservation centers	チン	しず.める　しず.まる　おさえ	鎮圧 (ちんあつ) - suppression<br>鎮魂 (ちんこん) - repose of souls<br>重鎮 (じゅうちん) - leade
+鎮	✍18	中学	TRANQUILIZE	ancient peace-preservation centers	チン	しず.める　しず.まる　おさえ	鎮圧 (ちんあつ) - suppression<br>鎮魂 (ちんこん) - repose of souls<br>重鎮 (じゅうちん) - leader
 墜	✍15	中学	CRASH	fall (down)	ツイ	お.ちる　お.つ	墜落 (ついらく) - falling<br>撃墜 (げきつい) - shooting down (aircraft)<br>失墜 (しっつい) - abasement
 締	✍15	中学	TIGHTEN	tie, shut, lock, fasten	テイ	し.まる　し.まり　し.める　-し.め　-じ.め	取締役 (とりしまりやく) - company director<br>締結 (ていけつ) - conclusion<br>取締法 (とりしまりほう) - control law
 徹	✍15	中学	PENETRATE	clear, pierce, strike home, sit up (all night)	テツ		徹底 (てってい) - thoroughness<br>徹す (とおす) - to stick through<br>徹夜 (てつや) - all night
@@ -858,7 +858,7 @@
 踏	✍15	中学	STEP	trample, carry through, appraise, evade payment	トウ	ふ.む　ふ.まえる	踏む (ふむ) - to step on<br>踏切 (ふみきり) - railway crossing<br>足踏み (あしぶみ) - stepping
 騰	✍20	中学	INFLATION	advancing, going	トウ	あが.る　のぼ.る	高騰 (こうとう) - sudden price jump<br>急騰 (きゅうとう) - sudden rise<br>沸騰 (ふっとう) - boiling
 闘	✍18	中学	FIGHT	war	トウ	たたか.う　あらそ.う	戦闘 (せんとう) - battle<br>闘争 (とうそう) - strife<br>春闘 (しゅんとう) - spring labor offensive
-篤	✍16	中学	FERVENT	kind, cordial, serious, deliberate	トク	あつ.い	危篤 (きとく) - critical illness<br>重篤 (じゅうとく) - serious (illness)<br>篤志家 (とくしか) - voluntee
+篤	✍16	中学	FERVENT	kind, cordial, serious, deliberate	トク	あつ.い	危篤 (きとく) - critical illness<br>重篤 (じゅうとく) - serious (illness)<br>篤志家 (とくしか) - volunteer
 曇	✍16	中学	CLOUDY WEATHER	cloud up	ドン	くも.る	曇り (くもり) - cloudiness<br>曇る (くぐもる) - to mumble<br>曇り空 (くもりぞら) - cloudy sky (weather)
 縄	✍15	中学	STRAW ROPE	cord	ジョウ	なわ　ただ.す	沖縄 (おきなわ) - Okinawa (prefecture)<br>縄文 (じょうもん) - Jomon period<br>縄張り (なわばり) - roping off
 濃	✍16	中学	CONCENTRATED	thick, dark, undiluted	ノウ	こ.い	濃い (こい) - deep (color)<br>濃度 (のうど) - concentration<br>濃厚 (のうこう) - density
@@ -866,7 +866,7 @@
 輩	✍15	中学	COMRADE	fellow, people, companions	ハイ	-ばら　やから　やかい　ともがら	先輩 (せんぱい) - senior (at work or school)<br>後輩 (こうはい) - junior (at work, school, etc.)<br>輩出 (はいしゅつ) - turning out in great numbers
 賠	✍15	中学	COMPENSATION	indemnify	バイ		賠償 (ばいしょう) - reparations<br>賠償金 (ばいしょうきん) - indemnities<br>損賠 (そんばい) - restitution
 薄	✍16	中学	DILUTE	thin, weak (tea), pampas grass	ハク	うす.い　うす-　-うす　うす.める　うす.まる　うす.らぐ　うす.ら-　うす.れる　すすき	薄い (うすい) - thin<br>薄れる (うすれる) - to fade<br>希薄 (きはく) - thin (e.g., air)
-爆	✍19	中学	BOMB	burst open, pop, split	バク	は.ぜる	爆発 (ばくはつ) - explosion<br>空爆 (くうばく) - aerial bombing<br>爆弾 (ばくだん) - bom
+爆	✍19	中学	BOMB	burst open, pop, split	バク	は.ぜる	爆発 (ばくはつ) - explosion<br>空爆 (くうばく) - aerial bombing<br>爆弾 (ばくだん) - bomb
 縛	✍16	中学	TRUSS	arrest, bind, tie, restrain	バク	しば.る	縛る (しばる) - to tie<br>束縛 (そくばく) - restraint<br>呪縛 (じゅばく) - curse
 繁	✍16	中学	LUXURIANT	thick, overgrown, frequency, complexity, trouble	ハン	しげ.る　しげ.く	繁栄 (はんえい) - prospering<br>繁殖 (はんしょく) - breed<br>頻繁 (ひんぱん) - frequent
 藩	✍18	中学	CLAN	enclosure	ハン		藩主 (はんしゅ) - feudal lord<br>藩士 (はんし) - feudal retainer or warrior<br>脱藩 (だっぱん) - becoming a lordless samurai
@@ -874,7 +874,7 @@
 盤	✍15	中学	TRAY	shallow bowl, platter, tub, board, phonograph record	バン		基盤 (きばん) - foundation<br>終盤 (しゅうばん) - endgame<br>中盤 (ちゅうばん) - middle (stage)
 罷	✍15	中学	QUIT	stop, leave, withdraw, go	ヒ	まか.り-　や.める	罷免 (ひめん) - dismissal
 避	✍16	中学	EVADE	avoid, avert, ward off, shirk, shun	ヒ	さ.ける　よ.ける	避ける (さける) - to avoid (situation)<br>避難 (ひなん) - taking refuge<br>回避 (かいひ) - evasion
-賓	✍15	中学	V.I.P.	guest	ヒン		国賓 (こくひん) - state guest<br>来賓 (らいひん) - guest<br>賓客 (ひんかく) - guest of hono
+賓	✍15	中学	V.I.P.	guest	ヒン		国賓 (こくひん) - state guest<br>来賓 (らいひん) - guest<br>賓客 (ひんかく) - guest of honor
 頻	✍17	中学	REPEATEDLY	recur	ヒン	しき.りに	頻繁 (ひんぱん) - frequent<br>頻発 (ひんぱつ) - frequency<br>頻度 (ひんど) - frequency (of occurrence)
 敷	✍15	中学	SPREAD	pave, sit, promulgate	フ	し.く　-し.き	敷地 (しきち) - site<br>敷く (しく) - to spread out<br>屋敷 (やしき) - residence
 膚	✍15	中学	SKIN	body, grain, texture, disposition	フ	はだ	皮膚 (ひふ) - skin<br>皮膚炎 (ひふえん) - dermatitis<br>皮膚科 (ひふか) - dermatology
@@ -899,7 +899,7 @@
 墨	✍14	中学	BLACK INK	India ink, ink stick, Mexico	ボク	すみ	墨付き (すみつき) - handwriting<br>入れ墨 (いれずみ) - tattoo<br>水墨 (すいぼく) - water and ink
 撲	✍15	中学	SLAP	strike, hit, beat, tell, speak	ボク		相撲 (すまい) - sumo wrestling<br>大相撲 (おおずもう) - professional sumo wrestling<br>打撲 (だぼく) - blow
 翻	✍18	中学	FLIP	turn over, wave, flutter, change (mind)	ホン　ハン	ひるがえ.る　ひるがえ.す	翻訳 (ほんやく) - translation<br>翻す (こぼす) - to spill<br>翻意 (ほんい) - change one's mind
-摩	✍15	中学	CHAFE	rub, polish, grind, scrape	マ	ま.する　さ.する　す.る	摩擦 (まさつ) - friction<br>摩天楼 (まてんろう) - skyscraper<br>摩耗 (まもう) - wea
+摩	✍15	中学	CHAFE	rub, polish, grind, scrape	マ	ま.する　さ.する　す.る	摩擦 (まさつ) - friction<br>摩天楼 (まてんろう) - skyscraper<br>摩耗 (まもう) - wear
 磨	✍16	中学	GRIND	polish, scour, improve, brush (teeth)	マ	みが.く　す.る	磨く (みがく) - to polish<br>磨き (みがき) - polish<br>琢磨 (たくま) - polish (jewels)
 魔	✍21	中学	WITCH	demon, evil spirit	マ		悪魔 (あくま) - devil<br>邪魔 (じゃま) - hindrance<br>魔法 (まほう) - magic
 繭	✍18	中学	COCOON		ケン	まゆ　きぬ	繭糸 (きぬいと) - silk thread<br>山繭 (てんさん) - Japanese oak silkmoth (Antheraea yamamai)
@@ -942,12 +942,12 @@
 韓	✍18	中学	KOREA		カン	から　いげた	韓国 (からくに) - China<br>日韓 (にっかん) - Japan and (South) Korea<br>韓人 (からびと) - Chinese person
 弥	✍8	中学	ALL THE MORE	increasingly	ミ　ビ	いや　や　あまねし　いよいよ　とおい　ひさし　ひさ.しい　わた.る	弥生 (いやおい) - third month of the lunar calendar<br>阿弥陀 (あみだ) - Amitabha<br>弥勒 (みろく) - Maitreya (Bodhisattva)
 那	✍7	中学	WHAT?		ナ　ダ	なに　なんぞ　いかん	旦那 (だんな) - master (of a house, shop, etc.)<br>支那 (しな) - China<br>刹那 (せつな) - moment
-鹿	✍11	中学	DEER		ロク	しか　か	馬鹿 (ばか) - fool<br>牡鹿 (おか) - buck (male deer)<br>大鹿 (おおじか) - large dee
+鹿	✍11	中学	DEER		ロク	しか　か	馬鹿 (ばか) - fool<br>牡鹿 (おか) - buck (male deer)<br>大鹿 (おおじか) - large deer
 斬	✍11	中学	BEHEADING	kill, murder	ザン　サン　セン　ゼン	き.る	斬新 (ざんしん) - novel<br>斬首 (ざんしゅ) - decapitated head<br>斬殺 (ざんさつ) - putting to the sword
 虎	✍8	中学	TIGER	drunkard	コ	とら	龍虎 (りゅうこ) - hero<br>虎の子 (とらのこ) - tiger cub<br>虎の巻 (とらのまき) - crib notes
 狙	✍8	中学	AIM AT	sight, shadow, stalk	ソ　ショ	ねら.う　ねら.い	狙う (ねらう) - to aim at<br>狙い (ねらい) - aim<br>狙撃 (そげき) - shooting
 脇	✍10	中学	ARMPIT	the other way, another place, flank, supporting role	キョウ	わき　わけ	関脇 (せきわけ) - wrestler of the third highest rank<br>脇役 (わきやく) - supporting role (actor)<br>両脇 (りょうわき) - both sides
-熊	✍14	中学	BEAR		ユウ	くま	熊手 (くまで) - rake<br>穴熊 (あなくま) - badger<br>小熊 (こぐま) - small bea
+熊	✍14	中学	BEAR		ユウ	くま	熊手 (くまで) - rake<br>穴熊 (あなくま) - badger<br>小熊 (こぐま) - small bear
 尻	✍5	中学	BUTTOCKS	hips, butt, rear	コウ	しり	川尻 (かわじり) - mouth of a river<br>塩尻 (しおじり) - cone-shaped<br>尻尾 (しっぽ) - tail (animal)
 旦	✍5	中学	DAYBREAK	dawn, morning	タン　ダン	あき.らか　あきら　ただし　あさ　あした	旦那 (だんな) - master (of a house, shop, etc.)<br>若旦那 (わかだんな) - young master<br>元旦 (がんたん) - New Year's Day
 闇	✍17	中学	GET DARK	gloom, disorder	アン　オン	やみ　くら.い	暗闇 (くらやみ) - darkness<br>闇市 (やみいち) - black market<br>夕闇 (ゆうやみ) - dusk
@@ -960,8 +960,8 @@
 匂	✍4	中学	FRAGRANT	stink, glow, insinuate, kokuji		にお.う　にお.い　にお.わせる	匂い (におい) - odour<br>匂う (におう) - to be fragrant
 沙	✍7	中学	SAND		サ　シャ	すな　よなげる	沙汰 (さた) - affair<br>沙漠 (さばく) - desert<br>沙羅 (さら) - sal tree
 須	✍12	中学	OUGHT	by all means, necessarily	ス　シュ	すべから.く　すべし　ひげ　まつ　もち.いる　もと.める	必須 (ひっしゅ) - indispensable<br>恵比須 (えびす) - Ebisu<br>急須 (きゅうす) - small teapot
-椅	✍12	中学	CHAIR		イ		車椅子 (くるまいす) - wheelchair<br>寝椅子 (ねいす) - sofa<br>籐椅子 (とういす) - wicker(work) (cane, rattan) chai
-股	✍8	中学	THIGH	crotch	コ	また　もも	股関節 (こかんせつ) - hip joint<br>二股 (ふたまた) - bifurcation<br>股旅 (またたび) - wandering life of a gamble
+椅	✍12	中学	CHAIR		イ		車椅子 (くるまいす) - wheelchair<br>寝椅子 (ねいす) - sofa<br>籐椅子 (とういす) - wicker(work) (cane, rattan) chair
+股	✍8	中学	THIGH	crotch	コ	また　もも	股関節 (こかんせつ) - hip joint<br>二股 (ふたまた) - bifurcation<br>股旅 (またたび) - wandering life of a gambler
 眉	✍9	中学	EYEBROW		ビ　ミ	まゆ	焦眉 (しょうび) - emergency<br>眉間 (みけん) - brow<br>眉毛 (まゆげ) - eyebrows
 挨	✍10	中学	PUSH OPEN		アイ	ひら.く	挨拶 (あいさつ) - greeting
 拶	✍9	中学	BE IMMINENT	draw close	サツ	せま.る	挨拶 (あいさつ) - greeting
@@ -969,7 +969,7 @@
 凄	✍10	中学	UNCANNY	weird, threatening, horrible	セイ　サイ	さむ.い　すご.い　すさ.まじい	凄い (すごい) - terrible<br>凄惨 (せいさん) - ghastly<br>凄絶 (せいぜつ) - extremely
 謎	✍16	中学	RIDDLE	puzzle, enigma, hint, tip	メイ　ベイ	なぞ	
 稽	✍16	中学	THINK	consider	ケイ	かんが.える　とど.める	稽古 (けいこ) - practice<br>滑稽 (こっけい) - funny<br>無稽 (むけい) - unsupported
-曾	✍12		ONCE	before, formerly, ever, never, ex-	ソウ　ソ　ゾウ	かつ.て　か.って　すなわち	未曾有 (みそう) - unprecedented<br>曾孫 (そうそん) - great-grandchild<br>曾祖父 (そうそふ) - great-grandfathe
+曾	✍12		ONCE	before, formerly, ever, never, ex-	ソウ　ソ　ゾウ	かつ.て　か.って　すなわち	未曾有 (みそう) - unprecedented<br>曾孫 (そうそん) - great-grandchild<br>曾祖父 (そうそふ) - great-grandfather
 喉	✍12	中学	THROAT	voice	コウ	のど	喉頭 (こうとう) - larynx<br>咽喉 (いんこう) - throat<br>喉元 (のどもと) - throat
 拭	✍9	中学	WIPE	mop, swab	ショク　シキ	ぬぐ.う　ふ.く	払拭 (ふっしき) - wiping out<br>拭く (ふく) - to wipe<br>乾拭き (からぶき) - polishing with a dry cloth
 貌	✍14	中学	FORM	appearance, countenance	ボウ　バク	かたち　かたどる	変貌 (へんぼう) - transfiguration<br>全貌 (ぜんぼう) - whole story<br>風貌 (ふうぼう) - looks
@@ -997,7 +997,7 @@
 嵐	✍12	中学	STORM	tempest	ラン	あらし	青嵐 (あおあらし) - wind blowing through fresh verdure<br>磁気嵐 (じきあらし) - magnetic storm<br>夜嵐 (よあらし) - night storm
 鬱	✍29	中学	GLOOM	depression, melancholy	ウツ	うっ.する　ふさ.ぐ　しげ.る	憂鬱 (ゆううつ) - depression<br>鬱屈 (うっくつ) - gloomy<br>陰鬱 (いんうつ) - gloom
 妖	✍7	中学	ATTRACTIVE	bewitching, calamity	ヨウ	あや.しい　なま.めく　わざわ.い	妖怪 (ようかい) - ghost<br>妖精 (ようせい) - fairy<br>妖艶 (ようえん) - fascinating
-藍	✍18	中学	INDIGO		ラン	あい	伽藍 (がらん) - temple (esp. large one)<br>藍色 (あいいろ) - indigo blue<br>出藍 (しゅつらん) - pupil excelling his maste
+藍	✍18	中学	INDIGO		ラン	あい	伽藍 (がらん) - temple (esp. large one)<br>藍色 (あいいろ) - indigo blue<br>出藍 (しゅつらん) - pupil excelling his master
 捉	✍10	中学	CATCH	capture	ソク　サク	とら.える	捉える (とらえる) - to seize<br>捕捉 (ほそく) - capture
 宛	✍8	中学	ADDRESS	just like, fortunately	エン	あ.てる　-あて　-づつ　あたか.も	宛名 (あてな) - name<br>宛て (あて) - aim<br>名宛 (なあて) - address (on an envelope)
 崖	✍11	中学	CLIFF	bluff, precipice	ガイ　ゲ　ギ	がけ　きし　はて	断崖 (だんがい) - palisade<br>懸崖 (けんがい) - overhanging cliff<br>摩崖仏 (まがいぶつ) - Buddha figure carved on a rock face
@@ -1029,7 +1029,7 @@
 痩	✍12	中学	GET THIN		ソウ　チュウ　シュウ　シュ	や.せる	痩身 (そうしん) - slim figure<br>痩せ (やせ) - emaciation<br>痩我慢 (やせがまん) - fake stoicism
 怨	✍9	中学	GRUDGE	show resentment, be jealous	エン　オン　ウン	うら.む　うらみ　うら.めしい	怨念 (おんねん) - grudge<br>怨霊 (おんりょう) - revengeful ghost<br>怨嗟 (えんさ) - resentment
 醒	✍16	中学	AWAKE	be disillusioned, sober up	セイ	さ.ます　さ.める	覚醒 (かくせい) - waking up<br>醒める (さめる) - to wake
-詣	✍13	中学	VISIT A TEMPLE		ケイ　ゲイ	けい.する　まい.る　いた.る　もう.でる	参詣 (さんけい) - temple or shrine visit<br>造詣 (ぞうけい) - deep knowledge<br>初詣 (はつもうで) - first shrine visit of New Yea
+詣	✍13	中学	VISIT A TEMPLE		ケイ　ゲイ	けい.する　まい.る　いた.る　もう.でる	参詣 (さんけい) - temple or shrine visit<br>造詣 (ぞうけい) - deep knowledge<br>初詣 (はつもうで) - first shrine visit of New Year
 窟	✍13	中学	CAVERN		クツ　コツ	いわや　いはや　あな	洞窟 (どうくつ) - cave<br>石窟 (せっくつ) - cavern<br>巣窟 (そうくつ) - den
 巾	✍3	中学	TOWEL	hanging scroll, width, cloth radical (no. 50)	キン　フク	おお.い　ちきり　きれ	頭巾 (ずきん) - hood<br>巾着 (きんちゃく) - pouch<br>雑巾 (ぞうきん) - house-cloth
 蜂	✍13	中学	BEE	wasp, hornet	ホウ	はち	蜂起 (ほうき) - uprising<br>養蜂 (ようほう) - beekeeping<br>蜂蜜 (はちみつ) - honey
@@ -1049,7 +1049,7 @@
 綻	✍14	中学	BE RENT	ripped, unravel, run, begin to open, smile	タン	ほころ.びる	破綻 (はたん) - failure<br>綻び (ほころび) - open seam
 肘	✍7	中学	ELBOW	arm	チュウ	ひじ	肩肘 (かたひじ) - shoulder and elbow<br>掣肘 (せいちゅう) - restraint
 麓	✍19	中学	FOOT OF A MOUNTAIN		ロク	ふもと	山麓 (さんろく) - foot of a mountain
-憧	✍15	中学	YEARN AFTER	long for, aspire to, admire, adore	ショウ　トウ　ドウ	あこが.れる	憧れ (あこがれ) - yearning<br>憧憬 (しょうけい) - longing<br>憧れる (あこがれる) - to long fo
+憧	✍15	中学	YEARN AFTER	long for, aspire to, admire, adore	ショウ　トウ　ドウ	あこが.れる	憧れ (あこがれ) - yearning<br>憧憬 (しょうけい) - longing<br>憧れる (あこがれる) - to long for
 頓	✍13	中学	SUDDENLY	immediately, in a hurry	トン　トツ	にわか.に　とん.と　つまず.く　とみ.に　ぬかずく	無頓着 (むとんじゃく) - indifferent<br>整頓 (せいとん) - orderliness<br>頓挫 (とんざ) - setback
 牙	✍5	中学	TUSK	fang, tusk radical (no. 92)	ガ　ゲ	きば　は	象牙 (ぞうげ) - ivory<br>牙城 (がじょう) - stronghold (esp. of an enemy or opponent)<br>歯牙 (しが) - teeth (and tusks)
 咽	✍9	中学	CHOKED	smothered, stuffy	イン　エン　エツ	むせ.ぶ　むせ.る　のど　の.む	咽頭 (いんとう) - pharynx<br>咽喉 (いんこう) - throat<br>嗚咽 (おえつ) - sobbing
@@ -1059,7 +1059,7 @@
 溺	✍13	中学	DROWN	indulge	デキ　ジョウ　ニョウ	いばり　おぼ.れる	溺れる (おぼれる) - to drown<br>溺死 (できし) - death by drowning<br>溺愛 (できあい) - doting
 侶	✍9	中学	COMPANION	follower	リョ　ロ	とも	僧侶 (そうりょ) - priest<br>伴侶 (はんりょ) - companion
 丼	✍5	中学	BOWL	bowl of food	トン　タン　ショウ　セイ	どんぶり	天丼 (てんどん) - tempura served over a bowl of rice
-瘍	✍14	中学	BOIL	carbuncle	ヨウ	かさ	腫瘍 (しゅよう) - tumor<br>潰瘍 (かいよう) - ulcer<br>胃潰瘍 (いかいよう) - stomach ulce
+瘍	✍14	中学	BOIL	carbuncle	ヨウ	かさ	腫瘍 (しゅよう) - tumor<br>潰瘍 (かいよう) - ulcer<br>胃潰瘍 (いかいよう) - stomach ulcer
 僅	✍12	中学	A WEE BIT		キン　ゴン	わず.か	僅か (わずか) - only<br>僅差 (きんさ) - narrow margin (esp. victory or defeat)<br>僅少 (きんしょう) - few
 諜	✍16		SPY OUT	reconnoiter	チョウ	ちょう.ずる　うかが.う　しめ.す	諜報 (ちょうほう) - secret information<br>防諜 (ぼうちょう) - counterintelligence<br>間諜 (かんちょう) - spy
 柵	✍9	中学	STOCKADE	fence, weir, entwine around	サク　サン	しがら.む　しがらみ　とりで　やらい	鉄柵 (てっさく) - iron railing or fence
@@ -1079,11 +1079,11 @@
 傲	✍13	中学	BE PROUD		ゴウ	おご.る　あなど.る	傲慢 (ごうまん) - pride<br>傲岸 (ごうがん) - haughtiness
 虹	✍9	中学	RAINBOW		コウ	にじ	
 捻	✍11	中学	TWIRL	twist, play with	ネン　ジョウ	ね.じる　ねじ.る　ひね.くる　ひね.る	捻出 (ねんしゅつ) - contriving (to raise funds)<br>捻挫 (ねんざ) - sprain<br>捻る (ねじる) - to screw
-臼	✍6	中学	MORTAR		キュウ　グ	うす　うすづ.く	茶臼 (ちゃうす) - tea grinding mortar (hand mill)<br>脱臼 (だっきゅう) - dislocation<br>石臼 (いしうす) - stone morta
-喩	✍12	中学	METAPHOR		ユ	たと.える　さと.す	比喩 (ひゆ) - simile<br>隠喩 (いんゆ) - metaphor<br>暗喩 (あんゆ) - metapho
+臼	✍6	中学	MORTAR		キュウ　グ	うす　うすづ.く	茶臼 (ちゃうす) - tea grinding mortar (hand mill)<br>脱臼 (だっきゅう) - dislocation<br>石臼 (いしうす) - stone mortar
+喩	✍12	中学	METAPHOR		ユ	たと.える　さと.す	比喩 (ひゆ) - simile<br>隠喩 (いんゆ) - metaphor<br>暗喩 (あんゆ) - metaphor
 萎	✍11	中学	WITHER	droop, lame	イ	な　しお.れる　しな.びる　しぼ.む　な.える	萎縮 (いしゅく) - withering<br>萎える (なえる) - to lose strength
 腺	✍13	中学	GLAND		セン		甲状腺 (こうじょうせん) - thyroid gland<br>前立腺 (ぜんりつせん) - prostate gland<br>乳腺 (にゅうせん) - mammary gland
-桁	✍10	中学	BEAM	girder, spar, unit or column (accounting)	コウ	けた	井桁 (いげた) - well lining<br>桁違い (けたちがい) - an order of magnitude highe
+桁	✍10	中学	BEAM	girder, spar, unit or column (accounting)	コウ	けた	井桁 (いげた) - well lining<br>桁違い (けたちがい) - an order of magnitude higher
 玩	✍8	中学	PLAY	take pleasure in, trifle with, make sport of	ガン	もちあそ.ぶ　もてあそ.ぶ	玩具 (おもちゃ) - toy<br>愛玩 (あいがん) - caring for (esp. a pet or a small object)<br>玩弄 (がんろう) - make sport of
 冶	✍7	中学	MELTING	smelting	ヤ	い.る	冶金 (やきん) - metallurgy<br>鍛冶 (かじ) - smithing<br>刀鍛冶 (かたなかじ) - swordsmith
 羞	✍11	中学	FEEL ASHAMED		シュウ	はじ.る　すすめ.る　は.ずかしい	羞恥 (しゅうち) - shyness<br>含羞 (がんしゅう) - shyness<br>羞恥心 (しゅうちしん) - shyness
@@ -1096,7 +1096,7 @@
 斑	✍12	中学	SPOT	blemish, speck, patches	ハン	ふ　まだら	斑鳩 (いかる) - Japanese grosbeak (Eophona personata)<br>斑点 (はんてん) - speck<br>白斑 (はくはん) - white or bright spot
 冥	✍10	中学	DARK		メイ　ミョウ	くら.い	冥利 (みょうり) - providence<br>冥途 (めいど) - Hades<br>冥王星 (めいおうせい) - Pluto (dwarf planet)
 遜	✍13	中学	HUMBLE	modest	ソン	したが.う　へりくだ.る　ゆず.る	不遜 (ふそん) - arrogance<br>謙遜 (けんそん) - humble<br>遜色 (そんしょく) - inferiority
-旺	✍8	中学	FLOURISHING	successful, beautiful, vigorous	オウ　キョウ　ゴウ	かがや.き　うつくし.い　さかん	旺盛 (おうせい) - full of vim and vigo
+旺	✍8	中学	FLOURISHING	successful, beautiful, vigorous	オウ　キョウ　ゴウ	かがや.き　うつくし.い　さかん	旺盛 (おうせい) - full of vim and vigor
 麺	✍16	中学	NOODLES	wheat flour	メン　ベン	むぎこ	麺類 (めんるい) - noodles<br>冷麺 (れいめん) - cold noodles (in Korean style)<br>乾麺 (かんめん) - dried noodles
 璃	✍15	中学	GLASSY	lapis lazuli	リ		瑠璃 (るり) - lapis lazuli<br>玻璃 (はり) - quartz
 串	✍7	中学	SHISH KEBAB	spit, skewer	カン　ケン　セン	くし　つらぬ.く	串焼き (くしやき) - grilling on a skewer<br>串カツ (くしカツ) - fried pork and negi on skewers<br>金串 (かなぐし) - metal spit
