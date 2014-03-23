@@ -153,14 +153,18 @@ class Edict
 		# parentheses, followed by one or more definitions, as well as
 		# grammatical terms.  Only the first definition is used here.
 		definition = @lookup_table[word]
+
 		if not definition then return nil end
+
 		kana = definition.partition('[')[2].partition(']')[0]
+
 		meaning = definition.partition('/')[2]
-		meaning = meaning.partition('/')[0].lstrip
+
 		while meaning.start_with? '('
 			meaning = meaning.partition(')')[2].lstrip
 		end
 
+		meaning = meaning.partition('/')[0]
 		meaning = $styler.fix_style meaning
 		return [kana, meaning]
 	end
@@ -319,12 +323,6 @@ end
 
 # Makes the Anki deck for a given list of Kanji.
 class Cardmaker
-
-	# Returns a new string of s where matching trailing characters are removed.
-	def rstrip s, remove
-		return s.gsub(/[#{remove}]+$/, "")
-	end
-
 	# Makes the literal string.
 	def make_literal literal
 		s = literal
@@ -368,7 +366,7 @@ class Cardmaker
 			s += meaning + ', '
 		end
 
-		s = rstrip(s, ", ")
+		s = s.chomp ', '
 		return s
 	end
 
@@ -384,7 +382,7 @@ class Cardmaker
 			s += reading + '　'
 		end
 
-		s = rstrip(s, '　')
+		s = s.chomp '　'
 		return s
 	end
 
@@ -400,7 +398,7 @@ class Cardmaker
 			s += reading + '　'
 		end
 
-		s = rstrip(s, '　')
+		s = s.chomp '　'
 		return s
 	end
 
@@ -417,7 +415,7 @@ class Cardmaker
 			s += '<br>'
 		end
 
-		s = rstrip(s, '<br>')
+		s = s.chomp '<br>'
 		return s
 	end
 
