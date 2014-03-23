@@ -19,15 +19,6 @@
 
 require 'nokogiri'
 
-$verbose = true
-
-# Displays an error message if verbose operation is enabled.
-def verbose message
-	if $verbose
-		puts message
-	end
-end
-
 # Extra functions for Arrays.
 class Array
 	# Returns the array minus the lead element, or [] if not possible.
@@ -96,7 +87,7 @@ class Wordfreq
 
 	# Creates a Wordfreq.
 	def initialize
-		verbose 'Parsing wordfreq_ck.txt ...'
+		puts 'Parsing wordfreq_ck.txt ...'
 		path = Script_dir + '/wordfreq_ck.txt'
 		wordfreq = IO.readlines path
 		wordfreq.delete_if {|line| line.start_with? '#'}
@@ -137,7 +128,7 @@ class Edict
 	# Creates an Edict.  Parsing the edict file takes a long time,
 	# so it is desirable to only make one of this.
 	def initialize
-		verbose 'Parsing edict.txt ...'
+		puts 'Parsing edict.txt ...'
 		path = Script_dir + '/edict.txt'
 		edict = IO.readlines path
 		@lookup_table = {}
@@ -264,7 +255,7 @@ end
 # Reader for kanjidic2.
 class Kanjidic
 	def initialize
-		verbose 'Parsing kanjidic2.xml ...'
+		puts 'Parsing kanjidic2.xml ...'
 		path = Script_dir + '/kanjidic2.xml'
 		doc = Nokogiri::XML(open(path), nil, 'UTF-8')
 		@characters = {}
@@ -273,7 +264,7 @@ class Kanjidic
 			@characters.store(character, node)
 		end
 		
-		verbose "Characters in kanjidic2: " + @characters.size.to_s + "."
+		puts "Characters in kanjidic2: " + @characters.size.to_s + "."
 	end
 
 	# Returns a node for the specified characters.
@@ -285,7 +276,7 @@ class Kanjidic
 			if @characters[c]
 				kanjilist << Kanji.new(@characters[c])
 			else
-				verbose "Character not found in kanjidic: " + c + "."
+				puts "Character not found in kanjidic: " + c + "."
 			end	
 		end
 		
@@ -299,7 +290,7 @@ class Targetkanji
 
 	def lookup_characters characters
 		@kanjilist = $kanjidic.get_kanji characters
-		verbose 'Found ' + @kanjilist.size.to_s + ' kanji in kanjidic.'
+		puts 'Found ' + @kanjilist.size.to_s + ' kanji in kanjidic.'
 	end
 
 	# Removes unwanted characters from the list.
@@ -313,15 +304,15 @@ class Targetkanji
 	end
 
 	def initialize
-		verbose 'Parsing targetkanji.txt ...'
+		puts 'Parsing targetkanji.txt ...'
 		path = Script_dir + '/targetkanji.txt'
 		characters = IO.read path
 
 		characters = remove_unwanted_characters characters
 
-		verbose 'Target kanji count: ' + characters.size.to_s + '.'
-		verbose 'Target characters: ' + characters + '.'
-		verbose 'Looking up kanji ...'
+		puts 'Target kanji count: ' + characters.size.to_s + '.'
+		puts 'Target characters: ' + characters + '.'
+		puts 'Looking up kanji ...'
 		lookup_characters characters	
 	end
 end
@@ -471,7 +462,7 @@ class Cardmaker
 	end
 
 	def initialize kanjilist
-		verbose "Making the deck ..."
+		puts 'Making the deck ...'
 		make_deck kanjilist
 	end
 
@@ -479,13 +470,13 @@ class Cardmaker
 	def write_deck
 		file = 'anki.txt'
 		path = Script_dir + '/' + file
-		verbose 'Writing the deck to ' + file + '...'
+		puts 'Writing the deck to ' + file + '...'
 
 		open(path, 'w') do |f|
 			f.puts @deck
 		end		
 
-		verbose 'Done writing.'
+		puts 'Done writing.'
 	end
 end
 
