@@ -300,10 +300,13 @@ class Targetkanji
 	# Removes unwanted characters from the list.
 	# This is a weak filter, but it catches the most obvious problems.
 	def remove_unwanted_characters characters
-		characters = characters.gsub(/[[:ascii:]]/, '')
-		characters = characters.gsub(/[[:blank:]]/, '')
-		characters = characters.gsub(/[[:cntrl:]]/, '')
-		characters = characters.gsub(/[[:punct:]]/, '')
+		characters = characters.dup
+		characters.gsub!(/[[:ascii:]]/, '')
+		characters.gsub!(/[[:blank:]]/, '')
+		characters.gsub!(/[[:cntrl:]]/, '')
+		characters.gsub!(/[[:punct:]]/, '')
+		characters.gsub!(/([\p{Hiragana}]+)/, '')
+		characters.gsub!(/([\p{Katakana}]+)/, '')
 		return characters	
 	end
 
@@ -311,7 +314,6 @@ class Targetkanji
 		puts 'Parsing targetkanji.txt ...'
 		path = Script_dir + '/targetkanji.txt'
 		characters = IO.read path
-
 		characters = remove_unwanted_characters characters
 
 		puts 'Target kanji count: ' + characters.size.to_s + '.'
@@ -366,7 +368,7 @@ class Cardmaker
 			s += meaning + ', '
 		end
 
-		s = s.chomp ', '
+		s.chomp! ', '
 		return s
 	end
 
@@ -382,7 +384,7 @@ class Cardmaker
 			s += reading + '　'
 		end
 
-		s = s.chomp '　'
+		s.chomp! '　'
 		return s
 	end
 
@@ -398,7 +400,7 @@ class Cardmaker
 			s += reading + '　'
 		end
 
-		s = s.chomp '　'
+		s.chomp! '　'
 		return s
 	end
 
@@ -415,7 +417,7 @@ class Cardmaker
 			s += '<br>'
 		end
 
-		s = s.chomp '<br>'
+		s.chomp! '<br>'
 		return s
 	end
 

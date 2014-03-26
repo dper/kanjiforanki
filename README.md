@@ -205,3 +205,9 @@ The kanji dictionary and Japanese word dictionary are available from their origi
 * <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.
 * <http://www.csse.monash.edu.au/~jwb/edict.html>.
 * <http://ftp.monash.edu.au/pub/nihongo/edict.gz>.
+
+
+Contributions
+=============
+
+Thanks to **jfsantos** for the regular expressions that remove hiragana and katakana.
