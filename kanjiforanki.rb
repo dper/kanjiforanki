@@ -39,6 +39,9 @@ class Styler
 		# letter capitalized, then by all caps, then by phrases to
 		# remove.
 		@lookup_table = {
+			'1/10bu' => '1/10 bu',
+			'1/10sen' => '1/10 sen',
+			'1/3lbs' => '1/3 lbs',
 			'acknowledgement' => 'acknowledgment',
 			'aeroplane' => 'airplane',
 			'centre' => 'center',
