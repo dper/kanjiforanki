@@ -3,6 +3,7 @@ KanjiForAnki
 
 This program takes a list of kanji and generates Anki flash cards for each them.
 
+
 Objective
 =========
 
@@ -11,6 +12,7 @@ This project is a script that takes a list of kanji as input and outputs a file 
 Kanji are Japanese characters.  There are several thousand in existence.  Of those, roughly 2,000 are important for daily life in Japan.  English speakers learning Japanese often use SRS flash card systems to study.  One such program is Anki (<http://ankisrs.net/>).  People have created many different Anki decks for studying, but there are three drawbacks commonly encountered: the information is unreliable, the information is not freely licensed, or the information is not in the format you want.
 
 Using this script, or rather, by modifying this script, you can customize flash card generation and produce cards you feel are particularly efficient for your studying needs.  The default settings are ones the author finds useful, so presumably you can use the script as-is, should you so desire.
+
 
 Getting Dependencies
 ====================
@@ -177,16 +179,22 @@ font-size: 75%;
 You are ready to go.  Have fun studying!
 
 
-Issues
+Source
 ======
 
-If you see any issues, obvious but missing features, or problems with the documentation, feel free to open an issue at <https://github.com/dper/KanjiForAnki/issues> or contact the author at <https://microca.st/dper>.
+* Browse: <https://dperkins.org/git/gitlist/kanjiforanki.git/>
+* Clone: <https://dperkins.org/git/public/kanjiforanki.git/>
+* GitHub: <https://github.com/dper/kanjiforanki/>
 
 
-Sources
+Contact
 =======
 
-The source code here is a modification of some code I wrote in 2011 to make paper flash cards for elementary school kanji.  Back then I didn't have a smart phone with SRS, and regardless, paper flash cards have their own strengths and weaknesses. <https://dperkins.org/arc/2011-03-22.kanji%20flashcards.html>
+If you want to contact the author, here are some ways.  Bug reports and improvements are always welcome.
+
+* <https://microca.st/dper>
+* <https://twitter.com/dpp0>
+* <https://dperkins.org/tag/contact.html>
 
 The kanji lists themselves are published by the Ministry of Education (MEXT) in Japan.  Other websites copy and paste the data from official MEXT documents.
 
@@ -195,16 +203,16 @@ The kanji lists themselves are published by the Ministry of Education (MEXT) in 
 
 The word frequency list is public domain and is included with the source.
 
-* <http://ftp.monash.edu.au/pub/nihongo/00INDEX.html>.
-* <http://www.bcit-broadcast.com/monash/wordfreq.README>.
-* <http://ftp.monash.edu.au/pub/nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
+* <ftp://ftp.edrdg.org/pub/Nihongo/00INDEX.html>.
+* <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq.README>.
+* <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
 
 The kanji dictionary and Japanese word dictionary are available from their original sources.  The original sources aren't in Unicode, but you can and should check there for updates and make the conversions yourself using a web browser and some copy and pasting.
 
-* <http://www.csse.monash.edu.au/~jwb/kanjidic2/>.
-* <http://www.csse.monash.edu.au/~jwb/kanjidic2/kanjidic2.xml.gz>.
-* <http://www.csse.monash.edu.au/~jwb/edict.html>.
-* <http://ftp.monash.edu.au/pub/nihongo/edict.gz>.
+* <ftp://ftp.edrdg.org/pub/Nihongo/kanjidic2_ov.html>.
+* <ftp://ftp.edrdg.org/pub/Nihongo/kanjidic2.xml.gz>.
+* <ftp://ftp.edrdg.org/pub/Nihongo/edict_doc.html>.
+* <ftp://ftp.edrdg.org/pub/Nihongo/edict.gz>.
 
 
 Contributions
