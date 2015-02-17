@@ -182,9 +182,9 @@ You are ready to go.  Have fun studying!
 Source
 ======
 
-* Browse: <https://dperkins.org/git/gitlist/kanjiforanki.git/>
-* Clone: <https://dperkins.org/git/public/kanjiforanki.git/>
-* GitHub: <https://github.com/dper/kanjiforanki/>
+* Browse: <https://dperkins.org/git/gitlist/kanjiforanki.git/>.
+* Clone: <https://dperkins.org/git/public/kanjiforanki.git/>.
+* GitHub: <https://github.com/dper/kanjiforanki/>.
 
 
 Contact
