@@ -196,6 +196,10 @@ If you want to contact the author, here are some ways.  Bug reports and improvem
 * <https://twitter.com/dpp0>
 * <https://dperkins.org/tag/contact.html>
 
+
+Kanji Lists
+===========
+
 The kanji lists themselves are published by the Ministry of Education (MEXT) in Japan.  Other websites copy and paste the data from official MEXT documents.
 
 * <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm>.  Elementary school kanji.
