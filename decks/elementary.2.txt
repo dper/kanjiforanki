@@ -1,0 +1,160 @@
+引	✍4	小2	PULL	tug, jerk, admit, install, quote, refer to	イン	ひ.く　ひ.き　ひ.き-　-び.き　ひ.ける	引き (ひき) - pull<br>取引 (とりひき) - transactions<br>引退 (いんたい) - retire
+羽	✍6	小2	FEATHERS	counter for birds, rabbits	ウ	は　わ　はね	羽根 (はね) - feather<br>羽織 (はおり) - haori (Japanese formal coat)<br>羽毛 (うもう) - feathers
+雲	✍12	小2	CLOUD		ウン	くも　-ぐも	暗雲 (あんうん) - dark clouds<br>星雲 (せいうん) - nebula<br>東雲 (しののめ) - daybreak
+園	✍13	小2	PARK	garden, yard, farm	エン	その	学園 (がくえん) - academy<br>公園 (こうえん) - park<br>幼稚園 (ようちえん) - kindergarten
+遠	✍13	小2	DISTANT	far	エン　オン	とお.い	遠く (とおく) - far away<br>遠い (とおい) - far<br>遠征 (えんせい) - expedition
+何	✍7	小2	WHAT		カ	なに　なん　なに-　なん-	何か (なにか) - something<br>何も (なにも) - nothing (with neg. verbs)<br>何度も (なんども) - many times over
+科	✍9	小2	DEPARTMENT	course, section	カ		科学 (かがく) - science<br>理科 (りか) - science<br>学科 (がっか) - study subject
+夏	✍10	小2	SUMMER		カ　ガ　ゲ	なつ	夏季 (かき) - summer season<br>昨夏 (さくか) - last summer<br>夏休み (なつやすみ) - summer vacation
+家	✍10	小2	HOUSE	home, family, professional, expert, performer	カ　ケ	いえ　や　うち	家族 (かぞく) - family<br>家庭 (かてい) - home<br>実家 (じっか) - home
+歌	✍14	小2	SONG	sing	カ	うた　うた.う	和歌 (わか) - waka<br>歌手 (かしゅ) - singer<br>主題歌 (しゅだいか) - theme song
+画	✍8	小2	BRUSH-STROKE	picture	ガ　カク　エ　カイ	えが.く　かく.する　かぎ.る　はかりごと　はか.る	映画 (えいが) - movie<br>計画 (けいかく) - plan<br>画面 (えづら) - the impression given by a painting or image
+回	✍6	小2	-TIMES	round, game, revolve, counter for occurrences	カイ　エ	まわ.る　-まわ.る　-まわ.り　まわ.す　-まわ.す　まわ.し-　-まわ.し　もとお.る　か.える	今回 (こんかい) - now<br>回戦 (かいせん) - match<br>回目 (かいめ) - -Nth time around
+会	✍6	小2	MEETING	meet, party, association, interview, join	カイ　エ	あ.う　あ.わせる　あつ.まる	大会 (たいかい) - convention<br>会社 (かいしゃ) - company<br>社会 (しゃかい) - society
+海	✍9	小2	SEA	ocean	カイ	うみ	海外 (かいがい) - foreign<br>海上 (かいじょう) - sea<br>上海 (シャンハイ) - Shanghai (China)
+絵	✍12	小2	PICTURE	drawing, painting, sketch	カイ　エ		絵本 (えほん) - picture book<br>絵画 (かいが) - picture<br>絵馬 (えうま) - votive picture (originally of horse)
+外	✍5	小2	OUTSIDE		ガイ　ゲ	そと　ほか　はず.す　はず.れる　と-	以外 (いがい) - with the exception of<br>海外 (かいがい) - foreign<br>外に (ほかに) - in addition
+角	✍7	小2	ANGLE	corner, square, horn, antlers	カク	かど　つの	外角 (がいかく) - outside corner<br>内角 (ないかく) - interior angle<br>一角 (いっかく) - corner
+楽	✍13	小2	MUSIC	comfort, ease	ガク　ラク　ゴウ	たの.しい　たの.しむ　この.む	音楽 (おんがく) - music<br>楽しみ (たのしみ) - enjoyment<br>楽しい (たのしい) - enjoyable
+活	✍9	小2	LIVELY	resuscitation, being helped, living	カツ	い.きる　い.かす　い.ける	生活 (せいかつ) - living<br>活動 (かつどう) - action<br>活躍 (かつやく) - activity (esp. energetic)
+間	✍12	小2	INTERVAL	space	カン　ケン	あいだ　ま　あい	時間 (じかん) - time<br>年間 (ねんかん) - year (period of)<br>間に (あいだに) - while
+丸	✍3	小2	ROUND	full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away	ガン	まる　まる.める　まる.い	丸ごと (まるごと) - in its entirety<br>丸い (まるい) - round<br>丸め (まるめ) - rounding
+岩	✍8	小2	BOULDER	rock, cliff	ガン	いわ	岩手県 (いわてけん) - Iwate prefecture (Tohoku area)<br>岩壁 (がんぺき) - wall of rock<br>岩石 (がんせき) - rock
+顔	✍18	小2	FACE	expression	ガン	かお	笑顔 (えがお) - smiling face<br>洗顔 (せんがん) - face-washing<br>顔ぶれ (かおぶれ) - personnel
+汽	✍7	小2	VAPOR	steam	キ		汽車 (きしゃ) - train (sometimes specifically a steam train)<br>汽笛 (きてき) - steam whistle<br>汽船 (きせん) - steamship
+記	✍10	小2	SCRIBE	account, narrative	キ	しる.す	記事 (きじ) - article<br>記録 (きろく) - record<br>記念 (きねん) - commemoration
+帰	✍10	小2	HOMECOMING	arrive at, lead to, result in	キ	かえ.る　かえ.す　おく.る　とつ.ぐ	帰国 (きこく) - return to one's country<br>復帰 (ふっき) - return<br>帰り (かえり) - return
+弓	✍3	小2	BOW	bow (archery, violin)	キュウ	ゆみ	真弓 (まゆみ) - Japanese spindle tree (Euonymus sieboldianus)<br>弓矢 (きゅうし) - bow and arrow<br>弓道 (きゅうどう) - archery
+牛	✍4	小2	COW		ギュウ	うし	牛乳 (ぎゅうにゅう) - milk<br>牛肉 (ぎゅうにく) - beef<br>牛丼 (ぎゅうどん) - rice covered with beef and vegetables
+魚	✍11	小2	FISH		ギョ	うお　さかな　-ざかな	魚介類 (ぎょかいるい) - marine products<br>雑魚 (いざこ) - small fish<br>魚類 (ぎょるい) - fish
+京	✍8	小2	CAPITAL	10**16	キョウ　ケイ　キン	みやこ	東京 (とうきょう) - Tokyo<br>東京都 (とうきょうと) - Tokyo Metropolis<br>京都 (きょうと) - Kyoto
+強	✍11	小2	STRONG		キョウ　ゴウ	つよ.い　つよ.まる　つよ.める　し.いる　こわ.い	強い (こわい) - tough<br>勉強 (べんきょう) - study<br>強調 (きょうちょう) - emphasis
+教	✍11	小2	TEACH	faith, doctrine	キョウ	おし.える　おそ.わる	教育 (きょういく) - training<br>教え (おしえ) - teaching<br>教授 (きょうじゅ) - professor
+近	✍7	小2	NEAR	early, akin, tantamount	キン　コン	ちか.い	最近 (さいきん) - most recent<br>近く (ちかく) - near<br>近い (ちかい) - near
+兄	✍5	小2	ELDER BROTHER	big brother	ケイ　キョウ	あに	兄弟 (きょうだい) - siblings<br>義兄 (あに) - brother-in-law<br>兄妹 (きょうだい) - older brother and younger sister
+形	✍7	小2	SHAPE	form, style	ケイ　ギョウ	かた　-がた　かたち　なり	山形 (やまがた) - mountain-shape<br>人形 (にんぎょう) - doll<br>形式 (けいしき) - form (as opposed to substance)
+計	✍9	小2	PLOT	plan, scheme, measure	ケイ	はか.る　はか.らう	計画 (けいかく) - plan<br>計算 (けいさん) - calculation<br>設計 (せっけい) - plan
+元	✍4	小2	BEGINNING	former time, origin	ゲン　ガン	もと	地元 (じもと) - home area<br>元気 (げんき) - lively<br>元々 (もともと) - originally
+言	✍7	小2	SAY	word	ゲン　ゴン	い.う　こと	言葉 (けとば) - language<br>言う (いう) - to say<br>と言う (という) - called
+原	✍10	小2	MEADOW	original, primitive, field, plain, prairie, tundra, wilderness	ゲン	はら	原因 (げんいん) - cause<br>原作 (げんさく) - original work<br>原則 (げんそく) - principle
+戸	✍4	小2	DOOR	counter for houses, door radical (no. 63)	コ	と	神戸 (こうべ) - Kobe (port city near Osaka)<br>江戸 (えど) - old name of Tokyo<br>瀬戸 (せと) - strait
+古	✍5	小2	OLD		コ	ふる.い　ふる-　-ふる.す	古い (ふるい) - old (not person)<br>名古屋 (なごや) - Nagoya (city)<br>中古 (ちゅうこ) - used
+午	✍4	小2	NOON	sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac	ゴ	うま	午後 (ごご) - afternoon<br>午前 (ごぜん) - morning<br>正午 (しょうご) - noon
+後	✍9	小2	BEHIND	back, later	ゴ　コウ	のち　うし.ろ　うしろ　あと　おく.れる	午後 (ごご) - afternoon<br>今後 (こんご) - from now on<br>最後 (さいご) - last
+語	✍14	小2	WORD	speech, language	ゴ	かた.る　かた.らう	物語 (ものがたり) - tale<br>語る (かたる) - to talk about<br>英語 (えいご) - English (language)
+工	✍3	小2	CRAFT	construction, katakana e radical (no. 48)	コウ　ク　グ		工場 (こうじょう) - factory<br>工夫 (くふう) - scheme<br>工事 (こうじ) - construction work
+公	✍4	小2	PUBLIC	prince, official, governmental	コウ　ク	おおやけ	公開 (こうかい) - opening to the public<br>主人公 (しゅじんこう) - protagonist<br>公園 (こうえん) - park
+広	✍5	小2	WIDE	broad, spacious	コウ	ひろ.い　ひろ.まる　ひろ.める　ひろ.がる　ひろ.げる	広島 (ひろしま) - Hiroshima (city)<br>広がる (ひろがる) - to spread (out)<br>広く (ひろく) - widely
+交	✍6	小2	MINGLE	mixing, association, coming & going	コウ	まじ.わる　まじ.える　ま.じる　まじ.る　ま.ざる　ま.ぜる　-か.う　か.わす　かわ.す　こもごも	交渉 (こうしょう) - negotiations<br>交流 (こうりゅう) - exchange<br>交換 (こうかん) - exchange
+光	✍6	小2	RAY	light	コウ	ひか.る　ひかり	観光 (かんこう) - sightseeing<br>観光客 (かんこうきゃく) - tourist<br>光景 (こうけい) - scene
+考	✍6	小2	CONSIDER	think over	コウ	かんが.える　かんが.え	考え (かんがえ) - thinking<br>考える (かんがえる) - to think about<br>備考 (びこう) - note
+行	✍6	小2	GOING	journey, carry out, conduct, act, line, row, bank	コウ　ギョウ　アン	い.く　ゆ.く　-ゆ.き　-ゆき　-い.き　-いき　おこな.う　おこ.なう	行く (いく) - to go<br>行う (おこなう) - to perform<br>行き (いき) - bound for ...
+高	✍10	小2	TALL	high, expensive	コウ	たか.い　たか　-だか　たか.まる　たか.める	高校 (こうこう) - senior high school<br>高い (たかい) - high<br>最高 (さいこう) - highest
+黄	✍11	小2	YELLOW		コウ　オウ	き　こ-	黄色 (おうしょく) - yellow<br>黄金 (おうごん) - gold<br>黄色い (きいろい) - yellow
+合	✍6	小2	FIT	suit, join, 0.1	ゴウ　ガッ　カッ	あ.う　-あ.う　あ.い　あい-　-あ.い　-あい　あ.わす　あ.わせる　-あ.わせる	場合 (ばあい) - case<br>試合 (しあい) - match<br>総合 (そうごう) - synthesis
+谷	✍7	小2	VALLEY		コク	たに　きわ.まる	谷川 (たにがわ) - mountain stream<br>渓谷 (けいこく) - valley<br>谷町 (たにまち) - sponsors of rikishi or their stables
+国	✍8	小2	COUNTRY		コク	くに	全国 (ぜんこく) - countrywide<br>中国 (ちゅうごく) - China<br>米国 (べいこく) - America
+黒	✍11	小2	BLACK		コク	くろ　くろ.ずむ　くろ.い	黒い (くろい) - black<br>黒字 (くろじ) - balance (figure) in the black<br>目黒 (めぐろ) - Bonin white-eye (Apalopteron familiare)
+今	✍4	小2	NOW		コン　キン	いま	今回 (こんかい) - now<br>今年 (ことし) - this year<br>今後 (こんご) - from now on
+才	✍3	小2	GENIUS	years old, cubic shaku	サイ		才能 (さいのう) - talent<br>天才 (てんさい) - genius<br>天才的 (てんさいてき) - talented
+細	✍11	小2	DAINTY	get thin, taper, slender, narrow, detailed, precise	サイ	ほそ.い　ほそ.る　こま.か　こま.かい	詳細 (しょうさい) - detail<br>細かい (こまかい) - small<br>細胞 (さいほう) - cell
+作	✍7	小2	MAKE	production, prepare, build	サク　サ	つく.る　つく.り　-づく.り	作品 (さくひん) - work (e.g., book, film, composition, etc.)<br>作り (つくり) - making<br>作る (つくる) - to make
+算	✍14	小2	CALCULATE	divining, number, abacus, probability	サン	そろ	予算 (よさん) - estimate<br>計算 (けいさん) - calculation<br>通算 (つうさん) - total
+止	✍4	小2	STOP	halt	シ	と.まる　-ど.まり　と.める　-と.める　-ど.め　とど.める　とど.め　とど.まる　や.める　や.む　-や.む　よ.す　-さ.す　-さ.し	止め (とどめ) - finishing blow<br>禁止 (きんし) - prohibition<br>防止 (ぼうし) - prevention
+市	✍5	小2	MARKET	city, town	シ	いち	市内 (しない) - city<br>市民 (しみん) - citizen<br>市長 (しちょう) - mayor
+矢	✍5	小2	DART	arrow	シ	や	矢先 (やさき) - arrowhead<br>矢印 (やじるし) - arrow (mark or symbol)<br>一矢 (いっし) - an arrow
+姉	✍8	小2	ELDER SISTER		シ	あね　はは	姉妹 (きょうだい) - sisters<br>義姉 (あね) - sister-in-law (elder)<br>姉さん (あねさん) - elder sister
+思	✍9	小2	THINK		シ	おも.う　おもえら.く　おぼ.す	思い (おもい) - thought<br>思う (おもう) - to think<br>思い出 (おもいで) - memories
+紙	✍10	小2	PAPER		シ	かみ	手紙 (てがみ) - letter<br>表紙 (ひょうし) - front cover<br>紙面 (しめん) - space (page)
+寺	✍6	小2	BUDDHIST TEMPLE		ジ	てら	お寺 (おてら) - temple<br>寺院 (じいん) - temple<br>国分寺 (こくぶんじ) - state-supported provincial temples
+自	✍6	小2	ONESELF		ジ　シ	みずか.ら　おの.ずから　おの.ずと	自分 (じぶん) - myself<br>自民党 (じみんとう) - Liberal Democratic Party<br>自民 (じみん) - Liberal Democratic Party
+時	✍10	小2	TIME	hour	ジ	とき　-どき	時間 (じかん) - time<br>時代 (じだい) - period<br>当時 (とうじ) - at that time
+室	✍9	小2	ROOM	apartment, chamber, greenhouse, cellar	シツ	むろ	教室 (きょうしつ) - classroom<br>室内 (しつない) - indoor<br>室長 (しつちょう) - section chief
+社	✍7	小2	COMPANY	firm, office, association, shrine	シャ	やしろ	会社 (かいしゃ) - company<br>社会 (しゃかい) - society<br>社長 (しゃちょう) - company president
+弱	✍10	小2	WEAK	frail	ジャク	よわ.い　よわ.る　よわ.まる　よわ.める	弱い (よわい) - weak<br>弱さ (よわさ) - weakness<br>弱点 (じゃくてん) - weak point
+首	✍9	小2	NECK	counter for songs and poems	シュ	くび	首相 (しゅしょう) - Prime Minister<br>首都 (しゅと) - capital city<br>首位 (しゅい) - first place
+秋	✍9	小2	AUTUMN		シュウ	あき　とき	昨秋 (さくしゅう) - autumn of last year<br>秋季 (しゅうき) - fall season<br>秋田県 (あきたけん) - Akita prefecture (Tohoku area)
+週	✍11	小2	WEEK		シュウ		週間 (しゅうかん) - week<br>今週 (こんしゅう) - this week<br>毎週 (まいしゅう) - every week
+春	✍9	小2	SPRINGTIME	spring (season)	シュン	はる	今春 (こんしゅん) - this spring<br>新春 (しんしゅん) - New Year (Spring)<br>青春 (せいしゅん) - youth
+書	✍10	小2	WRITE		ショ	か.く　-が.き　-がき	秘書 (ひしょ) - secretary<br>読書 (とくしょ) - reading<br>肩書 (かたがき) - title
+少	✍4	小2	FEW	little	ショウ	すく.ない　すこ.し	少し (すこし) - small quantity<br>少ない (すくない) - few<br>少年 (しょうねん) - boy
+場	✍12	小2	LOCATION	place	ジョウ　チョウ	ば	場合 (ばあい) - case<br>登場 (とうじょう) - entry (on stage)<br>出場 (しゅつじょう) - appearance
+色	✍6	小2	COLOR		ショク　シキ	いろ	色々 (いろいろ) - various<br>景色 (けいしょく) - scenery<br>色んな (いろんな) - various
+食	✍9	小2	EAT	food	ショク　ジキ	く.う　く.らう　た.べる　は.む	食事 (しょくじ) - meal<br>食べる (たべる) - to eat<br>食品 (しょくひん) - food
+心	✍4	小2	HEART	mind, spirit, heart radical (no. 61)	シン	こころ　-ごころ	中心 (ちゅうしん) - center<br>心配 (しんぱい) - worry<br>安心 (あんしん) - relief
+新	✍13	小2	NEW		シン	あたら.しい　あら.た　あら-　にい-	新聞 (しんぶん) - newspaper<br>更新 (こうしん) - renewal<br>新た (あらた) - new
+親	✍16	小2	PARENT	intimacy, relative, familiarity, dealer (cards)	シン	おや　おや-　した.しい　した.しむ	母親 (ははおや) - mother<br>両親 (ふたおや) - parents<br>親方 (おやかた) - master
+図	✍7	小2	MAP	drawing, plan, extraordinary, audacious	ズ　ト	え　はか.る	図る (はかる) - to plot<br>図書館 (ずしょかん) - library<br>地図 (ちず) - map
+数	✍13	小2	NUMBER	strength, fate, law, figures	スウ　ス　サク　ソク　シュ	かず　かぞ.える　しばしば　せ.める　わずらわ.しい	数年 (すうねん) - several years<br>複数 (ふくすう) - several<br>多数 (たすう) - great number
+西	✍6	小2	WEST	Spain	セイ　サイ　ス	にし	北西 (ほくせい) - northwest<br>北北西 (ほくほくせい) - north-northwest<br>西部 (せいぶ) - western part
+声	✍7	小2	VOICE		セイ　ショウ	こえ　こわ-	歓声 (かんせい) - cheer<br>声援 (せいえん) - encouragement<br>音声 (おんじょう) - voice
+星	✍9	小2	STAR	spot, dot, mark	セイ　ショウ	ほし　-ぼし	星空 (ほしぞら) - starry sky<br>衛星 (えいせい) - satellite<br>惑星 (わくせい) - planet
+晴	✍12	小2	CLEAR UP		セイ	は.れる　は.れ　は.れ-　-ば.れ　は.らす	晴れ (はれ) - clear weather<br>晴れて (はれて) - openly<br>晴天 (せいてん) - fine weather (i.e., little or no clouds)
+切	✍4	小2	CUT	cutoff, be sharp	セツ　サイ	き.る　-き.る　き.り　-き.り　-ぎ.り　き.れる　-き.れる　き.れ　-き.れ　-ぎ.れ	大切 (おおぎり) - large cut (e.g., of meat)<br>切り (きり) - end<br>切れ (きれ) - piece
+雪	✍11	小2	SNOW		セツ	ゆき	大雪 (おおゆき) - heavy snow<br>積雪 (せきせつ) - fallen snow<br>雪辱 (せつじょく) - vindication of honor
+船	✍11	小2	SHIP	boat	セン	ふね　ふな-	漁船 (ぎょせん) - fishing boat<br>船橋 (せんきょう) - pontoon bridge<br>船舶 (せんぱく) - ship
+線	✍15	小2	LINE	track	セン	すじ	路線 (ろせん) - route<br>打線 (だせん) - baseball lineup<br>新幹線 (しんかんせん) - Shinkansen
+前	✍9	小2	IN FRONT	before	ゼン	まえ　-まえ	前に (まえに) - ahead<br>午前 (ごぜん) - morning<br>名前 (なまえ) - name
+組	✍11	小2	ASSOCIATION	braid, plait, construct, assemble, unite, cooperate, grapple	ソ	く.む　くみ　-ぐみ	組織 (そしき) - organization<br>番組 (ばんぐみ) - program (e.g., TV)<br>仕組み (しくみ) - structure
+走	✍7	小2	RUN		ソウ	はし.る	走る (はしる) - to run<br>走者 (そうしゃ) - runner<br>滑走 (かっそう) - gliding
+多	✍6	小2	MANY	frequent, much	タ	おお.い　まさ.に　まさ.る	多い (おおい) - many<br>多く (おおく) - many<br>最多 (さいた) - most (numerous)
+太	✍4	小2	PLUMP	thick, big around	タイ　タ	ふと.い　ふと.る	太陽 (たいよう) - sun<br>太平洋 (たいへいよう) - Pacific Ocean<br>太鼓 (たいこ) - drum
+体	✍7	小2	BODY	substance, object, reality, counter for images	タイ　テイ	からだ　かたち	団体 (だんたい) - organization<br>全体 (ぜんたい) - whole<br>体験 (たいけん) - personal experience
+台	✍5	小2	PEDESTAL	a stand, counter for machines and vehicles	ダイ　タイ	うてな　われ　つかさ	舞台 (ぶたい) - stage(theater)<br>仙台 (せんだい) - Sendai (city)<br>台湾 (たいわん) - Taiwan
+地	✍6	小2	GROUND	earth	チ　ジ		地方版 (ちほうばん) - local edition<br>地域 (ちいき) - area<br>地元 (じもと) - home area
+池	✍6	小2	POND	cistern, pool, reservoir	チ	いけ	電池 (でんち) - battery<br>ため池 (ためいけ) - reservoir<br>蓄電池 (ちくでんち) - storage battery
+知	✍8	小2	KNOW	wisdom	チ	し.る　し.らせる	知事 (ちじ) - prefectural governor<br>知識 (ちしき) - knowledge<br>知る (しる) - to be aware of
+茶	✍9	小2	TEA		チャ　サ		お茶 (おちゃ) - tea (usu. green)<br>喫茶 (きっさ) - tea drinking<br>喫茶店 (きっさてん) - coffee shop
+昼	✍9	小2	DAYTIME	noon	チュウ	ひる	昼間 (ちゅうかん) - daytime<br>昼食 (ちゅうしょく) - lunch<br>昼寝 (ひるね) - nap (afternoon)
+長	✍8	小2	LONG	leader, superior, senior	チョウ	なが.い　おさ	社長 (しゃちょう) - company president<br>会長 (かいちょう) - president (of a society)<br>長の (ながの) - long
+鳥	✍11	小2	BIRD	chicken	チョウ	とり	鳥取県 (とっとりけん) - Tottori prefecture (Chuugoku area)<br>鳥居 (とりい) - torii<br>焼き鳥 (やきとり) - yakitori
+朝	✍12	小2	MORNING	dynasty, regime, epoch, period, (North) Korea	チョウ	あさ	北朝鮮 (きたちょうせん) - North Korea<br>朝刊 (ちょうかん) - morning newspaper<br>朝日 (あさひ) - morning sun
+直	✍8	小2	STRAIGHTAWAY	honesty, frankness, fix, repair	チョク　ジキ　ジカ	ただ.ちに　なお.す　-なお.す　なお.る　なお.き　す.ぐ	直接 (ちょくせつ) - direct<br>見直し (みなおし) - review<br>正直 (しょうじき) - honesty
+通	✍10	小2	TRAFFIC	pass through, avenue, commute, counter for letters, notes, documents, etc.	ツウ　ツ	とお.る　とお.り　-とお.り　-どお.り　とお.す　とお.し　-どお.し　かよ.う	普通 (ふつう) - general<br>通り (とおり) - avenue<br>見通し (みとおし) - unobstructed view
+弟	✍7	小2	YOUNGER BROTHER	faithful service to elders	テイ　ダイ　デ	おとうと	兄弟 (きょうだい) - siblings<br>弟子 (ていし) - pupil<br>弟さん (おとうとさん) - younger brother
+店	✍8	小2	STORE	shop	テン	みせ　たな	店舗 (てんぽ) - shop<br>商店街 (しょうてんがい) - shopping district<br>書店 (しょてん) - bookshop
+点	✍9	小2	SPOT	point, mark, speck, decimal point	テン	つ.ける　つ.く　た.てる　さ.す　とぼ.す　とも.す　ぼち	得点 (とくてん) - score<br>時点 (じてん) - point in time<br>視点 (してん) - opinion
+電	✍13	小2	ELECTRICITY		デン		電話 (でんわ) - telephone call<br>電車 (でんしゃ) - train<br>電力 (でんりょく) - electric power
+刀	✍2	小2	SWORD	saber, knife	トウ	かたな　そり	銃刀法 (じゅうとうほう) - Swords and Firearms Control Law (1958)<br>太刀 (たち) - long sword<br>日本刀 (にほんとう) - Japanese sword
+冬	✍5	小2	WINTER		トウ	ふゆ	冬季 (とうき) - winter<br>冬場 (ふゆば) - the winter season<br>今冬 (こんとう) - this winter
+当	✍6	小2	HIT	right, appropriate, himself	トウ	あ.たる　あ.たり　あ.てる　あ.て　まさ.に　まさ.にべし	本当に (ほんとうに) - really<br>当時 (とうじ) - at that time<br>当選 (とうせん) - being elected
+東	✍8	小2	EAST		トウ	ひがし	東京 (とうきょう) - Tokyo<br>東京都 (とうきょうと) - Tokyo Metropolis<br>東北 (とうほく) - north-east
+答	✍12	小2	SOLUTION	answer	トウ	こた.える　こた.え	答え (いらえ) - answer<br>回答 (かいとう) - reply<br>答える (こたえる) - to answer
+頭	✍16	小2	HEAD	counter for large animals	トウ　ズ　ト	あたま　かしら　-がしら　かぶり	先頭 (せんとう) - head<br>冒頭 (ぼうとう) - beginning<br>店頭 (てんとう) - shopfront
+同	✍6	小2	SAME	agree, equal	ドウ	おな.じ	同じ (おなじ) - same<br>同社 (どうしゃ) - the same firm<br>同市 (どうし) - same city
+道	✍12	小2	ROAD-WAY	street, district, journey, course, moral, teachings	ドウ　トウ	みち	鉄道 (てつどう) - railroad<br>報道 (ほうどう) - information<br>道路 (どうろ) - road
+読	✍14	小2	READ		ドク　トク　トウ	よ.む　-よ.み	読み (よみ) - reading<br>読む (よむ) - to read<br>読書 (とくしょ) - reading
+内	✍4	小2	INSIDE	within, between, among, house, home	ナイ　ダイ	うち	内容 (ないよう) - subject<br>県内 (けんない) - within the prefecture<br>市内 (しない) - city
+南	✍9	小2	SOUTH		ナン　ナ	みなみ	南部 (なんぶ) - southern part<br>南西 (なんせい) - southwest<br>西南西 (せいなんせい) - west-southwest
+肉	✍6	小2	MEAT		ニク	しし	筋肉 (きんにく) - muscle<br>牛肉 (ぎゅうにく) - beef<br>豚肉 (とんにく) - pork
+馬	✍10	小2	HORSE		バ	うま　うま-　ま	出馬 (しゅつば) - running (for election)<br>競馬 (くらべうま) - traditional horse-racing<br>龍馬 (りゅうめ) - splendid horse
+売	✍7	小2	SELL		バイ	う.る　う.れる	発売 (はつばい) - sale<br>販売 (はんばい) - sales<br>発売日 (はつばいび) - day something goes on sale
+買	✍12	小2	BUY		バイ	か.う	買い (かい) - buying<br>買う (かう) - to buy<br>買い物 (かいもの) - shopping
+麦	✍7	小2	BARLEY	wheat	バク	むぎ	小麦粉 (こむぎこ) - wheat flour<br>小麦 (こむぎ) - wheat<br>蕎麦 (そば) - buckwheat (Fagopyrum esculentum)
+半	✍5	小2	HALF	middle, odd number, semi-, part-	ハン	なか.ば	後半 (こうはん) - second half<br>時半 (じはん) - about an hour<br>前半 (ぜんはん) - first half
+番	✍12	小2	TURN	number in a series	バン	つが.い	一番 (いちばん) - number one<br>番組 (ばんぐみ) - program (e.g., TV)<br>番目 (ばんめ) - indicates position in a sequence
+父	✍4	小2	FATHER		フ	ちち	父親 (ちちおや) - father<br>義父 (ぎふ) - father-in-law<br>祖父 (おおじ) - grandfather
+風	✍9	小2	WIND	air, style, manner	フウ　フ	かぜ　かざ-　-かぜ	風邪 (かぜ) - common cold<br>風速 (ふうそく) - wind speed<br>風向 (ふうこう) - wind direction
+分	✍4	小2	PART	minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100	ブン　フン　ブ	わ.ける　わ.け　わ.かれる　わ.かる　わ.かつ	自分 (じぶん) - myself<br>部分 (ぶぶん) - portion<br>十分 (じっぷん) - 10 minutes
+聞	✍14	小2	HEAR	ask, listen	ブン　モン	き.く　き.こえる	新聞 (しんぶん) - newspaper<br>聞く (きく) - to hear<br>聞こえ (きこえ) - reputation
+米	✍6	小2	RICE	USA, meter	ベイ　マイ　メエトル	こめ　よね	米国 (べいこく) - America<br>日米 (にちべい) - Japan-America<br>米軍 (べいぐん) - the US armed forces
+歩	✍8	小2	WALK	counter for steps	ホ　ブ　フ	ある.く　あゆ.む	歩く (あるく) - to walk<br>一歩 (いっぽ) - step<br>歩き (ありき) - walk
+母	✍5	小2	MOTHER		ボ	はは　も	母親 (ははおや) - mother<br>義母 (ぎぼ) - mother-in-law<br>お母様 (おかあさま) - mother
+方	✍4	小2	DIRECTION	person, alternative	ホウ	かた　-かた　-がた	地方版 (ちほうばん) - local edition<br>一方 (いっぽう) - one (esp. of two)<br>方針 (ほうしん) - objective
+北	✍5	小2	NORTH		ホク	きた	北朝鮮 (きたちょうせん) - North Korea<br>北京 (ペキン) - Beijing (China)<br>東北 (とうほく) - north-east
+毎	✍6	小2	EVERY		マイ	ごと　-ごと.に	毎日 (まいにち) - every day<br>毎年 (まいとし) - every year<br>毎週 (まいしゅう) - every week
+妹	✍8	小2	YOUNGER SISTER		マイ	いもうと	姉妹 (きょうだい) - sisters<br>妹さん (いもうとさん) - younger sister<br>義妹 (いもうと) - sister-in-law (younger)
+万	✍3	小2	TEN THOUSAND	10,000	マン　バン	よろず	万人 (ばんじん) - all people<br>１万円 (いちまんえん) - 10,000 yen<br>万博 (ばんぱく) - world fair
+明	✍8	小2	BRIGHT	light	メイ　ミョウ　ミン	あ.かり　あか.るい　あか.るむ　あか.らむ　あき.らか　あ.ける　-あ.け　あ.く　あ.くる　あ.かす	説明 (せつめい) - explanation<br>明らか (あきらか) - obvious<br>表明 (ひょうめい) - declaration
+鳴	✍14	小2	CHIRP	cry, bark, sound, ring, echo, honk	メイ	な.く　な.る　な.らす	鳴門 (なると) - strait with a roaring tidal ebb and flow<br>鳴り (なり) - ringing<br>悲鳴 (ひめい) - shriek
+毛	✍4	小2	FUR	hair, feather, down	モウ	け	髪の毛 (かみのけ) - hair (head)<br>毛穴 (けあな) - pores (of the skin)<br>脱毛 (だつもう) - loss of hair
+門	✍8	小2	GATE	counter for cannons	モン	かど　と	部門 (ぶもん) - division (of a larger group)<br>専門 (せんもん) - specialty<br>専門家 (せんもんか) - specialist
+夜	✍8	小2	NIGHT	evening	ヤ	よ　よる	深夜 (しんや) - late at night<br>夜中 (やちゅう) - during the night<br>夜間 (やかん) - at night
+野	✍11	小2	PLAINS	field, rustic, civilian life	ヤ　ショ	の　の-	野球 (やきゅう) - baseball<br>野菜 (やさい) - vegetable<br>野球場 (やきゅうじょう) - baseball ground
+友	✍4	小2	FRIEND		ユウ	とも	友人 (ゆうじん) - friend<br>友達 (ともだち) - friend<br>親友 (しんゆう) - close friend
+用	✍5	小2	UTILIZE	business, service, use, employ	ヨウ	もち.いる	利用 (りよう) - use<br>使用 (しよう) - use<br>採用 (さいよう) - use
+曜	✍18	小2	WEEKDAY		ヨウ		土曜日 (どようび) - Saturday<br>日曜 (にちよう) - Sunday<br>日曜日 (にちようび) - Sunday
+来	✍7	小2	COME	due, next, cause, become	ライ　タイ	く.る　きた.る　きた.す　き.たす　き.たる　き　こ	出来 (しゅったい) - occurrence<br>以来 (いらい) - since<br>将来 (しょうらい) - future (usually near)
+里	✍7	小2	RI	village, parent's home, league	リ	さと	里山 (さとやま) - undeveloped woodland near populated area<br>里子 (さとご) - foster child<br>万里 (ばんり) - thousands of miles
+理	✍11	小2	LOGIC	arrangement, reason, justice, truth	リ	ことわり	理由 (りゆう) - reason<br>理解 (りかい) - understanding<br>無理 (むり) - unreasonable
+話	✍13	小2	TALE	talk	ワ	はな.す　はなし	話し (はなし) - talk<br>話す (はなす) - to talk<br>電話 (でんわ) - telephone call

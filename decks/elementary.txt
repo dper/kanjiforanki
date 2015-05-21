@@ -1,0 +1,1006 @@
+一	✍1	小1	ONE	one radical (no.1)	イチ　イツ	ひと-　ひと.つ	一方 (いっぽう) - one (esp. of two)<br>一緒に (いっしょに) - together (with)<br>一番 (いちばん) - number one
+右	✍5	小1	RIGHT		ウ　ユウ	みぎ	左右 (さう) - left and right<br>右腕 (うわん) - right arm<br>右翼 (うよく) - right-wing (politics)
+雨	✍8	小1	RAIN		ウ	あめ　あま-　-さめ	時雨 (しぐれ) - drizzle<br>豪雨 (ごうう) - torrential rain<br>大雨 (おおあめ) - heavy rain
+円	✍4	小1	CIRCLE	yen, round	エン	まる.い　まる　まど　まど.か　まろ.やか	億円 (おくえん) - 100,000,000 yen<br>１万円 (いちまんえん) - 10,000 yen<br>円か (まどか) - round
+王	✍4	小1	KING	rule, magnate	オウ　-ノウ		王子 (おうじ) - prince<br>王者 (おうしゃ) - king<br>王国 (おうこく) - kingdom
+音	✍9	小1	SOUND	noise	オン　イン　-ノン	おと　ね	音楽 (おんがく) - music<br>録音 (ろくおん) - recording<br>音声 (おんじょう) - voice
+下	✍3	小1	BELOW	down, descend, give, low, inferior	カ　ゲ	した　しも　もと　さ.げる　さ.がる　くだ.る　くだ.り　くだ.す　-くだ.す　くだ.さる　お.ろす　お.りる	下さい (ください) - please give me<br>以下 (いか) - not exceeding<br>低下 (ていか) - fall
+火	✍4	小1	FIRE		カ	ひ　-び　ほ-	火災 (かさい) - conflagration<br>火山 (かざん) - volcano<br>噴火 (ふんか) - eruption
+花	✍7	小1	FLOWER		カ　ケ	はな	花粉 (かふん) - pollen<br>花園 (かえん) - flower garden<br>開花 (かいか) - flowers budding
+貝	✍7	小1	SHELLFISH		バイ	かい	貝塚 (かいずか) - shell heap<br>貝殻 (かいがら) - shell<br>貝類 (かいるい) - shellfish
+学	✍8	小1	STUDY	learning, science	ガク	まな.ぶ	学校 (がっこう) - school<br>小学校 (しょうがっこう) - primary school<br>学園 (がくえん) - academy
+気	✍6	小1	SPIRIT	mind, air, atmosphere, mood	キ　ケ	いき	気持ち (きもち) - feeling<br>人気 (じんき) - prevailing mood of a locality<br>気温 (きおん) - atmospheric temperature
+九	✍2	小1	NINE		キュウ　ク	ここの　ここの.つ	北九州 (きたきゅうしゅう) - Kitakyushu (city)<br>十九 (じゅうきゅう) - 19<br>九重 (ここのえ) - ninefold
+休	✍6	小1	REST	day off, retire, sleep	キュウ	やす.む　やす.まる　やす.める	休み (やすみ) - rest<br>休日 (きゅうじつ) - holiday<br>夏休み (なつやすみ) - summer vacation
+玉	✍5	小1	JEWEL	ball	ギョク	たま　たま-　-だま	埼玉 (さいたま) - Saitama (city)<br>埼玉県 (さいたまけん) - Saitama prefecture (Kanto area)<br>目玉 (めだま) - eyeball
+金	✍8	小1	GOLD		キン　コン　ゴン	かね　かな-　-がね	お金 (おかね) - money<br>資金 (しきん) - funds<br>年金 (ねんきん) - annuity
+空	✍8	小1	EMPTY	sky, void, vacant, vacuum	クウ	そら　あ.く　あ.き　あ.ける　から　す.く　す.かす　むな.しい	星空 (ほしぞら) - starry sky<br>空港 (くうこう) - airport<br>空気 (くうき) - air
+月	✍4	小1	MONTH	moon	ゲツ　ガツ	つき	１月 (いちがつ) - January<br>３月 (さんがつ) - March<br>２月 (にがつ) - February
+犬	✍4	小1	DOG		ケン	いぬ　いぬ-	愛犬 (あいけん) - pet dog<br>子犬 (こいぬ) - puppy<br>盲導犬 (もうどうけん) - guide dog for the blind
+見	✍7	小1	SEE	hopes, chances, idea, opinion, look at, visible	ケン	み.る　み.える　み.せる	見る (みる) - to see<br>意見 (いけん) - opinion<br>見え (みえ) - airs
+五	✍4	小1	FIVE		ゴ	いつ　いつ.つ	五輪 (ごりん) - the Olympics<br>五百 (いお) - 500<br>五十 (い) - fifty
+口	✍3	小1	MOUTH		コウ　ク	くち	人口 (じんこう) - population<br>川口 (かわぐち) - mouth of river<br>口座 (こうざ) - account (e.g., bank)
+校	✍10	小1	EXAM	school, printing, proof, correction	コウ　キョウ		高校 (こうこう) - senior high school<br>学校 (がっこう) - school<br>小学校 (しょうがっこう) - primary school
+左	✍5	小1	LEFT		サ　シャ	ひだり	左右 (さう) - left and right<br>左腕 (さわん) - left arm<br>左翼 (さよく) - left-wing
+三	✍3	小1	THREE		サン　ゾウ	み　み.つ　みっ.つ	三重 (さんじゅう) - triple<br>三塁 (さんるい) - third base<br>三振 (さんしん) - strikeout
+山	✍3	小1	MOUNTAIN		サン　セン	やま	山形 (やまがた) - mountain-shape<br>山梨 (やまなし) - wild nashi (Pyrus pyrifolia var. pyrifolia)<br>青山 (あおやま) - lush mountain
+子	✍3	小1	CHILD	sign of the rat, 11PM-1AM, first sign of Chinese zodiac	シ　ス　ツ	こ　-こ　ね	子供 (こども) - child<br>子ども (こども) - child<br>女子 (おなご) - woman
+四	✍5	小1	FOUR		シ	よ　よ.つ　よっ.つ　よん	四球 (しきゅう) - four balls<br>四日 (よっか) - fourth day of month<br>四川 (しせん) - Sichuan (China)
+糸	✍6	小1	THREAD		シ	いと	糸口 (いとぐち) - thread end<br>赤い糸 (あかいいと) - red string of fate<br>生糸 (きいと) - raw silk thread
+字	✍6	小1	CHARACTER	letter, word, section of village	ジ	あざ　あざな　-な	数字 (すうじ) - numeral<br>文字 (もじ) - letter (of alphabet)<br>赤字 (あかじ) - deficit
+耳	✍6	小1	EAR		ジ	みみ	耳鼻科 (じびか) - otolaryngology<br>聞く耳 (きくみみ) - acute ear<br>耳鳴り (みみなり) - buzzing in the ears
+七	✍2	小1	SEVEN		シチ	なな　なな.つ　なの	七草 (ななくさ) - the seven spring flowers<br>七夕 (しちせき) - Festival of the Weaver (July 7th)<br>七つ (ななつ) - seven
+車	✍7	小1	CAR		シャ	くるま	自動車 (じどうしゃ) - automobile<br>自転車 (じてんしゃ) - bicycle<br>電車 (でんしゃ) - train
+手	✍4	小1	HAND		シュ　ズ	て　て-　-て　た-	選手 (せんしゅ) - player (in game)<br>相手 (あいて) - companion<br>投手 (とうしゅ) - pitcher
+十	✍2	小1	TEN		ジュウ　ジッ　ジュッ	とお　と	十分 (じっぷん) - 10 minutes<br>五十 (い) - fifty<br>数十 (すうじゅう) - dozens
+出	✍5	小1	EXIT	leave, go out, come out, put out, protrude	シュツ　スイ	で.る　-で　だ.す　-だ.す　い.でる　い.だす	出場 (しゅつじょう) - appearance<br>出来 (しゅったい) - occurrence<br>出る (でる) - to leave
+女	✍3	小1	WOMAN	female	ジョ　ニョ　ニョウ	おんな　め	女性 (じょせい) - woman<br>女子 (おなご) - woman<br>彼女 (かのじょ) - she
+小	✍3	小1	LITTLE	small	ショウ	ちい.さい　こ-　お-　さ-	小学校 (しょうがっこう) - primary school<br>小学生 (しょうがくせい) - elementary school student<br>小さい (ちいさい) - small
+上	✍3	小1	ABOVE	up	ジョウ　ショウ　シャン	うえ　-うえ　うわ-　かみ　あ.げる　-あ.げる　あ.がる　-あ.がる　あ.がり　-あ.がり　のぼ.る　のぼ.り　のぼ.せる　のぼ.す　よ.す	以上 (いじょう) - not less than<br>上げ (あげ) - tuck (e.g., in a dress)<br>上司 (じょうし) - superior authorities
+森	✍12	小1	FOREST	woods	シン	もり	森林 (しんりん) - forest<br>青森県 (あおもりけん) - Aomori prefecture (Tohoku area)<br>森林浴 (しんりんよく) - peaceful walk through the woods
+人	✍2	小1	PERSON		ジン　ニン	ひと　-り　-と	人気 (じんき) - prevailing mood of a locality<br>１人 (いちにん) - one person<br>友人 (ゆうじん) - friend
+水	✍4	小1	WATER		スイ	みず　みず-	清水 (きよみず) - spring water<br>降水量 (こうすいりょう) - amount of precipitation<br>水準 (すいじゅん) - level
+正	✍5	小1	CORRECT	justice, righteous, 10**40	セイ　ショウ	ただ.しい　ただ.す　まさ　まさ.に	正直 (しょうじき) - honesty<br>正式 (せいしき) - due form<br>正社員 (せいしゃいん) - regular employee
+生	✍5	小1	LIFE	genuine, birth	セイ　ショウ	い.きる　い.かす　い.ける　う.まれる　うま.れる　う.まれ　うまれ　う.む　お.う　は.える　は.やす　き　なま　なま-　な.る　な.す　む.す　-う	生活 (せいかつ) - living<br>生まれ (うまれ) - birth<br>発生 (はっせい) - outbreak
+青	✍8	小1	BLUE	green	セイ　ショウ	あお　あお-　あお.い	青山 (あおやま) - lush mountain<br>青木 (あおき) - Japanese laurel<br>青年 (せいねん) - youth
+夕	✍3	小1	EVENING		セキ	ゆう	夕刊 (ゆうかん) - evening paper<br>夕方 (ゆうがた) - evening<br>夕食 (ゆうしょく) - evening meal
+石	✍5	小1	STONE		セキ　シャク　コク	いし	石油 (せきゆ) - oil<br>白石 (しろいし) - white stone<br>石綿 (いしわた) - asbestos
+赤	✍7	小1	RED		セキ　シャク	あか　あか-　あか.い　あか.らむ　あか.らめる	赤字 (あかじ) - deficit<br>赤い (あかい) - red<br>真っ赤 (まっか) - bright red
+千	✍3	小1	THOUSAND		セン	ち	千葉 (ちば) - Chiba (city)<br>千代 (せんだい) - thousand years<br>千葉県 (ちばけん) - Chiba prefecture (Kanto area)
+川	✍3	小1	STREAM	river, river or three-stroke river radical (no. 47)	セン	かわ	川崎 (かわさき) - Kawasaki (city)<br>谷川 (たにがわ) - mountain stream<br>川口 (かわぐち) - mouth of river
+先	✍6	小1	BEFORE	ahead, previous, future, precedence	セン	さき　ま.ず	先生 (せんじょう) - teacher<br>先輩 (せんぱい) - senior (at work or school)<br>先に (さきに) - before
+早	✍6	小1	EARLY	fast	ソウ　サッ	はや.い　はや　はや-　はや.まる　はや.める　さ-	早く (はやく) - early<br>早い (はやい) - fast<br>早期 (そうき) - early stage
+草	✍9	小1	GRASS	weeds, herbs, pasture, write, draft	ソウ	くさ　くさ-　-ぐさ	煙草 (えんそう) - tobacco (por: tabaco)<br>七草 (ななくさ) - the seven spring flowers<br>草の根 (くさのね) - grassroots
+足	✍7	小1	LEG	foot, be sufficient, counter for pairs of footwear	ソク	あし　た.りる　た.る　た.す	不足 (ふそく) - insufficiency<br>満足 (まんぞく) - satisfaction<br>発足 (はっそく) - starting
+村	✍7	小1	VILLAGE	town	ソン	むら	市町村 (しちょうそん) - cities, towns and villages<br>町村 (ちょうそん) - towns and villages<br>農村 (のうそん) - agricultural community
+大	✍3	小1	LARGE	big	ダイ　タイ	おお-　おお.きい　-おお.いに	大会 (たいかい) - convention<br>大阪 (おおさか) - Osaka<br>大きな (おおきな) - big
+男	✍7	小1	MALE		ダン　ナン	おとこ　お	男性 (だんせい) - man<br>男子 (だんし) - youth<br>男女 (おとこおんな) - masculine woman
+竹	✍6	小1	BAMBOO		チク	たけ	竹林 (たけばやし) - bamboo thicket<br>小竹 (ささ) - bamboo grass<br>竹串 (たけぐし) - bamboo skewer
+中	✍4	小1	IN	inside, middle, mean, center	チュウ	なか　うち　あた.る	中国 (ちゅうごく) - China<br>中心 (ちゅうしん) - center<br>中央 (ちゅうおう) - center
+虫	✍6	小1	INSECT	bug, temper	チュウ　キ	むし	虫歯 (むしば) - cavity<br>昆虫 (こんちゅう) - insect<br>殺虫剤 (さっちゅうざい) - insecticide
+町	✍7	小1	TOWN	village, block, street	チョウ	まち	小町 (こまち) - a belle<br>町長 (ちょうちょう) - town headman<br>市町村 (しちょうそん) - cities, towns and villages
+天	✍4	小1	HEAVENS	sky, imperial	テン	あまつ　あめ　あま-	天気 (てんき) - weather<br>任天堂 (にんてんどう) - Nintendo (video game company)<br>天皇 (すめらぎ) - Emperor of Japan
+田	✍5	小1	RICE FIELD	rice paddy	デン	た	上田 (じょうでん) - high rice field<br>田舎 (いなか) - rural area<br>小田 (おだ) - rice field (usu. small)
+土	✍3	小1	SOIL	earth, ground, Turkey	ド　ト	つち	土地 (とち) - plot of land<br>土日 (どにち) - weekend<br>土曜日 (どようび) - Saturday
+二	✍2	小1	TWO	two radical (no.2)	ニ　ジ	ふた　ふた.つ　ふたたび	二人 (ににん) - two persons<br>二塁 (にるい) - second base<br>二塁打 (にるいだ) - two-base hit
+日	✍4	小1	DAY	sun, Japan, counter for days	ニチ　ジツ	ひ　-び　-か	毎日 (まいにち) - every day<br>日本 (にっぽん) - Japan<br>１日 (いちじつ) - one day
+入	✍2	小1	ENTER	insert	ニュウ　ジュ	い.る　-い.る　-い.り　い.れる　-い.れ　はい.る	入れ (いれ) - container<br>入り (いり) - entering<br>購入 (こうにゅう) - purchase
+年	✍6	小1	YEAR	counter for years	ネン	とし	昨年 (さくねん) - last year<br>今年 (ことし) - this year<br>年間 (ねんかん) - year (period of)
+白	✍5	小1	WHITE		ハク　ビャク	しろ　しら-　しろ.い	面白い (おもしろい) - interesting<br>面白 (おもしろ) - amusing<br>白い (しろい) - white
+八	✍2	小1	EIGHT	eight radical (no. 12)	ハチ	や　や.つ　やっ.つ　よう	八幡 (はちまん) - Hachiman (God of War)<br>八千代 (やちよ) - eternity<br>八重 (やえ) - multilayered
+百	✍6	小1	HUNDRED		ヒャク　ビャク	もも	百貨店 (ひゃっかてん) - store<br>五百 (いお) - 500<br>数百 (すうひゃく) - several hundreds
+文	✍4	小1	SENTENCE	literature, style, art, decoration, figures, plan, literary radical (no. 67)	ブン　モン	ふみ　あや	文化 (ぶんか) - culture<br>文字 (もじ) - letter (of alphabet)<br>文章 (ぶんしょう) - sentence
+木	✍4	小1	TREE	wood	ボク　モク	き　こ-	高木 (こうぼく) - tall tree<br>青木 (あおき) - Japanese laurel<br>本木 (もとき) - original stock
+本	✍5	小1	BOOK	present, main, origin, true, real, counter for long cylindrical things	ホン	もと	日本 (にっぽん) - Japan<br>本の (ほんの) - mere<br>本当に (ほんとうに) - really
+名	✍6	小1	NAME	noted, distinguished, reputation	メイ　ミョウ	な　-な	名前 (なまえ) - name<br>名古屋 (なごや) - Nagoya (city)<br>有名 (ゆうめい) - famous
+目	✍5	小1	EYE	class, look, insight, experience, care, favor	モク　ボク	め　-め　ま-	注目 (ちゅうもく) - notice<br>目指す (めざす) - to aim at<br>目標 (めじるし) - mark
+立	✍5	小1	STAND UP	rise, set up, erect	リツ　リュウ　リットル	た.つ　-た.つ　た.ち-　た.てる　-た.てる　た.て-　たて-　-た.て　-だ.て　-だ.てる	立ち (たち) - departure<br>立場 (たちば) - standpoint<br>立候補 (りっこうほ) - announcing candidacy
+力	✍2	小1	POWER	strength, strong, strain, bear up, exert	リョク　リキ　リイ	ちから	協力 (きょうりょく) - cooperation<br>努力 (どりょく) - great effort<br>魅力 (みりょく) - charm
+林	✍8	小1	GROVE	forest	リン	はやし	森林 (しんりん) - forest<br>農林 (のうりん) - agriculture and forestry<br>林業 (りんぎょう) - forestry
+六	✍4	小1	SIX		ロク　リク	む　む.つ　むっ.つ　むい	十六 (じゅうろく) - 16<br>六つ (むっつ) - six<br>六角 (ろっかく) - hexagon
+引	✍4	小2	PULL	tug, jerk, admit, install, quote, refer to	イン	ひ.く　ひ.き　ひ.き-　-び.き　ひ.ける	引き (ひき) - pull<br>取引 (とりひき) - transactions<br>引退 (いんたい) - retire
+羽	✍6	小2	FEATHERS	counter for birds, rabbits	ウ	は　わ　はね	羽根 (はね) - feather<br>羽織 (はおり) - haori (Japanese formal coat)<br>羽毛 (うもう) - feathers
+雲	✍12	小2	CLOUD		ウン	くも　-ぐも	暗雲 (あんうん) - dark clouds<br>星雲 (せいうん) - nebula<br>東雲 (しののめ) - daybreak
+園	✍13	小2	PARK	garden, yard, farm	エン	その	学園 (がくえん) - academy<br>公園 (こうえん) - park<br>幼稚園 (ようちえん) - kindergarten
+遠	✍13	小2	DISTANT	far	エン　オン	とお.い	遠く (とおく) - far away<br>遠い (とおい) - far<br>遠征 (えんせい) - expedition
+何	✍7	小2	WHAT		カ	なに　なん　なに-　なん-	何か (なにか) - something<br>何も (なにも) - nothing (with neg. verbs)<br>何度も (なんども) - many times over
+科	✍9	小2	DEPARTMENT	course, section	カ		科学 (かがく) - science<br>理科 (りか) - science<br>学科 (がっか) - study subject
+夏	✍10	小2	SUMMER		カ　ガ　ゲ	なつ	夏季 (かき) - summer season<br>昨夏 (さくか) - last summer<br>夏休み (なつやすみ) - summer vacation
+家	✍10	小2	HOUSE	home, family, professional, expert, performer	カ　ケ	いえ　や　うち	家族 (かぞく) - family<br>家庭 (かてい) - home<br>実家 (じっか) - home
+歌	✍14	小2	SONG	sing	カ	うた　うた.う	和歌 (わか) - waka<br>歌手 (かしゅ) - singer<br>主題歌 (しゅだいか) - theme song
+画	✍8	小2	BRUSH-STROKE	picture	ガ　カク　エ　カイ	えが.く　かく.する　かぎ.る　はかりごと　はか.る	映画 (えいが) - movie<br>計画 (けいかく) - plan<br>画面 (えづら) - the impression given by a painting or image
+回	✍6	小2	-TIMES	round, game, revolve, counter for occurrences	カイ　エ	まわ.る　-まわ.る　-まわ.り　まわ.す　-まわ.す　まわ.し-　-まわ.し　もとお.る　か.える	今回 (こんかい) - now<br>回戦 (かいせん) - match<br>回目 (かいめ) - -Nth time around
+会	✍6	小2	MEETING	meet, party, association, interview, join	カイ　エ	あ.う　あ.わせる　あつ.まる	大会 (たいかい) - convention<br>会社 (かいしゃ) - company<br>社会 (しゃかい) - society
+海	✍9	小2	SEA	ocean	カイ	うみ	海外 (かいがい) - foreign<br>海上 (かいじょう) - sea<br>上海 (シャンハイ) - Shanghai (China)
+絵	✍12	小2	PICTURE	drawing, painting, sketch	カイ　エ		絵本 (えほん) - picture book<br>絵画 (かいが) - picture<br>絵馬 (えうま) - votive picture (originally of horse)
+外	✍5	小2	OUTSIDE		ガイ　ゲ	そと　ほか　はず.す　はず.れる　と-	以外 (いがい) - with the exception of<br>海外 (かいがい) - foreign<br>外に (ほかに) - in addition
+角	✍7	小2	ANGLE	corner, square, horn, antlers	カク	かど　つの	外角 (がいかく) - outside corner<br>内角 (ないかく) - interior angle<br>一角 (いっかく) - corner
+楽	✍13	小2	MUSIC	comfort, ease	ガク　ラク　ゴウ	たの.しい　たの.しむ　この.む	音楽 (おんがく) - music<br>楽しみ (たのしみ) - enjoyment<br>楽しい (たのしい) - enjoyable
+活	✍9	小2	LIVELY	resuscitation, being helped, living	カツ	い.きる　い.かす　い.ける	生活 (せいかつ) - living<br>活動 (かつどう) - action<br>活躍 (かつやく) - activity (esp. energetic)
+間	✍12	小2	INTERVAL	space	カン　ケン	あいだ　ま　あい	時間 (じかん) - time<br>年間 (ねんかん) - year (period of)<br>間に (あいだに) - while
+丸	✍3	小2	ROUND	full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away	ガン	まる　まる.める　まる.い	丸ごと (まるごと) - in its entirety<br>丸い (まるい) - round<br>丸め (まるめ) - rounding
+岩	✍8	小2	BOULDER	rock, cliff	ガン	いわ	岩手県 (いわてけん) - Iwate prefecture (Tohoku area)<br>岩壁 (がんぺき) - wall of rock<br>岩石 (がんせき) - rock
+顔	✍18	小2	FACE	expression	ガン	かお	笑顔 (えがお) - smiling face<br>洗顔 (せんがん) - face-washing<br>顔ぶれ (かおぶれ) - personnel
+汽	✍7	小2	VAPOR	steam	キ		汽車 (きしゃ) - train (sometimes specifically a steam train)<br>汽笛 (きてき) - steam whistle<br>汽船 (きせん) - steamship
+記	✍10	小2	SCRIBE	account, narrative	キ	しる.す	記事 (きじ) - article<br>記録 (きろく) - record<br>記念 (きねん) - commemoration
+帰	✍10	小2	HOMECOMING	arrive at, lead to, result in	キ	かえ.る　かえ.す　おく.る　とつ.ぐ	帰国 (きこく) - return to one's country<br>復帰 (ふっき) - return<br>帰り (かえり) - return
+弓	✍3	小2	BOW	bow (archery, violin)	キュウ	ゆみ	真弓 (まゆみ) - Japanese spindle tree (Euonymus sieboldianus)<br>弓矢 (きゅうし) - bow and arrow<br>弓道 (きゅうどう) - archery
+牛	✍4	小2	COW		ギュウ	うし	牛乳 (ぎゅうにゅう) - milk<br>牛肉 (ぎゅうにく) - beef<br>牛丼 (ぎゅうどん) - rice covered with beef and vegetables
+魚	✍11	小2	FISH		ギョ	うお　さかな　-ざかな	魚介類 (ぎょかいるい) - marine products<br>雑魚 (いざこ) - small fish<br>魚類 (ぎょるい) - fish
+京	✍8	小2	CAPITAL	10**16	キョウ　ケイ　キン	みやこ	東京 (とうきょう) - Tokyo<br>東京都 (とうきょうと) - Tokyo Metropolis<br>京都 (きょうと) - Kyoto
+強	✍11	小2	STRONG		キョウ　ゴウ	つよ.い　つよ.まる　つよ.める　し.いる　こわ.い	強い (こわい) - tough<br>勉強 (べんきょう) - study<br>強調 (きょうちょう) - emphasis
+教	✍11	小2	TEACH	faith, doctrine	キョウ	おし.える　おそ.わる	教育 (きょういく) - training<br>教え (おしえ) - teaching<br>教授 (きょうじゅ) - professor
+近	✍7	小2	NEAR	early, akin, tantamount	キン　コン	ちか.い	最近 (さいきん) - most recent<br>近く (ちかく) - near<br>近い (ちかい) - near
+兄	✍5	小2	ELDER BROTHER	big brother	ケイ　キョウ	あに	兄弟 (きょうだい) - siblings<br>義兄 (あに) - brother-in-law<br>兄妹 (きょうだい) - older brother and younger sister
+形	✍7	小2	SHAPE	form, style	ケイ　ギョウ	かた　-がた　かたち　なり	山形 (やまがた) - mountain-shape<br>人形 (にんぎょう) - doll<br>形式 (けいしき) - form (as opposed to substance)
+計	✍9	小2	PLOT	plan, scheme, measure	ケイ	はか.る　はか.らう	計画 (けいかく) - plan<br>計算 (けいさん) - calculation<br>設計 (せっけい) - plan
+元	✍4	小2	BEGINNING	former time, origin	ゲン　ガン	もと	地元 (じもと) - home area<br>元気 (げんき) - lively<br>元々 (もともと) - originally
+言	✍7	小2	SAY	word	ゲン　ゴン	い.う　こと	言葉 (けとば) - language<br>言う (いう) - to say<br>と言う (という) - called
+原	✍10	小2	MEADOW	original, primitive, field, plain, prairie, tundra, wilderness	ゲン	はら	原因 (げんいん) - cause<br>原作 (げんさく) - original work<br>原則 (げんそく) - principle
+戸	✍4	小2	DOOR	counter for houses, door radical (no. 63)	コ	と	神戸 (こうべ) - Kobe (port city near Osaka)<br>江戸 (えど) - old name of Tokyo<br>瀬戸 (せと) - strait
+古	✍5	小2	OLD		コ	ふる.い　ふる-　-ふる.す	古い (ふるい) - old (not person)<br>名古屋 (なごや) - Nagoya (city)<br>中古 (ちゅうこ) - used
+午	✍4	小2	NOON	sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac	ゴ	うま	午後 (ごご) - afternoon<br>午前 (ごぜん) - morning<br>正午 (しょうご) - noon
+後	✍9	小2	BEHIND	back, later	ゴ　コウ	のち　うし.ろ　うしろ　あと　おく.れる	午後 (ごご) - afternoon<br>今後 (こんご) - from now on<br>最後 (さいご) - last
+語	✍14	小2	WORD	speech, language	ゴ	かた.る　かた.らう	物語 (ものがたり) - tale<br>語る (かたる) - to talk about<br>英語 (えいご) - English (language)
+工	✍3	小2	CRAFT	construction, katakana e radical (no. 48)	コウ　ク　グ		工場 (こうじょう) - factory<br>工夫 (くふう) - scheme<br>工事 (こうじ) - construction work
+公	✍4	小2	PUBLIC	prince, official, governmental	コウ　ク	おおやけ	公開 (こうかい) - opening to the public<br>主人公 (しゅじんこう) - protagonist<br>公園 (こうえん) - park
+広	✍5	小2	WIDE	broad, spacious	コウ	ひろ.い　ひろ.まる　ひろ.める　ひろ.がる　ひろ.げる	広島 (ひろしま) - Hiroshima (city)<br>広がる (ひろがる) - to spread (out)<br>広く (ひろく) - widely
+交	✍6	小2	MINGLE	mixing, association, coming & going	コウ	まじ.わる　まじ.える　ま.じる　まじ.る　ま.ざる　ま.ぜる　-か.う　か.わす　かわ.す　こもごも	交渉 (こうしょう) - negotiations<br>交流 (こうりゅう) - exchange<br>交換 (こうかん) - exchange
+光	✍6	小2	RAY	light	コウ	ひか.る　ひかり	観光 (かんこう) - sightseeing<br>観光客 (かんこうきゃく) - tourist<br>光景 (こうけい) - scene
+考	✍6	小2	CONSIDER	think over	コウ	かんが.える　かんが.え	考え (かんがえ) - thinking<br>考える (かんがえる) - to think about<br>備考 (びこう) - note
+行	✍6	小2	GOING	journey, carry out, conduct, act, line, row, bank	コウ　ギョウ　アン	い.く　ゆ.く　-ゆ.き　-ゆき　-い.き　-いき　おこな.う　おこ.なう	行く (いく) - to go<br>行う (おこなう) - to perform<br>行き (いき) - bound for ...
+高	✍10	小2	TALL	high, expensive	コウ	たか.い　たか　-だか　たか.まる　たか.める	高校 (こうこう) - senior high school<br>高い (たかい) - high<br>最高 (さいこう) - highest
+黄	✍11	小2	YELLOW		コウ　オウ	き　こ-	黄色 (おうしょく) - yellow<br>黄金 (おうごん) - gold<br>黄色い (きいろい) - yellow
+合	✍6	小2	FIT	suit, join, 0.1	ゴウ　ガッ　カッ	あ.う　-あ.う　あ.い　あい-　-あ.い　-あい　あ.わす　あ.わせる　-あ.わせる	場合 (ばあい) - case<br>試合 (しあい) - match<br>総合 (そうごう) - synthesis
+谷	✍7	小2	VALLEY		コク	たに　きわ.まる	谷川 (たにがわ) - mountain stream<br>渓谷 (けいこく) - valley<br>谷町 (たにまち) - sponsors of rikishi or their stables
+国	✍8	小2	COUNTRY		コク	くに	全国 (ぜんこく) - countrywide<br>中国 (ちゅうごく) - China<br>米国 (べいこく) - America
+黒	✍11	小2	BLACK		コク	くろ　くろ.ずむ　くろ.い	黒い (くろい) - black<br>黒字 (くろじ) - balance (figure) in the black<br>目黒 (めぐろ) - Bonin white-eye (Apalopteron familiare)
+今	✍4	小2	NOW		コン　キン	いま	今回 (こんかい) - now<br>今年 (ことし) - this year<br>今後 (こんご) - from now on
+才	✍3	小2	GENIUS	years old, cubic shaku	サイ		才能 (さいのう) - talent<br>天才 (てんさい) - genius<br>天才的 (てんさいてき) - talented
+細	✍11	小2	DAINTY	get thin, taper, slender, narrow, detailed, precise	サイ	ほそ.い　ほそ.る　こま.か　こま.かい	詳細 (しょうさい) - detail<br>細かい (こまかい) - small<br>細胞 (さいほう) - cell
+作	✍7	小2	MAKE	production, prepare, build	サク　サ	つく.る　つく.り　-づく.り	作品 (さくひん) - work (e.g., book, film, composition, etc.)<br>作り (つくり) - making<br>作る (つくる) - to make
+算	✍14	小2	CALCULATE	divining, number, abacus, probability	サン	そろ	予算 (よさん) - estimate<br>計算 (けいさん) - calculation<br>通算 (つうさん) - total
+止	✍4	小2	STOP	halt	シ	と.まる　-ど.まり　と.める　-と.める　-ど.め　とど.める　とど.め　とど.まる　や.める　や.む　-や.む　よ.す　-さ.す　-さ.し	止め (とどめ) - finishing blow<br>禁止 (きんし) - prohibition<br>防止 (ぼうし) - prevention
+市	✍5	小2	MARKET	city, town	シ	いち	市内 (しない) - city<br>市民 (しみん) - citizen<br>市長 (しちょう) - mayor
+矢	✍5	小2	DART	arrow	シ	や	矢先 (やさき) - arrowhead<br>矢印 (やじるし) - arrow (mark or symbol)<br>一矢 (いっし) - an arrow
+姉	✍8	小2	ELDER SISTER		シ	あね　はは	姉妹 (きょうだい) - sisters<br>義姉 (あね) - sister-in-law (elder)<br>姉さん (あねさん) - elder sister
+思	✍9	小2	THINK		シ	おも.う　おもえら.く　おぼ.す	思い (おもい) - thought<br>思う (おもう) - to think<br>思い出 (おもいで) - memories
+紙	✍10	小2	PAPER		シ	かみ	手紙 (てがみ) - letter<br>表紙 (ひょうし) - front cover<br>紙面 (しめん) - space (page)
+寺	✍6	小2	BUDDHIST TEMPLE		ジ	てら	お寺 (おてら) - temple<br>寺院 (じいん) - temple<br>国分寺 (こくぶんじ) - state-supported provincial temples
+自	✍6	小2	ONESELF		ジ　シ	みずか.ら　おの.ずから　おの.ずと	自分 (じぶん) - myself<br>自民党 (じみんとう) - Liberal Democratic Party<br>自民 (じみん) - Liberal Democratic Party
+時	✍10	小2	TIME	hour	ジ	とき　-どき	時間 (じかん) - time<br>時代 (じだい) - period<br>当時 (とうじ) - at that time
+室	✍9	小2	ROOM	apartment, chamber, greenhouse, cellar	シツ	むろ	教室 (きょうしつ) - classroom<br>室内 (しつない) - indoor<br>室長 (しつちょう) - section chief
+社	✍7	小2	COMPANY	firm, office, association, shrine	シャ	やしろ	会社 (かいしゃ) - company<br>社会 (しゃかい) - society<br>社長 (しゃちょう) - company president
+弱	✍10	小2	WEAK	frail	ジャク	よわ.い　よわ.る　よわ.まる　よわ.める	弱い (よわい) - weak<br>弱さ (よわさ) - weakness<br>弱点 (じゃくてん) - weak point
+首	✍9	小2	NECK	counter for songs and poems	シュ	くび	首相 (しゅしょう) - Prime Minister<br>首都 (しゅと) - capital city<br>首位 (しゅい) - first place
+秋	✍9	小2	AUTUMN		シュウ	あき　とき	昨秋 (さくしゅう) - autumn of last year<br>秋季 (しゅうき) - fall season<br>秋田県 (あきたけん) - Akita prefecture (Tohoku area)
+週	✍11	小2	WEEK		シュウ		週間 (しゅうかん) - week<br>今週 (こんしゅう) - this week<br>毎週 (まいしゅう) - every week
+春	✍9	小2	SPRINGTIME	spring (season)	シュン	はる	今春 (こんしゅん) - this spring<br>新春 (しんしゅん) - New Year (Spring)<br>青春 (せいしゅん) - youth
+書	✍10	小2	WRITE		ショ	か.く　-が.き　-がき	秘書 (ひしょ) - secretary<br>読書 (とくしょ) - reading<br>肩書 (かたがき) - title
+少	✍4	小2	FEW	little	ショウ	すく.ない　すこ.し	少し (すこし) - small quantity<br>少ない (すくない) - few<br>少年 (しょうねん) - boy
+場	✍12	小2	LOCATION	place	ジョウ　チョウ	ば	場合 (ばあい) - case<br>登場 (とうじょう) - entry (on stage)<br>出場 (しゅつじょう) - appearance
+色	✍6	小2	COLOR		ショク　シキ	いろ	色々 (いろいろ) - various<br>景色 (けいしょく) - scenery<br>色んな (いろんな) - various
+食	✍9	小2	EAT	food	ショク　ジキ	く.う　く.らう　た.べる　は.む	食事 (しょくじ) - meal<br>食べる (たべる) - to eat<br>食品 (しょくひん) - food
+心	✍4	小2	HEART	mind, spirit, heart radical (no. 61)	シン	こころ　-ごころ	中心 (ちゅうしん) - center<br>心配 (しんぱい) - worry<br>安心 (あんしん) - relief
+新	✍13	小2	NEW		シン	あたら.しい　あら.た　あら-　にい-	新聞 (しんぶん) - newspaper<br>更新 (こうしん) - renewal<br>新た (あらた) - new
+親	✍16	小2	PARENT	intimacy, relative, familiarity, dealer (cards)	シン	おや　おや-　した.しい　した.しむ	母親 (ははおや) - mother<br>両親 (ふたおや) - parents<br>親方 (おやかた) - master
+図	✍7	小2	MAP	drawing, plan, extraordinary, audacious	ズ　ト	え　はか.る	図る (はかる) - to plot<br>図書館 (ずしょかん) - library<br>地図 (ちず) - map
+数	✍13	小2	NUMBER	strength, fate, law, figures	スウ　ス　サク　ソク　シュ	かず　かぞ.える　しばしば　せ.める　わずらわ.しい	数年 (すうねん) - several years<br>複数 (ふくすう) - several<br>多数 (たすう) - great number
+西	✍6	小2	WEST	Spain	セイ　サイ　ス	にし	北西 (ほくせい) - northwest<br>北北西 (ほくほくせい) - north-northwest<br>西部 (せいぶ) - western part
+声	✍7	小2	VOICE		セイ　ショウ	こえ　こわ-	歓声 (かんせい) - cheer<br>声援 (せいえん) - encouragement<br>音声 (おんじょう) - voice
+星	✍9	小2	STAR	spot, dot, mark	セイ　ショウ	ほし　-ぼし	星空 (ほしぞら) - starry sky<br>衛星 (えいせい) - satellite<br>惑星 (わくせい) - planet
+晴	✍12	小2	CLEAR UP		セイ	は.れる　は.れ　は.れ-　-ば.れ　は.らす	晴れ (はれ) - clear weather<br>晴れて (はれて) - openly<br>晴天 (せいてん) - fine weather (i.e., little or no clouds)
+切	✍4	小2	CUT	cutoff, be sharp	セツ　サイ	き.る　-き.る　き.り　-き.り　-ぎ.り　き.れる　-き.れる　き.れ　-き.れ　-ぎ.れ	大切 (おおぎり) - large cut (e.g., of meat)<br>切り (きり) - end<br>切れ (きれ) - piece
+雪	✍11	小2	SNOW		セツ	ゆき	大雪 (おおゆき) - heavy snow<br>積雪 (せきせつ) - fallen snow<br>雪辱 (せつじょく) - vindication of honor
+船	✍11	小2	SHIP	boat	セン	ふね　ふな-	漁船 (ぎょせん) - fishing boat<br>船橋 (せんきょう) - pontoon bridge<br>船舶 (せんぱく) - ship
+線	✍15	小2	LINE	track	セン	すじ	路線 (ろせん) - route<br>打線 (だせん) - baseball lineup<br>新幹線 (しんかんせん) - Shinkansen
+前	✍9	小2	IN FRONT	before	ゼン	まえ　-まえ	前に (まえに) - ahead<br>午前 (ごぜん) - morning<br>名前 (なまえ) - name
+組	✍11	小2	ASSOCIATION	braid, plait, construct, assemble, unite, cooperate, grapple	ソ	く.む　くみ　-ぐみ	組織 (そしき) - organization<br>番組 (ばんぐみ) - program (e.g., TV)<br>仕組み (しくみ) - structure
+走	✍7	小2	RUN		ソウ	はし.る	走る (はしる) - to run<br>走者 (そうしゃ) - runner<br>滑走 (かっそう) - gliding
+多	✍6	小2	MANY	frequent, much	タ	おお.い　まさ.に　まさ.る	多い (おおい) - many<br>多く (おおく) - many<br>最多 (さいた) - most (numerous)
+太	✍4	小2	PLUMP	thick, big around	タイ　タ	ふと.い　ふと.る	太陽 (たいよう) - sun<br>太平洋 (たいへいよう) - Pacific Ocean<br>太鼓 (たいこ) - drum
+体	✍7	小2	BODY	substance, object, reality, counter for images	タイ　テイ	からだ　かたち	団体 (だんたい) - organization<br>全体 (ぜんたい) - whole<br>体験 (たいけん) - personal experience
+台	✍5	小2	PEDESTAL	a stand, counter for machines and vehicles	ダイ　タイ	うてな　われ　つかさ	舞台 (ぶたい) - stage(theater)<br>仙台 (せんだい) - Sendai (city)<br>台湾 (たいわん) - Taiwan
+地	✍6	小2	GROUND	earth	チ　ジ		地方版 (ちほうばん) - local edition<br>地域 (ちいき) - area<br>地元 (じもと) - home area
+池	✍6	小2	POND	cistern, pool, reservoir	チ	いけ	電池 (でんち) - battery<br>ため池 (ためいけ) - reservoir<br>蓄電池 (ちくでんち) - storage battery
+知	✍8	小2	KNOW	wisdom	チ	し.る　し.らせる	知事 (ちじ) - prefectural governor<br>知識 (ちしき) - knowledge<br>知る (しる) - to be aware of
+茶	✍9	小2	TEA		チャ　サ		お茶 (おちゃ) - tea (usu. green)<br>喫茶 (きっさ) - tea drinking<br>喫茶店 (きっさてん) - coffee shop
+昼	✍9	小2	DAYTIME	noon	チュウ	ひる	昼間 (ちゅうかん) - daytime<br>昼食 (ちゅうしょく) - lunch<br>昼寝 (ひるね) - nap (afternoon)
+長	✍8	小2	LONG	leader, superior, senior	チョウ	なが.い　おさ	社長 (しゃちょう) - company president<br>会長 (かいちょう) - president (of a society)<br>長の (ながの) - long
+鳥	✍11	小2	BIRD	chicken	チョウ	とり	鳥取県 (とっとりけん) - Tottori prefecture (Chuugoku area)<br>鳥居 (とりい) - torii<br>焼き鳥 (やきとり) - yakitori
+朝	✍12	小2	MORNING	dynasty, regime, epoch, period, (North) Korea	チョウ	あさ	北朝鮮 (きたちょうせん) - North Korea<br>朝刊 (ちょうかん) - morning newspaper<br>朝日 (あさひ) - morning sun
+直	✍8	小2	STRAIGHTAWAY	honesty, frankness, fix, repair	チョク　ジキ　ジカ	ただ.ちに　なお.す　-なお.す　なお.る　なお.き　す.ぐ	直接 (ちょくせつ) - direct<br>見直し (みなおし) - review<br>正直 (しょうじき) - honesty
+通	✍10	小2	TRAFFIC	pass through, avenue, commute, counter for letters, notes, documents, etc.	ツウ　ツ	とお.る　とお.り　-とお.り　-どお.り　とお.す　とお.し　-どお.し　かよ.う	普通 (ふつう) - general<br>通り (とおり) - avenue<br>見通し (みとおし) - unobstructed view
+弟	✍7	小2	YOUNGER BROTHER	faithful service to elders	テイ　ダイ　デ	おとうと	兄弟 (きょうだい) - siblings<br>弟子 (ていし) - pupil<br>弟さん (おとうとさん) - younger brother
+店	✍8	小2	STORE	shop	テン	みせ　たな	店舗 (てんぽ) - shop<br>商店街 (しょうてんがい) - shopping district<br>書店 (しょてん) - bookshop
+点	✍9	小2	SPOT	point, mark, speck, decimal point	テン	つ.ける　つ.く　た.てる　さ.す　とぼ.す　とも.す　ぼち	得点 (とくてん) - score<br>時点 (じてん) - point in time<br>視点 (してん) - opinion
+電	✍13	小2	ELECTRICITY		デン		電話 (でんわ) - telephone call<br>電車 (でんしゃ) - train<br>電力 (でんりょく) - electric power
+刀	✍2	小2	SWORD	saber, knife	トウ	かたな　そり	銃刀法 (じゅうとうほう) - Swords and Firearms Control Law (1958)<br>太刀 (たち) - long sword<br>日本刀 (にほんとう) - Japanese sword
+冬	✍5	小2	WINTER		トウ	ふゆ	冬季 (とうき) - winter<br>冬場 (ふゆば) - the winter season<br>今冬 (こんとう) - this winter
+当	✍6	小2	HIT	right, appropriate, himself	トウ	あ.たる　あ.たり　あ.てる　あ.て　まさ.に　まさ.にべし	本当に (ほんとうに) - really<br>当時 (とうじ) - at that time<br>当選 (とうせん) - being elected
+東	✍8	小2	EAST		トウ	ひがし	東京 (とうきょう) - Tokyo<br>東京都 (とうきょうと) - Tokyo Metropolis<br>東北 (とうほく) - north-east
+答	✍12	小2	SOLUTION	answer	トウ	こた.える　こた.え	答え (いらえ) - answer<br>回答 (かいとう) - reply<br>答える (こたえる) - to answer
+頭	✍16	小2	HEAD	counter for large animals	トウ　ズ　ト	あたま　かしら　-がしら　かぶり	先頭 (せんとう) - head<br>冒頭 (ぼうとう) - beginning<br>店頭 (てんとう) - shopfront
+同	✍6	小2	SAME	agree, equal	ドウ	おな.じ	同じ (おなじ) - same<br>同社 (どうしゃ) - the same firm<br>同市 (どうし) - same city
+道	✍12	小2	ROAD-WAY	street, district, journey, course, moral, teachings	ドウ　トウ	みち	鉄道 (てつどう) - railroad<br>報道 (ほうどう) - information<br>道路 (どうろ) - road
+読	✍14	小2	READ		ドク　トク　トウ	よ.む　-よ.み	読み (よみ) - reading<br>読む (よむ) - to read<br>読書 (とくしょ) - reading
+内	✍4	小2	INSIDE	within, between, among, house, home	ナイ　ダイ	うち	内容 (ないよう) - subject<br>県内 (けんない) - within the prefecture<br>市内 (しない) - city
+南	✍9	小2	SOUTH		ナン　ナ	みなみ	南部 (なんぶ) - southern part<br>南西 (なんせい) - southwest<br>西南西 (せいなんせい) - west-southwest
+肉	✍6	小2	MEAT		ニク	しし	筋肉 (きんにく) - muscle<br>牛肉 (ぎゅうにく) - beef<br>豚肉 (とんにく) - pork
+馬	✍10	小2	HORSE		バ	うま　うま-　ま	出馬 (しゅつば) - running (for election)<br>競馬 (くらべうま) - traditional horse-racing<br>龍馬 (りゅうめ) - splendid horse
+売	✍7	小2	SELL		バイ	う.る　う.れる	発売 (はつばい) - sale<br>販売 (はんばい) - sales<br>発売日 (はつばいび) - day something goes on sale
+買	✍12	小2	BUY		バイ	か.う	買い (かい) - buying<br>買う (かう) - to buy<br>買い物 (かいもの) - shopping
+麦	✍7	小2	BARLEY	wheat	バク	むぎ	小麦粉 (こむぎこ) - wheat flour<br>小麦 (こむぎ) - wheat<br>蕎麦 (そば) - buckwheat (Fagopyrum esculentum)
+半	✍5	小2	HALF	middle, odd number, semi-, part-	ハン	なか.ば	後半 (こうはん) - second half<br>時半 (じはん) - about an hour<br>前半 (ぜんはん) - first half
+番	✍12	小2	TURN	number in a series	バン	つが.い	一番 (いちばん) - number one<br>番組 (ばんぐみ) - program (e.g., TV)<br>番目 (ばんめ) - indicates position in a sequence
+父	✍4	小2	FATHER		フ	ちち	父親 (ちちおや) - father<br>義父 (ぎふ) - father-in-law<br>祖父 (おおじ) - grandfather
+風	✍9	小2	WIND	air, style, manner	フウ　フ	かぜ　かざ-　-かぜ	風邪 (かぜ) - common cold<br>風速 (ふうそく) - wind speed<br>風向 (ふうこう) - wind direction
+分	✍4	小2	PART	minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100	ブン　フン　ブ	わ.ける　わ.け　わ.かれる　わ.かる　わ.かつ	自分 (じぶん) - myself<br>部分 (ぶぶん) - portion<br>十分 (じっぷん) - 10 minutes
+聞	✍14	小2	HEAR	ask, listen	ブン　モン	き.く　き.こえる	新聞 (しんぶん) - newspaper<br>聞く (きく) - to hear<br>聞こえ (きこえ) - reputation
+米	✍6	小2	RICE	USA, meter	ベイ　マイ　メエトル	こめ　よね	米国 (べいこく) - America<br>日米 (にちべい) - Japan-America<br>米軍 (べいぐん) - the US armed forces
+歩	✍8	小2	WALK	counter for steps	ホ　ブ　フ	ある.く　あゆ.む	歩く (あるく) - to walk<br>一歩 (いっぽ) - step<br>歩き (ありき) - walk
+母	✍5	小2	MOTHER		ボ	はは　も	母親 (ははおや) - mother<br>義母 (ぎぼ) - mother-in-law<br>お母様 (おかあさま) - mother
+方	✍4	小2	DIRECTION	person, alternative	ホウ	かた　-かた　-がた	地方版 (ちほうばん) - local edition<br>一方 (いっぽう) - one (esp. of two)<br>方針 (ほうしん) - objective
+北	✍5	小2	NORTH		ホク	きた	北朝鮮 (きたちょうせん) - North Korea<br>北京 (ペキン) - Beijing (China)<br>東北 (とうほく) - north-east
+毎	✍6	小2	EVERY		マイ	ごと　-ごと.に	毎日 (まいにち) - every day<br>毎年 (まいとし) - every year<br>毎週 (まいしゅう) - every week
+妹	✍8	小2	YOUNGER SISTER		マイ	いもうと	姉妹 (きょうだい) - sisters<br>妹さん (いもうとさん) - younger sister<br>義妹 (いもうと) - sister-in-law (younger)
+万	✍3	小2	TEN THOUSAND	10,000	マン　バン	よろず	万人 (ばんじん) - all people<br>１万円 (いちまんえん) - 10,000 yen<br>万博 (ばんぱく) - world fair
+明	✍8	小2	BRIGHT	light	メイ　ミョウ　ミン	あ.かり　あか.るい　あか.るむ　あか.らむ　あき.らか　あ.ける　-あ.け　あ.く　あ.くる　あ.かす	説明 (せつめい) - explanation<br>明らか (あきらか) - obvious<br>表明 (ひょうめい) - declaration
+鳴	✍14	小2	CHIRP	cry, bark, sound, ring, echo, honk	メイ	な.く　な.る　な.らす	鳴門 (なると) - strait with a roaring tidal ebb and flow<br>鳴り (なり) - ringing<br>悲鳴 (ひめい) - shriek
+毛	✍4	小2	FUR	hair, feather, down	モウ	け	髪の毛 (かみのけ) - hair (head)<br>毛穴 (けあな) - pores (of the skin)<br>脱毛 (だつもう) - loss of hair
+門	✍8	小2	GATE	counter for cannons	モン	かど　と	部門 (ぶもん) - division (of a larger group)<br>専門 (せんもん) - specialty<br>専門家 (せんもんか) - specialist
+夜	✍8	小2	NIGHT	evening	ヤ	よ　よる	深夜 (しんや) - late at night<br>夜中 (やちゅう) - during the night<br>夜間 (やかん) - at night
+野	✍11	小2	PLAINS	field, rustic, civilian life	ヤ　ショ	の　の-	野球 (やきゅう) - baseball<br>野菜 (やさい) - vegetable<br>野球場 (やきゅうじょう) - baseball ground
+友	✍4	小2	FRIEND		ユウ	とも	友人 (ゆうじん) - friend<br>友達 (ともだち) - friend<br>親友 (しんゆう) - close friend
+用	✍5	小2	UTILIZE	business, service, use, employ	ヨウ	もち.いる	利用 (りよう) - use<br>使用 (しよう) - use<br>採用 (さいよう) - use
+曜	✍18	小2	WEEKDAY		ヨウ		土曜日 (どようび) - Saturday<br>日曜 (にちよう) - Sunday<br>日曜日 (にちようび) - Sunday
+来	✍7	小2	COME	due, next, cause, become	ライ　タイ	く.る　きた.る　きた.す　き.たす　き.たる　き　こ	出来 (しゅったい) - occurrence<br>以来 (いらい) - since<br>将来 (しょうらい) - future (usually near)
+里	✍7	小2	RI	village, parent's home, league	リ	さと	里山 (さとやま) - undeveloped woodland near populated area<br>里子 (さとご) - foster child<br>万里 (ばんり) - thousands of miles
+理	✍11	小2	LOGIC	arrangement, reason, justice, truth	リ	ことわり	理由 (りゆう) - reason<br>理解 (りかい) - understanding<br>無理 (むり) - unreasonable
+話	✍13	小2	TALE	talk	ワ	はな.す　はなし	話し (はなし) - talk<br>話す (はなす) - to talk<br>電話 (でんわ) - telephone call
+悪	✍11	小3	BAD	vice, rascal, false, evil, wrong	アク　オ	わる.い　わる-　あ.し　にく.い　-にく.い　ああ　いずくに　いずくんぞ　にく.む	悪い (にくい) - hateful<br>悪化 (あっか) - deterioration<br>最悪 (さいあく) - the worst
+安	✍6	小3	RELAX	cheap, low, quiet, rested, contented, peaceful	アン	やす.い　やす.まる　やす　やす.らか	安全 (あんぜん) - safety<br>不安 (ふあん) - anxiety<br>安心 (あんしん) - relief
+暗	✍13	小3	DARKNESS	disappear, shade, informal, grow dark, be blinded	アン	くら.い　くら.む　くれ.る	暗い (くらい) - dark<br>暗殺 (あんさつ) - assassination<br>暗闇 (くらやみ) - darkness
+医	✍7	小3	DOCTOR	medicine	イ	い.やす　い.する　くすし	医師 (いし) - doctor<br>医療 (いりょう) - medical care<br>医者 (いしゃ) - doctor
+委	✍8	小3	COMMITTEE	entrust to, leave to, devote, discard	イ	ゆだ.ねる	委員会 (いいんかい) - committee<br>委員長 (いいんちょう) - committee chairman<br>委員 (いいん) - committee member
+意	✍13	小3	IDEA	mind, heart, taste, thought, desire, care, liking	イ		意見 (いけん) - opinion<br>意味 (いみ) - meaning<br>注意報 (ちゅういほう) - warning (e.g., for a storm)
+育	✍8	小3	BRING UP	grow up, raise, rear	イク	そだ.つ　そだ.ち　そだ.てる　はぐく.む	教育 (きょういく) - training<br>子育て (こそだて) - child rearing<br>育て (そだて) - bringing up
+員	✍10	小3	EMPLOYEE	member, number, the one in charge	イン		職員 (しょくいん) - staff member<br>議員 (ぎいん) - member of the Diet, congress or parliament<br>裁判員 (さいばんいん) - lay judge (2005 reforms)
+院	✍10	小3	INST.	institution, temple, mansion, school	イン		病院 (びょういん) - hospital<br>衆院 (しゅういん) - lower house of the Diet<br>学院 (がくいん) - institute
+飲	✍12	小3	DRINK	smoke, take	イン　オン	の.む　-の.み	飲み (のみ) - drink<br>飲む (のむ) - to drink<br>飲食店 (いんしょくてん) - restaurant
+運	✍12	小3	CARRY	luck, destiny, fate, lot, transport, progress, advance	ウン	はこ.ぶ	運営 (うんえい) - management<br>運転 (うんてん) - operation (of a machine, etc.)<br>運動 (うんどう) - exercise
+泳	✍8	小3	SWIM		エイ	およ.ぐ	水泳 (すいえい) - swimming<br>競泳 (きょうえい) - swimming race<br>泳ぐ (およぐ) - to swim
+駅	✍14	小3	STATION		エキ		駅伝 (えきでん) - long-distance relay race<br>駅前 (えきまえ) - in front of station<br>駅舎 (えきしゃ) - station building
+央	✍5	小3	CENTER	middle	オウ		中央 (ちゅうおう) - center<br>中央部 (ちゅうおうぶ) - center<br>道央 (どうおう) - central Hokkaido
+横	✍15	小3	SIDEWAYS	side, horizontal, width, woof, unreasonable, perverse	オウ	よこ	横浜 (よこはま) - Yokohama (city)<br>横綱 (よこづな) - yokozuna (grand champion)<br>横に (よこに) - horizontally
+屋	✍9	小3	ROOF	house, shop, dealer, seller	オク	や	名古屋 (なごや) - Nagoya (city)<br>部屋 (へや) - room<br>屋根 (やね) - roof
+温	✍12	小3	WARM		オン	あたた.か　あたた.かい　あたた.まる　あたた.める　ぬく	気温 (きおん) - atmospheric temperature<br>温泉 (おんせん) - spa<br>温暖 (おんだん) - warm
+化	✍4	小3	CHANGE	take the form of, influence, enchant, delude, -ization	カ　ケ	ば.ける　ば.かす　ふ.ける　け.する	文化 (ぶんか) - culture<br>強化 (きょうか) - strengthen<br>変化 (へんか) - change
+荷	✍10	小3	BAGGAGE	shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight	カ	に	出荷 (しゅっか) - shipping<br>荷物 (にもつ) - luggage<br>負荷 (ふか) - burden
+界	✍9	小3	WORLD	boundary	カイ		世界 (せかい) - the world<br>業界 (ぎょうかい) - business world<br>限界 (げんかい) - limit
+開	✍12	小3	OPEN	unfold, unseal	カイ	ひら.く　ひら.き　-びら.き　ひら.ける　あ.く　あ.ける	開始 (かいし) - start<br>公開 (こうかい) - opening to the public<br>展開 (てんかい) - development
+階	✍12	小3	STOREY	stair, counter for stories of a building	カイ	きざはし	段階 (きざはし) - stairs<br>階建て (かいだて) - an N-storey building<br>階段 (かいだん) - stairs
+寒	✍12	小3	COLD		カン	さむ.い	寒い (さぶい) - cold (e.g., weather)<br>寒さ (さむさ) - coldness<br>寒気 (かんき) - cold
+感	✍13	小3	EMOTION	feeling, sensation	カン		感じ (かんじ) - feeling<br>感想 (かんそう) - impressions<br>感染 (かんせん) - infection
+漢	✍13	小3	SINO-	China	カン		漢字 (かんじ) - Chinese characters<br>漢方 (かんぽう) - traditional Chinese medicine<br>漢方薬 (かんぽうやく) - Chinese herbal medicine
+館	✍16	小3	BUILDING	mansion, large building, palace	カン	やかた　たて	美術館 (びじゅつかん) - art gallery<br>博物館 (はくぶつかん) - museum<br>図書館 (ずしょかん) - library
+岸	✍8	小3	BEACH		ガン	きし	海岸 (かいがん) - coast<br>沿岸 (えんがん) - coast<br>西岸 (せいがん) - west coast
+起	✍10	小3	ROUSE	wake up, get up	キ	お.きる　お.こる　お.こす　おこ.す　た.つ	起訴 (きそ) - prosecution<br>起こし (おこし) - development<br>起用 (きよう) - appointment (to a position, job, etc.)
+期	✍12	小3	PERIOD	time, date, term	キ　ゴ		期待 (きたい) - expectation<br>時期 (じき) - time<br>期間 (きかん) - period
+客	✍9	小3	GUEST	visitor, customer, client	キャク　カク		観光客 (かんこうきゃく) - tourist<br>観客 (かんきゃく) - audience<br>お客様 (おきゃくさま) - guest
+究	✍7	小3	RESEARCH	study	キュウ　ク	きわ.める	研究 (けんきゅう) - study<br>研究所 (けんきゅうしょ) - research establishment<br>研究者 (けんきゅうしゃ) - researcher
+急	✍9	小3	HURRY	emergency, sudden, steep	キュウ	いそ.ぐ　いそ.ぎ	緊急 (きんきゅう) - urgent<br>急に (きゅうに) - swiftly<br>急増 (きゅうぞう) - rapid increase
+級	✍9	小3	CLASS	rank, grade	キュウ		高級 (こうきゅう) - high class<br>同級生 (どうきゅうせい) - classmate<br>学級 (がっきゅう) - class
+宮	✍10	小3	SHINTO SHRINE	constellations, palace, princess	キュウ　グウ　ク　クウ	みや	宮城 (きゅうじょう) - Imperial Palace (esp. from 1888 to 1946)<br>大宮 (おおみや) - imperial palace<br>宮城県 (みやぎけん) - Miyagi prefecture (Tohoku area)
+球	✍11	小3	BALL	sphere	キュウ	たま	野球 (やきゅう) - baseball<br>球場 (きゅうじょう) - baseball stadium<br>野球場 (やきゅうじょう) - baseball ground
+去	✍5	小3	GONE	past, quit, leave, elapse, eliminate, divorce	キョ　コ	さ.る　-さ.る	過去 (かこ) - the past<br>去年 (きょねん) - last year<br>死去 (しきょ) - death
+橋	✍16	小3	BRIDGE		キョウ	はし	船橋 (せんきょう) - pontoon bridge<br>石橋 (いしばし) - stone bridge<br>新橋 (しんばし) - Shinbashi (section of Tokyo)
+業	✍13	小3	BUSINESS	vocation, arts, performance	ギョウ　ゴウ	わざ	企業 (きぎょう) - enterprise<br>事業 (ことわざ) - project<br>作業 (さぎょう) - work
+曲	✍6	小3	BEND	music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean	キョク	ま.がる　ま.げる　くま	楽曲 (がっきょく) - musical composition<br>作曲 (さっきょく) - composition<br>新曲 (しんきょく) - new piece
+局	✍7	小3	BUREAU	board, office, affair, conclusion, court lady, lady-in-waiting, her apartment	キョク	つぼね	結局 (けっきょく) - after all<br>支局 (しきょく) - branch office<br>事務局 (じむきょく) - secretariat
+銀	✍14	小3	SILVER		ギン	しろがね	銀行 (ぎんこう) - bank<br>銀座 (ぎんざ) - Ginza (shopping district in Tokyo)<br>日銀 (にちぎん) - Bank of Japan
+区	✍4	小3	WARD	district	ク　オウ　コウ		地区 (ちく) - district<br>選挙区 (せんきょく) - electoral district<br>区間 (くかん) - section (of track, etc.)
+苦	✍8	小3	SUFFERING	trial, worry, hardship, feel bitter, scowl	ク	くる.しい　-ぐる.しい　くる.しむ　くる.しめる　にが.い　にが.る	苦手 (にがて) - poor (at)<br>苦労 (くろう) - troubles<br>苦しい (くるしい) - painful
+具	✍8	小3	TOOL	utensil, means, possess, ingredients, counter for armor, suits, sets of furniture	グ	そな.える　つぶさ.に	具体的 (ぐたいてき) - concrete<br>具合 (ぐあい) - condition<br>家具 (かぐ) - furniture
+君	✍7	小3	MISTER	you, ruler, male name suffix	クン	きみ　-ぎみ	郎君 (ろうくん) - young lord<br>君たち (きみたち) - you (plural)<br>君臨 (くんりん) - reigning
+係	✍9	小3	PERSON IN CHARGE	connection, duty, concern oneself	ケイ	かか.る　かかり　-がかり　かか.わる	関係 (かんけい) - relation<br>関係者 (かんけいしゃ) - authorized people<br>無関係 (むかんけい) - unrelated
+軽	✍12	小3	LIGHTLY	trifling, unimportant	ケイ	かる.い　かろ.やか　かろ.んじる	軽減 (けいげん) - abatement<br>軽い (かるい) - light (i.e., not heavy)<br>気軽 (きがる) - carefree
+血	✍6	小3	BLOOD		ケツ	ち	血液 (けつえき) - blood<br>血糖値 (けっとうち) - blood sugar level<br>出血 (しゅっけつ) - bleeding
+決	✍7	小3	DECIDE	fix, agree upon, appoint	ケツ	き.める　-ぎ.め　き.まる　さ.く	決め (きめ) - agreement<br>決定 (けってい) - decision<br>決勝 (けっしょう) - decision of a contest
+研	✍9	小3	POLISH	study of, sharpen	ケン	と.ぐ	研究 (けんきゅう) - study<br>研究所 (けんきゅうしょ) - research establishment<br>研修 (けんしゅう) - training (esp. in-service)
+県	✍9	小3	PREFECTURE		ケン	か.ける	県内 (けんない) - within the prefecture<br>県警 (けんけい) - prefectural police<br>県立 (けんりつ) - prefectural (institution)
+庫	✍10	小3	WAREHOUSE	storehouse	コ　ク	くら	兵庫県 (ひょうごけん) - Hyogo prefecture (Kinki area) (Hyougo)<br>文庫 (ぶんこ) - library<br>冷蔵庫 (れいぞうこ) - refrigerator
+湖	✍12	小3	LAKE		コ	みずうみ	琵琶湖 (びわこ) - Lake Biwa<br>湖畔 (こはん) - lake shore<br>湖面 (こめん) - lake surface
+向	✍6	小3	YONDER	facing, beyond, confront, defy, tend toward, approach	コウ	む.く　む.い　-む.き　む.ける　-む.け　む.かう　む.かい　む.こう　む.こう-　むこ　むか.い	向け (むけ) - intended for ...<br>方向 (ほうこう) - direction<br>向上 (こうじょう) - elevation
+幸	✍8	小3	HAPPINESS	blessing, fortune	コウ	さいわ.い　さち　しあわ.せ	幸せ (しあわせ) - happiness<br>幸福 (こうふく) - happiness<br>幸い (さいわい) - happiness
+港	✍12	小3	HARBOR		コウ	みなと	空港 (くうこう) - airport<br>港区 (みなとく) - Harbour Ward (e.g., in Tokyo)<br>香港 (ほんこん) - Hong Kong
+号	✍5	小3	NICKNAME	number, item, title, pseudonym, name, call	ゴウ	さけ.ぶ　よびな	番号 (ばんごう) - number<br>背番号 (せばんごう) - number on player's back<br>信号 (しんごう) - signal
+根	✍10	小3	ROOT	radical, head (pimple)	コン	ね　-ね	島根 (しまね) - island country<br>大根 (おおね) - root<br>屋根 (やね) - roof
+祭	✍11	小3	RITUAL	offer prayers, celebrate, deify, enshrine, worship	サイ	まつ.る　まつ.り　まつり	祭り (まつり) - festival<br>映画祭 (えいがさい) - film festival<br>祭典 (さいてん) - festival
+皿	✍5	小3	DISH	a helping, plate	ベイ	さら	受け皿 (うけざら) - saucer<br>お皿 (おさら) - plate<br>大皿 (おおざら) - large plate
+仕	✍5	小3	ATTEND	doing, official, serve	シ　ジ	つか.える	仕事 (しごと) - work<br>仕組み (しくみ) - structure<br>仕方 (しかた) - way
+死	✍6	小3	DEATH	die	シ	し.ぬ　し.に-	死亡 (しぼう) - death<br>死者 (ししゃ) - casualty<br>死ぬ (しぬ) - to die
+使	✍8	小3	USE	send on a mission, order, messenger, envoy, ambassador, cause	シ	つか.う　つか.い　-つか.い　-づか.い	使用 (しよう) - use<br>使う (つかう) - to use (a thing, method, etc.)<br>使い (つかい) - errand
+始	✍8	小3	COMMENCE	begin	シ	はじ.める　-はじ.める　はじ.まる	始め (はじめ) - beginning<br>開始 (かいし) - start<br>始まる (はじまる) - to begin
+指	✍9	小3	FINGER	point to, indicate, put into, play (chess), measure (ruler)	シ	ゆび　さ.す　-さ.し	目指す (めざす) - to aim at<br>指摘 (してき) - pointing out<br>目指 (めざし) - aim
+歯	✍12	小3	TOOTH	cog	シ	よわい　は　よわ.い　よわい.する	歯止め (はどめ) - brake<br>虫歯 (むしば) - cavity<br>歯科 (しか) - dentistry
+詩	✍13	小3	POEM	poetry	シ	うた	詩人 (しじん) - poet<br>詩集 (ししゅう) - poetry anthology<br>交響詩 (こうきょうし) - symphonic poem
+次	✍6	小3	NEXT	order, sequence	ジ　シ	つ.ぐ　つぎ	次第 (しだい) - dependent upon<br>次官 (じかん) - vice-minister<br>次回 (じかい) - next time (occasion)
+事	✍8	小3	MATTER	thing, fact, business, reason, possibly	ジ　ズ	こと　つか.う　つか.える	記事 (きじ) - article<br>仕事 (しごと) - work<br>事件 (じけん) - event
+持	✍9	小3	HOLD	have	ジ	も.つ　-も.ち　も.てる	気持ち (きもち) - feeling<br>持ち (もち) - hold<br>持つ (もつ) - to hold (in one's hand)
+式	✍6	小3	STYLE	ceremony, rite, function, method, system, form, expression	シキ		公式 (こうしき) - formality<br>株式 (かぶしき) - stock (company)<br>正式 (せいしき) - due form
+実	✍8	小3	REALITY	truth	ジツ　シツ	み　みの.る　まこと　みの　みち.る	実施 (じっし) - enforcement<br>実現 (じつげん) - implementation (e.g., of a system)<br>実家 (じっか) - home
+写	✍5	小3	COPY	be photographed, describe	シャ　ジャ	うつ.す　うつ.る　うつ-　うつ.し	写真 (しゃしん) - photograph<br>試写 (ししゃ) - preview<br>描写 (びょうしゃ) - depiction
+者	✍8	小3	SOMEONE	person	シャ	もの	容疑者 (ようぎしゃ) - suspect (person)<br>関係者 (かんけいしゃ) - authorized people<br>患者 (かんじゃ) - patient
+主	✍5	小3	LORD	chief, master, main thing, principal	シュ　ス　シュウ	ぬし　おも　あるじ	トピ主 (トピぬし) - original poster (of a web-forum thread)<br>民主党 (みんしゅとう) - Democratic party<br>主人公 (しゅじんこう) - protagonist
+守	✍6	小3	GUARD	protect, defend, obey	シュ　ス	まも.る　まも.り　もり　-もり　かみ	守る (まもる) - to protect<br>守備 (しゅび) - defense<br>守り (まもり) - protection
+取	✍8	小3	TAKE	fetch, take up	シュ	と.る　と.り　と.り-　とり　-ど.り	取り (とり) - taking<br>取材 (しゅざい) - news coverage<br>取引 (とりひき) - transactions
+酒	✍10	小3	SAKE	alcohol	シュ	さけ　さか-	お酒 (おさけ) - alcohol<br>居酒屋 (いざかや) - bar<br>飲酒 (いんしゅ) - drinking alcohol (sake)
+受	✍8	小3	ACCEPT	undergo, answer (phone), take, get, catch, receive	ジュ	う.ける　-う.け　う.かる	受け (うけ) - popularity<br>受ける (うける) - to receive<br>受賞 (じゅしょう) - winning (a prize)
+州	✍6	小3	STATE	province	シュウ　ス	す	欧州 (おうしゅう) - Europe<br>北九州 (きたきゅうしゅう) - Kitakyushu (city)<br>豪州 (ごうしゅう) - Australia
+拾	✍9	小3	PICK UP	gather, find, go on foot, ten	シュウ　ジュウ	ひろ.う	収拾 (しゅうしゅう) - controlling<br>拾う (ひろう) - to pick up<br>球拾い (たまひろい) - fetching balls
+終	✍11	小3	END	finish	シュウ	お.わる　-お.わる　おわ.る　お.える　つい　つい.に	最終 (さいしゅう) - last<br>終わり (おわり) - the end<br>終了 (しゅうりょう) - end
+習	✍11	小3	LEARN		シュウ　ジュ	なら.う　なら.い	練習 (れんしゅう) - practice<br>学習 (がくしゅう) - study<br>習慣 (しゅうかん) - habit
+集	✍12	小3	GATHER	meet, congregate, swarm, flock	シュウ	あつ.まる　あつ.める　つど.う	特集 (とくしゅう) - feature (e.g., newspaper)<br>集め (あつめ) - collecting<br>募集 (ぼしゅう) - recruiting
+住	✍7	小3	DWELL	reside, live, inhabit	ジュウ　ヂュウ　チュウ	す.む　す.まう　-ず.まい	住民 (じゅうみん) - citizens<br>住宅 (じゅうたく) - residence<br>住む (すむ) - to live (of humans)
+重	✍9	小3	HEAVY	heap up, pile up, nest of boxes, -fold	ジュウ　チョウ	え　おも.い　おも.り　おも.なう　かさ.ねる　かさ.なる　おも	重要 (じゅうよう) - important<br>三重 (さんじゅう) - triple<br>体重 (たいじゅう) - body weight
+宿	✍11	小3	INN	lodging, relay station, dwell, lodge, be pregnant, home, dwelling	シュク	やど　やど.る　やど.す	合宿 (がっしゅく) - lodging together<br>宿泊 (しゅくはく) - lodging<br>宿題 (しゅくだい) - homework
+所	✍8	小3	PLACE		ショ	ところ　-ところ　どころ　とこ	場所 (ばしょ) - place<br>事務所 (じむしょ) - office<br>所で (ところで) - by the way
+暑	✍12	小3	SULTRY	hot, summer heat	ショ	あつ.い	暑さ (あつさ) - heat (of the weather)<br>暑い (あつい) - hot (weather, etc.)<br>猛暑 (もうしょ) - heat wave
+助	✍7	小3	HELP	rescue, assist	ジョ	たす.ける　たす.かる　す.ける　すけ	補助 (ほじょ) - assistance<br>援助 (えんじょ) - assistance<br>助け (たすけ) - assistance
+昭	✍9	小3	SHINING	bright	ショウ		昭和 (しょうわ) - Showa era (1926.12.25-1989.1.7)<br>昭代 (しょうだい) - glorious reign<br>昭然 (しょうぜん) - manifest
+消	✍10	小3	EXTINGUISH	blow out, turn off, neutralize, cancel	ショウ	き.える　け.す	消費者 (しょうひしゃ) - consumer<br>消費 (しょうひ) - consumption<br>解消 (かいしょう) - cancellation
+商	✍11	小3	MAKE A DEAL	selling, dealing in, merchant	ショウ	あきな.う	商品 (しょうひん) - commodity<br>商店街 (しょうてんがい) - shopping district<br>商業 (しょうぎょう) - commerce
+章	✍11	小3	BADGE	chapter, composition, poem, design	ショウ		文章 (ぶんしょう) - sentence<br>憲章 (けんしょう) - charter<br>楽章 (がくしょう) - movement
+勝	✍12	小3	VICTORY	win, prevail, excel	ショウ	か.つ　-が.ち　まさ.る　すぐ.れる　かつ	優勝 (ゆうしょう) - overall victory<br>決勝 (けっしょう) - decision of a contest<br>勝ち (かち) - win
+乗	✍9	小3	RIDE	power, multiplication, record, counter for vehicles, board, mount, join	ジョウ　ショウ	の.る　-の.り　の.せる	乗り (のり) - riding<br>乗客 (じょうかく) - passenger<br>乗る (のる) - to get on (train, plane, bus, ship, etc.)
+植	✍12	小3	PLANT		ショク	う.える　う.わる	移植 (いしょく) - transplanting<br>植物 (しょくぶつ) - plant<br>田植え (たうえ) - rice planting
+申	✍5	小3	HAVE THE HONOR TO	sign of the monkey, 3-5PM, ninth sign of Chinese zodiac	シン	もう.す　もう.し-　さる	申請 (しんせい) - application<br>申告 (しんこく) - report<br>答申 (とうしん) - report
+身	✍7	小3	SOMEBODY	person, one's station in life	シン	み	自身 (じしん) - by oneself<br>身体 (からだ) - body<br>私自身 (わたくしじしん) - myself
+神	✍9	小3	GODS	mind, soul	シン　ジン	かみ　かん-　こう-	神戸 (こうべ) - Kobe (port city near Osaka)<br>阪神 (はんしん) - Osaka-Kobe<br>神社 (じんじゃ) - Shinto shrine
+真	✍10	小3	TRUE	reality, Buddhist sect	シン	ま　ま-　まこと	写真 (しゃしん) - photograph<br>真の (しんの) - true<br>真剣 (しんけん) - seriousness
+深	✍11	小3	DEEP	heighten, intensify, strengthen	シン	ふか.い　-ぶか.い　ふか.まる　ふか.める　み-	深い (ふかい) - deep<br>深夜 (しんや) - late at night<br>深刻 (しんこく) - serious
+進	✍11	小3	ADVANCE	proceed, progress, promote	シン	すす.む　すす.める	推進 (すいしん) - propulsion<br>進める (すすめる) - to advance<br>進む (すさむ) - to grow wild
+世	✍5	小3	GENERATION	world, society, public	セイ　セ　ソウ	よ　さんじゅう	世界 (せかい) - the world<br>世代 (せだい) - generation<br>世紀 (せいき) - century
+整	✍16	小3	ORGANIZE	arranging, tune, tone, meter, key (music)	セイ	ととの.える　ととの.う	調整 (ちょうせい) - adjustment<br>整備 (せいび) - maintenance<br>整理 (せいり) - sorting
+昔	✍8	小3	ONCE UPON A TIME	antiquity, old times	セキ　シャク	むかし	昔話 (むかしばなし) - old tale<br>一昔前 (ひとむかしまえ) - long ago<br>大昔 (おおむかし) - great antiquity
+全	✍6	小3	WHOLE	entire, all, complete, fulfill	ゼン	まった.く　すべ.て	全国 (ぜんこく) - countrywide<br>安全 (あんぜん) - safety<br>全く (まったく) - really
+相	✍9	小3	INTER-	mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy	ソウ　ショウ	あい-	相手 (あいて) - companion<br>首相 (しゅしょう) - Prime Minister<br>相談 (そうだん) - consultation
+送	✍9	小3	ESCORT	send	ソウ	おく.る	放送 (ほうそう) - broadcast<br>送り (おくり) - seeing off<br>送る (おくる) - to send (a thing)
+想	✍13	小3	CONCEPT	think, idea, thought	ソウ　ソ	おも.う	感想 (かんそう) - impressions<br>予想 (よそう) - expectation<br>想像 (そうぞう) - imagination
+息	✍10	小3	BREATH	respiration, son, interest (on money)	ソク	いき	息子 (むすこ) - son<br>生息 (せいそく) - inhabiting<br>ため息 (ためいき) - sigh
+速	✍10	小3	QUICK	fast	ソク	はや.い　はや-　はや.める　すみ.やか	風速 (ふうそく) - wind speed<br>高速 (こうそく) - high speed<br>速報 (そくほう) - news flash
+族	✍11	小3	TRIBE	family	ゾク		家族 (かぞく) - family<br>遺族 (いぞく) - bereaved family<br>親族 (うから) - blood relative
+他	✍5	小3	OTHER	another, the others	タ	ほか	他人 (あだびと) - another person<br>他に (ほかに) - in addition<br>その他 (そのた) - etc.
+打	✍5	小3	STRIKE	hit, knock, pound, dozen	ダ　ダアス	う.つ　う.ち-　ぶ.つ	二塁打 (にるいだ) - two-base hit<br>安打 (あんだ) - safe hit<br>本塁打 (ほんるいだ) - home run
+対	✍7	小3	VIS-A-VIS	opposite, even, equal, versus, anti-, compare	タイ　ツイ	あいて　こた.える　そろ.い　つれあ.い　なら.ぶ　むか.う	対応 (たいおう) - interaction<br>対象 (たいしょう) - target<br>対策 (たいさく) - measure
+待	✍9	小3	WAIT	depend on	タイ	ま.つ　-ま.ち	期待 (きたい) - expectation<br>待ち (まち) - waiting<br>待つ (まつ) - to wait
+代	✍5	小3	SUBSTITUTE	change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee	ダイ　タイ	か.わる　かわ.る　かわ.り　か.わり　-がわ.り　-が.わり　か.える　よ　しろ	代表 (だいひょう) - representative<br>時代 (じだい) - period<br>年代 (ねんだい) - age
+第	✍11	小3	NO.	residence	ダイ　テイ		第１ (だいいち) - first<br>第２ (だいに) - second<br>第３ (だいさん) - the third
+題	✍18	小3	TOPIC	subject	ダイ		問題 (もんだい) - question (e.g., on a test)<br>課題 (かだい) - subject<br>話題 (わだい) - topic
+炭	✍9	小3	CHARCOAL	coal	タン	すみ	石炭 (いしずみ) - coal<br>炭素 (たんそ) - carbon (C)<br>練炭 (れんたん) - briquette (charcoal or coal)
+短	✍12	小3	SHORT	brevity, fault, defect, weak point	タン	みじか.い	短い (みじかい) - short<br>短期 (たんき) - short term<br>短縮 (たんしゅく) - shortening
+談	✍15	小3	DISCUSS	talk	ダン		相談 (そうだん) - consultation<br>会談 (かいだん) - conversation<br>講談 (こうだん) - story-telling
+着	✍12	小3	DON	arrive, wear, counter for suits of clothing	チャク　ジャク	き.る　-ぎ　き.せる　-き.せ　つ.く　つ.ける	到着 (とうちゃく) - arrival<br>重ね着 (かさねぎ) - layering (clothing)<br>着物 (きもの) - clothing
+注	✍8	小3	POUR	irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate	チュウ	そそ.ぐ　さ.す　つ.ぐ	注意報 (ちゅういほう) - warning (e.g., for a storm)<br>注目 (ちゅうもく) - notice<br>注意 (ちゅうい) - caution
+柱	✍9	小3	PILLAR	post, cylinder, support	チュウ	はしら	大黒柱 (だいこくばしら) - central pillar (of a building)<br>電柱 (でんちゅう) - telephone pole<br>支柱 (しちゅう) - prop
+丁	✍2	小3	STREET	ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign	チョウ　テイ　チン　トウ　チ	ひのと	丁寧 (ていねい) - polite<br>包丁 (ほうちょう) - kitchen knife<br>丁目 (ちょうめ) - district of a town
+帳	✍11	小3	NOTEBOOK	account book, album, curtain, veil, net, tent	チョウ	とばり	雑記帳 (ざっきちょう) - notebook<br>手帳 (てちょう) - notebook<br>通帳 (つうちょう) - passbook
+調	✍15	小3	TUNE	tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate	チョウ	しら.べる　しら.べ　ととの.う　ととの.える	調査 (ちょうさ) - investigation<br>調べ (しらべ) - investigation<br>強調 (きょうちょう) - emphasis
+追	✍9	小3	CHASE	drive away, follow, pursue, meanwhile	ツイ	お.う	追加 (ついか) - addition<br>追う (おう) - to chase<br>追求 (ついきゅう) - pursuing (goal)
+定	✍8	小3	DETERMINE	fix, establish, decide	テイ　ジョウ	さだ.める　さだ.まる　さだ.か	予定 (よてい) - plans<br>決定 (けってい) - decision<br>設定 (せってい) - establishment
+庭	✍10	小3	COURTYARD	garden, yard	テイ	にわ	家庭 (かてい) - home<br>家庭用 (かていよう) - for home (vs business) use<br>庭園 (ていえん) - garden
+笛	✍11	小3	FLUTE	clarinet, pipe, whistle, bagpipe, piccolo	テキ	ふえ	笛吹 (ふえふき) - flute player<br>汽笛 (きてき) - steam whistle<br>口笛 (くちぶえ) - whistle
+鉄	✍13	小3	IRON		テツ	くろがね	鉄道 (てつどう) - railroad<br>地下鉄 (ちかてつ) - underground train<br>近鉄 (きんてつ) - Kinki Nippon Tetsudou (railway co.)
+転	✍11	小3	REVOLVE	turn around, change	テン	ころ.がる　ころ.げる　ころ.がす　ころ.ぶ　まろ.ぶ　うたた　うつ.る　くる.めく	運転 (うんてん) - operation (of a machine, etc.)<br>逆転 (ぎゃくてん) - change<br>自転車 (じてんしゃ) - bicycle
+都	✍11	小3	METROPOLIS	capital	ト　ツ	みやこ	東京都 (とうきょうと) - Tokyo Metropolis<br>京都 (きょうと) - Kyoto<br>都市 (とし) - town
+度	✍9	小3	DEGREES	occurrence, time, counter for occurrences, consider, attitude	ド　ト　タク	たび　-た.い	程度 (ていど) - degree<br>制度 (せいど) - system<br>一度 (いちど) - once
+投	✍7	小3	THROW	discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss	トウ	な.げる　-な.げ	投手 (とうしゅ) - pitcher<br>投稿者 (とうこうしゃ) - contributor (of written material)<br>投票 (とうひょう) - voting
+豆	✍7	小3	BEANS	pea, midget	トウ　ズ	まめ　まめ-	大豆 (だいず) - soya bean (soybean)<br>豆腐 (とうふ) - tofu<br>納豆 (なっとう) - natto (fermented soybeans)
+島	✍10	小3	ISLAND		トウ	しま	広島 (ひろしま) - Hiroshima (city)<br>中島 (なかじま) - island in a pond or river<br>島根 (しまね) - island country
+湯	✍12	小3	HOT WATER	bath, hot spring	トウ	ゆ	お湯 (おゆ) - hot water<br>銭湯 (せんとう) - bath-house<br>湯船 (ゆぶね) - bathtub
+登	✍12	小3	ASCEND	climb up	トウ　ト　ドウ　ショウ　チョウ	のぼ.る　あ.がる	登場 (とうじょう) - entry (on stage)<br>登録 (とうろく) - registration<br>登板 (とうばん) - taking the mound
+等	✍12	小3	ETC.	and so forth, class (first), quality, equal, similar	トウ	ひと.しい　など　-ら	平等 (びょうどう) - equality<br>１等 (いっとう) - first-class<br>等々 (とうとう) - etc.
+動	✍11	小3	MOVE	motion, change, confusion, shift, shake	ドウ	うご.く　うご.かす	活動 (かつどう) - action<br>動き (うごき) - movement<br>行動 (こうどう) - action
+童	✍12	小3	JUVENILE	child	ドウ	わらべ	児童 (じどう) - children<br>学童 (がくどう) - school child<br>童話 (どうわ) - fairy-tale
+農	✍13	小3	AGRICULTURE	farmers	ノウ		農業 (のうぎょう) - agriculture<br>農家 (のうか) - farmer<br>農林 (のうりん) - agriculture and forestry
+波	✍8	小3	WAVES	billows, Poland	ハ	なみ	波浪 (はろう) - waves<br>津波 (つなみ) - tsunami<br>電波 (でんぱ) - electromagnetic wave
+配	✍10	小3	DISTRIBUTE	spouse, exile, rationing	ハイ	くば.る	心配 (しんぱい) - worry<br>配信 (はいしん) - distribution<br>配慮 (はいりょ) - consideration
+倍	✍10	小3	DOUBLE	twice, times, fold	バイ		倍率 (ばいりつ) - magnification<br>倍増 (ばいぞう) - double<br>人一倍 (ひといちばい) - more than others
+箱	✍15	小3	BOX	chest, case, bin, railway car	ソウ	はこ	弁当箱 (べんとうばこ) - lunch box<br>宝箱 (たからばこ) - treasure chest<br>投票箱 (とうひょうばこ) - ballot box
+畑	✍9	小3	FARM	field, garden, one's specialty, kokuji		はた　はたけ　-ばたけ	田畑 (たはた) - fields (of rice and other crops)<br>花畑 (はなばたけ) - flower garden<br>茶畑 (ちゃばたけ) - tea plantation
+発	✍9	小3	DEPARTURE	discharge, publish, emit, start from, disclose, counter for gunshots	ハツ　ホツ	た.つ　あば.く　おこ.る　つか.わす　はな.つ	発表 (はっぴょう) - announcement<br>発売 (はつばい) - sale<br>発売日 (はつばいび) - day something goes on sale
+反	✍4	小3	ANTI-		ハン　ホン　タン　ホ	そ.る　そ.らす　かえ.す　かえ.る　-かえ.る	違反 (いはん) - violation<br>反対 (はんたい) - opposition<br>反応 (はんおう) - reaction
+坂	✍7	小3	SLOPE	incline, hill	ハン	さか	坂道 (さかみち) - hill road<br>下り坂 (くだりざか) - descent<br>上り坂 (のぼりざか) - ascent
+板	✍8	小3	PLANK	board, plate, stage	ハン　バン	いた	看板 (かんばん) - signboard<br>登板 (とうばん) - taking the mound<br>掲示板 (けいじばん) - bulletin board
+皮	✍5	小3	PELT	skin, hide, leather, skin radical (no. 107)	ヒ	かわ	皮膚科 (ひふか) - dermatology<br>皮膚 (ひふ) - skin<br>皮肉 (ひにく) - cynicism
+悲	✍12	小3	GRIEVE	sad, deplore, regret	ヒ	かな.しい　かな.しむ	悲しい (かなしい) - sad<br>悲しみ (かなしみ) - sadness<br>悲劇 (ひげき) - tragedy
+美	✍9	小3	BEAUTY	beautiful	ビ　ミ	うつく.しい	美術館 (びじゅつかん) - art gallery<br>美しい (うつくしい) - beautiful<br>美人 (びじん) - beautiful person (woman)
+鼻	✍14	小3	NOSE	snout	ビ	はな	耳鼻科 (じびか) - otolaryngology<br>鼻水 (はなみず) - nasal mucus<br>鼻血 (はなじ) - nosebleed
+筆	✍12	小3	WRITING BRUSH	writing, painting brush, handwriting	ヒツ	ふで	執筆 (しっぴつ) - writing (e.g., as a profession)<br>筆者 (ひっしゃ) - writer (often in self-reference)<br>筆頭 (ひっとう) - brush tip
+氷	✍5	小3	ICICLE	ice, hail, freeze, congeal	ヒョウ	こおり　ひ　こお.る	氷点下 (ひょうてんか) - below freezing<br>氷上 (ひょうじょう) - on ice<br>氷河 (ひょうが) - glacier
+表	✍8	小3	SURFACE	table, chart, diagram	ヒョウ	おもて　-おもて　あらわ.す　あらわ.れる　あら.わす	発表 (はっぴょう) - announcement<br>代表 (だいひょう) - representative<br>表明 (ひょうめい) - declaration
+秒	✍9	小3	SECOND (1/60 MINUTE)		ビョウ		数秒 (すうびょう) - several seconds<br>毎秒 (まいびょう) - every second<br>秒速 (びょうそく) - per second
+病	✍10	小3	ILL	sick	ビョウ　ヘイ	や.む　-や.み　やまい	病院 (びょういん) - hospital<br>病気 (びょうき) - illness<br>糖尿病 (とうにょうびょう) - diabetes mellitus
+品	✍9	小3	GOODS	refinement, dignity, article, counter for meal courses	ヒン　ホン	しな	作品 (さくひん) - work (e.g., book, film, composition, etc.)<br>商品 (しょうひん) - commodity<br>食品 (しょくひん) - food
+負	✍9	小3	DEFEAT	negative, -, minus, bear, owe, assume a responsibility	フ	ま.ける　ま.かす　お.う	負担 (ふたん) - burden<br>負け (まけ) - defeat<br>勝負 (しょうぶ) - victory or defeat
+部	✍11	小3	SECTION	bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine	ブ	-べ	部分 (ぶぶん) - portion<br>一部 (いちぶ) - one part<br>幹部 (かんぶ) - management
+服	✍8	小3	CLOTHING	admit, obey, discharge	フク		服装 (ふくそう) - garments<br>制服 (せいふく) - uniform<br>服用 (ふくよう) - taking medicine
+福	✍13	小3	BLESSING	fortune, luck, wealth	フク		福岡 (ふくおか) - Fukuoka (city)<br>福祉 (ふくし) - welfare<br>幸福 (こうふく) - happiness
+物	✍8	小3	THING	object, matter	ブツ　モツ	もの　もの-	物語 (ものがたり) - tale<br>物の (ものの) - only ...<br>建物 (たてもの) - building
+平	✍5	小3	EVEN	flat, peace	ヘイ　ビョウ　ヒョウ	たい.ら　-だいら　ひら　ひら-	平均 (へいきん) - average<br>平和 (へいわ) - peace<br>平成 (へいせい) - Heisei era (1989.1.8- )
+返	✍7	小3	RETURN	answer, fade, repay	ヘン	かえ.す　-かえ.す　かえ.る　-かえ.る	返し (かえし) - reversal<br>返事 (へんじ) - reply<br>返済 (へんさい) - repayment
+勉	✍10	小3	EXERTION	endeavour, encourage, strive, make effort, diligent	ベン	つと.める	勉強 (べんきょう) - study<br>勉強会 (べんきょうかい) - study group<br>勉学 (べんがく) - study
+放	✍8	小3	SET FREE	release, fire, shoot, emit, banish, liberate	ホウ	はな.す　-っぱな.し　はな.つ　はな.れる　こ.く　ほう.る	放送 (ほうそう) - broadcast<br>放棄 (ほうき) - abandonment<br>放置 (ほうち) - leave as is
+味	✍8	小3	FLAVOR	taste	ミ	あじ　あじ.わう	意味 (いみ) - meaning<br>興味 (きょうみ) - interest (in something)<br>趣味 (しゅみ) - hobby
+命	✍8	小3	FATE	command, decree, destiny, life, appoint	メイ　ミョウ	いのち	生命 (せいめい) - life<br>命令 (めいれい) - order<br>運命 (うんめい) - fate
+面	✍9	小3	MASK	face, features, surface	メン　ベン	おも　おもて　つら	画面 (えづら) - the impression given by a painting or image<br>面白い (おもしろい) - interesting<br>場面 (ばめん) - scene
+問	✍11	小3	QUESTION	ask, problem	モン	と.う　と.い　とん	問題 (もんだい) - question (e.g., on a test)<br>質問 (しつもん) - question<br>訪問 (ほうもん) - call
+役	✍7	小3	DUTY	war, campaign, drafted labor, office, service, role	ヤク　エキ		役割 (やくわり) - part<br>役員 (やくいん) - officer<br>現役 (げんえき) - active duty
+薬	✍16	小3	MEDICINE	chemical, enamel, gunpowder, benefit	ヤク	くすり	薬物 (やくぶつ) - medicines<br>薬師 (くすし) - doctor<br>麻薬 (まやく) - narcotic drugs
+由	✍5	小3	WHEREFORE	a reason	ユ　ユウ　ユイ	よし　よ.る	理由 (りゆう) - reason<br>自由 (じゆう) - freedom<br>自由に (じゆうに) - freely
+油	✍8	小3	OIL	fat	ユ　ユウ	あぶら	石油 (せきゆ) - oil<br>油断 (ゆだん) - negligence<br>原油 (げんゆ) - crude oil
+有	✍6	小3	POSSESS	have, exist, happen, occur, approx	ユウ　ウ	あ.る	有名 (ゆうめい) - famous<br>有権者 (ゆうけんしゃ) - voter<br>有効 (ゆうこう) - validity
+遊	✍12	小3	PLAY		ユウ　ユ	あそ.ぶ　あそ.ばす	遊び (あそび) - playing<br>遊ぶ (あすぶ) - to play<br>遊説 (ゆうぜい) - election tour
+予	✍4	小3	BEFOREHAND	previous, myself, I	ヨ　シャ	あらかじ.め	予定 (よてい) - plans<br>予想 (よそう) - expectation<br>予報 (よほう) - forecast
+羊	✍6	小3	SHEEP		ヨウ	ひつじ	羊水 (ようすい) - amniotic fluid<br>羊蹄 (ぎしぎし) - Japanese dock (plant) (Rumex japonicus)<br>羊羹 (ようかん) - sweet bean jelly
+洋	✍9	小3	OCEAN	western style	ヨウ		東洋 (とうよう) - Orient<br>太平洋 (たいへいよう) - Pacific Ocean<br>三洋 (さんよう) - Sanyo (company)
+葉	✍12	小3	LEAF	plane, lobe, needle, blade, spear, counter for flat things, fragment, piece	ヨウ	は	言葉 (けとば) - language<br>千葉 (ちば) - Chiba (city)<br>紅葉 (こうよう) - autumn colors
+陽	✍12	小3	SUNSHINE	yang principle, positive, male, heaven, daytime	ヨウ	ひ	太陽 (たいよう) - sun<br>陽気 (ようき) - cheerful<br>山陽 (さんよう) - south side of a mountain
+様	✍14	小3	ESQ.	way, manner, situation, polite suffix	ヨウ　ショウ	さま　さん	様子 (ようす) - state<br>様々 (さまさま) - our gracious (Queen)<br>同様 (どうよう) - identical
+落	✍12	小3	FALL	drop, come down, village, hamlet	ラク	お.ちる　お.ち　お.とす	落ち (おち) - slip<br>落とし (おとし) - dropping<br>下落 (げらく) - depreciation
+流	✍10	小3	CURRENT	a sink, flow, forfeit	リュウ　ル	なが.れる　なが.れ　なが.す　-なが.す	流れ (ながれ) - stream<br>交流 (こうりゅう) - exchange<br>流し (ながし) - sink
+旅	✍10	小3	TRIP	travel	リョ	たび	旅行 (りょこう) - travel<br>旅館 (りょかん) - ryokan<br>旅客機 (りょかくき) - passenger plane
+両	✍6	小3	BOTH	old Japanese coin, counter for carriages (e.g., in a train), two	リョウ	てる　ふたつ	両親 (ふたおや) - parents<br>車両 (しゃりょう) - rolling stock<br>両国 (りょうこく) - both countries
+緑	✍14	小3	GREEN		リョク　ロク	みどり	緑色 (みどりいろ) - green<br>緑地 (りょくち) - green tract of land<br>緑茶 (りょくちゃ) - green tea
+礼	✍5	小3	SALUTE	bow, ceremony, thanks, remuneration	レイ　ライ		失礼 (しちらい) - discourtesy<br>お礼 (おれい) - thanks<br>謝礼 (しゃれい) - reward
+列	✍6	小3	FILE	row, rank, tier, column	レツ　レ		列車 (れっしゃ) - train (ordinary)<br>行列 (ぎょうれつ) - line<br>参列 (さんれつ) - attendance
+練	✍14	小3	PRACTICE	gloss, train, drill, polish, refine	レン	ね.る　ね.り	練習 (れんしゅう) - practice<br>訓練 (くんれん) - practice<br>練り (ねり) - kneading
+路	✍13	小3	PATH	route, road, distance	ロ　ル	-じ　みち	道路 (どうろ) - road<br>路線 (ろせん) - route<br>路上 (ろじょう) - road
+和	✍8	小3	HARMONY	Japanese style, peace, soften, Japan	ワ　オ　カ	やわ.らぐ　やわ.らげる　なご.む　なご.やか	和歌 (わか) - waka<br>平和 (へいわ) - peace<br>昭和 (しょうわ) - Showa era (1926.12.25-1989.1.7)
+愛	✍13	小4	LOVE	affection, favorite	アイ	いと.しい　かな.しい　め.でる　お.しむ　まな	恋愛 (れんあい) - love<br>可愛い (かわいい) - cute<br>愛知県 (あいちけん) - Aichi prefecture (Chuubu area)
+案	✍10	小4	PLAN	suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench	アン	つくえ	提案 (ていあん) - proposal<br>法案 (ほうあん) - bill (law)<br>案内 (あんない) - information
+以	✍5	小4	BY MEANS OF	because, in view of, compared with	イ	もっ.て	以上 (いじょう) - not less than<br>以降 (いこう) - on and after<br>以外 (いがい) - with the exception of
+衣	✍6	小4	GARMENT	clothes, dressing	イ　エ	ころも　きぬ　-ぎ	衣装 (いしょう) - clothing<br>衣類 (いるい) - clothes<br>麻衣 (あさごろも) - linen robe
+位	✍7	小4	RANK	grade, throne, crown, about, some	イ	くらい　ぐらい	上位 (じょうい) - superior (in rank)<br>位置 (いち) - place<br>首位 (しゅい) - first place
+囲	✍7	小4	SURROUND	besiege, store, paling, enclosure, encircle, preserve, keep	イ	かこ.む　かこ.う　かこ.い	雰囲気 (ふいんき) - atmosphere (e.g., musical)<br>周囲 (しゅうい) - surroundings<br>範囲 (はんい) - extent
+胃	✍9	小4	STOMACH	paunch, crop, craw	イ		胃腸 (いちょう) - stomach<br>胃腸炎 (いちょうえん) - gastroenteritis<br>胃袋 (いぶくろ) - stomach
+印	✍6	小4	STAMP	seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India	イン	しるし　-じるし　しる.す	印象 (いんしょう) - impression<br>印刷 (いんさつ) - printing<br>印象的 (いんしょうてき) - impressive
+英	✍8	小4	ENGLAND	English, hero, outstanding, calyx	エイ	はなぶさ	英語 (えいご) - English (language)<br>英国 (えいこく) - Great Britain<br>英雄 (えいゆう) - hero
+栄	✍9	小4	FLOURISH	prosperity, honor, glory, splendor	エイ　ヨウ	さか.える　は.え　-ば.え　は.える　え	栄養 (えいよう) - nutrition<br>栄光 (えいこう) - glory<br>繁栄 (はんえい) - prospering
+塩	✍13	小4	SALT		エン	しお	塩分 (えんぶん) - salt<br>塩田 (えんでん) - saltpan<br>塩味 (しおあじ) - salty taste
+億	✍15	小4	HUNDRED MILLION	10**8	オク		億円 (おくえん) - 100,000,000 yen<br>億劫 (おくこう) - troublesome<br>数億円 (すうおくえん) - several hundreds of millions of yen
+加	✍5	小4	ADD	addition, increase, join, include, Canada	カ	くわ.える　くわ.わる	参加 (さんか) - participation<br>追加 (ついか) - addition<br>増加 (ぞうか) - increase
+果	✍8	小4	FRUIT	reward, carry out, achieve, complete, end, finish, succeed	カ	は.たす　はた.す　-は.たす　は.てる　-は.てる　は.て	結果 (けっか) - result<br>効果 (こうか) - effect<br>成果 (せいか) - fruits (of one's labors)
+貨	✍11	小4	FREIGHT	goods, property	カ	たから	百貨店 (ひゃっかてん) - store<br>通貨 (つうか) - currency<br>貨物 (かぶつ) - cargo
+課	✍15	小4	CHAPTER	lesson, section, department, division, counter for chapters (of a book)	カ		課題 (かだい) - subject<br>課長 (かちょう) - section manager<br>課税 (かぜい) - taxation
+芽	✍8	小4	BUD	sprout, spear, germ	ガ	め	芽生え (めばえ) - bud<br>発芽 (はつが) - germination<br>新芽 (しんめ) - sprout
+改	✍7	小4	REFORMATION	change, modify, mend, renew, examine, inspect, search	カイ	あらた.める　あらた.まる	改善 (かいぜん) - betterment<br>改革 (かいかく) - reform<br>改めて (あらためて) - another time
+械	✍11	小4	CONTRAPTION	fetter, machine, instrument	カイ	かせ	機械 (きかい) - machine<br>機械的 (きかいてき) - mechanical<br>機械化 (きかいか) - mechanization
+害	✍10	小4	HARM	injury	ガイ		被害 (ひがい) - damage<br>障害 (しょうがい) - obstacle<br>被害者 (ひがいしゃ) - victim
+街	✍12	小4	BOULEVARD	street, town	ガイ　カイ	まち	商店街 (しょうてんがい) - shopping district<br>市街地 (しがいち) - town area<br>街頭 (がいとう) - in the street
+各	✍6	小4	EACH	every, either	カク	おのおの	各地 (かくち) - every place<br>各国 (かくこく) - each nation<br>各社 (かくしゃ) - all companies
+覚	✍12	小4	MEMORIZE	learn, remember, awake, sober up	カク	おぼ.える　さ.ます　さ.める　さと.る	覚え (おぼえ) - memory<br>感覚 (かんかく) - sense<br>覚悟 (かくご) - resolution
+完	✍7	小4	PERFECT	completion, end	カン		完成 (かんせい) - complete<br>完全 (かんぜん) - perfection<br>完璧 (かんぺき) - perfect
+官	✍8	小4	BUREAUCRAT	the government, organ	カン		次官 (じかん) - vice-minister<br>官僚 (かんりょう) - bureaucrat<br>裁判官 (さいばんかん) - judge
+管	✍14	小4	PIPE	tube, wind instrument, drunken talk, control, jurisdiction	カン	くだ	管理 (かんり) - control<br>選管 (せんかん) - election administration<br>金管 (きんかん) - brass (musical) instrument
+関	✍14	小4	CONNECTION	barrier, gateway, involve, concerning	カン	せき　-ぜき　かか.わる　からくり　かんぬき	関連 (かんれん) - relation<br>関係 (かんけい) - relation<br>関係者 (かんけいしゃ) - authorized people
+観	✍18	小4	OUTLOOK	look, appearance, condition, view	カン	み.る　しめ.す	観光 (かんこう) - sightseeing<br>観測 (かんそく) - observation<br>観光客 (かんこうきゃく) - tourist
+願	✍19	小4	PETITION	request, vow, wish, hope	ガン	ねが.う　-ねがい	お願い (おねがい) - request<br>願い (ねがい) - desire<br>祈願 (きがん) - prayer
+希	✍7	小4	HOPE	beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal	キ　ケ	まれ	希望 (きぼう) - hope<br>希望者 (きぼうしゃ) - applicant<br>希少 (きしょう) - scarce
+季	✍8	小4	SEASONS		キ		今季 (こんき) - this season<br>冬季 (とうき) - winter<br>夏季 (かき) - summer season
+紀	✍9	小4	CHRONICLE	account, narrative, history, annals, geologic period	キ		世紀 (せいき) - century<br>半世紀 (はんせいき) - half century<br>新世紀 (しんせいき) - new century
+喜	✍12	小4	REJOICE	take pleasure in	キ	よろこ.ぶ　よろこ.ばす	喜び (よろこび) - joy<br>喜んで (よろこんで) - with pleasure ...<br>喜ぶ (よろこぶ) - to be delighted
+旗	✍14	小4	NATIONAL FLAG	banner, standard	キ	はた	旗手 (きしゅ) - standard-bearer<br>国旗 (こっき) - national flag<br>優勝旗 (ゆうしょうき) - championship pennant
+器	✍15	小4	UTENSIL	vessel, receptacle, implement, instrument, ability, container, tool, set	キ	うつわ	武器 (ぶき) - weapon<br>核兵器 (かくへいき) - nuclear weapons<br>機器 (きき) - device
+機	✍16	小4	LOOM	mechanism, machine, airplane, opportunity, potency, efficacy, occasion	キ	はた	機能 (きのう) - function<br>機会 (きかい) - chance<br>機構 (きこう) - mechanism
+議	✍20	小4	DELIBERATION	consultation, debate, consideration	ギ		協議 (きょうぎ) - conference<br>議員 (ぎいん) - member of the Diet, congress or parliament<br>会議 (かいぎ) - meeting
+求	✍7	小4	REQUEST	want, wish for, require, demand	キュウ　グ	もと.める	求め (もとめ) - request<br>求める (もとめる) - to want<br>要求 (ようきゅう) - demand
+泣	✍8	小4	CRY	weep, moan	キュウ	な.く	泣き (なき) - weeping<br>泣く (なく) - to cry<br>号泣 (ごうきゅう) - crying aloud
+救	✍11	小4	SALVATION	save, help, rescue, reclaim	キュウ	すく.う	救済 (きゅうさい) - relief<br>救出 (きゅうしゅつ) - rescue<br>救援 (きゅうえん) - relief
+給	✍12	小4	SALARY	wage, gift, allow, grant, bestow on	キュウ	たま.う　たも.う　-たま.え	支給 (しきゅう) - provision<br>給料 (きゅうりょう) - salary<br>給与 (きゅうよ) - pay
+挙	✍10	小4	RAISE	plan, project, behavior, actions	キョ	あ.げる　あ.がる　こぞ.る	選挙 (せんきょ) - election<br>選挙区 (せんきょく) - electoral district<br>挙げた (あげた) - brought up (e.g., topic)
+漁	✍14	小4	FISHING	fishery	ギョ　リョウ	あさ.る	漁船 (ぎょせん) - fishing boat<br>漁協 (ぎょきょう) - fishery cooperative<br>漁業 (ぎょぎょう) - fishing (industry)
+共	✍6	小4	TOGETHER	both, neither, all, and, alike, with	キョウ	とも　とも.に　-ども	共同 (きょうどう) - doing together (as equals)<br>と共に (とともに) - together with<br>共産 (きょうさん) - communism
+協	✍8	小4	CO-	cooperation	キョウ		協力 (きょうりょく) - cooperation<br>協会 (きょうかい) - association<br>協議 (きょうぎ) - conference
+鏡	✍19	小4	MIRROR	speculum, barrel-head, round rice-cake offering	キョウ　ケイ	かがみ	眼鏡 (がんきょう) - spectacles<br>望遠鏡 (ぼうえんきょう) - telescope<br>銅鏡 (どうきょう) - bronze mirror
+競	✍20	小4	EMULATE	compete with, bid, sell at auction, bout, contest, race	キョウ　ケイ	きそ.う　せ.る　くら.べる	競技 (きょうぎ) - game<br>競馬 (くらべうま) - traditional horse-racing<br>競争 (きょうそう) - competition
+極	✍13	小4	POLES	settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48	キョク　ゴク	きわ.める　きわ.まる　きわ.まり　きわ.み　き.める　-ぎ.め　き.まる	積極的 (せっきょくてき) - assertive<br>極めて (きわめて) - exceedingly<br>極端 (きょくたん) - extreme
+訓	✍10	小4	INSTRUCTION	Japanese character reading, explanation, read	クン　キン	おし.える　よ.む　くん.ずる	訓練 (くんれん) - practice<br>教訓 (きょうくん) - lesson<br>訓示 (くんじ) - instruction
+軍	✍9	小4	ARMY	force, troops, war, battle	グン	いくさ	米軍 (べいぐん) - the US armed forces<br>軍事 (ぐんじ) - military affairs<br>二軍 (にぐん) - second string players
+郡	✍10	小4	COUNTY	district	グン	こおり	郡部 (ぐんぶ) - rural districts<br>郡役所 (ぐんやくしょ) - county offices<br>郡長 (ぐんちょう) - district headman
+径	✍8	小4	DIAMETER	path, method	ケイ	みち　こみち　さしわたし　ただちに	直径 (ちょっけい) - diameter<br>半径 (はんけい) - radius<br>口径 (こうけい) - aperture
+型	✍9	小4	MOULD	type, model	ケイ	かた　-がた	新型 (しんがた) - new type<br>大型 (おおがた) - large<br>体型 (たいけい) - figure
+景	✍12	小4	SCENERY	view	ケイ		背景 (はいけい) - background<br>景気 (けいき) - condition<br>風景 (ふうけい) - scenery
+芸	✍7	小4	TECHNIQUE	art, craft, performance, acting, trick, stunt	ゲイ　ウン	う.える　のり　わざ	芸術 (げいじゅつ) - art<br>芸人 (げいにん) - player<br>芸能人 (げいのうじん) - performer
+欠	✍4	小4	LACK	gap, fail, yawning radical (no. 76)	ケツ　ケン	か.ける　か.く	不可欠 (ふかけつ) - indispensable<br>欠席 (けっせき) - absence<br>欠点 (けってん) - fault
+結	✍12	小4	TIE	bind, contract, join, organize, do up hair, fasten	ケツ　ケチ	むす.ぶ　ゆ.う　ゆ.わえる	結婚 (けっこん) - marriage<br>結果 (けっか) - result<br>結局 (けっきょく) - after all
+建	✍9	小4	BUILD		ケン　コン	た.てる　た.て　-だ.て　た.つ	建設 (けんせつ) - construction<br>建物 (たてもの) - building<br>再建 (さいけん) - rebuilding
+健	✍11	小4	HEALTHY	health, strength, persistence	ケン	すこ.やか	健康 (けんこう) - health<br>健全 (けんぜん) - health<br>健闘 (けんとう) - fighting bravely
+験	✍18	小4	VERIFICATION	effect, testing	ケン　ゲン	あかし　しるし　ため.す　ためし	経験 (けいけん) - experience<br>体験 (たいけん) - personal experience<br>試験 (しけん) - examination
+固	✍8	小4	HARDEN	set, clot, curdle	コ	かた.める　かた.まる　かた.まり　かた.い	固め (かため) - hardness<br>固定 (こてい) - fixation<br>固める (かためる) - to harden
+功	✍5	小4	ACHIEVEMENT	merits, success, honor, credit	コウ　ク	いさお	成功 (せいこう) - success<br>功績 (こうせき) - achievements<br>奏功 (そうこう) - success
+好	✍6	小4	FOND	pleasing, like something	コウ	この.む　す.く　よ.い　い.い	好き (すき) - liking<br>大好き (だいすき) - loveable<br>好み (このみ) - liking
+候	✍10	小4	CLIMATE	season, weather, wait for, expect	コウ	そうろう	候補 (こうほ) - candidate<br>立候補 (りっこうほ) - announcing candidacy<br>候補者 (こうほしゃ) - candidate
+航	✍10	小4	NAVIGATE	sail, cruise, fly	コウ		日航 (にっこう) - Japan Airlines<br>航空 (こうくう) - aviation<br>運航 (うんこう) - operating (e.g., ships, aircraft)
+康	✍11	小4	EASE	peace	コウ		健康 (けんこう) - health<br>康平 (こうへい) - Kouhei era (1058.8.29-1065.8.2)<br>健康的 (けんこうてき) - hygienic
+告	✍7	小4	REVELATION	tell, inform, announce	コク	つ.げる	被告 (ひこく) - defendant<br>報告 (ほうこく) - report<br>報告書 (ほうこくしょ) - report
+差	✍10	小4	DISTINCTION	difference, variation, discrepancy, margin, balance	サ	さ.す　さ.し	差し (さし) - between (e.g., two people)<br>格差 (かくさ) - qualitative difference<br>点差 (てんさ) - point spread
+菜	✍11	小4	VEGETABLE	side dish, greens	サイ	な	野菜 (やさい) - vegetable<br>菜の花 (なのはな) - rape blossoms<br>山菜 (さんさい) - edible wild plants
+最	✍12	小4	UTMOST	most, extreme	サイ　シュ	もっと.も　つま	最初 (さいしょ) - beginning<br>最後 (さいご) - last<br>最近 (さいきん) - most recent
+材	✍7	小4	LUMBER	log, timber, wood, materials, ingredients, talent	ザイ		取材 (しゅざい) - news coverage<br>材料 (ざいりょう) - ingredients<br>素材 (そざい) - raw materials
+昨	✍9	小4	YESTERDAY	previous	サク		昨年 (さくねん) - last year<br>昨夏 (さくか) - last summer<br>昨秋 (さくしゅう) - autumn of last year
+札	✍5	小4	TAG	paper money, counter for bonds, placard, bid	サツ	ふだ	札幌 (さっぽろ) - Sapporo (city)<br>入札 (にゅうさつ) - bid<br>落札 (おちふだ) - prize-winning ticket
+刷	✍8	小4	PRINTING	print, brush	サツ	す.る　-ず.り　-ずり　は.く	印刷 (いんさつ) - printing<br>刷新 (さっしん) - reform<br>刷り (すり) - printing
+殺	✍10	小4	KILL	murder, butcher, slice off, split, diminish, reduce, spoil	サツ　サイ　セツ	ころ.す　-ごろ.し　そ.ぐ	殺害 (さつがい) - killing<br>自殺 (じさつ) - suicide<br>殺人 (さつじん) - murder
+察	✍14	小4	GUESS	presume, surmise, judge, understand	サツ		検察 (けんさつ) - examination<br>警察 (けいさつ) - police<br>視察 (しさつ) - inspection
+参	✍8	小4	NONPLUSSED	three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in	サン　シン	まい.る　まい-　まじわる　みつ	参加 (さんか) - participation<br>参院選 (さんいんせん) - House of Councillors election<br>参考 (さんこう) - reference
+産	✍11	小4	PRODUCTS	bear, give birth, yield, childbirth, native, property	サン	う.む　う.まれる　うぶ-　む.す	出産 (しゅっさん) - childbirth<br>生産 (せいさん) - production<br>産業 (さんぎょう) - industry
+散	✍12	小4	SCATTER	disperse, spend, squander	サン	ち.る　ち.らす　-ち.らす　ち.らかす　ち.らかる　ち.らばる　ばら　ばら.ける	解散 (かいさん) - breakup<br>散歩 (さんぽ) - walk<br>分散 (ぶんさん) - dispersion
+残	✍10	小4	REMAINDER	leftover, balance	ザン　サン	のこ.る　のこ.す　そこな.う　のこ.り	残念 (ざんねん) - deplorable<br>残る (のこる) - to remain<br>残り (のこり) - remnant
+士	✍3	小4	GENTLEMAN	samurai, samurai radical (no. 33)	シ	さむらい	同士 (どうし) - fellow<br>弁護士 (べんごし) - lawyer<br>戦士 (せんし) - soldier
+氏	✍4	小4	FAMILY NAME	surname, clan	シ	うじ　-うじ	彼氏 (かれし) - boyfriend<br>氏名 (うじな) - full name<br>藤氏 (とうし) - Fujiwara family
+史	✍5	小4	HISTORY	chronicle	シ		歴史 (れきし) - history<br>史上 (しじょう) - historical<br>歴史的 (れきしてき) - historic
+司	✍5	小4	DIRECTOR	official, govt office, rule, administer	シ	つかさど.る	上司 (じょうし) - superior authorities<br>司会 (しかい) - chairmanship<br>司法 (しほう) - administration of justice
+試	✍13	小4	TEST	try, attempt, experiment, ordeal	シ	こころ.みる　ため.す	試合 (しあい) - match<br>試験 (しけん) - examination<br>入試 (にゅうし) - entrance examination
+児	✍7	小4	NEWBORN BABE	child, young of animals	ジ　ニ　ゲイ	こ　-こ　-っこ	児童 (じどう) - children<br>育児 (いくじ) - childcare<br>幼児 (ようじ) - infant
+治	✍8	小4	REIGN	be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve	ジ　チ	おさ.める　おさ.まる　なお.る　なお.す	政治 (せいじ) - politics<br>治療 (じりょう) - medical treatment<br>自治体 (じちたい) - municipality
+辞	✍13	小4	RESIGN	word, term, expression	ジ	や.める　いな.む	辞任 (じにん) - to resign<br>辞退 (じたい) - declining<br>辞める (やめる) - to resign
+失	✍5	小4	LOSE	error, fault, disadvantage, loss	シツ	うしな.う　う.せる	失敗 (しっぱい) - failure<br>失点 (しってん) - losing points<br>失礼 (しちらい) - discourtesy
+借	✍10	小4	BORROW	rent	シャク	か.りる	借り (かり) - borrowing<br>借金 (しゃっきん) - debt<br>借りる (かりる) - to borrow
+種	✍14	小4	SPECIES	kind, class, variety, seed	シュ	たね　-ぐさ	種類 (しゅるい) - variety<br>接種 (せっしゅ) - inoculation<br>機種 (きしゅ) - type of equipment
+周	✍8	小4	CIRCUMFERENCE	circuit, lap	シュウ	まわ.り	周り (まわり) - circumference<br>周辺 (しゅうへん) - circumference<br>周囲 (しゅうい) - surroundings
+祝	✍9	小4	CELEBRATE	congratulate	シュク　シュウ	いわ.う	お祝い (おいわい) - congratulation<br>祝福 (しゅくふく) - blessing<br>祝う (いわう) - to congratulate
+順	✍12	小4	OBEY	order, turn, right, docility, occasion	ジュン		順位 (じゅんい) - order<br>順調 (じゅんちょう) - favorable<br>順番 (じゅんばん) - turn (in line)
+初	✍7	小4	FIRST TIME	beginning	ショ	はじ.め　はじ.めて　はつ　はつ-　うい-　-そ.める　-ぞ.め	初めて (はじめて) - for the first time<br>最初 (さいしょ) - beginning<br>当初 (とうしょ) - at first
+松	✍8	小4	PINE TREE		ショウ	まつ	浜松 (はままつ) - Hamamatsu (city)<br>松原 (まつばら) - pine grove<br>若松 (わかまつ) - young pine
+笑	✍10	小4	LAUGH		ショウ	わら.う　え.む	笑顔 (えがお) - smiling face<br>笑い (わらい) - laugh<br>苦笑 (くしょう) - bitter smile
+唱	✍11	小4	CHANT	recite, call upon, yell	ショウ	とな.える	合唱 (がっしょう) - chorus<br>提唱 (ていしょう) - advocacy<br>熱唱 (ねっしょう) - singing enthusiastically
+焼	✍12	小4	BAKE	burning	ショウ	や.く　や.き　や.き-　-や.き　や.ける	焼き (やき) - cooking, esp. frying or stir-frying<br>全焼 (ぜんしょう) - burned down<br>焼く (やく) - to burn
+象	✍12	小4	ELEPHANT	pattern after, imitate, image, shape, sign (of the times)	ショウ　ゾウ	かたど.る	対象 (たいしょう) - target<br>印象 (いんしょう) - impression<br>象徴 (しょうちょう) - symbol
+照	✍13	小4	ILLUMINATE	shine, compare, bashful	ショウ	て.る　て.らす　て.れる	照明 (しょうめい) - illumination<br>対照的 (たいしょうてき) - contrastive<br>参照 (さんしょう) - reference
+賞	✍15	小4	PRIZE	reward, praise	ショウ	ほ.める	受賞 (じゅしょう) - winning (a prize)<br>大賞 (たいしょう) - big prize<br>入賞 (にゅうしょう) - winning a prize or place (in a contest)
+臣	✍7	小4	RETAINER	subject	シン　ジン		大臣 (おとど) - minister (of government)<br>家臣 (かしん) - vassal<br>忠臣 (ちゅうしん) - loyal retainer
+信	✍9	小4	FAITH	truth, fidelity, trust	シン		自信 (じしん) - self-confidence<br>配信 (はいしん) - distribution<br>通信 (つうしん) - correspondence
+成	✍6	小4	TURN INTO	become, get, grow, elapse, reach	セイ　ジョウ	な.る　な.す　-な.す	成長 (せいちょう) - growth<br>完成 (かんせい) - complete<br>成功 (せいこう) - success
+省	✍9	小4	FOCUS	government ministry, conserve	セイ　ショウ	かえり.みる　はぶ.く	反省 (はんせい) - reflection<br>外務省 (がいむしょう) - Ministry of Foreign Affairs<br>同省 (どうしょう) - the said ministry
+清	✍11	小4	PURE	purify, cleanse, exorcise, Manchu dynasty	セイ　ショウ　シン	きよ.い　きよ.まる　きよ.める	清水 (きよみず) - spring water<br>清掃 (せいそう) - cleaning<br>清潔 (せいけつ) - clean
+静	✍14	小4	QUIET		セイ　ジョウ	しず-　しず.か　しず.まる　しず.める	静岡 (しずおか) - Shizuoka (city)<br>冷静 (れいせい) - calm<br>静岡県 (しずおかけん) - Shizuoka prefecture (Chuubu area)
+席	✍10	小4	SEAT	mat, occasion, place	セキ	むしろ	出席 (しゅっせき) - attendance<br>議席 (ぎせき) - parliamentary seat<br>打席 (だせき) - batter's box
+積	✍16	小4	VOLUME	product (x*y), acreage, contents, pile up, stack, load, amass	セキ	つ.む　-づ.み　つ.もる　つ.もり	積極的 (せっきょくてき) - assertive<br>面積 (めんせき) - square measure<br>積雪 (せきせつ) - fallen snow
+折	✍7	小4	FOLD	break, fracture, bend, yield, submit	セツ	お.る　おり　お.り　-お.り　お.れる	折り (おり) - opportunity<br>骨折 (こっせつ) - bone fracture<br>時折 (ときおり) - sometimes
+節	✍13	小4	NODE	season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody	セツ　セチ	ふし　-ぶし　のっと	季節 (きせつ) - season<br>節約 (せつやく) - economizing<br>節目 (ふしめ) - turning point
+説	✍14	小4	OPINION	theory, explanation, rumor	セツ　ゼイ	と.く	説明 (せつめい) - explanation<br>小説 (しょうせつ) - novel<br>解説 (かいせつ) - explanation
+浅	✍9	小4	SHALLOW	superficial, frivolous, wretched, shameful	セン	あさ.い	浅い (あさい) - shallow<br>浅見 (せんけん) - shallow view<br>浅はか (あさはか) - shallow
+戦	✍13	小4	WAR	battle, match	セン	いくさ　たたか.う　おのの.く　そよ.ぐ　わなな.く	回戦 (かいせん) - match<br>対戦 (たいせん) - waging war<br>挑戦 (ちょうせん) - challenge
+選	✍15	小4	ELECT	select, choose, prefer	セン	えら.ぶ	選手 (せんしゅ) - player (in game)<br>選挙 (せんきょ) - election<br>当選 (とうせん) - being elected
+然	✍12	小4	SORT OF THING	so, if so, in that case, well	ゼン　ネン	しか　しか.り　しか.し　さ	自然 (しぜん) - nature<br>当然 (とうぜん) - natural<br>突然 (とつぜん) - abrupt
+争	✍6	小4	CONTEND	dispute, argue	ソウ	あらそ.う　いか.でか	戦争 (せんそう) - war<br>競争 (きょうそう) - competition<br>争い (あらそい) - dispute
+倉	✍10	小4	GODOWN	warehouse, storehouse, cellar, treasury	ソウ	くら	倉敷 (くらしき) - storage charges<br>倉庫 (そうこ) - storehouse<br>米倉 (こめぐら) - rice granary
+巣	✍11	小4	NEST	rookery, hive, cobweb, den	ソウ	す　す.くう	卵巣 (らんそう) - ovary<br>古巣 (ふるす) - old haunts<br>巣箱 (すばこ) - nest box
+束	✍7	小4	BUNDLE	sheaf, ream, tie in bundles, govern, manage, control	ソク	たば　たば.ねる　つか　つか.ねる	約束 (やくそく) - promise<br>拘束 (こうそく) - restriction<br>結束 (けっそく) - union
+側	✍11	小4	SIDE	lean, oppose, regret	ソク	かわ　がわ　そば	側から (そばから) - as soon as<br>側面 (そくめん) - side<br>日本側 (にほんがわ) - the Japanese
+続	✍13	小4	CONTINUE	series, sequel	ゾク　ショク　コウ　キョウ	つづ.く　つづ.ける　つぐ.ない	連続 (れんぞく) - serial<br>続く (つづく) - to continue<br>続き (つづき) - sequel
+卒	✍8	小4	GRADUATE	soldier, private, die	ソツ　シュツ	そっ.する　お.える　お.わる　ついに　にわか	卒業 (そつぎょう) - graduation<br>卒業後 (そつぎょうご) - after graduation<br>大学卒 (だいがくそつ) - university graduate
+孫	✍10	小4	GRANDCHILD	descendants	ソン	まご	子孫 (しそん) - descendants<br>孫娘 (まごむすめ) - granddaughter<br>初孫 (ういまご) - first grandchild
+帯	✍10	小4	SASH	belt, obi, zone, region	タイ	お.びる　おび	携帯 (けいたい) - something carried (in the hand)<br>世帯 (しょたい) - household<br>時間帯 (じかんたい) - period of time
+隊	✍12	小4	REGIMENT	party, company, squad	タイ		部隊 (ぶたい) - force<br>自衛隊 (じえいたい) - self-defense force<br>隊員 (たいいん) - troops
+達	✍12	小4	ACCOMPLISHED	reach, arrive, attain	タツ　ダ	-たち	友達 (ともだち) - friend<br>達成 (たっせい) - achievement<br>達し (たっし) - official notice
+単	✍9	小4	SIMPLE	one, single, merely	タン	ひとえ	簡単 (かんたん) - simple<br>単純 (たんじゅん) - simplicity<br>単位 (たんい) - unit
+置	✍13	小4	PLACEMENT	put, set, deposit, leave behind, keep, employ, pawn	チ	お.く　-お.き	設置 (せっち) - establishment<br>措置 (そち) - measure<br>位置 (いち) - place
+仲	✍6	小4	GO-BETWEEN	relationship	チュウ	なか	仲間 (ちゅうげん) - samurai's attendant<br>仲良く (なかよく) - on good terms with<br>仲良し (なかよし) - intimate friend
+貯	✍12	小4	SAVINGS	store, lay in, keep, wear mustache	チョ	た.める　たくわ.える	貯金 (ちょきん) - putting money aside<br>貯蓄 (ちょちく) - savings<br>郵貯 (ゆうちょ) - postal (post-office) savings (deposit)
+兆	✍6	小4	PORTENT	10**12, trillion, sign, omen, symptoms	チョウ	きざ.す　きざ.し	兆し (きざし) - signs<br>兆候 (ちょうこう) - sign<br>吉兆 (きっちょう) - lucky omen
+腸	✍13	小4	INTESTINES	guts, bowels, viscera	チョウ	はらわた　わた	胃腸 (いちょう) - stomach<br>大腸 (おおわた) - large intestine<br>胃腸炎 (いちょうえん) - gastroenteritis
+低	✍7	小4	LOWER	short, humble	テイ	ひく.い　ひく.める　ひく.まる	最低 (さいてい) - least<br>低下 (ていか) - fall<br>低く (ひくく) - lowering
+底	✍8	小4	BOTTOM	sole, depth, bottom price, base, kind, sort	テイ	そこ	徹底 (てってい) - thoroughness<br>徹底的 (てっていてき) - thorough<br>海底 (うなぞこ) - bottom of the ocean
+停	✍11	小4	HALT	stopping	テイ	と.める　と.まる	停止 (ちょうじ) - suspension<br>停滞 (ていたい) - stagnation<br>調停 (ちょうてい) - arbitration
+的	✍8	小4	BULL'S EYE	mark, target, object, adjective ending	テキ	まと	目的 (もくてき) - purpose<br>具体的 (ぐたいてき) - concrete<br>積極的 (せっきょくてき) - assertive
+典	✍8	小4	CODE	ceremony, law, rule	テン　デン		特典 (とくてん) - privilege<br>祭典 (さいてん) - festival<br>式典 (しきてん) - ceremony
+伝	✍6	小4	TRANSMIT	go along, walk along, follow, report, communicate, legend, tradition	デン　テン	つた.わる　つた.える　つた.う　つだ.う　-づた.い　つて	伝え (つたえ) - legend<br>伝統 (でんとう) - tradition<br>駅伝 (えきでん) - long-distance relay race
+徒	✍10	小4	ON FOOT	junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people	ト	いたずら　あだ	生徒 (せいと) - pupil<br>徒歩 (かち) - foot soldier (Edo period)<br>生徒会 (せいとかい) - student council
+努	✍7	小4	TOIL	diligent, as much as possible	ド	つと.める	努力 (どりょく) - great effort<br>努めて (つとめて) - as much as possible<br>努める (つとめる) - to endeavor
+灯	✍6	小4	LAMP	a light, light, counter for lights	トウ	ひ　ほ-　ともしび　とも.す　あかり	点灯 (てんとう) - lighting (a lamp)<br>灯油 (とうゆ) - lamp oil<br>灯台 (とうだい) - lighthouse
+堂	✍11	小4	PUBLIC CHAMBER	hall	ドウ		任天堂 (にんてんどう) - Nintendo (video game company)<br>堂々 (どうどう) - magnificent<br>食堂 (しょくどう) - dining room
+働	✍13	小4	WORK	kokuji	ドウ　リュク　リキ　ロク　リョク	はたら.く	働く (はたらく) - to work<br>働き (はたらき) - work<br>労働 (ろうどう) - manual labor
+特	✍10	小4	SPECIAL		トク		特集 (とくしゅう) - feature (e.g., newspaper)<br>特に (とくに) - particularly<br>特別 (とくべつ) - special
+得	✍11	小4	GAIN	get, find, earn, acquire, can, may, able to, profit, advantage, benefit	トク	え.る　う.る	獲得 (かくとく) - acquisition<br>納得 (なっとく) - consent<br>得点 (とくてん) - score
+毒	✍8	小4	POISON	virus, venom, germ, harm, injury, spite	ドク		食中毒 (しょくちゅうどく) - food poisoning<br>中毒 (ちゅうどく) - poisoning<br>気の毒 (きのどく) - pitiful
+熱	✍15	小4	HEAT	temperature, fever, mania, passion	ネツ	あつ.い	熱中症 (ねっちゅうしょう) - heatstroke<br>熱い (あつい) - hot (thing)<br>熱心 (ねっしん) - zeal
+念	✍8	小4	WISH	sense, idea, thought, feeling, desire, attention	ネン		記念 (きねん) - commemoration<br>残念 (ざんねん) - deplorable<br>懸念 (けねん) - worry
+敗	✍11	小4	FAILURE	defeat, reversal	ハイ	やぶ.れる	失敗 (しっぱい) - failure<br>敗退 (はいたい) - being defeated<br>敗北 (はいぼく) - defeat
+梅	✍10	小4	PLUM		バイ	うめ	青梅 (あおうめ) - unripe plum<br>梅干し (うめぼし) - dried plum<br>梅雨 (つゆ) - rainy season
+博	✍12	小4	DR.	command, esteem, win acclaim, PhD., exposition, fair	ハク　バク		博物館 (はくぶつかん) - museum<br>博士 (はかせ) - doctorate<br>万博 (ばんぱく) - world fair
+飯	✍12	小4	MEAL	boiled rice	ハン	めし	ご飯 (ごはん) - cooked rice<br>夕飯 (ゆうはん) - evening meal<br>炊飯器 (すいはんき) - rice cooker
+飛	✍9	小4	FLY	skip (pages), scatter	ヒ	と.ぶ　と.ばす　-と.ばす	飛び (とび) - flying<br>飛行機 (ひこうき) - airplane<br>飛行場 (ひこうじょう) - airfield
+費	✍12	小4	EXPENSE	cost, spend, consume, waste	ヒ	つい.やす　つい.える	費用 (ひよう) - cost<br>消費者 (しょうひしゃ) - consumer<br>消費 (しょうひ) - consumption
+必	✍5	小4	INVARIABLY	certain, inevitable	ヒツ	かなら.ず	必要 (ひつよう) - necessary<br>必ず (かならず) - always<br>必要性 (ひつようせい) - necessity
+票	✍11	小4	BALLOT	label, ticket, sign	ヒョウ		投票 (とうひょう) - voting<br>投開票 (とうかいひょう) - casting and counting votes<br>投票日 (とうひょうび) - election day
+標	✍15	小4	SIGNPOST	seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target	ヒョウ	しるべ　しるし	目標 (めじるし) - mark<br>標準 (ひょうじゅん) - standard<br>指標 (しひょう) - index
+不	✍4	小4	NEGATIVE	non-, bad, ugly, clumsy	フ　ブ		不安 (ふあん) - anxiety<br>不思議 (ふしぎ) - wonder<br>不満 (ふまん) - dissatisfaction
+夫	✍4	小4	HUSBAND	man	フ　フウ　ブ	おっと　それ	夫婦 (ふうふ) - married couple<br>大丈夫 (だいじょうふ) - great man<br>工夫 (くふう) - scheme
+付	✍5	小4	ADHERE	attach, refer to, append	フ	つ.ける　-つ.ける　-づ.ける　つ.け　つ.け-　-つ.け　-づ.け　-づけ　つ.く　-づ.く　つ.き　-つ.き　-つき　-づ.き　-づき	付き (つき) - furnished with<br>付け (つけ) - bill<br>付近 (ふきん) - neighborhood
+府	✍8	小4	BOROUGH	urban prefecture, govt office, representative body, storehouse	フ		政府 (せいふ) - government<br>大阪府 (おおさかふ) - Osaka prefecture<br>米政府 (べいせいふ) - U.S. government
+副	✍11	小4	VICE-	assistant, aide, duplicate, copy	フク		副作用 (ふくさよう) - reaction<br>副社長 (ふくしゃちょう) - executive vice-president<br>副知事 (ふくちじ) - lieutenant governor
+粉	✍10	小4	FLOUR	powder, dust	フン	デシメートル　こ　こな	花粉 (かふん) - pollen<br>小麦粉 (こむぎこ) - wheat flour<br>米粉 (こめこ) - rice flour
+兵	✍7	小4	SOLDIER	private, troops, army, warfare, strategy, tactics	ヘイ　ヒョウ	つわもの	兵庫県 (ひょうごけん) - Hyogo prefecture (Kinki area) (Hyougo)<br>核兵器 (かくへいき) - nuclear weapons<br>兵士 (へいし) - soldier
+別	✍7	小4	SEPARATE	branch off, diverge, fork, another, extra, specially	ベツ	わか.れる　わ.ける	特別 (とくべつ) - special<br>別に (べつに) - particularly<br>別れ (わかれ) - parting
+辺	✍5	小4	ENVIRONS	boundary, border, vicinity	ヘン	あた.り　ほと.り　-べ	周辺 (しゅうへん) - circumference<br>この辺 (このへん) - this area<br>辺り (あたり) - on the bank of
+変	✍9	小4	UNUSUAL	change, strange	ヘン	か.わる　か.わり　か.える	大変 (たいへん) - very<br>変え (かえ) - changing<br>変化 (へんか) - change
+便	✍9	小4	CONVENIENCE	facility, excrement, feces, letter, chance	ベン　ビン	たよ.り	便利 (べんり) - convenient<br>郵便局 (ゆうびんきょく) - post office<br>郵便 (ゆうびん) - mail service
+包	✍5	小4	WRAP	pack up, cover, conceal	ホウ	つつ.む　くる.む	包丁 (ほうちょう) - kitchen knife<br>包み (つつみ) - bundle<br>包装 (ほうそう) - packing
+法	✍8	小4	METHOD	law, rule, principle, model, system	ホウ　ハッ　ホッ　フラン	のり	方法 (ほうほう) - method<br>法人 (ほうじん) - corporate body<br>法案 (ほうあん) - bill (law)
+望	✍11	小4	AMBITION	full moon, hope, desire, aspire to, expect	ボウ　モウ	のぞ.む　もち	希望 (きぼう) - hope<br>要望 (ようぼう) - demand for<br>望む (のぞむ) - to desire
+牧	✍8	小4	BREED	care for, shepherd, feed, pasture	ボク	まき	牧場 (ぼくじょう) - farm (livestock)<br>牧野 (ぼくや) - pasture land<br>牧師 (ぼくし) - pastor
+末	✍5	小4	END	close, tip, powder, posterity	マツ　バツ	すえ	末に (すえに) - finally<br>週末 (しゅうまつ) - weekend<br>年末 (ねんまつ) - end-of-year
+満	✍12	小4	FULL	fullness, enough, satisfy	マン　バン	み.ちる　み.つ　み.たす	不満 (ふまん) - dissatisfaction<br>満足 (まんぞく) - satisfaction<br>未満 (みまん) - less than
+未	✍5	小4	UN-	not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac	ミ　ビ	いま.だ　ま.だ　ひつじ	未来 (みらい) - the future (usually distant)<br>未満 (みまん) - less than<br>未明 (みめい) - early dawn
+脈	✍10	小4	VEIN	pulse, hope	ミャク	すじ	人脈 (じんみゃく) - personal connections<br>文脈 (ぶんみゃく) - context<br>山脈 (さんみゃく) - mountain range
+民	✍5	小4	PEOPLE	nation, subjects	ミン	たみ	民主党 (みんしゅとう) - Democratic party<br>自民党 (じみんとう) - Liberal Democratic Party<br>民主 (みんしゅ) - democracy
+無	✍12	小4	NOTHINGNESS	none, ain't, nothing, nil, not	ム　ブ	な.い	無理 (むり) - unreasonable<br>無料 (むりょう) - free<br>無い (ない) - nonexistent
+約	✍9	小4	PROMISE	approximately, shrink	ヤク	つづ.まる　つづ.める　つづま.やか	契約 (けいやく) - contract<br>約束 (やくそく) - promise<br>予約 (よやく) - reservation
+勇	✍9	小4	COURAGE	cheer up, be in high spirits, bravery, heroism	ユウ	いさ.む	勇気 (ゆうき) - courage<br>勇者 (ゆうしゃ) - hero<br>勇壮 (ゆうそう) - heroic
+要	✍9	小4	NEED	main point, essence, pivot, key to	ヨウ	い.る　かなめ	必要 (ひつよう) - necessary<br>重要 (じゅうよう) - important<br>要素 (ようそ) - component
+養	✍15	小4	FOSTER	bring up, rear, develop, nurture	ヨウ　リョウ	やしな.う	栄養 (えいよう) - nutrition<br>養成 (ようせい) - training<br>栄養士 (えいようし) - nutritionist
+浴	✍10	小4	BATHE	be favored with, bask in	ヨク	あ.びる　あ.びせる	入浴 (にゅうよく) - bathing<br>浴びる (あびる) - to dash over oneself (e.g., water)<br>浴室 (よくしつ) - bathroom
+利	✍7	小4	PROFIT	advantage, benefit	リ	き.く	利用 (りよう) - use<br>勝利 (しょうり) - victory<br>利益 (りえき) - profit
+陸	✍11	小4	LAND	six	リク　ロク	おか	陸上 (りくじょう) - land<br>大陸 (たいりく) - continent<br>着陸 (ちゃくりく) - landing
+良	✍7	小4	GOOD	pleasing, skilled	リョウ	よ.い　-よ.い　い.い　-い.い	良い (よい) - good<br>良く (よく) - nicely<br>良さ (よさ) - merit
+料	✍10	小4	FEE	materials	リョウ		無料 (むりょう) - free<br>料理 (りょうり) - cooking<br>材料 (ざいりょう) - ingredients
+量	✍12	小4	QUANTITY	measure, weight, amount, consider, estimate, surmise	リョウ	はか.る	大量 (たいりょう) - large quantity<br>降水量 (こうすいりょう) - amount of precipitation<br>容量 (ようりょう) - capacity
+輪	✍15	小4	WHEEL	ring, circle, link, loop, counter for wheels and flowers	リン	わ	五輪 (ごりん) - the Olympics<br>指輪 (ゆびわ) - ring<br>三輪 (さんりん) - three wheels
+類	✍18	小4	SORT	kind, variety, class, genus	ルイ	たぐ.い	種類 (しゅるい) - variety<br>書類 (しょるい) - documents<br>人類 (じんるい) - mankind
+令	✍5	小4	ORDERS	ancient laws, command, decree	レイ		命令 (めいれい) - order<br>司令官 (しれいかん) - commandant<br>指令 (しれい) - orders
+冷	✍7	小4	COOL	cold (beer, person), chill	レイ	つめ.たい　ひ.える　ひ.や　ひ.ややか　ひ.やす　ひ.やかす　さ.める　さ.ます	冷たい (つべたい) - cold (to the touch)<br>冷静 (れいせい) - calm<br>冷凍 (れいとう) - freezing
+例	✍8	小4	EXAMPLE	custom, usage, precedent	レイ	たと.える	凡例 (はんれい) - introductory remarks<br>例えば (たとえば) - for example<br>比例 (ひれい) - proportion
+歴	✍14	小4	CURRICULUM	continuation, passage of time	レキ　レッキ		履歴 (りれき) - personal history<br>歴史 (れきし) - history<br>経歴 (けいれき) - personal history
+連	✍10	小4	TAKE ALONG	lead, join, connect, party, gang, clique	レン	つら.なる　つら.ねる　つ.れる　-づ.れ	関連 (かんれん) - relation<br>連続 (れんぞく) - serial<br>連絡 (れんらく) - to contact
+老	✍6	小4	OLD MAN	old age, grow old	ロウ	お.いる　ふ.ける	老後 (ろうご) - old age<br>海老 (えび) - prawn<br>老舗 (しにせ) - old shop
+労	✍7	小4	LABOR	thank for, reward for, toil, trouble	ロウ	ろう.する　いたわ.る　いた.ずき　ねぎら　つか.れる　ねぎら.う	苦労 (くろう) - troubles<br>労働 (ろうどう) - manual labor<br>労働者 (ろうどうしゃ) - employee
+録	✍16	小4	RECORD		ロク	しる.す　と.る	登録 (とうろく) - registration<br>記録 (きろく) - record<br>収録 (しゅうろく) - compilation
+圧	✍5	小5	PRESSURE	push, overwhelm, oppress, dominate	アツ　エン　オウ	お.す　へ.す　おさ.える　お.さえる	圧倒的 (あっとうてき) - overwhelming<br>圧力 (あつりょく) - pressure<br>圧倒 (あっとう) - overwhelm
+移	✍11	小5	SHIFT	move, change, drift, catch (cold, fire), pass into	イ	うつ.る　うつ.す	移動 (いどう) - movement<br>移植 (いしょく) - transplanting<br>移設 (いせつ) - relocation (of a facility)
+因	✍6	小5	CAUSE	factor, be associated with, depend on, be limited to	イン	よ.る　ちな.む	原因 (げんいん) - cause<br>要因 (よういん) - main cause<br>一因 (いちいん) - cause
+永	✍5	小5	ETERNITY	long, lengthy	エイ	なが.い	永遠 (えいえん) - eternity<br>永住 (えいじゅう) - permanent residence<br>永久 (えいきゅう) - eternity
+営	✍12	小5	OCCUPATION	camp, perform, build, conduct (business)	エイ	いとな.む　いとな.み	経営 (けいえい) - management<br>運営 (うんえい) - management<br>営業 (えいぎょう) - business
+衛	✍16	小5	DEFENSE	protection	エイ　エ		防衛 (ぼうえい) - defense<br>自衛隊 (じえいたい) - self-defense force<br>防衛相 (ぼうえいしょう) - Minister of Defense
+易	✍8	小5	EASY	ready to, simple, fortune-telling, divination	エキ　イ	やさ.しい　やす.い	難易度 (なんいど) - degree of difficulty<br>貿易 (ぼうえき) - trade (foreign)<br>容易 (ようい) - easy
+益	✍10	小5	BENEFIT	gain, profit, advantage	エキ　ヤク	ま.す	利益 (りえき) - profit<br>収益 (しゅうえき) - earnings<br>損益 (そんえき) - profit and loss
+液	✍11	小5	FLUID	liquid, juice, sap, secretion	エキ		液晶 (えきしょう) - liquid crystal<br>血液 (けつえき) - blood<br>液体 (えきたい) - liquid
+演	✍14	小5	PERFORMANCE	act, play, render, stage	エン		出演 (しゅつえん) - performance<br>主演 (しゅえん) - starring<br>演出 (えんしゅつ) - production (e.g., play)
+応	✍7	小5	APPLY	answer, yes, OK, reply, accept	オウ　ヨウ　-ノウ	あた.る　まさに　こた.える	対応 (たいおう) - interaction<br>応援 (おうえん) - aid<br>応募 (おうぼ) - application
+往	✍8	小5	JOURNEY	travel, chase away, let go, going, before, formerly	オウ	い.く　いにしえ　さき.に　ゆ.く	往復 (おうふく) - making a round trip<br>往路 (おうろ) - outward journey<br>往年 (おうねん) - former
+桜	✍10	小5	CHERRY		オウ　ヨウ	さくら	桜花 (おうか) - cherry blossom<br>芝桜 (しばざくら) - moss phlox (Phlox subulata)<br>山桜 (やまざくら) - mountain cherry (Cerasus jamasakura)
+恩	✍10	小5	GRACE	kindness, goodness, favor, mercy, blessing, benefit	オン		恩返し (おんがえし) - requital of a favour (favor)<br>恩恵 (おんけい) - grace<br>恩師 (おんし) - teacher
+可	✍5	小5	CAN	passable, mustn't, should not, do not	カ　コク	-べ.き　-べ.し	可能性 (かのうせい) - potentiality<br>可能 (かのう) - potential<br>可愛い (かわいい) - cute
+仮	✍6	小5	SHAM	temporary, interim, assumed (name), informal	カ　ケ	かり　かり-	仮面 (かめん) - mask<br>仮に (かりに) - temporarily<br>仮設 (かせつ) - temporary
+価	✍8	小5	VALUE	price	カ　ケ	あたい	価格 (かかく) - price<br>評価 (ひょうか) - valuation<br>価値 (かち) - value
+河	✍8	小5	RIVER		カ	かわ	銀河 (ぎんが) - Milky Way<br>河内 (はのい) - Hanoi<br>河原 (かわら) - dry river bed
+過	✍12	小5	OVERDO	exceed, go beyond, error	カ	す.ぎる　-す.ぎる　-す.ぎ　す.ごす　あやま.つ　あやま.ち　よ.ぎる	過去 (かこ) - the past<br>過ぎ (すぎ) - past<br>経過 (けいか) - passage
+賀	✍12	小5	CONGRATULATIONS	joy	ガ		年賀状 (ねんがじょう) - New Year's card<br>滋賀県 (しがけん) - Shiga prefecture (Kinki area)<br>佐賀県 (さがけん) - Saga prefecture (Kyushu)
+快	✍7	小5	CHEERFUL	pleasant, agreeable, comfortable	カイ	こころよ.い	爽快 (そうかい) - refreshing<br>快適 (かいてき) - pleasant<br>不快 (ふかい) - unpleasant
+解	✍13	小5	UNRAVEL	notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute	カイ　ゲ	と.く　と.かす　と.ける　ほど.く　ほど.ける　わか.る　さと.る	理解 (りかい) - understanding<br>解除 (かいじょ) - cancellation<br>解決 (かいけつ) - settlement
+格	✍10	小5	STATUS	rank, capacity, character, case (law, grammar)	カク　コウ　キャク　ゴウ		価格 (かかく) - price<br>資格 (しかく) - qualifications<br>性格 (せいかく) - character
+確	✍15	小5	ASSURANCE	firm, tight, hard, solid, confirm, clear, evident	カク　コウ	たし.か　たし.かめる	確認 (かくにん) - confirmation<br>確かに (たしかに) - surely<br>確保 (かくほ) - guarantee
+額	✍18	小5	FOREHEAD	tablet, plaque, framed picture, sum, amount, volume	ガク	ひたい	金額 (きんがく) - amount of money<br>総額 (そうがく) - sum total<br>月額 (げつがく) - monthly amount (sum)
+刊	✍5	小5	PUBLISH	carve, engrave	カン		朝刊 (ちょうかん) - morning newspaper<br>夕刊 (ゆうかん) - evening paper<br>週刊 (しゅうかん) - published weekly
+幹	✍13	小5	TREE TRUNK		カン	みき	幹事長 (かんじちょう) - chief secretary (usu. of a party)<br>幹部 (かんぶ) - management<br>新幹線 (しんかんせん) - Shinkansen
+慣	✍14	小5	ACCUSTOMED	get used to, become experienced	カン	な.れる　な.らす	慣れ (なれ) - practice<br>習慣 (しゅうかん) - habit<br>慣れる (なれる) - to get used to
+眼	✍11	小5	EYEBALL		ガン　ゲン	まなこ　め	眼鏡 (がんきょう) - spectacles<br>眼科 (がんか) - ophthalmology<br>眼下 (がんか) - under one's eyes
+基	✍11	小5	FUNDAMENTALS	radical (chem), counter for machines, foundation	キ	もと　もとい	基準 (きじゅん) - standard<br>基本 (きほん) - foundation<br>基礎 (きそ) - foundation
+寄	✍11	小5	DRAW NEAR	stop in, bring near, gather, collect, send, forward	キ	よ.る　-よ.り　よ.せる	寄せ (よせ) - last moves (in go, shogi, or chess)<br>寄付 (きふ) - contribution<br>年寄り (としより) - old people
+規	✍11	小5	STANDARD	measure	キ		規制 (きせい) - regulation<br>規模 (きぼ) - scale<br>大規模 (だいきぼ) - large-scale
+技	✍7	小5	SKILL	art, craft, ability, feat, performance, vocation, arts	ギ	わざ	技術 (ぎじゅつ) - art<br>競技 (きょうぎ) - game<br>演技 (えんぎ) - acting
+義	✍13	小5	RIGHTEOUSNESS	justice, morality, honor, loyalty, meaning	ギ		義務 (ぎむ) - duty<br>義母 (ぎぼ) - mother-in-law<br>義父 (ぎふ) - father-in-law
+逆	✍9	小5	INVERTED	reverse, opposite, wicked	ギャク　ゲキ	さか　さか.さ　さか.らう	逆に (ぎゃくに) - conversely<br>逆転 (ぎゃくてん) - change<br>逆風 (ぎゃくふう) - headwind
+久	✍3	小5	LONG TIME	old story	キュウ　ク	ひさ.しい	久々 (ひさびさ) - long time<br>長久 (ちょうきゅう) - permanence<br>永久 (えいきゅう) - eternity
+旧	✍5	小5	OLD TIMES	old things, old friend, former, ex-	キュウ	ふる.い　もと	新旧 (しんきゅう) - new and old<br>復旧 (ふくきゅう) - restoration<br>旧ソ連 (きゅうソれん) - former Soviet Union
+居	✍8	小5	RESIDE	to be, exist, live with	キョ　コ	い.る　-い　お.る	同居 (どうきょ) - coexistence<br>居る (いる) - to be (of animate objects)<br>入居 (にゅうきょ) - moving into (house)
+許	✍11	小5	PERMIT	approve	キョ	ゆる.す　もと	許し (ばかし) - approximately<br>許可 (きょか) - permission<br>免許 (めんきょ) - license
+境	✍14	小5	BOUNDARY	border, region	キョウ　ケイ	さかい	環境 (かんきょう) - environment<br>環境省 (かんきょうしょう) - Ministry of the Environment<br>境内 (けいだい) - grounds (esp. of shrines and temples)
+均	✍7	小5	LEVEL	average	キン	なら.す	平均 (へいきん) - average<br>均衡 (きんこう) - equilibrium<br>平均的 (へいきんてき) - average
+禁	✍13	小5	PROHIBITION	ban, forbid	キン		禁止 (きんし) - prohibition<br>禁物 (きんもつ) - taboo<br>禁煙 (きんえん) - abstaining from smoking
+句	✍5	小5	PHRASE	clause, sentence, passage, paragraph, counter for haiku	ク		文句 (もんく) - complaint<br>俳句 (はいく) - haiku<br>挙句 (あげく) - in the end (after a long process)
+群	✍13	小5	FLOCK	group, crowd, herd, swarm, cluster	グン	む.れる　む.れ　むら　むら.がる	群馬県 (ぐんまけん) - Gunma prefecture (Kanto area)<br>抜群 (ばつぐん) - preeminence<br>群れ (むれ) - group
+経	✍11	小5	SUTRA	longitude, pass thru, expire, warp	ケイ　キョウ	へ.る　た.つ　たていと　はか.る　のり	経験 (けいけん) - experience<br>経済 (けいざい) - economics<br>経営 (けいえい) - management
+潔	✍15	小5	UNDEFILED	pure, clean, righteous, gallant	ケツ	いさぎよ.い	清潔 (せいけつ) - clean<br>潔白 (けっぱく) - innocence (i.e., not guilty)<br>簡潔 (かんけつ) - brevity
+件	✍6	小5	AFFAIR	case, matter, item	ケン	くだん	事件 (じけん) - event<br>条件 (じょうけん) - condition<br>要件 (ようけん) - important matter
+券	✍8	小5	TICKET		ケン		証券 (しょうけん) - securities<br>債券 (さいけん) - bond<br>馬券 (ばけん) - betting ticket
+険	✍11	小5	PRECIPITOUS	inaccessible place, impregnable position, steep place, sharp eyes	ケン	けわ.しい	危険 (きけん) - danger<br>保険 (ほけん) - insurance<br>冒険 (ぼうけん) - risk
+検	✍12	小5	EXAMINATION	investigate	ケン	しら.べる	検討 (けんとう) - consideration<br>検査 (けんさ) - inspection (e.g., customs, factory)<br>検察 (けんさつ) - examination
+限	✍9	小5	LIMIT	restrict, to best of ability	ゲン	かぎ.る　かぎ.り　-かぎ.り	限り (かぎり) - limit<br>限定 (げんてい) - limit<br>制限 (せいげん) - restriction
+現	✍11	小5	PRESENT	existing, actual	ゲン	あらわ.れる　あらわ.す　うつつ　うつ.つ	現在 (げんざい) - now<br>表現 (ひょうげん) - expression<br>実現 (じつげん) - implementation (e.g., of a system)
+減	✍12	小5	DWINDLE	decrease, reduce, decline, curtail, get hungry	ゲン	へ.る　へ.らす	削減 (さくげん) - cut<br>減少 (げんしょう) - decrease<br>減り (へり) - decrease
+故	✍9	小5	HAPPENSTANCE	especially, intentionally, reason, cause, circumstances, the late, therefore, consequently	コ	ゆえ　ふる.い　もと	事故 (ことゆえ) - accident<br>何故 (なぜ) - why<br>故障 (こしょう) - breakdown
+個	✍10	小5	INDIVIDUAL	counter for articles	コ　カ		個人 (こじん) - individual<br>個人的 (こじんてき) - personal<br>個性 (こせい) - individuality
+護	✍20	小5	SAFEGUARD	protect	ゴ	まも.る	介護 (かいご) - nursing<br>弁護士 (べんごし) - lawyer<br>保護者 (ほごしゃ) - guardian
+効	✍8	小5	MERIT	efficacy, efficiency, benefit	コウ	き.く　ききめ　なら.う	効果 (こうか) - effect<br>有効 (ゆうこう) - validity<br>時効 (じこう) - statute of limitations
+厚	✍9	小5	THICK	heavy, rich, kind, cordial, brazen, shameless	コウ	あつ.い　あか	厚労省 (こうろうしょう) - Ministry of Health, Labour and Welfare<br>濃厚 (のうこう) - rich (in flavor, color, smell, etc.)<br>厚い (あつい) - thick
+耕	✍10	小5	TILL	plow, cultivate	コウ	たがや.す	耕作 (こうさく) - cultivation<br>農耕 (のうこう) - farming<br>休耕 (きゅうこう) - lying fallow
+鉱	✍13	小5	MINERAL	ore	コウ	あらがね	鉱山 (こうざん) - mine (ore)<br>炭鉱 (たんこう) - coal mine<br>鉱物 (こうぶつ) - mineral
+構	✍14	小5	POSTURE	build, pretend	コウ	かま.える　かま.う	結構 (けっこう) - splendid<br>機構 (きこう) - mechanism<br>構成 (こうせい) - organization
+興	✍16	小5	ENTERTAIN	revive, retrieve, interest, pleasure	コウ　キョウ	おこ.る　おこ.す	興味 (きょうみ) - interest (in something)<br>振興 (しんこう) - promotion<br>復興 (ふっこう) - revival
+講	✍17	小5	LECTURE	club, association	コウ		講師 (こうし) - lecturer<br>講演 (こうえん) - lecture<br>講談 (こうだん) - story-telling
+混	✍11	小5	MIX	blend, confuse	コン	ま.じる　-ま.じり　ま.ざる　ま.ぜる　こ.む	混乱 (こんらん) - disorder<br>混ぜる (まぜる) - to mix<br>混入 (こんにゅう) - mixing
+査	✍9	小5	INVESTIGATE		サ		調査 (ちょうさ) - investigation<br>捜査 (そうさ) - search (esp. in criminal investigations)<br>検査 (けんさ) - inspection (e.g., customs, factory)
+再	✍6	小5	AGAIN	twice, second time	サイ　サ	ふたた.び	再び (ふたたび) - again<br>再生 (さいせい) - resuscitation<br>再開 (さいかい) - reopening
+災	✍7	小5	DISASTER	calamity, woe, curse, evil	サイ	わざわ.い	火災 (かさい) - conflagration<br>防災 (ぼうさい) - disaster prevention<br>災害 (さいがい) - calamity
+妻	✍8	小5	WIFE	spouse	サイ	つま	夫妻 (ふさい) - man and wife<br>前妻 (ぜんさい) - ex-wife<br>元妻 (もとつま) - ex-wife
+採	✍11	小5	PICK	take, fetch, take up	サイ	と.る	採用 (さいよう) - use<br>採択 (さいたく) - adoption<br>採点 (さいてん) - marking
+際	✍14	小5	OCCASION	side, edge, verge, dangerous, adventurous, indecent, time, when	サイ	きわ　-ぎわ	国際 (こくさい) - international<br>実際 (じっさい) - practicality<br>実際に (じっさいに) - virtually
+在	✍6	小5	EXIST	outskirts, suburbs, located in	ザイ	あ.る	現在 (げんざい) - now<br>存在 (そんざい) - existence<br>在住 (ざいじゅう) - residing
+財	✍10	小5	PROPERTY	money, wealth, assets	ザイ　サイ　ゾク	たから	財務 (ざいむ) - financial affairs<br>財政 (ざいせい) - financial affairs<br>財源 (ざいげん) - source of funds
+罪	✍13	小5	GUILT	sin, crime, fault, blame, offense	ザイ	つみ	犯罪 (はんざい) - crime<br>謝罪 (しゃざい) - apology<br>無罪 (むざい) - innocence
+雑	✍14	小5	MISCELLANEOUS		ザツ　ゾウ	まじ.える　まじ.る	雑誌 (ざっし) - journal<br>複雑 (ふくざつ) - complex<br>雑記帳 (ざっきちょう) - notebook
+酸	✍14	小5	ACID	bitterness, sour, tart	サン	す.い	酸素 (さんそ) - oxygen (O)<br>酸味 (さんみ) - sourness<br>酸化 (さんか) - oxidation
+賛	✍15	小5	APPROVE	praise, title or inscription on picture, assist, agree with	サン	たす.ける　たた.える	賛成 (さんせい) - approval<br>絶賛 (ぜっさん) - high praise<br>賛同 (さんどう) - approval
+支	✍4	小5	BRANCH	support, sustain, branch radical (no. 65)	シ	ささ.える　つか.える　か.う	支援 (しえん) - support<br>支持 (しじ) - support<br>支え (ささえ) - support
+志	✍7	小5	INTENTION	plan, resolve, aspire, motive, hopes, shilling	シ	シリング　こころざ.す　こころざし	志向 (しこう) - intention<br>意志 (いし) - will<br>志願 (しがん) - aspiration
+枝	✍8	小5	BOUGH	branch, twig, limb, counter for branches	シ	えだ	枝豆 (えだまめ) - edamame (green soybeans)<br>小枝 (こえだ) - twig<br>枝葉 (えだは) - leaves and branches
+師	✍10	小5	EXPERT	teacher, master, model, exemplar, army (incl. counter), war	シ	いくさ	医師 (いし) - doctor<br>教師 (きょうし) - teacher (classroom)<br>講師 (こうし) - lecturer
+資	✍13	小5	ASSETS	resources, capital, funds, data, be conducive to, contribute to	シ		資金 (しきん) - funds<br>資格 (しかく) - qualifications<br>投資 (とうし) - investment
+飼	✍13	小5	DOMESTICATE	raise, keep, feed	シ	か.う	飼育 (しいく) - breeding<br>飼い主 (かいぬし) - shepherd<br>飼料 (しりょう) - fodder
+示	✍5	小5	SHOW	indicate, point out, express, display	ジ　シ	しめ.す	示し (しめし) - discipline<br>示す (しめす) - to (take out and) show<br>表示 (ひょうじ) - indication
+似	✍7	小5	BECOMING	resemble, counterfeit, imitate, suitable	ジ	に.る　ひ.る	似合う (にあう) - to suit<br>真似 (まね) - imitating<br>に似て (ににて) - similar to
+識	✍19	小5	DISCRIMINATING	know, write	シキ	し.る　しる.す	意識 (いしき) - consciousness<br>認識 (にんしき) - recognition<br>知識 (ちしき) - knowledge
+質	✍15	小5	SUBSTANCE	quality, matter, temperament	シツ　シチ　チ	たち　ただ.す　もと　わりふ	質問 (しつもん) - question<br>体質 (たいしつ) - constitution (physical)<br>品質 (ひんしつ) - quality
+舎	✍8	小5	COTTAGE	inn, hut, house, mansion	シャ　セキ	やど.る	田舎 (いなか) - rural area<br>校舎 (こうしゃ) - school building<br>厩舎 (きゅうしゃ) - barn
+謝	✍17	小5	APOLOGIZE	thank, refuse	シャ	あやま.る	感謝 (かんしゃ) - thanks<br>謝罪 (しゃざい) - apology<br>慰謝料 (いしゃりょう) - consolation money
+授	✍11	小5	IMPART	instruct, grant, confer	ジュ	さず.ける　さず.かる	教授 (きょうじゅ) - professor<br>授業 (じゅぎょう) - lesson<br>准教授 (じゅんきょうじゅ) - associate professor
+修	✍10	小5	DISCIPLINE	conduct oneself well, study, master	シュウ　シュ	おさ.める　おさ.まる	研修 (けんしゅう) - training (esp. in-service)<br>修正 (しゅうせい) - amendment<br>改修 (かいしゅう) - repair
+述	✍8	小5	MENTION	state, speak, relate	ジュツ	の.べる	供述 (きょうじゅつ) - affidavit<br>述べる (のべる) - to state<br>記述 (きじゅつ) - description
+術	✍11	小5	ART	technique, skill, means, trick, resources, magic	ジュツ	すべ	技術 (ぎじゅつ) - art<br>手術 (しゅじゅつ) - operation<br>美術館 (びじゅつかん) - art gallery
+準	✍13	小5	SEMI-	correspond to, proportionate to, conform, imitate	ジュン	じゅん.じる　じゅん.ずる　なぞら.える　のり　ひと.しい　みずもり	準備 (じゅんび) - preparation<br>基準 (きじゅん) - standard<br>準決勝 (じゅんけっしょう) - semifinal
+序	✍7	小5	PREFACE	beginning, order, precedence, occasion, chance, incidentally	ジョ	つい.で　ついで	秩序 (ちつじょ) - order<br>順序 (じゅんじょ) - order<br>序列 (じょれつ) - rank
+招	✍8	小5	BECKON	invite, summon, engage	ショウ	まね.く	招致 (しょうち) - invitation<br>招待 (しょうたい) - invitation<br>招き (まねき) - invitation
+承	✍8	小5	ACQUIESCE	hear, listen to, be informed, receive	ショウ　ジョウ	うけたまわ.る　う.ける　ささ.げる　とど.める　こ.らす　つい.で　すく.う	承認 (しょうにん) - recognition<br>継承 (けいしょう) - inheritance<br>了承 (りょうしょう) - acknowledgment
+証	✍12	小5	EVIDENCE	proof, certificate	ショウ	あかし	証拠 (しょうこ) - evidence<br>検証 (けんしょう) - verification<br>証言 (しょうげん) - evidence
+条	✍7	小5	ARTICLE	clause, item, stripe, streak	ジョウ　チョウ　デキ	えだ　すじ	条件 (じょうけん) - condition<br>条約 (じょうやく) - treaty<br>条例 (じょうれい) - regulations
+状	✍7	小5	STATUS QUO	conditions, circumstances, form, appearance	ジョウ		状況 (じょうきょう) - state of affairs (around you)<br>状態 (じょうたい) - current status<br>現状 (げんじょう) - present condition
+常	✍11	小5	USUAL	ordinary, normal, regular	ジョウ	つね　とこ-	非常に (ひじょうに) - very<br>通常 (つうじょう) - common<br>常に (つねに) - always
+情	✍11	小5	FEELINGS	emotion, passion, sympathy, circumstances, facts	ジョウ　セイ	なさ.け	情報 (じょうほう) - information<br>表情 (ひょうじょう) - facial expression<br>事情 (じじょう) - circumstances
+織	✍18	小5	WEAVE	fabric	ショク　シキ	お.る　お.り　おり　-おり　-お.り	組織 (そしき) - organization<br>織り (おり) - weave<br>組織的 (そしきてき) - systematic
+職	✍18	小5	POST	employment, work	ショク　ソク		職員 (しょくいん) - staff member<br>職場 (しょくば) - one's post<br>就職 (しゅうしょく) - finding employment
+制	✍8	小5	SYSTEM	law, rule	セイ		制度 (せいど) - system<br>制作 (せいさく) - work (film, book)<br>体制 (たいせい) - order
+性	✍8	小5	SEX	gender, nature	セイ　ショウ	さが	女性 (じょせい) - woman<br>男性 (だんせい) - man<br>可能性 (かのうせい) - potentiality
+政	✍9	小5	POLITICS	government	セイ　ショウ	まつりごと　まん	政府 (せいふ) - government<br>政権 (せいけん) - administration<br>政治 (せいじ) - politics
+勢	✍13	小5	FORCES	energy, military strength	セイ　ゼイ	いきお.い　はずみ	姿勢 (しせい) - attitude<br>勢い (いきおい) - force<br>大勢 (おおぜい) - many
+精	✍14	小5	REFINED	ghost, fairy, energy, vitality, semen, excellence, purity, skill	セイ　ショウ　シヤウ		精神的 (せいしんてき) - mental<br>精神 (せいしん) - mind<br>精神科 (せいしんか) - psychiatry
+製	✍14	小5	MADE IN...	manufacture	セイ		製作 (せいさく) - manufacture<br>製品 (せいひん) - manufactured goods<br>製造 (せいぞう) - manufacture
+税	✍12	小5	TAX	duty	ゼイ		税金 (ぜいきん) - tax<br>税込 (ぜいこみ) - tax included (e.g., price)<br>減税 (げんぜい) - tax reduction
+責	✍11	小5	BLAME	condemn, censure	セキ	せ.める	責任 (せきにん) - duty<br>責め (せめ) - persecution<br>無責任 (むせきにん) - irresponsibility
+績	✍17	小5	EXPLOITS	achievements, unreeling cocoons	セキ		成績 (せいせき) - results<br>実績 (じっせき) - achievements<br>業績 (ぎょうせき) - achievement
+接	✍11	小5	TOUCH	contact, adjoin, piece together	セツ　ショウ	つ.ぐ	直接 (ちょくせつ) - direct<br>接種 (せっしゅ) - inoculation<br>面接 (めんせつ) - interview
+設	✍11	小5	ESTABLISHMENT	provision, prepare	セツ	もう.ける	施設 (しせつ) - institution<br>設置 (せっち) - establishment<br>設定 (せってい) - establishment
+舌	✍6	小5	TONGUE	reed, clapper	ゼツ	した	舌鼓 (したつづみ) - smacking one's lips<br>舌戦 (ぜっせん) - war of words<br>毒舌 (どくぜつ) - wicked tongue
+絶	✍12	小5	DISCONTINUE	beyond, sever, cut off, abstain, interrupt, suppress	ゼツ	た.える　た.やす　た.つ	絶対 (ぜったい) - absolutely<br>絶対に (ぜったいに) - absolutely<br>絶賛 (ぜっさん) - high praise
+銭	✍14	小5	COIN	.01 yen, money	セン　ゼン	ぜに　すき	金銭 (きんせん) - money<br>銭湯 (せんとう) - bath-house<br>小銭 (こぜに) - coins
+祖	✍9	小5	ANCESTOR	pioneer, founder	ソ		祖母 (うば) - grandmother<br>祖父 (おおじ) - grandfather<br>祖父母 (そふぼ) - grandparents
+素	✍10	小5	ELEMENTARY	principle, naked, uncovered	ソ　ス	もと	要素 (ようそ) - component<br>素敵 (すてき) - lovely<br>素材 (そざい) - raw materials
+総	✍14	小5	GENERAL	whole, all, full, total	ソウ	す.べて　すべ.て　ふさ	総合 (そうごう) - synthesis<br>総額 (そうがく) - sum total<br>総裁 (そうさい) - president
+造	✍10	小5	CREATE	make, structure, physique	ゾウ	つく.る　つく.り　-づく.り	製造 (せいぞう) - manufacture<br>構造 (こうぞう) - structure<br>製造業 (せいぞうぎょう) - manufacturing industry
+像	✍14	小5	STATUE	picture, image, figure, portrait	ゾウ		映像 (えいぞう) - reflection<br>想像 (そうぞう) - imagination<br>画像 (がぞう) - image
+増	✍14	小5	INCREASE	add, augment, gain, promote	ゾウ	ま.す　ま.し　ふ.える　ふ.やす	増加 (ぞうか) - increase<br>増える (ふえる) - to increase<br>増やし (ふやし) - increase
+則	✍9	小5	RULE	follow, based on, model after	ソク	のっと.る	原則 (げんそく) - principle<br>規則 (きそく) - rules<br>罰則 (ばっそく) - punishment
+測	✍12	小5	FATHOM	plan, scheme, measure	ソク	はか.る	観測 (かんそく) - observation<br>予測 (よそく) - prediction<br>推測 (すいそく) - guess
+属	✍12	小5	BELONG	genus, subordinate official, affiliated	ゾク　ショク	さかん　つく　やから	所属 (しょぞく) - attached to<br>無所属 (むしょぞく) - independent (esp. in politics)<br>属する (しょくする) - to entrust
+率	✍11	小5	RATIO	rate, proportion, %, coefficient, factor	ソツ　リツ　シュツ	ひき.いる	倍率 (ばいりつ) - magnification<br>打率 (だりつ) - batting average<br>比率 (ひりつ) - ratio
+損	✍13	小5	DAMAGE	loss, disadvantage, hurt, injure	ソン	そこ.なう　そこな.う　-そこ.なう　そこ.ねる　-そこ.ねる	損失 (そんしつ) - loss (e.g., assets or profits)<br>損傷 (そんしょう) - damage<br>損害 (そんがい) - damage
+退	✍9	小5	RETREAT	withdraw, retire, resign, repel, expel, reject	タイ	しりぞ.く　しりぞ.ける　ひ.く　の.く　の.ける　ど.く	引退 (いんたい) - retire<br>退職 (たいしょく) - retirement (from office)<br>撤退 (てったい) - evacuation
+貸	✍12	小5	LEND		タイ	か.す　か.し-　かし-	貸し (かし) - loan<br>賃貸 (ちんたい) - lease<br>貸す (かす) - to lend
+態	✍14	小5	ATTITUDE	condition, figure, appearance, voice (of verbs)	タイ	わざ.と	状態 (じょうたい) - current status<br>態度 (たいど) - attitude<br>事態 (じたい) - situation
+団	✍6	小5	GROUP	association	ダン　トン	かたまり　まる.い	団体 (だんたい) - organization<br>球団 (きゅうだん) - baseball team<br>記者団 (きしゃだん) - press group
+断	✍11	小5	SEVERANCE	decline, refuse, apologize, warn, dismiss, prohibit, decision, judgment, cutting	ダン	た.つ　ことわ.る　さだ.める	判断 (はんだん) - judgment<br>診断 (しんだん) - diagnosis<br>決断 (けつだん) - decision
+築	✍16	小5	FABRICATE	build, construct	チク	きず.く	建築 (けんちく) - construction<br>構築 (こうちく) - construction<br>新築 (しんちく) - new building
+張	✍11	小5	LENGTHEN	counter for bows & stringed instruments, stretch, spread, put up (tent)	チョウ	は.る　-は.り　-ば.り	主張 (しゅちょう) - claim<br>頑張り (がんばり) - tenacity<br>緊張 (きんちょう) - tension
+提	✍12	小5	PROPOSE	take along, carry in hand	テイ　チョウ　ダイ	さ.げる	提供 (ていきょう) - offer<br>提案 (ていあん) - proposal<br>提出 (ていしゅつ) - to present
+程	✍12	小5	EXTENT	degree, law, formula, distance, limits, amount	テイ	ほど　-ほど	程度 (ていど) - degree<br>日程 (にってい) - schedule<br>過程 (かてい) - process
+適	✍14	小5	SUITABLE	occasional, rare, qualified, capable	テキ	かな.う	適用 (てきよう) - applying (e.g., a technology)<br>適時打 (てきじだ) - timely hit<br>適切 (てきせつ) - pertinent
+敵	✍15	小5	ENEMY	foe, opponent	テキ	かたき　あだ　かな.う	素敵 (すてき) - lovely<br>大敵 (たいてき) - great rival<br>敵失 (てきしつ) - error made by the enemy or opposing team
+統	✍12	小5	OVERALL	relationship, ruling, governing	トウ	す.べる　ほび.る	大統領 (だいとうりょう) - president<br>伝統 (でんとう) - tradition<br>統一 (とういつ) - unity
+銅	✍14	小5	COPPER		ドウ	あかがね	銅像 (どうぞう) - bronze statue<br>銅鏡 (どうきょう) - bronze mirror<br>銅山 (どうざん) - copper mine
+導	✍15	小5	GUIDANCE	leading, conduct, usher	ドウ	みちび.く	指導 (しどう) - leadership<br>導入 (どうにゅう) - introduction<br>指導者 (しどうしゃ) - leader
+徳	✍14	小5	BENEVOLENCE	virtue, goodness, commanding respect	トク		報徳 (ほうとく) - moral requital<br>明徳 (めいとく) - virtue<br>徳島県 (とくしまけん) - Tokushima prefecture (Shikoku)
+独	✍9	小5	SINGLE	alone, spontaneously, Germany	ドク　トク	ひと.り	独自 (どくじ) - original<br>独身 (どくしん) - bachelorhood<br>独立 (どくりつ) - independence (e.g., Independence Day)
+任	✍6	小5	RESPONSIBILITY	duty, term, entrust to, appoint	ニン	まか.せる　まか.す	責任 (せきにん) - duty<br>就任 (しゅうにん) - inauguration<br>辞任 (じにん) - to resign
+燃	✍16	小5	BURN	blaze, glow	ネン	も.える　も.やす　も.す	燃料 (ねんりょう) - fuel<br>燃費 (ねんぴ) - fuel consumption<br>燃える (もえる) - to burn
+能	✍10	小5	ABILITY	talent, skill, capacity	ノウ	よ.く	可能性 (かのうせい) - potentiality<br>可能 (かのう) - potential<br>機能 (きのう) - function
+破	✍10	小5	REND	rip, tear, break, destroy, defeat, frustrate	ハ	やぶ.る　やぶ.れる　わ.れる	突破 (とっぱ) - breaking through<br>破壊 (はかい) - destruction<br>破る (やぶる) - to tear
+犯	✍5	小5	CRIME	sin, offense	ハン　ボン	おか.す	犯罪 (はんざい) - crime<br>犯人 (はんにん) - offender<br>犯行 (はんこう) - crime
+判	✍7	小5	JUDGMENT	signature, stamp, seal	ハン　バン	わか.る	判断 (はんだん) - judgment<br>批判 (ひはん) - criticism<br>裁判員 (さいばんいん) - lay judge (2005 reforms)
+版	✍8	小5	PRINTING BLOCK	printing plate, edition, impression, label	ハン		地方版 (ちほうばん) - local edition<br>出版 (しゅっぱん) - publication<br>限定版 (げんていばん) - limited edition
+比	✍4	小5	COMPARE	race, ratio, Philippines	ヒ	くら.べる	比例 (ひれい) - proportion<br>に比べ (にくらべ) - compared to<br>比較 (ひかく) - comparison
+肥	✍8	小5	FERTILIZER	get fat, fertile, manure, pamper	ヒ	こ.える　こえ　こ.やす　こ.やし　ふと.る	肥満 (ひまん) - corpulence<br>肥料 (ひりょう) - manure<br>堆肥 (たいひ) - compost
+非	✍8	小5	UN-	mistake, negative, injustice, non-	ヒ	あら.ず	非常に (ひじょうに) - very<br>是非 (ぜひ) - certainly<br>非難 (ひなん) - criticism
+備	✍12	小5	EQUIP	provision, preparation	ビ	そな.える　そな.わる　つぶさ.に	備考 (びこう) - note<br>準備 (じゅんび) - preparation<br>整備 (せいび) - maintenance
+俵	✍10	小5	BAG	bale, sack, counter for bags	ヒョウ	たわら	土俵 (どひょう) - arena, esp. in sumo<br>初土俵 (はつどひょう) - first tournament for a wrestler<br>土俵際 (どひょうぎわ) - edge of the ring
+評	✍12	小5	EVALUATE	criticism, comment	ヒョウ		評価 (ひょうか) - valuation<br>好評 (こうひょう) - popularity<br>評判 (ひょうばん) - fame
+貧	✍11	小5	POVERTY	poor	ヒン　ビン	まず.しい	貧困 (ひんこん) - poor<br>貧乏 (びんぼう) - poverty<br>貧しい (まずしい) - poor
+布	✍5	小5	LINEN	cloth, spread, distribute	フ	ぬの	配布 (はいふ) - distribution<br>財布 (さいふ) - purse<br>昆布 (こぶ) - kombu (usu. Saccharina japonica) (ain:)
+婦	✍11	小5	LADY	woman, wife, bride	フ	よめ	夫婦 (ふうふ) - married couple<br>主婦 (しゅふ) - housewife<br>妊婦 (にんぷ) - pregnant woman
+富	✍12	小5	WEALTH	enrich, abundant	フ　フウ	と.む　とみ	豊富 (ほうふ) - abundance<br>富士山 (ふじさん) - Mount Fuji<br>富山県 (とやまけん) - Toyama prefecture (Hokuriku area)
+武	✍8	小5	WARRIOR	military, chivalry, arms	ブ　ム	たけ　たけ.し	武器 (ぶき) - weapon<br>武将 (ぶしょう) - military commander<br>武道 (ぶどう) - martial arts
+復	✍12	小5	RESTORE	return to, revert, resume	フク	また	復活 (ふっかつ) - revival (e.g., musical)<br>回復 (かいふく) - restoration<br>復帰 (ふっき) - return
+複	✍14	小5	DUPLICATE	double, compound, multiple	フク		複数 (ふくすう) - several<br>複雑 (ふくざつ) - complex<br>重複 (じゅうふく) - duplication
+仏	✍4	小5	BUDDHA	the dead, France	ブツ　フツ	ほとけ	仏像 (ぶつぞう) - statue of Buddha<br>仏教 (ぶっきょう) - Buddhism<br>仏壇 (ぶつだん) - Buddhist (household) altar
+編	✍15	小5	COMPILATION	knit, plait, braid, twist, editing, completed poem, part of a book	ヘン	あ.む　-あ.み	続編 (ぞくへん) - continuation<br>編集 (へんしゅう) - editing<br>編集部 (へんしゅうぶ) - editorial department
+弁	✍5	小5	VALVE	petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap	ベン　ヘン	かんむり　わきま.える　わ.ける　はなびら　あらそ.う	弁護士 (べんごし) - lawyer<br>弁護 (べんご) - defense<br>弁当 (べんとう) - bento
+保	✍9	小5	PROTECT	guarantee, keep, preserve, sustain, support	ホ　ホウ	たも.つ	確保 (かくほ) - guarantee<br>保育園 (ほいくえん) - nursery school<br>保護者 (ほごしゃ) - guardian
+墓	✍13	小5	GRAVE	tomb	ボ	はか	墓地 (はかち) - cemetery<br>墓参り (はかまいり) - visit to a grave<br>墓場 (はかば) - graveyard
+報	✍12	小5	REPORT	news, reward, retribution	ホウ	むく.いる	情報 (じょうほう) - information<br>注意報 (ちゅういほう) - warning (e.g., for a storm)<br>報告 (ほうこく) - report
+豊	✍13	小5	BOUNTIFUL	excellent, rich	ホウ　ブ	ゆた.か　とよ	豊か (ゆたか) - abundant<br>豊富 (ほうふ) - abundance<br>豊作 (ほうさく) - abundant harvest
+防	✍7	小5	WARD OFF	defend, protect, resist	ボウ	ふせ.ぐ	防止 (ぼうし) - prevention<br>防災 (ぼうさい) - disaster prevention<br>防衛 (ぼうえい) - defense
+貿	✍12	小5	TRADE	exchange	ボウ		貿易 (ぼうえき) - trade (foreign)<br>貿易商 (ぼうえきしょう) - trader<br>貿易業 (ぼうえきぎょう) - trading business
+暴	✍15	小5	OUTBURST	rave, fret, force, violence, cruelty, outrage	ボウ　バク	あば.く　あば.れる	暴力 (ぼうりょく) - violence<br>暴行 (ぼうこう) - assault<br>暴力団 (ぼうりょくだん) - gangster organization (organisation)
+務	✍11	小5	TASK	duties	ム	つと.める	事務所 (じむしょ) - office<br>務め (つとめ) - service<br>業務 (ぎょうむ) - business
+夢	✍13	小5	DREAM	vision, illusion	ム　ボウ	ゆめ　ゆめ.みる　くら.い	夢中 (むちゅう) - daze<br>夢見 (ゆめみ) - having a dream<br>夢見る (ゆめみる) - to dream (of)
+迷	✍9	小5	ASTRAY	be perplexed, in doubt, lost, err, illusion	メイ	まよ.う	迷惑 (べいこく) - trouble<br>低迷 (ていめい) - hanging low (over)<br>迷い (まよい) - hesitation
+綿	✍14	小5	COTTON		メン	わた	石綿 (いしわた) - asbestos<br>綿密 (めんみつ) - minute<br>木綿 (きわた) - cotton (material)
+輸	✍16	小5	TRANSPORT	send, be inferior	ユ　シュ		輸入 (しゅにゅう) - importation<br>輸出 (しゅしゅつ) - export<br>輸送 (ゆそう) - transport
+余	✍7	小5	TOO MUCH	myself, surplus, other, remainder	ヨ	あま.る　あま.り　あま.す　あんま.り	余裕 (よゆう) - surplus<br>余計 (よけい) - too many<br>余り (あまり) - remainder
+預	✍13	小5	DEPOSIT	custody, leave with, entrust to	ヨ	あず.ける　あず.かる	預け (あずけ) - custody<br>預金 (よきん) - deposit<br>預ける (あずける) - to give into custody
+容	✍10	小5	CONTAIN	form, looks	ヨウ	い.れる	内容 (ないよう) - subject<br>容疑者 (ようぎしゃ) - suspect (person)<br>容疑 (ようぎ) - suspicion
+略	✍11	小5	ABBREVIATION	omission, outline, shorten, capture, plunder	リャク	ほぼ　はぶ.く　おか.す　おさ.める　はかりごと　はか.る	戦略 (せんりゃく) - strategy<br>攻略 (こうりゃく) - capture<br>敬称略 (けいしょうりゃく) - titles omitted
+留	✍10	小5	DETAIN	fasten, halt, stop	リュウ　ル	と.める　と.まる　とど.める　とど.まる　るうぶる	留学 (りゅうがく) - studying abroad (usu. at university level)<br>駐留 (ちゅうりゅう) - stationing (e.g., of troops)<br>留学生 (りゅうがくせい) - overseas student
+領	✍14	小5	JURISDICTION	dominion, territory, fief, reign	リョウ	えり	大統領 (だいとうりょう) - president<br>領域 (りょういき) - area<br>要領 (ようりょう) - point
+異	✍11	小6	UNCOMMON	different, queerness, strangeness, wonderful, curious, unusual	イ	こと　こと.なる　け	異なる (ことなる) - to differ<br>異常 (いじょう) - strangeness<br>異例 (いれい) - exception
+遺	✍15	小6	BEQUEATH	leave behind, reserve	イ　ユイ	のこ.す	遺体 (いたい) - corpse<br>遺族 (いぞく) - bereaved family<br>遺伝子 (いでんし) - gene
+域	✍11	小6	RANGE	region, limits, stage, level	イキ		地域 (ちいき) - area<br>区域 (くいき) - limits<br>広域 (こういき) - wide area
+宇	✍6	小6	EAVES	roof, house, heaven	ウ		宇宙 (うちゅう) - universe<br>宇宙人 (うちゅうじん) - space alien<br>宇宙船 (うちゅうせん) - space ship
+映	✍9	小6	REFLECT	reflection, projection	エイ	うつ.る　うつ.す　は.える　-ば.え	映画 (えいが) - movie<br>映像 (えいぞう) - reflection<br>上映 (じょうえい) - screening (a movie)
+延	✍8	小6	PROLONG	stretching	エン	の.びる　の.べる　の.べ　の.ばす	延長 (えんちょう) - extension<br>延べ (のべ) - futures<br>延期 (えんき) - postponement
+沿	✍8	小6	RUN ALONGSIDE	follow along, run along, lie along	エン	そ.う　-ぞ.い	沿岸 (えんがん) - coast<br>沿い (ぞい) - along<br>沿線 (えんせん) - along railway line
+我	✍7	小6	EGO	I, selfish, our, oneself	ガ	われ　わ　わ.が-　わが-	我々 (われわれ) - we<br>我慢 (がまん) - patience<br>我が家 (わがいえ) - one's house
+灰	✍6	小6	ASHES	puckery juice, cremate	カイ	はい	灰色 (はいいろ) - grey<br>降灰 (こうかい) - volcanic ash<br>灰皿 (はいざら) - ashtray
+拡	✍8	小6	BROADEN	extend, expand, enlarge	カク　コウ	ひろ.がる　ひろ.げる　ひろ.める	拡大 (かくだい) - magnification<br>拡充 (かくじゅう) - expansion<br>拡散 (かくさん) - scattering
+革	✍9	小6	LEATHER	skin, reform, become serious	カク	かわ	改革 (かいかく) - reform<br>革命 (かくめい) - revolution<br>変革 (へんかく) - change
+閣	✍14	小6	TOWER	tall building, palace	カク		内閣 (ないかく) - cabinet<br>閣僚 (かくりょう) - cabinet ministers<br>閣議 (かくぎ) - cabinet meeting
+割	✍12	小6	PROPORTION	comparatively, divide, cut, separate, split	カツ	わ.る　わり　わ.り　わ.れる　さ.く	役割 (やくわり) - part<br>割合 (わりあい) - rate<br>割り (わり) - rate
+株	✍10	小6	STOCKS	stump, shares, stock, counter for small plants	シュ	かぶ	株式 (かぶしき) - stock (company)<br>株価 (かぶか) - stock prices<br>株主 (かぶぬし) - shareholder
+干	✍3	小6	DRY	parch, ebb, recede, interfere, intercede	カン	ほ.す　ほ.し-　-ぼ.し　ひ.る	干す (ほす) - to air<br>若干 (じゃっかん) - some<br>干し (ほし) - drying
+巻	✍9	小6	SCROLL	volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)	カン　ケン	ま.く　まき　ま.き	巻き (まき) - roll (e.g., of cloth)<br>圧巻 (あっかん) - highlight<br>絵巻 (えまき) - picture scroll
+看	✍9	小6	WATCH OVER	see	カン	み.る	看護師 (かんごし) - nurse<br>看板 (かんばん) - signboard<br>看護 (かんご) - nursing
+簡	✍18	小6	SIMPLICITY	brevity	カン　ケン	えら.ぶ　ふだ	簡単 (かんたん) - simple<br>簡易 (かんい) - simplicity<br>書簡 (しょかん) - letter
+危	✍6	小6	DANGEROUS	fear, uneasy	キ	あぶ.ない　あや.うい　あや.ぶむ	危険 (きけん) - danger<br>危機 (きき) - crisis<br>危機感 (ききかん) - sense of impending crisis
+机	✍6	小6	DESK	table	キ	つくえ	机上 (きじょう) - on the desk<br>勉強机 (べんきょうづくえ) - desk<br>学習机 (がくしゅうづくえ) - writing desk
+揮	✍12	小6	BRANDISH	wave, wag, swing, shake	キ	ふる.う	発揮 (はっき) - exhibition<br>指揮 (しき) - command<br>指揮官 (しきかん) - commander
+貴	✍12	小6	PRECIOUS	value, prize, esteem, honor	キ	たっと.い　とうと.い　たっと.ぶ　とうと.ぶ	貴重 (きちょう) - precious<br>貴族 (きぞく) - noble<br>貴金属 (ききんぞく) - precious metal
+疑	✍14	小6	DOUBT	distrust, be suspicious, question	ギ	うたが.う	容疑者 (ようぎしゃ) - suspect (person)<br>容疑 (ようぎ) - suspicion<br>疑問 (ぎもん) - question
+吸	✍6	小6	SUCK	imbibe, inhale, sip	キュウ	す.う	吸収 (きゅうしゅう) - absorption<br>呼吸 (こきゅう) - breath<br>吸う (すう) - to smoke
+供	✍8	小6	SUBMIT	offer, present, serve (meal), accompany	キョウ　ク　クウ　グ	そな.える　とも　-ども	子供 (こども) - child<br>提供 (ていきょう) - offer<br>供述 (きょうじゅつ) - affidavit
+胸	✍10	小6	BOSOM	breast, chest, heart, feelings	キョウ	むね　むな-	度胸 (どきょう) - courage<br>胸元 (むなもと) - breast<br>胸中 (きょうちゅう) - one's heart
+郷	✍11	小6	HOME TOWN	village, native place, district	キョウ　ゴウ	さと	故郷 (こきょう) - home town<br>郷土 (きょうど) - native place<br>帰郷 (ききょう) - homecoming
+勤	✍12	小6	DILIGENCE	become employed, serve	キン　ゴン	つと.める　-づと.め　つと.まる　いそ.しむ	勤務 (きんむ) - service<br>勤め (つとめ) - service<br>通勤 (つうきん) - commuting to work
+筋	✍12	小6	MUSCLE	sinew, tendon, fiber, plot, plan, descent	キン	すじ	筋肉 (きんにく) - muscle<br>道筋 (みちすじ) - path<br>売れ筋 (うれすじ) - well-selling line (goods)
+系	✍7	小6	LINEAGE	system	ケイ		理系 (りけい) - science<br>生態系 (せいたいけい) - ecosystem<br>系列 (けいれつ) - series
+敬	✍12	小6	AWE	respect, honor, revere	ケイ　キョウ	うやま.う	敬称略 (けいしょうりゃく) - titles omitted<br>尊敬 (そんけい) - respect<br>敬意 (けいい) - respect
+警	✍19	小6	ADMONISH	commandment	ケイ	いまし.める	警報 (けいほう) - alarm<br>県警 (けんけい) - prefectural police<br>警戒 (けいかい) - vigilance
+劇	✍15	小6	DRAMA	play	ゲキ		劇場 (げきじょう) - theater<br>演劇 (えんげき) - drama<br>悲劇 (ひげき) - tragedy
+激	✍16	小6	VIOLENT	get excited, enraged, chafe, incite	ゲキ	はげ.しい	激しい (はげしい) - violent<br>刺激 (しげき) - stimulus<br>激励 (げきれい) - encouragement
+穴	✍5	小6	HOLE	aperture, slit, cave, den	ケツ	あな	毛穴 (けあな) - pores (of the skin)<br>穴埋め (あなうめ) - filling in gaps<br>穴場 (あなば) - little-known good place
+絹	✍13	小6	SILK		ケン	きぬ	正絹 (しょうけん) - pure silk<br>絹糸 (きぬいと) - silk thread<br>絹織物 (きぬおりもの) - silk goods
+権	✍15	小6	AUTHORITY	power, rights	ケン　ゴン	おもり　かり　はか.る	政権 (せいけん) - administration<br>選手権 (せんしゅけん) - championship<br>有権者 (ゆうけんしゃ) - voter
+憲	✍16	小6	CONSTITUTION	law	ケン		憲法 (けんぽう) - constitution<br>違憲 (いけん) - unconstitutionality<br>憲章 (けんしょう) - charter
+源	✍13	小6	SOURCE	origin	ゲン	みなもと	財源 (ざいげん) - source of funds<br>資源 (しげん) - resources<br>電源 (でんげん) - source of electricity
+厳	✍17	小6	STERN	strictness, severity, rigidity	ゲン　ゴン	おごそ.か　きび.しい　いか.めしい　いつくし	厳しい (いかめしい) - severe<br>厳しさ (きびしさ) - severity<br>厳格 (げんかく) - severe
+己	✍3	小6	SELF		コ　キ	おのれ　つちのと　な	自己 (じこ) - self<br>自己中 (じこちゅう) - selfishness<br>克己 (こっき) - self denial
+呼	✍8	小6	CALL	call out to, invite	コ	よ.ぶ	呼び (よび) - call<br>呼ぶ (よぶ) - to call out (to)<br>呼吸 (こきゅう) - breath
+誤	✍14	小6	MISTAKE	err, do wrong, mislead	ゴ	あやま.る　-あやま.る	誤解 (ごかい) - misunderstanding<br>誤り (あやまり) - error<br>誤って (あやまって) - in error
+后	✍6	小6	EMPRESS	queen, after, behind, back, later	コウ　ゴ	きさき	皇后 (こうごう) - empress<br>太后 (たいこう) - empress dowager<br>皇太后 (こうたいこう) - Queen Mother
+孝	✍7	小6	FILIAL PIETY	child's respect	コウ　キョウ		親孝行 (おやこうこう) - filial piety<br>孝子 (こうし) - filial child<br>孝行 (こうこう) - filial piety
+皇	✍9	小6	EMPEROR		コウ　オウ		天皇 (すめらぎ) - Emperor of Japan<br>皇后 (こうごう) - empress<br>皇太子 (こうたいし) - crown prince
+紅	✍9	小6	CRIMSON	deep red	コウ　ク	べに　くれない　あか.い	紅葉 (こうよう) - autumn colors<br>紅白 (こうはく) - red and white<br>紅茶 (こうちゃ) - black tea
+降	✍10	小6	DESCEND	precipitate, fall, surrender	コウ　ゴ	お.りる　お.ろす　ふ.る　ふ.り　くだ.る　くだ.す	以降 (いこう) - on and after<br>降水量 (こうすいりょう) - amount of precipitation<br>降る (くだる) - to descend
+鋼	✍16	小6	STEEL		コウ	はがね	鉄鋼 (てっこう) - iron and steel<br>製鋼 (せいこう) - steel manufacture<br>鋼鉄 (こうてつ) - steel
+刻	✍8	小6	ENGRAVE	cut fine, chop, hash, mince, time, carving	コク	きざ.む　きざ.み	深刻 (しんこく) - serious<br>時刻 (じこく) - instant<br>遅刻 (ちこく) - lateness
+穀	✍14	小6	CEREALS	grain	コク		雑穀 (ざっこく) - assorted grains<br>穀物 (こくもつ) - grain<br>米穀 (べいこく) - rice
+骨	✍10	小6	SKELETON	bone, remains, frame	コツ	ほね	骨折 (こっせつ) - bone fracture<br>骨格 (こっかく) - skeleton<br>骨子 (こっし) - main point
+困	✍7	小6	QUANDARY	become distressed, annoyed	コン	こま.る	困難 (こんなん) - difficulty<br>貧困 (ひんこん) - poor<br>困る (こまる) - to be troubled
+砂	✍9	小6	SAND		サ　シャ	すな	砂糖 (さとう) - sugar<br>砂漠 (さばく) - desert<br>土砂 (どしゃ) - earth and sand
+座	✍10	小6	SQUAT	seat, cushion, gathering, sit	ザ	すわ.る	銀座 (ぎんざ) - Ginza (shopping district in Tokyo)<br>講座 (こうざ) - academic teaching unit<br>口座 (こうざ) - account (e.g., bank)
+済	✍11	小6	FINISH	come to an end, excusable, need not	サイ　セイ	す.む　-ず.み　-ずみ　す.まない　す.ます　-す.ます　すく.う　な.す　わたし　わた.る	経済 (けいざい) - economics<br>返済 (へんさい) - repayment<br>経済的 (けいざいてき) - economic
+裁	✍12	小6	TAILOR	judge, decision, cut out (pattern)	サイ	た.つ　さば.く	裁判員 (さいばんいん) - lay judge (2005 reforms)<br>裁判 (さいばん) - trial<br>地裁 (ちさい) - district court
+策	✍12	小6	SCHEME	plan, policy, step, means	サク		対策 (たいさく) - measure<br>政策 (せいさく) - political measures<br>策定 (さくてい) - formulation (of a plan, policy, etc.)
+冊	✍5	小6	TOME	counter for books, volume	サツ　サク	ふみ	一冊 (いっさつ) - one copy (e.g., book)<br>冊子 (さっし) - book<br>別冊 (べっさつ) - separate volume
+蚕	✍10	小6	SILKWORM		サン　テン	かいこ　こ	養蚕 (ようさん) - sericulture<br>蚕種 (さんしゅ) - silkworm-egg card<br>養蚕業 (ようさんぎょう) - the sericulture industry
+至	✍6	小6	CLIMAX	arrive, proceed, reach, attain, result in	シ	いた.る	至る (いたる) - to arrive at (e.g., a decision)<br>必至 (ひっし) - inevitable<br>至って (いたって) - very much
+私	✍7	小6	PRIVATE	I, me	シ	わたくし　わたし	私たち (わたくしたち) - we<br>私自身 (わたくしじしん) - myself<br>私立 (しりつ) - private (establishment)
+姿	✍9	小6	FIGURE	form, shape	シ	すがた	姿勢 (しせい) - attitude<br>容姿 (ようし) - appearance (of a person)<br>服姿 (ふくすがた) - uniform
+視	✍11	小6	INSPECTION	regard as, see, look at	シ	み.る	視点 (してん) - opinion<br>重視 (じゅうし) - importance<br>無視 (むし) - disregarding
+詞	✍12	小6	PART OF SPEECH	words, poetry	シ		歌詞 (うたことば) - words mainly used in songs or poetry<br>台詞 (せりふ) - speech<br>作詞 (さくし) - song lyrics
+誌	✍14	小6	DOCUMENT	records	シ		雑誌 (ざっし) - journal<br>週刊誌 (しゅうかんし) - weekly publication<br>日誌 (にっし) - journal
+磁	✍14	小6	MAGNET	porcelain	ジ		陶磁器 (とうじき) - porcelain<br>電磁 (でんじ) - electromagnetic<br>磁器 (じき) - porcelain (esp. hard-paste porcelain)
+射	✍10	小6	SHOOT	shine into, onto, archery	シャ	い.る　さ.す　う.つ	発射 (はっしゃ) - firing<br>注射 (ちゅうしゃ) - injection<br>射撃 (しゃげき) - firing
+捨	✍11	小6	DISCARD	throw away, abandon, resign, reject, sacrifice	シャ	す.てる	捨てる (すてる) - to throw away<br>捨て身 (すてみ) - at the risk of one's life<br>捨て猫 (すてねこ) - abandoned (stray) cat
+尺	✍4	小6	SHAKU	Japanese foot, measure, scale, rule	シャク		尺八 (しゃくはち) - shakuhachi<br>尺度 (しゃくど) - linear measure<br>縮尺 (しゅくしゃく) - reduced scale
+若	✍8	小6	YOUNG	if, perhaps, possibly, low number, immature	ジャク　ニャク　ニャ	わか.い　わか-　も.しくわ　も.し　も.しくは　ごと.し	若い (わかい) - young<br>若者 (わかもの) - young man<br>若手 (わかて) - young person
+樹	✍16	小6	TIMBER	trees, wood, establish, set up	ジュ	き	大樹 (たいじゅ) - large tree<br>植樹 (しょくじゅ) - tree-planting<br>樹立 (じゅりつ) - establish
+収	✍4	小6	INCOME	obtain, reap, pay, supply, store	シュウ	おさ.める　おさ.まる	収入 (しゅうにゅう) - income<br>収録 (しゅうろく) - compilation<br>回収 (かいしゅう) - collection
+宗	✍8	小6	RELIGION	sect, denomination, main point, origin, essence	シュウ　ソウ	むね	宗教 (しゅうきょう) - religion<br>宗派 (しゅうは) - sect<br>正宗 (まさむね) - famous sword
+就	✍12	小6	CONCERNING	settle, take position, depart, study, per	シュウ　ジュ	つ.く　つ.ける	就任 (しゅうにん) - inauguration<br>就職 (しゅうしょく) - finding employment<br>就労 (しゅうろう) - working
+衆	✍12	小6	MASSES	great numbers, multitude, populace	シュウ　シュ	おお.い	衆院 (しゅういん) - lower house of the Diet<br>聴衆 (ちょうしゅう) - audience<br>観衆 (かんしゅう) - spectators
+従	✍10	小6	ACCOMPANY	obey, submit to, comply, follow, secondary, incidental, subordinate	ジュウ　ショウ　ジュ	したが.う　したが.える　より	従来 (じゅうらい) - up to now<br>従業員 (じゅうぎょういん) - employee<br>従って (したがって) - therefore
+縦	✍16	小6	VERTICAL	length, height, self-indulgent, wayward	ジュウ	たて	操縦 (そうじゅう) - steering<br>縦横 (じゅうおう) - length and width<br>縦断 (じゅうだん) - flying through
+縮	✍17	小6	SHRINK	contract, shrivel, wrinkle, reduce	シュク	ちぢ.む　ちぢ.まる　ちぢ.める　ちぢ.れる　ちぢ.らす	縮小 (しゅくしょう) - reduction<br>短縮 (たんしゅく) - shortening<br>圧縮 (あっしゅく) - compression
+熟	✍15	小6	MELLOW	ripen, mature, acquire skill	ジュク	う.れる	熟成 (じゅくせい) - mature<br>未熟 (みじゅく) - inexperience<br>熟し (こなし) - carriage (e.g., of one's body)
+純	✍10	小6	GENUINE	purity, innocence, net (profit)	ジュン		単純 (たんじゅん) - simplicity<br>純粋 (じゅんすい) - pure<br>純一 (じゅんいつ) - purity
+処	✍5	小6	DISPOSE	manage, deal with, sentence, condemn, act, behave, place	ショ	ところ　-こ　お.る	処分 (しょぶん) - disposal<br>処理 (しょり) - processing<br>対処 (たいしょ) - deal with
+署	✍13	小6	SIGNATURE	govt office, police station	ショ		同署 (どうしょ) - the (above-mentioned) authorities<br>署名 (しょめい) - signature<br>部署 (ぶしょ) - one's post
+諸	✍15	小6	VARIOUS	many, several, together	ショ	もろ	諸国 (しょこく) - various countries<br>諸島 (しょとう) - archipelago<br>諸派 (しょは) - various parties or factions
+除	✍10	小6	EXCLUDE	division (x/3), remove, abolish, cancel, except	ジョ　ジ	のぞ.く　-よ.け	解除 (かいじょ) - cancellation<br>除く (のぞく) - to remove<br>掃除 (そうじ) - cleaning
+将	✍10	小6	LEADER	commander, general, admiral, or, and again, soon, from now on, just about	ショウ　ソウ	まさ.に　はた　まさ　ひきい.る　もって	主将 (しゅしょう) - commander-in-chief<br>将来 (しょうらい) - future (usually near)<br>将棋 (しょうぎ) - shogi
+傷	✍13	小6	WOUND	hurt, injure, impair, pain, injury, cut, gash, scar, weak point	ショウ	きず　いた.む　いた.める	負傷 (ふしょう) - injury<br>重傷 (おもで) - serious wound<br>傷害 (しょうがい) - wound
+障	✍14	小6	HINDER	hurt, harm	ショウ	さわ.る	障害 (しょうがい) - obstacle<br>障害者 (しょうがいしゃ) - handicapped person<br>保障 (ほしょう) - guarantee
+城	✍9	小6	CASTLE		ジョウ	しろ	宮城 (きゅうじょう) - Imperial Palace (esp. from 1888 to 1946)<br>茨城県 (いばらきけん) - Ibaraki prefecture (Kanto area)<br>宮城県 (みやぎけん) - Miyagi prefecture (Tohoku area)
+蒸	✍13	小6	STEAM	heat, sultry, foment, get musty	ジョウ　セイ	む.す　む.れる　む.らす	蒸し (むし) - steaming<br>蒸気 (じょうき) - steam<br>水蒸気 (すいじょうき) - water vapour
+針	✍10	小6	NEEDLE	pin, staple, stinger	シン	はり	方針 (ほうしん) - objective<br>指針 (ししん) - needle (e.g., of a compass)<br>針金 (はりがね) - wire
+仁	✍4	小6	HUMANITY	virtue, benevolence, charity, man, kernel	ジン　ニ　ニン		仁王門 (におうもん) - Deva gate<br>仁義 (じんぎ) - humanity and justice (esp. in Confucianism)<br>元仁 (げんにん) - Gennin era (1224.11.20-1225.4.20)
+垂	✍8	小6	DROOP	suspend, hang, slouch	スイ	た.れる　た.らす　た.れ　-た.れ　なんなんと.す	垂水 (たるみ) - waterfall<br>垂れ幕 (たれまく) - hanging banner<br>垂れ (しだれ) - weeping form (e.g., tree)
+推	✍11	小6	CONJECTURE	infer, guess, suppose, support, push (for)	スイ	お.す	推薦 (すいせん) - recommendation<br>推進 (すいしん) - propulsion<br>推定 (すいてい) - presumption
+寸	✍3	小6	MEASUREMENT	tenth of a shaku, a little, small	スン		寸前 (すんぜん) - on the verge<br>寸評 (すんぴょう) - brief review<br>寸断 (すんだん) - cut (tear) to pieces
+盛	✍11	小6	BOOM	prosper, copulate	セイ　ジョウ	も.る　さか.る　さか.ん	盛り (さかり) - peak (e.g., of cherry blossom season)<br>盛ん (さかん) - popular<br>最盛期 (さいせいき) - golden age
+聖	✍13	小6	HOLY	saint, sage, master, priest	セイ　ショウ	ひじり	聖地 (せいち) - sacred place<br>聖火 (せいか) - sacred fire (torch)<br>聖戦 (せいせん) - holy war
+誠	✍13	小6	SINCERITY	admonish, warn, prohibit, truth, fidelity	セイ	まこと	誠実 (せいじつ) - sincere<br>誠意 (せいい) - sincerity<br>誠に (まことに) - indeed
+宣	✍9	小6	PROCLAIM	say, announce	セン	のたま.う	宣言 (せんげん) - declaration<br>宣伝 (せんでん) - publicity<br>宣誓 (せんせい) - oath
+専	✍9	小6	SPECIALTY	exclusive, mainly, solely	セン	もっぱ.ら	専用 (せんよう) - exclusive use<br>専門 (せんもん) - specialty<br>専門家 (せんもんか) - specialist
+泉	✍9	小6	SPRING	fountain	セン	いずみ	温泉 (おんせん) - spa<br>源泉 (げんせん) - source<br>温泉地 (おんせんち) - spa
+洗	✍9	小6	WASH	inquire into, probe	セン	あら.う	洗濯 (せんたく) - washing<br>洗い (あらい) - washing<br>洗う (あらう) - to wash
+染	✍9	小6	DYE	color, paint, stain, print	セン	そ.める　-ぞ.め　-ぞめ　そ.まる　し.みる　-じ.みる　し.み　-し.める	感染 (かんせん) - infection<br>感染者 (かんせんしゃ) - infected person<br>感染症 (かんせんしょう) - infectious disease
+善	✍12	小6	VIRTUOUS	good, goodness	ゼン	よ.い　い.い　よ.く　よし.とする	改善 (かいぜん) - betterment<br>最善 (さいぜん) - the very best<br>善意 (ぜんい) - virtuous mind
+奏	✍9	小6	PLAY MUSIC	speak to a ruler, complete	ソウ	かな.でる	演奏 (えんそう) - musical performance<br>奏者 (そうしゃ) - instrumentalist<br>演奏会 (えんそうかい) - concert
+窓	✍11	小6	WINDOW	pane	ソウ　ス	まど　てんまど　けむだし	窓口 (まどぐち) - ticket window<br>同窓会 (どうそうかい) - graduate's association<br>車窓 (しゃそう) - train window
+創	✍12	小6	GENESIS	wound, injury, hurt, start, originate	ソウ　ショウ	つく.る　はじ.める　きず　けず.しける	創設 (そうせつ) - establishment<br>創業 (そうぎょう) - establishment (of a business, etc.)<br>創造 (そうぞう) - creation
+装	✍12	小6	ATTIRE	dress, pretend, disguise, profess	ソウ　ショウ	よそお.う　よそお.い	装備 (そうび) - equipment<br>衣装 (いしょう) - clothing<br>偽装 (ぎそう) - camouflage
+層	✍14	小6	STRATUM	social class, layer, story, floor	ソウ		一層 (いっそう) - much more<br>断層 (だんそう) - fault<br>年齢層 (ねんれいそう) - age range
+操	✍16	小6	MANEUVER	manipulate, operate, steer, chastity, virginity, fidelity	ソウ　サン	みさお　あやつ.る	操作 (そうさ) - operation<br>体操 (たいそう) - gymnastics<br>操作性 (そうさせい) - operability
+蔵	✍15	小6	STOREHOUSE	hide, own, have, possess	ゾウ　ソウ	くら　おさ.める　かく.れる	冷蔵庫 (れいぞうこ) - refrigerator<br>内蔵 (ないぞう) - internal (e.g., disk)<br>大蔵 (おおくら) - Ministry of Finance
+臓	✍19	小6	ENTRAILS	viscera, bowels	ゾウ	はらわた	心臓 (しんぞう) - heart<br>内臓 (ないぞう) - internal organs<br>肝臓 (かんぞう) - liver
+存	✍6	小6	EXIST	suppose, be aware of, believe, feel	ソン　ゾン	ながら.える　あ.る　たも.つ と.う	存在 (そんざい) - existence<br>保存 (ほぞん) - preservation<br>存在感 (そんざいかん) - presence (impressive quality)
+尊	✍12	小6	REVERED	valuable, precious, noble, exalted	ソン	たっと.い　とうと.い　たっと.ぶ　とうと.ぶ	尊敬 (そんけい) - respect<br>尊重 (そんちょう) - respect<br>尊厳 (そんげん) - dignity
+宅	✍6	小6	HOME	house, residence, our house, my husband	タク		自宅 (じたく) - one's home<br>住宅 (じゅうたく) - residence<br>帰宅 (きたく) - returning home
+担	✍8	小6	SHOULDERING	carry, raise, bear	タン	かつ.ぐ　にな.う	負担 (ふたん) - burden<br>担う (になう) - to carry on shoulder<br>担任 (たんにん) - in charge (of something)
+探	✍11	小6	GROPE	search, look for	タン	さぐ.る　さが.す	探す (さがす) - to search (for something desired, needed)<br>探る (さぐる) - to feel around for<br>探偵 (たんてい) - detective
+誕	✍15	小6	NATIVITY	be born, declension, lie, be arbitrary	タン		誕生 (たんじょう) - birth<br>誕生日 (たんじょうび) - birthday<br>生誕 (せいたん) - birth
+段	✍9	小6	GRADE	steps, stairs	ダン　タン		普段 (ふだん) - usual<br>段階 (きざはし) - stairs<br>値段 (ねだん) - price
+暖	✍13	小6	WARMTH		ダン　ノン	あたた.か　あたた.かい　あたた.まる　あたた.める	温暖 (おんだん) - warm<br>暖かい (あたたかい) - warm<br>暖か (あたたか) - warm
+値	✍10	小6	PRICE	cost, value	チ	ね　あたい	価値 (かち) - value<br>値段 (ねだん) - price<br>価値観 (かちかん) - sense of values
+宙	✍8	小6	MID-AIR	air, space, sky, memorization, interval of time	チュウ		宇宙 (うちゅう) - universe<br>宇宙人 (うちゅうじん) - space alien<br>宇宙船 (うちゅうせん) - space ship
+忠	✍8	小6	LOYALTY	fidelity, faithfulness	チュウ		忠実 (ちゅうじつ) - faithful<br>忠告 (ちゅうこく) - advice<br>忠義 (ちゅうぎ) - loyalty
+著	✍11	小6	RENOWNED	publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work	チョ　チャク	あらわ.す　いちじる.しい	著者 (ちょしゃ) - author (usu. of a particular book)<br>著書 (ちょしょ) - literary work<br>著作権 (ちょさくけん) - copyright
+庁	✍5	小6	GOVERNMENT OFFICE		チョウ　テイ	やくしょ	県庁 (けんちょう) - prefectural office<br>気象庁 (きしょうちょう) - Meteorological Agency<br>警察庁 (けいさつちょう) - National Police Agency
+頂	✍11	小6	PLACE ON THE HEAD	receive, top of head, top, summit, peak	チョウ	いただ.く　いただき	頂き (いただき) - crown (of head)<br>頂点 (ちょうてん) - top<br>山頂 (さんちょう) - summit (e.g., mountain)
+潮	✍15	小6	TIDE	salt water, opportunity	チョウ	しお　うしお	風潮 (ふうちょう) - tide<br>潮流 (ちょうりゅう) - tide<br>高潮 (こうちょう) - high tide
+賃	✍13	小6	FARE	fee, hire, rent, wages, charge	チン		賃金 (ちんきん) - wages<br>家賃 (やちん) - rent<br>賃貸 (ちんたい) - lease
+痛	✍12	小6	PAIN	hurt, damage, bruise	ツウ	いた.い　いた.む　いた.ましい　いた.める	痛み (いたみ) - pain<br>痛い (いたい) - painful<br>苦痛 (くつう) - pain
+展	✍10	小6	UNFOLD	expand	テン		展開 (てんかい) - development<br>展示 (てんじ) - exhibition<br>発展 (はってん) - development
+討	✍10	小6	CHASTISE	attack, defeat, destroy, conquer	トウ	う.つ	検討 (けんとう) - consideration<br>検討会 (けんとうかい) - meeting convened to discuss issues<br>討論 (とうろん) - debate
+党	✍10	小6	PARTY	faction, clique	トウ	なかま　むら	民主党 (みんしゅとう) - Democratic party<br>自民党 (じみんとう) - Liberal Democratic Party<br>政党 (せいとう) - political party
+糖	✍16	小6	SUGAR		トウ		糖尿病 (とうにょうびょう) - diabetes mellitus<br>砂糖 (さとう) - sugar<br>血糖値 (けっとうち) - blood sugar level
+届	✍8	小6	DELIVER	reach, arrive, report, notify, forward	カイ	とど.ける　-とど.け　とど.く	届け (とどけ) - report<br>届け出 (とどけで) - report<br>届く (とどく) - to reach
+難	✍18	小6	DIFFICULT	impossible, trouble, accident, defect	ナン	かた.い　-がた.い　むずか.しい　むづか.しい　むつか.しい　-にく.い	難しい (むずかしい) - difficult<br>難し (かたし) - difficult<br>難易度 (なんいど) - degree of difficulty
+乳	✍8	小6	MILK	breasts	ニュウ	ちち　ち	牛乳 (ぎゅうにゅう) - milk<br>授乳 (じゅにゅう) - breast-feeding<br>母乳 (ぼにゅう) - mother's milk
+認	✍14	小6	ACKNOWLEDGE	witness, discern, recognize, appreciate, believe	ニン	みと.める　したた.める	確認 (かくにん) - confirmation<br>認め (みとめ) - approval<br>認定 (にんてい) - authorization
+納	✍10	小6	SETTLEMENT	obtain, reap, pay, supply, store	ノウ　ナッ　ナ　ナン　トウ	おさ.める　-おさ.める　おさ.まる	納得 (なっとく) - consent<br>納豆 (なっとう) - natto (fermented soybeans)<br>収納 (しゅうのう) - storage
+脳	✍11	小6	BRAIN	memory	ノウ　ドウ	のうずる	首脳 (しゅのう) - head<br>頭脳 (ずのう) - head<br>脳卒中 (のうそっちゅう) - stroke
+派	✍9	小6	FACTION	group, party, clique, sect, school	ハ		派遣 (はけん) - dispatch<br>党派 (とうは) - faction<br>立派 (りっぱ) - splendid
+拝	✍8	小6	WORSHIP	adore, pray to	ハイ	おが.む　おろが.む	参拝 (さんぱい) - visit to a shrine or temple<br>拝見 (はいけん) - seeing<br>参拝者 (さんぱいしゃ) - worshipper
+背	✍9	小6	STATURE	height, back, behind, disobey, defy, go back on, rebel	ハイ	せ　せい　そむ.く　そむ.ける	背景 (はいけい) - background<br>背中 (せなか) - back (of body)<br>背番号 (せばんごう) - number on player's back
+肺	✍9	小6	LUNGS		ハイ		肺炎 (はいえん) - pneumonia<br>肺がん (はいがん) - lung cancer<br>肺気腫 (はいきしゅ) - pulmonary emphysema
+俳	✍10	小6	HAIKU	actor	ハイ		俳優 (はいゆう) - actor<br>俳句 (はいく) - haiku<br>俳人 (はいじん) - haiku poet
+班	✍10	小6	SQUAD	corps, unit, group	ハン		取材班 (しゅざいはん) - data collecting party<br>班長 (はんちょう) - squad leader<br>作業班 (さぎょうはん) - work party
+晩	✍12	小6	NIGHTFALL	night	バン		毎晩 (まいばん) - every night<br>一晩 (ひとばん) - one night<br>晩婚 (ばんこん) - late marriage
+否	✍7	小6	NEGATE	no, noes, refuse, decline, deny	ヒ	いな　いや	否定 (ひてい) - negation<br>拒否 (きょひ) - denial<br>否認 (ひにん) - denial
+批	✍7	小6	CRITICISM	strike	ヒ		批判 (ひはん) - criticism<br>批評 (ひひょう) - criticism<br>批判的 (ひはんてき) - critical
+秘	✍10	小6	SECRET	conceal	ヒ	ひ.める　ひそ.か　かく.す	秘書 (ひしょ) - secretary<br>秘密 (ひみつ) - secret<br>便秘 (べんぴ) - constipation
+腹	✍13	小6	ABDOMEN	belly, stomach	フク	はら	お腹 (おなか) - stomach<br>腹筋 (はらすじ) - sit-up<br>腹痛 (はらいた) - stomach ache
+奮	✍16	小6	STIRRED UP	be invigorated, flourish	フン	ふる.う	興奮 (こうふん) - excitement<br>奮闘 (ふんとう) - hard struggle<br>奮起 (ふんき) - stirring
+並	✍8	小6	ROW	and, besides, as well as, line up, rank with, rival, equal	ヘイ　ホウ	な.み　なみ　なら.べる　なら.ぶ　なら.びに	並ぶ (ならぶ) - to line up<br>並み (なみ) - average<br>並び (ならび) - line
+陛	✍10	小6	HIGHNESS	steps (of throne)	ヘイ		両陛下 (りょうへいか) - Their Majesties<br>陛下 (へいか) - your Majesty<br>陛衛 (へいえい) - Imperial guard
+閉	✍11	小6	CLOSED	shut	ヘイ	と.じる　と.ざす　し.める　し.まる　た.てる	閉鎖 (へいさ) - closing<br>閉店 (へいてん) - closing up shop (for the day)<br>閉幕 (へいまく) - falling of the curtain
+片	✍4	小6	ONE-SIDED	leaf, sheet, right-side kata radical (no. 91)	ヘン	かた-　かた	片付け (かたづけ) - tidying up<br>片方 (かたほう) - one side<br>片手 (かたて) - one hand
+補	✍12	小6	SUPPLEMENT	supply, make good, offset, compensate, assistant, learner	ホ	おぎな.う	候補 (こうほ) - candidate<br>立候補 (りっこうほ) - announcing candidacy<br>候補者 (こうほしゃ) - candidate
+暮	✍14	小6	EVENING	twilight, season's end, livelihood, make a living, spend time	ボ	く.れる　く.らす	暮らし (くらし) - life<br>暮らす (くらす) - to live<br>暮れ (くれ) - sunset
+宝	✍8	小6	TREASURE	wealth, valuables	ホウ	たから	宝くじ (たからくじ) - lottery<br>宝物 (たからもの) - treasure<br>重宝 (じゅうほう) - priceless treasure
+訪	✍11	小6	CALL ON	visit, look up, offer sympathy	ホウ	おとず.れる　たず.ねる　と.う	訪れ (おとずれ) - visit<br>訪問 (ほうもん) - call<br>訪れる (おとずれる) - to visit
+亡	✍3	小6	DECEASED	the late, dying, perish	ボウ　モウ	な.い　な.き-　ほろ.びる　ほろ.ぶ　ほろ.ぼす	死亡 (しぼう) - death<br>滅亡 (めつぼう) - downfall<br>亡き (なき) - the late
+忘	✍7	小6	FORGET		ボウ	わす.れる	忘れる (わすれる) - to forget<br>忘年会 (ぼうねんかい) - year-end party<br>忘れ物 (わすれもの) - lost article
+棒	✍12	小6	ROD	stick, cane, pole, club, line	ボウ		相棒 (あいぼう) - partner<br>泥棒 (どろぼう) - thief<br>鉄棒 (かなぼう) - metal rod
+枚	✍8	小6	SHEET OF...	counter for flat thin objects or sheets	マイ　バイ		１枚 (いちまい) - one thin flat object<br>２枚 (にまい) - two sheets (pieces) (of paper)<br>一枚 (いちまい) - one thin flat object
+幕	✍13	小6	CURTAIN	bunting, act of play	マク　バク	とばり	開幕 (かいまく) - raising the curtain<br>幕内 (まくうち) - highest-ranking division<br>開幕戦 (かいまくせん) - opening game
+密	✍11	小6	SECRECY	density (pop), minuteness, carefulness	ミツ	ひそ.か	秘密 (ひみつ) - secret<br>密着 (みっちゃく) - glued to<br>密輸 (みつゆ) - smuggling
+盟	✍13	小6	ALLIANCE	oath	メイ		連盟 (れんめい) - league<br>同盟 (どうめい) - alliance<br>加盟 (かめい) - participation
+模	✍14	小6	IMITATION	copy, mock	モ　ボ		規模 (きぼ) - scale<br>模様 (もよう) - pattern<br>大規模 (だいきぼ) - large-scale
+訳	✍11	小6	TRANSLATE	reason, circumstance, case	ヤク	わけ	英訳 (えいやく) - English translation<br>言い訳 (いいわけ) - excuse<br>翻訳 (ほんやく) - translation
+郵	✍11	小6	MAIL	stagecoach stop	ユウ		郵政 (ゆうせい) - postal system<br>郵便局 (ゆうびんきょく) - post office<br>郵便 (ゆうびん) - mail service
+優	✍17	小6	TENDERNESS	excel, surpass, actor, superiority, gentleness	ユウ　ウ	やさ.しい　すぐ.れる　まさ.る	優勝 (ゆうしょう) - overall victory<br>女優 (じょゆう) - actress<br>俳優 (はいゆう) - actor
+幼	✍5	小6	INFANCY	childhood	ヨウ	おさな.い	幼稚園 (ようちえん) - kindergarten<br>幼児 (ようじ) - infant<br>幼い (いとけない) - very young
+欲	✍11	小6	LONGING	covetousness, greed, passion, desire, craving	ヨク	ほっ.する　ほ.しい	欲しい (ほしい) - wanted<br>意欲 (いよく) - will<br>食欲 (しょくよく) - appetite (for food)
+翌	✍11	小6	THE FOLLOWING	next	ヨク		翌日 (よくじつ) - next day<br>翌年 (よくとし) - following year<br>翌朝 (よくあさ) - the next morning
+乱	✍7	小6	RIOT	war, disorder, disturb	ラン　ロン	みだ.れる　みだ.る　みだ.す　みだ　おさ.める　わた.る	混乱 (こんらん) - disorder<br>乱れ (みだれ) - disorder<br>乱暴 (らんぼう) - rude
+卵	✍7	小6	EGG	ovum, spawn, roe	ラン	たまご	卵巣 (らんそう) - ovary<br>産卵 (さんらん) - egg-laying<br>排卵 (はいらん) - ovulation
+覧	✍17	小6	PERUSAL	see	ラン	み.る	一覧 (いちらん) - look<br>閲覧 (えつらん) - inspection<br>ご覧 (ごらん) - try to
+裏	✍13	小6	BACK	amidst, in, reverse, inside, palm, sole, rear, lining, wrong side	リ	うら	裏付け (うらづけ) - backing<br>裏側 (うらがわ) - the reverse<br>裏金 (うらがね) - bribe
+律	✍9	小6	RHYTHM	law, regulation, gauge, control	リツ　リチ　レツ		法律 (ほうりつ) - law<br>一律 (いちりつ) - evenness<br>規律 (きりつ) - order
+臨	✍18	小6	LOOK TO	face, meet, confront, attend, call on	リン	のぞ.む	臨む (のぞむ) - to look out on<br>臨時 (りんじ) - temporary<br>臨場感 (りんじょうかん) - presence
+朗	✍10	小6	MELODIOUS	clear, bright, serene, cheerful	ロウ	ほが.らか　あき.らか	朗読 (ろうどく) - reading aloud<br>朗報 (ろうほう) - good news<br>朗らか (ほがらか) - bright
+論	✍15	小6	ARGUMENT	discourse	ロン		議論 (ぎろん) - argument<br>結論 (けつろん) - conclusion<br>反論 (はんろん) - objection

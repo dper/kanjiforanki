@@ -1,0 +1,80 @@
+一	✍1	小1	ONE	one radical (no.1)	イチ　イツ	ひと-　ひと.つ	一方 (いっぽう) - one (esp. of two)<br>一緒に (いっしょに) - together (with)<br>一番 (いちばん) - number one
+右	✍5	小1	RIGHT		ウ　ユウ	みぎ	左右 (さう) - left and right<br>右腕 (うわん) - right arm<br>右翼 (うよく) - right-wing (politics)
+雨	✍8	小1	RAIN		ウ	あめ　あま-　-さめ	時雨 (しぐれ) - drizzle<br>豪雨 (ごうう) - torrential rain<br>大雨 (おおあめ) - heavy rain
+円	✍4	小1	CIRCLE	yen, round	エン	まる.い　まる　まど　まど.か　まろ.やか	億円 (おくえん) - 100,000,000 yen<br>１万円 (いちまんえん) - 10,000 yen<br>円か (まどか) - round
+王	✍4	小1	KING	rule, magnate	オウ　-ノウ		王子 (おうじ) - prince<br>王者 (おうしゃ) - king<br>王国 (おうこく) - kingdom
+音	✍9	小1	SOUND	noise	オン　イン　-ノン	おと　ね	音楽 (おんがく) - music<br>録音 (ろくおん) - recording<br>音声 (おんじょう) - voice
+下	✍3	小1	BELOW	down, descend, give, low, inferior	カ　ゲ	した　しも　もと　さ.げる　さ.がる　くだ.る　くだ.り　くだ.す　-くだ.す　くだ.さる　お.ろす　お.りる	下さい (ください) - please give me<br>以下 (いか) - not exceeding<br>低下 (ていか) - fall
+火	✍4	小1	FIRE		カ	ひ　-び　ほ-	火災 (かさい) - conflagration<br>火山 (かざん) - volcano<br>噴火 (ふんか) - eruption
+花	✍7	小1	FLOWER		カ　ケ	はな	花粉 (かふん) - pollen<br>花園 (かえん) - flower garden<br>開花 (かいか) - flowers budding
+貝	✍7	小1	SHELLFISH		バイ	かい	貝塚 (かいずか) - shell heap<br>貝殻 (かいがら) - shell<br>貝類 (かいるい) - shellfish
+学	✍8	小1	STUDY	learning, science	ガク	まな.ぶ	学校 (がっこう) - school<br>小学校 (しょうがっこう) - primary school<br>学園 (がくえん) - academy
+気	✍6	小1	SPIRIT	mind, air, atmosphere, mood	キ　ケ	いき	気持ち (きもち) - feeling<br>人気 (じんき) - prevailing mood of a locality<br>気温 (きおん) - atmospheric temperature
+九	✍2	小1	NINE		キュウ　ク	ここの　ここの.つ	北九州 (きたきゅうしゅう) - Kitakyushu (city)<br>十九 (じゅうきゅう) - 19<br>九重 (ここのえ) - ninefold
+休	✍6	小1	REST	day off, retire, sleep	キュウ	やす.む　やす.まる　やす.める	休み (やすみ) - rest<br>休日 (きゅうじつ) - holiday<br>夏休み (なつやすみ) - summer vacation
+玉	✍5	小1	JEWEL	ball	ギョク	たま　たま-　-だま	埼玉 (さいたま) - Saitama (city)<br>埼玉県 (さいたまけん) - Saitama prefecture (Kanto area)<br>目玉 (めだま) - eyeball
+金	✍8	小1	GOLD		キン　コン　ゴン	かね　かな-　-がね	お金 (おかね) - money<br>資金 (しきん) - funds<br>年金 (ねんきん) - annuity
+空	✍8	小1	EMPTY	sky, void, vacant, vacuum	クウ	そら　あ.く　あ.き　あ.ける　から　す.く　す.かす　むな.しい	星空 (ほしぞら) - starry sky<br>空港 (くうこう) - airport<br>空気 (くうき) - air
+月	✍4	小1	MONTH	moon	ゲツ　ガツ	つき	１月 (いちがつ) - January<br>３月 (さんがつ) - March<br>２月 (にがつ) - February
+犬	✍4	小1	DOG		ケン	いぬ　いぬ-	愛犬 (あいけん) - pet dog<br>子犬 (こいぬ) - puppy<br>盲導犬 (もうどうけん) - guide dog for the blind
+見	✍7	小1	SEE	hopes, chances, idea, opinion, look at, visible	ケン	み.る　み.える　み.せる	見る (みる) - to see<br>意見 (いけん) - opinion<br>見え (みえ) - airs
+五	✍4	小1	FIVE		ゴ	いつ　いつ.つ	五輪 (ごりん) - the Olympics<br>五百 (いお) - 500<br>五十 (い) - fifty
+口	✍3	小1	MOUTH		コウ　ク	くち	人口 (じんこう) - population<br>川口 (かわぐち) - mouth of river<br>口座 (こうざ) - account (e.g., bank)
+校	✍10	小1	EXAM	school, printing, proof, correction	コウ　キョウ		高校 (こうこう) - senior high school<br>学校 (がっこう) - school<br>小学校 (しょうがっこう) - primary school
+左	✍5	小1	LEFT		サ　シャ	ひだり	左右 (さう) - left and right<br>左腕 (さわん) - left arm<br>左翼 (さよく) - left-wing
+三	✍3	小1	THREE		サン　ゾウ	み　み.つ　みっ.つ	三重 (さんじゅう) - triple<br>三塁 (さんるい) - third base<br>三振 (さんしん) - strikeout
+山	✍3	小1	MOUNTAIN		サン　セン	やま	山形 (やまがた) - mountain-shape<br>山梨 (やまなし) - wild nashi (Pyrus pyrifolia var. pyrifolia)<br>青山 (あおやま) - lush mountain
+子	✍3	小1	CHILD	sign of the rat, 11PM-1AM, first sign of Chinese zodiac	シ　ス　ツ	こ　-こ　ね	子供 (こども) - child<br>子ども (こども) - child<br>女子 (おなご) - woman
+四	✍5	小1	FOUR		シ	よ　よ.つ　よっ.つ　よん	四球 (しきゅう) - four balls<br>四日 (よっか) - fourth day of month<br>四川 (しせん) - Sichuan (China)
+糸	✍6	小1	THREAD		シ	いと	糸口 (いとぐち) - thread end<br>赤い糸 (あかいいと) - red string of fate<br>生糸 (きいと) - raw silk thread
+字	✍6	小1	CHARACTER	letter, word, section of village	ジ	あざ　あざな　-な	数字 (すうじ) - numeral<br>文字 (もじ) - letter (of alphabet)<br>赤字 (あかじ) - deficit
+耳	✍6	小1	EAR		ジ	みみ	耳鼻科 (じびか) - otolaryngology<br>聞く耳 (きくみみ) - acute ear<br>耳鳴り (みみなり) - buzzing in the ears
+七	✍2	小1	SEVEN		シチ	なな　なな.つ　なの	七草 (ななくさ) - the seven spring flowers<br>七夕 (しちせき) - Festival of the Weaver (July 7th)<br>七つ (ななつ) - seven
+車	✍7	小1	CAR		シャ	くるま	自動車 (じどうしゃ) - automobile<br>自転車 (じてんしゃ) - bicycle<br>電車 (でんしゃ) - train
+手	✍4	小1	HAND		シュ　ズ	て　て-　-て　た-	選手 (せんしゅ) - player (in game)<br>相手 (あいて) - companion<br>投手 (とうしゅ) - pitcher
+十	✍2	小1	TEN		ジュウ　ジッ　ジュッ	とお　と	十分 (じっぷん) - 10 minutes<br>五十 (い) - fifty<br>数十 (すうじゅう) - dozens
+出	✍5	小1	EXIT	leave, go out, come out, put out, protrude	シュツ　スイ	で.る　-で　だ.す　-だ.す　い.でる　い.だす	出場 (しゅつじょう) - appearance<br>出来 (しゅったい) - occurrence<br>出る (でる) - to leave
+女	✍3	小1	WOMAN	female	ジョ　ニョ　ニョウ	おんな　め	女性 (じょせい) - woman<br>女子 (おなご) - woman<br>彼女 (かのじょ) - she
+小	✍3	小1	LITTLE	small	ショウ	ちい.さい　こ-　お-　さ-	小学校 (しょうがっこう) - primary school<br>小学生 (しょうがくせい) - elementary school student<br>小さい (ちいさい) - small
+上	✍3	小1	ABOVE	up	ジョウ　ショウ　シャン	うえ　-うえ　うわ-　かみ　あ.げる　-あ.げる　あ.がる　-あ.がる　あ.がり　-あ.がり　のぼ.る　のぼ.り　のぼ.せる　のぼ.す　よ.す	以上 (いじょう) - not less than<br>上げ (あげ) - tuck (e.g., in a dress)<br>上司 (じょうし) - superior authorities
+森	✍12	小1	FOREST	woods	シン	もり	森林 (しんりん) - forest<br>青森県 (あおもりけん) - Aomori prefecture (Tohoku area)<br>森林浴 (しんりんよく) - peaceful walk through the woods
+人	✍2	小1	PERSON		ジン　ニン	ひと　-り　-と	人気 (じんき) - prevailing mood of a locality<br>１人 (いちにん) - one person<br>友人 (ゆうじん) - friend
+水	✍4	小1	WATER		スイ	みず　みず-	清水 (きよみず) - spring water<br>降水量 (こうすいりょう) - amount of precipitation<br>水準 (すいじゅん) - level
+正	✍5	小1	CORRECT	justice, righteous, 10**40	セイ　ショウ	ただ.しい　ただ.す　まさ　まさ.に	正直 (しょうじき) - honesty<br>正式 (せいしき) - due form<br>正社員 (せいしゃいん) - regular employee
+生	✍5	小1	LIFE	genuine, birth	セイ　ショウ	い.きる　い.かす　い.ける　う.まれる　うま.れる　う.まれ　うまれ　う.む　お.う　は.える　は.やす　き　なま　なま-　な.る　な.す　む.す　-う	生活 (せいかつ) - living<br>生まれ (うまれ) - birth<br>発生 (はっせい) - outbreak
+青	✍8	小1	BLUE	green	セイ　ショウ	あお　あお-　あお.い	青山 (あおやま) - lush mountain<br>青木 (あおき) - Japanese laurel<br>青年 (せいねん) - youth
+夕	✍3	小1	EVENING		セキ	ゆう	夕刊 (ゆうかん) - evening paper<br>夕方 (ゆうがた) - evening<br>夕食 (ゆうしょく) - evening meal
+石	✍5	小1	STONE		セキ　シャク　コク	いし	石油 (せきゆ) - oil<br>白石 (しろいし) - white stone<br>石綿 (いしわた) - asbestos
+赤	✍7	小1	RED		セキ　シャク	あか　あか-　あか.い　あか.らむ　あか.らめる	赤字 (あかじ) - deficit<br>赤い (あかい) - red<br>真っ赤 (まっか) - bright red
+千	✍3	小1	THOUSAND		セン	ち	千葉 (ちば) - Chiba (city)<br>千代 (せんだい) - thousand years<br>千葉県 (ちばけん) - Chiba prefecture (Kanto area)
+川	✍3	小1	STREAM	river, river or three-stroke river radical (no. 47)	セン	かわ	川崎 (かわさき) - Kawasaki (city)<br>谷川 (たにがわ) - mountain stream<br>川口 (かわぐち) - mouth of river
+先	✍6	小1	BEFORE	ahead, previous, future, precedence	セン	さき　ま.ず	先生 (せんじょう) - teacher<br>先輩 (せんぱい) - senior (at work or school)<br>先に (さきに) - before
+早	✍6	小1	EARLY	fast	ソウ　サッ	はや.い　はや　はや-　はや.まる　はや.める　さ-	早く (はやく) - early<br>早い (はやい) - fast<br>早期 (そうき) - early stage
+草	✍9	小1	GRASS	weeds, herbs, pasture, write, draft	ソウ	くさ　くさ-　-ぐさ	煙草 (えんそう) - tobacco (por: tabaco)<br>七草 (ななくさ) - the seven spring flowers<br>草の根 (くさのね) - grassroots
+足	✍7	小1	LEG	foot, be sufficient, counter for pairs of footwear	ソク	あし　た.りる　た.る　た.す	不足 (ふそく) - insufficiency<br>満足 (まんぞく) - satisfaction<br>発足 (はっそく) - starting
+村	✍7	小1	VILLAGE	town	ソン	むら	市町村 (しちょうそん) - cities, towns and villages<br>町村 (ちょうそん) - towns and villages<br>農村 (のうそん) - agricultural community
+大	✍3	小1	LARGE	big	ダイ　タイ	おお-　おお.きい　-おお.いに	大会 (たいかい) - convention<br>大阪 (おおさか) - Osaka<br>大きな (おおきな) - big
+男	✍7	小1	MALE		ダン　ナン	おとこ　お	男性 (だんせい) - man<br>男子 (だんし) - youth<br>男女 (おとこおんな) - masculine woman
+竹	✍6	小1	BAMBOO		チク	たけ	竹林 (たけばやし) - bamboo thicket<br>小竹 (ささ) - bamboo grass<br>竹串 (たけぐし) - bamboo skewer
+中	✍4	小1	IN	inside, middle, mean, center	チュウ	なか　うち　あた.る	中国 (ちゅうごく) - China<br>中心 (ちゅうしん) - center<br>中央 (ちゅうおう) - center
+虫	✍6	小1	INSECT	bug, temper	チュウ　キ	むし	虫歯 (むしば) - cavity<br>昆虫 (こんちゅう) - insect<br>殺虫剤 (さっちゅうざい) - insecticide
+町	✍7	小1	TOWN	village, block, street	チョウ	まち	小町 (こまち) - a belle<br>町長 (ちょうちょう) - town headman<br>市町村 (しちょうそん) - cities, towns and villages
+天	✍4	小1	HEAVENS	sky, imperial	テン	あまつ　あめ　あま-	天気 (てんき) - weather<br>任天堂 (にんてんどう) - Nintendo (video game company)<br>天皇 (すめらぎ) - Emperor of Japan
+田	✍5	小1	RICE FIELD	rice paddy	デン	た	上田 (じょうでん) - high rice field<br>田舎 (いなか) - rural area<br>小田 (おだ) - rice field (usu. small)
+土	✍3	小1	SOIL	earth, ground, Turkey	ド　ト	つち	土地 (とち) - plot of land<br>土日 (どにち) - weekend<br>土曜日 (どようび) - Saturday
+二	✍2	小1	TWO	two radical (no.2)	ニ　ジ	ふた　ふた.つ　ふたたび	二人 (ににん) - two persons<br>二塁 (にるい) - second base<br>二塁打 (にるいだ) - two-base hit
+日	✍4	小1	DAY	sun, Japan, counter for days	ニチ　ジツ	ひ　-び　-か	毎日 (まいにち) - every day<br>日本 (にっぽん) - Japan<br>１日 (いちじつ) - one day
+入	✍2	小1	ENTER	insert	ニュウ　ジュ	い.る　-い.る　-い.り　い.れる　-い.れ　はい.る	入れ (いれ) - container<br>入り (いり) - entering<br>購入 (こうにゅう) - purchase
+年	✍6	小1	YEAR	counter for years	ネン	とし	昨年 (さくねん) - last year<br>今年 (ことし) - this year<br>年間 (ねんかん) - year (period of)
+白	✍5	小1	WHITE		ハク　ビャク	しろ　しら-　しろ.い	面白い (おもしろい) - interesting<br>面白 (おもしろ) - amusing<br>白い (しろい) - white
+八	✍2	小1	EIGHT	eight radical (no. 12)	ハチ	や　や.つ　やっ.つ　よう	八幡 (はちまん) - Hachiman (God of War)<br>八千代 (やちよ) - eternity<br>八重 (やえ) - multilayered
+百	✍6	小1	HUNDRED		ヒャク　ビャク	もも	百貨店 (ひゃっかてん) - store<br>五百 (いお) - 500<br>数百 (すうひゃく) - several hundreds
+文	✍4	小1	SENTENCE	literature, style, art, decoration, figures, plan, literary radical (no. 67)	ブン　モン	ふみ　あや	文化 (ぶんか) - culture<br>文字 (もじ) - letter (of alphabet)<br>文章 (ぶんしょう) - sentence
+木	✍4	小1	TREE	wood	ボク　モク	き　こ-	高木 (こうぼく) - tall tree<br>青木 (あおき) - Japanese laurel<br>本木 (もとき) - original stock
+本	✍5	小1	BOOK	present, main, origin, true, real, counter for long cylindrical things	ホン	もと	日本 (にっぽん) - Japan<br>本の (ほんの) - mere<br>本当に (ほんとうに) - really
+名	✍6	小1	NAME	noted, distinguished, reputation	メイ　ミョウ	な　-な	名前 (なまえ) - name<br>名古屋 (なごや) - Nagoya (city)<br>有名 (ゆうめい) - famous
+目	✍5	小1	EYE	class, look, insight, experience, care, favor	モク　ボク	め　-め　ま-	注目 (ちゅうもく) - notice<br>目指す (めざす) - to aim at<br>目標 (めじるし) - mark
+立	✍5	小1	STAND UP	rise, set up, erect	リツ　リュウ　リットル	た.つ　-た.つ　た.ち-　た.てる　-た.てる　た.て-　たて-　-た.て　-だ.て　-だ.てる	立ち (たち) - departure<br>立場 (たちば) - standpoint<br>立候補 (りっこうほ) - announcing candidacy
+力	✍2	小1	POWER	strength, strong, strain, bear up, exert	リョク　リキ　リイ	ちから	協力 (きょうりょく) - cooperation<br>努力 (どりょく) - great effort<br>魅力 (みりょく) - charm
+林	✍8	小1	GROVE	forest	リン	はやし	森林 (しんりん) - forest<br>農林 (のうりん) - agriculture and forestry<br>林業 (りんぎょう) - forestry
+六	✍4	小1	SIX		ロク　リク	む　む.つ　むっ.つ　むい	十六 (じゅうろく) - 16<br>六つ (むっつ) - six<br>六角 (ろっかく) - hexagon
