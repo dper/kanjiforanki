@@ -17,3 +17,11 @@ rm wordfreq_ck.txt
 wget ftp://ftp.edrdg.org/pub/Nihongo/wordfreq_ck.gz
 gunzip wordfreq_ck.gz
 iconv -f EUC-JP -t UTF-8 wordfreq_ck > wordfreq_ck.txt
+rm wordfreq_ck
+
+# Get the frequency file.
+
+rm distribution.txt
+wget ftp://ftp.edrdg.org/pub/Nihongo/edict_dupefree_freq_distribution.gz
+gunzip edict_dupefree_freq_distribution.gz
+mv edict_dupefree_freq_distribution distribution.txt

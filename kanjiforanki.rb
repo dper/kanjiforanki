@@ -87,25 +87,31 @@ class Wordfreq
 
 	# Creates a Wordfreq.
 	def initialize
-		puts 'Parsing wordfreq_ck.txt ...'
-		path = Script_dir + '/dictionaries/wordfreq_ck.txt'
+		puts 'Parsing distribution.txt ...'
+		path = Script_dir + '/dictionaries/distribution.txt'
 		wordfreq = IO.readlines path
-		wordfreq.delete_if {|line| line.start_with? '#'}
-		wordfreq.delete_if {|line| not line.include? "\t"}
+		wordfreq.keep_if {|line| line =~ /^\d+\t.*/}
+		wordfreq.keep_if {|line| line.include? "\t"}
 		wordfreq.delete_if {|line|
-			word = line.split[0]
+			word = line.split[4].split('|')[0]
 			length = word.scan(/./u).length
 			length < 2 or length > Max_example_word_width
 		}
 
+		puts 'Usable words in distribution.txt: ' + wordfreq.size.to_s + '.'
+	
 		@lookup_table = {}
 		
 		wordfreq.each do |line|
-			line.split[0].scan(/./u).each do |char|
+			word = line.split[4].split('|')[0]
+			frequency = line.split[1]
+			pair = [word, frequency]
+
+			word.scan(/./u).each do |char|
 				if not @lookup_table.key? char
-					@lookup_table[char] = [line]
+					@lookup_table[char] = [pair]
 				else
-					@lookup_table[char] << line
+					@lookup_table[char] << pair
 				end
 			end
 		end
@@ -212,9 +218,8 @@ class Kanji
 	def lookup_examples
 		@examples = []
 		return unless $wordfreq.include? @literal
-		$wordfreq.lookup(@literal).each do |line|
-			word,frequency = line.split
-			ex = Example.new(word, frequency.strip)
+		$wordfreq.lookup(@literal).each do |pair|
+			ex = Example.new(pair[0], pair[1])
 		
 			# Only keep examples that are in the dictionary.
 			next unless ex.lookup_definition
