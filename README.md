@@ -23,7 +23,6 @@ The kanji dictionary and Japanese word dictionary are Creative Commons Attributi
 
 * <http://www.edrdg.org/kanjidic/kanjidic2.xml.gz>
 * <http://ftp.monash.edu.au/pub/nihongo/edict.zip>
-* <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq_ck.gz>
 * <ftp://ftp.edrdg.org/pub/Nihongo/edict_dupefree_freq_distribution.gz>
 
 More simply, run `dictionaries/update_dictionaries.sh`.
