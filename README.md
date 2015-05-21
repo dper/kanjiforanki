@@ -81,14 +81,16 @@ Once you have a deck you need to import it.
 * Make sure `Fields separated by: Tab` is displayed.
 * There should be eight fields, and each should be mapped to one of the fields created above.  You should see the following.
 
-    Field 1 of file is: mapped to Literal
-    Field 2 of file is: mapped to Strokes
-    Field 3 of file is: mapped to Grade
-    Field 4 of file is: mapped to Meaning 
-    Field 5 of file is: mapped to Meanings
-    Field 6 of file is: mapped to Onyomis
-    Field 7 of file is: mapped to Kunyomis
-    Field 8 of file is: mapped to Examples
+```
+Field 1 of file is: mapped to Literal
+Field 2 of file is: mapped to Strokes
+Field 3 of file is: mapped to Grade
+Field 4 of file is: mapped to Meaning 
+Field 5 of file is: mapped to Meanings
+Field 6 of file is: mapped to Onyomis
+Field 7 of file is: mapped to Kunyomis
+Field 8 of file is: mapped to Examples
+```
 
 * Click `Import`.  A dialog should open telling you everything worked.
 
