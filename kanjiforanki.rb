@@ -14,6 +14,10 @@
 # This script depends on several files having proper formatting located
 # in the same directory.  See COPYING for file source information.
 #
+# The file edict.txt should be in this directory.
+# The file wordfreq_ck.txt should be in this directory.
+# The file kanjidic2.xml should be in this directory.
+#
 # == AUTHOR
 #   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
 
