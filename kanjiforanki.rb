@@ -12,10 +12,7 @@
 # Anki and used to study the given kanji.
 # 
 # This script depends on several files having proper formatting located
-# in the same directory.  See COPYING for file source information.
-#
-# The file edict.txt should be in this directory.
-# The file wordfreq_ck.txt should be in this directory.
+# in the dictionaries subdirectory.
 #
 # == AUTHOR
 #   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
@@ -94,7 +91,7 @@ class Wordfreq
 	# Creates a Wordfreq.
 	def initialize
 		puts 'Parsing wordfreq_ck.txt ...'
-		path = Script_dir + '/wordfreq_ck.txt'
+		path = Script_dir + '/dictionaries/wordfreq_ck.txt'
 		wordfreq = IO.readlines path
 		wordfreq.delete_if {|line| line.start_with? '#'}
 		wordfreq.delete_if {|line| not line.include? "\t"}
@@ -135,7 +132,7 @@ class Edict
 	# so it is desirable to only make one of this.
 	def initialize
 		puts 'Parsing edict.txt ...'
-		path = Script_dir + '/edict.txt'
+		path = Script_dir + '/dictionaries/edict.txt'
 		edict = IO.readlines path
 		@lookup_table = {}
 		
@@ -266,7 +263,7 @@ end
 class Kanjidic
 	def initialize
 		puts 'Parsing kanjidic2.xml ...'
-		path = Script_dir + '/kanjidic2.xml'
+		path = Script_dir + '/dictionaries/kanjidic2.xml'
 		doc = Nokogiri::XML(open(path), nil, 'UTF-8')
 		@characters = {}
 		doc.xpath('kanjidic2/character').each do |node|
