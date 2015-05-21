@@ -17,15 +17,7 @@ Using this script, or rather, by modifying this script, you can customize flash 
 Getting Dependencies
 ====================
 
-This code is under the MIT License.  However, to make the script work, some more restrictive dependencies are needed.  Download the following files and put them in the same directory as this script.
-
-The kanji dictionary and Japanese word dictionary are Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
-
-* <http://www.edrdg.org/kanjidic/kanjidic2.xml.gz>
-* <http://ftp.monash.edu.au/pub/nihongo/edict.zip>
-* <ftp://ftp.edrdg.org/pub/Nihongo/edict_dupefree_freq_distribution.gz>
-
-More simply, run `dictionaries/update_dictionaries.sh`.
+This code is under the MIT License.  However, to make the script work, some more restrictive dependencies are needed.  Run `dictionaries/update_dictionaries.sh` to get the necessary files.
 
 
 Running the Script
