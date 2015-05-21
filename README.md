@@ -108,70 +108,76 @@ To make the deck visually appealing, we need to modify the styling of it.
 * By default, only two of the eight information fields are displayed.  We need to enable the other six....
 * In `Front Template`, enter the following.
 
-    <span class="literal">{{Literal}}</span>
-    <span class="strokes">{{Strokes}}</span>
-    <span class="grade">{{Grade}}</span>
+```
+<span class="literal">{{Literal}}</span>
+<span class="strokes">{{Strokes}}</span>
+<span class="grade">{{Grade}}</span>
+```
 
 * In `Styling`, enter the following.
 
-    .card {
-    font-family: arial;
-    font-size: 30px;
-    text-align: center;
-    color: black;
-    background-color: white;
-    }
-    
-    .literal {
-    color: blue;
-    font-size: 200%;
-    }
-    
-    .strokes {
-    float: left;
-    font-size: 75%;
-    color: #ff66ff;
-    }
-    
-    .grade {
-    float: right;
-    font-size: 75%;
-    color: gray;
-    }
-    
-    .meaning {
-    color: green;
-    }
-    
-    .meanings {
-    color: #6699cc;
-    }
-    
-    .onyomis {
-    color: orange;
-    font-size: 75%;
-    }
-    
-    .kunyomis {
-    color: red;
-    font-size: 75%;
-    }
-    
-    .examples {
-    font-size: 75%;
-    }
+```
+.card {
+font-family: arial;
+font-size: 30px;
+text-align: center;
+color: black;
+background-color: white;
+}
+
+.literal {
+color: blue;
+font-size: 200%;
+}
+
+.strokes {
+float: left;
+font-size: 75%;
+color: #ff66ff;
+}
+
+.grade {
+float: right;
+font-size: 75%;
+color: gray;
+}
+
+.meaning {
+color: green;
+}
+
+.meanings {
+color: #6699cc;
+}
+
+.onyomis {
+color: orange;
+font-size: 75%;
+}
+
+.kunyomis {
+color: red;
+font-size: 75%;
+}
+
+.examples {
+font-size: 75%;
+}
+```
 
 * In `Back Template`, enter the following.
 
-    {{FrontSide}}
-    
-    <hr id=answer>
-    
-    <div class="meaning">{{Meaning}}</div>
-    <div class="meanings">{{Meanings}}</div>
-    <div class="onyomis">{{Onyomis}}</div>
-    <div class="kunyomis">{{Kunyomis}}</div>
-    <div class="examples">{{Examples}}</div>
+```
+{{FrontSide}}
+
+<hr id=answer>
+
+<div class="meaning">{{Meaning}}</div>
+<div class="meanings">{{Meanings}}</div>
+<div class="onyomis">{{Onyomis}}</div>
+<div class="kunyomis">{{Kunyomis}}</div>
+<div class="examples">{{Examples}}</div>
+```
 
 You are ready to go.  Have fun studying!
 
