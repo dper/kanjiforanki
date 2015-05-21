@@ -11,9 +11,6 @@
 # Takes a list of kanji as input and outputs a file that can be imported into
 # Anki and used to study the given kanji.
 # 
-# This script depends on several files having proper formatting located
-# in the dictionaries subdirectory.
-#
 # == AUTHOR
 #   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
 

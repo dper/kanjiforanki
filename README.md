@@ -21,15 +21,11 @@ This code is under the MIT License.  However, to make the script work, some more
 
 The kanji dictionary and Japanese word dictionary are Creative Commons Attribution-Share Alike 3.0 licensed and can be downloaded here.
 
-* <https://dperkins.org/2014/2014-01-24.kanjidic2.zip>
-* <https://dperkins.org/2014/2014-01-24.edict.zip>
+* <http://www.edrdg.org/kanjidic/kanjidic2.xml.gz>
+* <http://ftp.monash.edu.au/pub/nihongo/edict.zip>
+* <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq_ck.gz>
 
-Or do this from the command line.
-
-    wget https://dperkins.org/2014/2014-01-24.kanjidic2.zip
-    unzip 2014-01-24.kanjidic2.zip
-    wget https://dperkins.org/2014/2014-01-24.edict.zip
-    unzip 2014-01-24.edict.zip
+More simply, run `dictionaries/update_dictionaries.sh`.
 
 
 Running the Script
