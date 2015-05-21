@@ -12,7 +12,7 @@
 # A properly formatted distribution.txt file nust be in place.
 # 
 # == AUTHOR
-#   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
+#   Douglas Perkins - https://dperkins.org - https://microca.st/dper
 
 # Word frequency list.  Words that are too short or too long are excluded.
 class Wordfreq

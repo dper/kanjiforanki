@@ -12,7 +12,7 @@
 # Anki and used to study the given kanji.
 # 
 # == AUTHOR
-#   Douglas P Perkins - https://dperkins.org - https://microca.st/dper
+#   Douglas Perkins - https://dperkins.org - https://microca.st/dper
 
 require 'nokogiri'
 
