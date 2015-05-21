@@ -31,9 +31,9 @@ More simply, run `dictionaries/update_dictionaries.sh`.
 Running the Script
 ==================
 
-Modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file should consist of entirely kanji with no other characters whatsoever.  If you're looking for kanji lists, see `Joyo Kanji.txt`, which contains lists for all the elementary and junior high school kanji.
+Modify the file `targetkanji.txt` so that it contains all of the kanji you want to appear in your Anki deck.  The file should consist of entirely kanji with no other characters whatsoever.  If you're looking for kanji lists, see `lists/`.
 
-To run the script, simply call `kanjiforanki.rb`.  Here's an example of generating cards for first grade elementary school level kanji.
+To run the script, call `kanjiforanki.rb`.  Here's an example of generating cards for first grade elementary school level kanji.
 
     $ ./kanjiforanki.rb 
     Parsing edict.txt ...
@@ -80,20 +80,19 @@ Once you have a deck you need to import it.
 * Make sure `Allow HTML in fields` is checked.
 * Make sure `Fields separated by: Tab` is displayed.
 * There should be eight fields, and each should be mapped to one of the fields created above.  You should see the following.
-````
-Field 1 of file is: mapped to Literal
-Field 2 of file is: mapped to Strokes
-Field 3 of file is: mapped to Grade
-Field 4 of file is: mapped to Meaning 
-Field 5 of file is: mapped to Meanings
-Field 6 of file is: mapped to Onyomis
-Field 7 of file is: mapped to Kunyomis
-Field 8 of file is: mapped to Examples
-````
+
+    Field 1 of file is: mapped to Literal
+    Field 2 of file is: mapped to Strokes
+    Field 3 of file is: mapped to Grade
+    Field 4 of file is: mapped to Meaning 
+    Field 5 of file is: mapped to Meanings
+    Field 6 of file is: mapped to Onyomis
+    Field 7 of file is: mapped to Kunyomis
+    Field 8 of file is: mapped to Examples
+
 * Click `Import`.  A dialog should open telling you everything worked.
 
 That's all it takes to import the cards.
-
 
 
 Styling the Deck
@@ -106,72 +105,72 @@ To make the deck visually appealing, we need to modify the styling of it.
 * We need to enter new styling information in the `Styling` box on the left side.
 * By default, only two of the eight information fields are displayed.  We need to enable the other six....
 * In `Front Template`, enter the following.
-````HTML
-<span class="literal">{{Literal}}</span>
-<span class="strokes">{{Strokes}}</span>
-<span class="grade">{{Grade}}</span>
-````
+
+    <span class="literal">{{Literal}}</span>
+    <span class="strokes">{{Strokes}}</span>
+    <span class="grade">{{Grade}}</span>
+
 * In `Styling`, enter the following.
-````CSS
-.card {
-font-family: arial;
-font-size: 30px;
-text-align: center;
-color: black;
-background-color: white;
-}
 
-.literal {
-color: blue;
-font-size: 200%;
-}
+    .card {
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    }
+    
+    .literal {
+    color: blue;
+    font-size: 200%;
+    }
+    
+    .strokes {
+    float: left;
+    font-size: 75%;
+    color: #ff66ff;
+    }
+    
+    .grade {
+    float: right;
+    font-size: 75%;
+    color: gray;
+    }
+    
+    .meaning {
+    color: green;
+    }
+    
+    .meanings {
+    color: #6699cc;
+    }
+    
+    .onyomis {
+    color: orange;
+    font-size: 75%;
+    }
+    
+    .kunyomis {
+    color: red;
+    font-size: 75%;
+    }
+    
+    .examples {
+    font-size: 75%;
+    }
 
-.strokes {
-float: left;
-font-size: 75%;
-color: #ff66ff;
-}
-
-.grade {
-float: right;
-font-size: 75%;
-color: gray;
-}
-
-.meaning {
-color: green;
-}
-
-.meanings {
-color: #6699cc;
-}
-
-.onyomis {
-color: orange;
-font-size: 75%;
-}
-
-.kunyomis {
-color: red;
-font-size: 75%;
-}
-
-.examples {
-font-size: 75%;
-}
-````
 * In `Back Template`, enter the following.
-````HTML
-{{FrontSide}}
 
-<hr id=answer>
+    {{FrontSide}}
+    
+    <hr id=answer>
+    
+    <div class="meaning">{{Meaning}}</div>
+    <div class="meanings">{{Meanings}}</div>
+    <div class="onyomis">{{Onyomis}}</div>
+    <div class="kunyomis">{{Kunyomis}}</div>
+    <div class="examples">{{Examples}}</div>
 
-<div class="meaning">{{Meaning}}</div>
-<div class="meanings">{{Meanings}}</div>
-<div class="onyomis">{{Onyomis}}</div>
-<div class="kunyomis">{{Kunyomis}}</div>
-<div class="examples">{{Examples}}</div>
-````
 You are ready to go.  Have fun studying!
 
 
@@ -201,13 +200,13 @@ The kanji lists themselves are published by the Ministry of Education (MEXT) in 
 * <http://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm>.  Elementary school kanji.
 * <http://www.imabi.net/joyokanjilist.htm>.  Elementary and junior high school kanji.
 
-The word frequency list is public domain and is included with the source.
+The word frequency list is public domain.
 
 * <ftp://ftp.edrdg.org/pub/Nihongo/00INDEX.html>.
 * <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq.README>.
-* <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq_ck.gz>.  Retrieved 2014-01-24.
+* <ftp://ftp.edrdg.org/pub/Nihongo/wordfreq_ck.gz>.
 
-The kanji dictionary and Japanese word dictionary are available from their original sources.  The original sources aren't in Unicode, but you can and should check there for updates and make the conversions yourself using a web browser and some copy and pasting.
+The kanji dictionary and Japanese word dictionary are available from their original sources.
 
 * <ftp://ftp.edrdg.org/pub/Nihongo/kanjidic2_ov.html>.
 * <ftp://ftp.edrdg.org/pub/Nihongo/kanjidic2.xml.gz>.
